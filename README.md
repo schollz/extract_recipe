@@ -1,3 +1,7 @@
+You can grab the html of a website, but what if you only want the recipe?
+
+![Website example](https://i.imgur.com/fjr0M6H.jpg?1)
+
 Based off [html2text](https://github.com/aaronsw/html2text). Code essentially looks for high densities of cooking related words and grabs that section of text.
 
 ## Example
