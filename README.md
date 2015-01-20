@@ -9,7 +9,7 @@ Based off [html2text](https://github.com/aaronsw/html2text). Code essentially lo
 ## Example
 
 ```bash
-python html2text.py http://tastykitchen.com/recipes/sidedishes/roasted-sweet-potatoes-with-toasted-walnuts-honey-and-goat-cheese/
+python extract_recipe.py http://tastykitchen.com/recipes/sidedishes/roasted-sweet-potatoes-with-toasted-walnuts-honey-and-goat-cheese/
 ```
 
 Output:
