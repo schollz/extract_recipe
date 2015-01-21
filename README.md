@@ -8,9 +8,11 @@ Uses the [openrecipe](https://github.com/fictivekin/openrecipes) JSON dump, whic
 
 First it grabs the Markdown-formatted text of the html page using [html2text](https://github.com/aaronsw/html2text). 
 
-Then it evalutes the number of 'cooking' related words in each line and pulls out the peak.
+It evalutes the number of 'cooking' related words in each line and pulls out the peak.
 
 ![Website example](https://i.imgur.com/enu0SNA.jpg?1)
+
+It uses the directions and the ingredient list to determine what the *actual* baking time would be and gives that estimate.
 
 ## Example
 
@@ -39,4 +41,9 @@ until slightly browned. Remove pan from heat and set aside.
 
 When the potatoes are are cooked, serve with a drizzle of honey and a sprinkle
 of walnuts and goat cheese.
+
+
++ 1 minute for choping.
++ 1 minute for cuting.
+Calculated time:  32 minute
 ```
