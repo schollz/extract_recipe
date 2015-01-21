@@ -4,7 +4,11 @@ You can grab the html of a website, but what if you only want the recipe?
 
 ## How it works
 
-Based off [html2text](https://github.com/aaronsw/html2text). Code essentially looks for high densities of cooking related words and grabs that section of text.
+First it grabs the Markdown-formatted text of the html page using [html2text](https://github.com/aaronsw/html2text). 
+
+Then it evalutes the number of 'cooking' related words in each line and pulls out the peak.
+
+![Website example](https://i.imgur.com/enu0SNA.jpg?1)
 
 ## Example
 
