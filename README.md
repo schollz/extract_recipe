@@ -14,42 +14,29 @@ Then it evalutes the number of 'cooking' related words in each line and pulls ou
 
 ## Example
 
-Grab the 1st recipe from the JSON database.
+Grab the recipe shown above from the JSON database (recipe #144,253).
 
 ```bash
-python extract_recipe.py 1
+python extract_recipe.py 144253
 ```
 
 Output:
 
 ```bash
-Preheat oven to 400 degrees.
+### Preparation
 
-Add flour, baking powder, and salt to the bowl of a food processor (or a large
-bowl.) Add butter pieces and pulse until butter is completely cut into the
-flour mixture (or use a pastry cutter if using a bowl.) While pulsing (or
-stirring) drizzle in the buttermilk until dough just comes together and is no
-longer crumbly.
+Preheat oven to 425 F.
 
-Drop in clumps on two baking sheets, then bake for 15-17 minutes, or until
-golden brown. (Optional: Brush with melted butter when biscuits first come out
-of the oven.)
+Scrub the potatoes, and cut into chunks. Toss them in a large bowl with the
+olive oil and a sprinkle of salt and pepper.
 
-SAUSAGE GRAVY
+Spread them onto a rimmed baking sheet. Roast for 30 minutes at 425 F.
 
-With your finger, tear small pieces of sausage and add them in a single layer
-to a large heavy skillet. Brown the sausage over medium-high heat until no
-longer pink. Reduce the heat to medium-low. Sprinkle on half the flour and
-stir so that the sausage soaks it all up, then add a little more until just
-before the sausage looks too dry. Stir it around and cook it for another
-minute or so, then pour in the milk, stirring constantly.
+While the potatoes are roasting, chop up the walnuts, and heat the butter over
+medium-high heat in a skillet. Add the walnuts to the pan, stirring well to
+coat them completely in the melted butter. Toast for a couple of minutes,
+until slightly browned. Remove pan from heat and set aside.
 
-Cook the gravy, stirring frequently, until it thickens. (This may take a good
-10-12 minutes.) Sprinkle in the seasoned salt and pepper and continue cooking
-until very thick and luscious. If it gets too thick too soon, just splash in
-1/2 cup of milk or more if needed. Taste and adjust seasonings.
-
-Spoon sausage gravy over warm biscuits and serve immediately!
-
-Posted by Ree | The Pioneer Woman on March 11 2013
+When the potatoes are are cooked, serve with a drizzle of honey and a sprinkle
+of walnuts and goat cheese.
 ```
