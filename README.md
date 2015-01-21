@@ -25,6 +25,18 @@ python extract_recipe.py 144253
 Output:
 
 ```bash
+# Roasted Sweet Potatoes with Toasted Walnuts, Honey and Goat Cheese
+
+## Ingredients
+
+ - 4 whole Sweet Potatoes
+ - 3 Tablespoons Olive Oil
+ - ? cups Salt And Pepper, to taste
+ - 1 Tablespoon Walnuts, Shelled
+ - 2 Tablespoons Butter
+ - 2 ounces, weight Honey
+
+
 ### Preparation
 
 Preheat oven to 425 F.
@@ -45,5 +57,5 @@ of walnuts and goat cheese.
 
 + 1 minute for choping.
 + 1 minute for cuting.
-Calculated time:  32 minute
+# Calculated time:  32 minute
 ```
