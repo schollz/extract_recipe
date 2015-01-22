@@ -59,3 +59,15 @@ of walnuts and goat cheese.
 + 1 minute for cuting.
 # Calculated time:  32 minute
 ```
+
+## Requirements
+
+```
+sudo apt-get install python-nltk
+```
+Then goto python console
+```python
+>>> import nltk
+>>> nltk.download('brown')
+>>> nltk.download('maxent_treebank_pos_tagger')
+```
