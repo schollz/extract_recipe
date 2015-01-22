@@ -70,4 +70,5 @@ Then goto python console
 >>> import nltk
 >>> nltk.download('brown')
 >>> nltk.download('maxent_treebank_pos_tagger')
+>>> nltk.download('wordnet')
 ```
