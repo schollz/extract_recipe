@@ -37,8 +37,6 @@ Output:
   - 2 Tablespoons Honey
   - 2 ounces, weight Goat Cheese
 
-
-
 ## Directions
 
 Preheat oven to 425 F.
