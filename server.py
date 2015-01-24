@@ -4,7 +4,7 @@ import BaseHTTPServer
 import SimpleHTTPServer
 from extract_recipe import * 
 
-FILE = 'frontend.html'
+FILE = 'extractor.html'
 PORT = 8081
 
 
