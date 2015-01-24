@@ -69,3 +69,10 @@ Then goto python console
 >>> nltk.download('maxent_treebank_pos_tagger')
 >>> nltk.download('wordnet')
 ```
+
+
+Making sqlite3 fts4 virtual table
+```sql
+create virtual table data using fts4(ndb_no,shrt_desc);
+insert into data(ndb_no,shrt_desc) select ndb_no,shrt_desc from food_des;
+```
