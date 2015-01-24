@@ -2,11 +2,11 @@ import threading
 import webbrowser
 import BaseHTTPServer
 import SimpleHTTPServer
+import markdown2
 from extract_recipe import * 
 
 FILE = 'extractor.html'
 PORT = 8081
-
 
 class TestHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
     """The test example handler."""
