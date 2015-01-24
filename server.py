@@ -15,7 +15,10 @@ class TestHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
         """Handle a post request by returning the square of the number."""
         length = int(self.headers.getheader('content-length'))        
         data_string = self.rfile.read(length)
-        result = extract_recipe_main(data_string).replace('\n','<br>')
+        try:
+          result = extract_recipe_main(data_string).replace('\n','<br>')
+        except:
+          result = '<br><br>Something weird happened. sorry.<br>'
         self.wfile.write(result)
 
 
