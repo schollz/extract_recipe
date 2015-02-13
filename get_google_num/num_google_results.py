@@ -5,6 +5,13 @@ from bs4 import BeautifulSoup
 import progressbar
 import os.path
 
+import socks
+import socket
+socks.set_default_proxy(socks.SOCKS5, "127.0.0.1", 9150)
+socket.socket = socks.socksocket
+import urllib2
+print(urllib2.urlopen('http://icanhazip.com').read())
+
 REGEX = r'About (.*) results'
 
 '''
