@@ -6,11 +6,9 @@ import progressbar
 import os.path
 
 REGEX = r'About (.*) results'
+
+'''
 proxy  = "152.3.148.145"
-proxy  = ["207.5.112.114:8080","207.5.112.114:8080","75.148.236.49:3128","166.70.51.198:8080"]
-
-proxyNum = 0
-
 import socket
 
 real_create_conn = socket.create_connection
@@ -22,7 +20,7 @@ def set_src_addr(*args):
     return real_create_conn(address, timeout, source_address)
 
 socket.create_connection = set_src_addr
-
+'''
             
 def number_of_search_results(key):
     def extract_results_stat(url):
@@ -73,8 +71,7 @@ with open('food_des.txt') as f:
             myfile.write(str(i) + "\n")
         except:
           print "Google is blocking now"
-          print "Changing to proxy " + proxy[proxyNum]
-          socket.create_connection = set_src_addr    
+          break
     
 '''
 d_view = [ (v,k) for k,v in foods.iteritems() ]
