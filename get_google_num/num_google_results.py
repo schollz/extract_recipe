@@ -4,13 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 import progressbar
 
-
-'''
-' Dumped the long_desc from food_des to food_des.txt
-' This program takes Googles each food, and collects the number of results
-' and saves it in a file, ndb_no-long_des-num.txt
-'''
-
 REGEX = r'About (.*) results'
 
 def number_of_search_results(key):
