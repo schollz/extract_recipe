@@ -3,6 +3,7 @@ import datetime
 import requests
 from bs4 import BeautifulSoup
 import progressbar
+import os.path
 
 REGEX = r'About (.*) results'
 
@@ -30,25 +31,33 @@ with open('food_des.txt') as f:
 
 print "There are " + str(numLines) + " foods"
 bar = progressbar.ProgressBar(maxval=numLines,widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
-    
-foods = {}
+
+startLine = 0
+if os.path.isfile('finished.txt'):
+  with open('finished.txt') as f:
+    for line in f:
+      if len(line)>0:
+        startLine = int(line.strip())
+print startLine
+
 i = 0
 with open('food_des.txt') as f:
   for line in f:
     if len(line)>3:
       i = i+1
       bar.update(i)
-      (ndb_no,long_des) = line.split('|')
-      try:
-        num=number_of_search_results(long_des)
-        with open("ndb_no-long_des-num.txt", "a") as myfile:
-          myfile.write(ndb_no + "|" + long_des.strip() + "|" + str(num) + "\n")
-        with open("finished.txt","a") as myfile:
-          myfile.write(str(i) + "\n")
-      except:
-        with open("error.txt","a") as myfile:
-          myfile.write(str(i) + "\n")        
-      
+      if i>startLine:
+        (ndb_no,long_des) = line.split('|')
+        try:
+          num=number_of_search_results(long_des)
+          with open("ndb_no-long_des-num.txt", "a") as myfile:
+            myfile.write(ndb_no + "|" + long_des.strip() + "|" + str(num) + "\n")
+          with open("finished.txt","a") as myfile:
+            myfile.write(str(i) + "\n")
+        except:
+          with open("error.txt","a") as myfile:
+            myfile.write(str(i) + "\n")        
+    
 '''
 d_view = [ (v,k) for k,v in foods.iteritems() ]
 d_view.sort(reverse=True) # natively sort tuples by first element
