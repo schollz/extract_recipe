@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import progressbar
 import os.path
-'''
+
 import os
 import socks
 import socket
@@ -12,7 +12,7 @@ socks.set_default_proxy(socks.SOCKS5, "127.0.0.1", 9050)
 socket.socket = socks.socksocket
 import urllib2
 print(urllib2.urlopen('http://icanhazip.com').read())
-'''
+
 REGEX = r'About (.*) results'
 
 '''
@@ -71,7 +71,7 @@ with open('food_des.txt') as f:
       bar.update(i)
       if i>startLine:
         (ndb_no,long_des) = line.split('|')
-        successful = false
+        successful = False
         while not successful:
           try:
             num=number_of_search_results(long_des)
@@ -79,6 +79,7 @@ with open('food_des.txt') as f:
               myfile.write(ndb_no + "|" + long_des.strip() + "|" + str(num) + "\n")
             with open("finished.txt","a") as myfile:
               myfile.write(str(i) + "\n")
+            successful = True
           except:
             print "Google is blocking now"
             os.system('/etc/init.d/tor restart')
