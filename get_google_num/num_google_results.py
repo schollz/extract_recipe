@@ -55,8 +55,8 @@ with open('food_des.txt') as f:
           with open("finished.txt","a") as myfile:
             myfile.write(str(i) + "\n")
         except:
-          with open("error.txt","a") as myfile:
-            myfile.write(str(i) + "\n")        
+          print "Google is blocking now"
+          break      
     
 '''
 d_view = [ (v,k) for k,v in foods.iteritems() ]
