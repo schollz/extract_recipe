@@ -4,6 +4,13 @@ import requests
 from bs4 import BeautifulSoup
 import progressbar
 
+
+'''
+' Dumped the long_desc from food_des to food_des.txt
+' This program takes Googles each food, and collects the number of results
+' and saves it in a file, ndb_no-long_des-num.txt
+'''
+
 REGEX = r'About (.*) results'
 
 def number_of_search_results(key):
@@ -23,23 +30,35 @@ def number_of_search_results(key):
     return extract_results_stat(google_main_url)
     
 numLines = 0
-with open('foods.txt') as f:
+with open('food_des.txt') as f:
   for line in f:
     if len(line)>3:
       numLines = numLines + 1
 
+print "There are " + str(numLines) + " foods"
 bar = progressbar.ProgressBar(maxval=numLines,widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
     
 foods = {}
 i = 0
-with open('foods.txt') as f:
+with open('food_des.txt') as f:
   for line in f:
     if len(line)>3:
       i = i+1
       bar.update(i)
-      foods[line.strip()]=number_of_search_results(line.strip())
-
+      (ndb_no,long_des) = line.split('|')
+      try:
+        num=number_of_search_results(long_des)
+        with open("ndb_no-long_des-num.txt", "a") as myfile:
+          myfile.write(ndb_no + "|" + long_des.strip() + "|" + str(num) + "\n")
+        with open("finished.txt","a") as myfile:
+          myfile.write(str(i) + "\n")
+      except:
+        with open("error.txt","a") as myfile:
+          myfile.write(str(i) + "\n")        
+      
+'''
 d_view = [ (v,k) for k,v in foods.iteritems() ]
 d_view.sort(reverse=True) # natively sort tuples by first element
 for v,k in d_view:
     print "%s: %d" % (k,v)
+    '''
