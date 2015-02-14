@@ -5,14 +5,15 @@ from bs4 import BeautifulSoup
 import progressbar
 import os.path
 
+'''
 import os
 import socks
 import socket
 socks.set_default_proxy(socks.SOCKS5, "127.0.0.1", 9050)
 socket.socket = socks.socksocket
 import urllib2
-print(urllib2.urlopen('http://icanhazip.com').read())
-
+#print(urllib2.urlopen('http://icanhazip.com').read())
+'''
 REGEX = r'About (.*) results'
 
 '''
@@ -47,7 +48,7 @@ def number_of_search_results(key):
     return extract_results_stat(google_main_url)
     
 numLines = 0
-with open('food_des.txt') as f:
+with open('results_shrt_desc.txt') as f:
   for line in f:
     if len(line)>3:
       numLines = numLines + 1
@@ -64,7 +65,7 @@ if os.path.isfile('finished.txt'):
 print startLine
 
 i = 0
-with open('food_des.txt') as f:
+with open('results_shrt_desc.txt') as f:
   for line in f:
     if len(line)>3:
       i = i+1
@@ -75,15 +76,15 @@ with open('food_des.txt') as f:
         while not successful:
           try:
             num=number_of_search_results(long_des)
-            with open("ndb_no-long_des-num.txt", "a") as myfile:
+            with open("ndb_no-shrt_des-num.txt", "a") as myfile:
               myfile.write(ndb_no + "|" + long_des.strip() + "|" + str(num) + "\n")
             with open("finished.txt","a") as myfile:
               myfile.write(str(i) + "\n")
             successful = True
           except:
             print "Google is blocking now"
-            os.system('/etc/init.d/tor restart')
-            print(urllib2.urlopen('http://icanhazip.com').read())
+            #os.system('/etc/init.d/tor restart')
+#            print(urllib2.urlopen('http://icanhazip.com').read())
             #break
     
 '''
