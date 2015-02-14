@@ -5,17 +5,17 @@ from bs4 import BeautifulSoup
 import progressbar
 import os.path
 
-'''
 import os
 import socks
 import socket
 socks.set_default_proxy(socks.SOCKS5, "127.0.0.1", 9050)
 socket.socket = socks.socksocket
 import urllib2
-#print(urllib2.urlopen('http://icanhazip.com').read())
-'''
-REGEX = r'About (.*) results'
+print(urllib2.urlopen('http://icanhazip.com').read())
 
+
+REGEX = r'About (.*) results'
+REGEX2 = r'(.*) results<nobr>'
 '''
 proxy  = "152.3.148.145"
 import socket
@@ -37,11 +37,16 @@ def number_of_search_results(key):
             'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:12.0) Gecko/20100101 Firefox/21.0'
         }
         search_results = requests.get(url, headers=headers, allow_redirects=True)
+        print search_results
         soup = BeautifulSoup(search_results.text)
         result_stats = soup.find(id='resultStats')
         m = re.match(REGEX, result_stats.text)
-        # print m.group(1)
-        return int(m.group(1).replace(',',''))
+        numResults = 0
+        try:
+            numResults = int(m.group(1).replace(',',''))
+        except:
+            pass    
+        return numResults
 
     google_main_url = 'https://www.google.co.in/search?q=' + key
     google_news_url = 'https://www.google.co.in/search?hl=en&gl=in&tbm=nws&authuser=0&q=' + key
@@ -83,7 +88,7 @@ with open('results_shrt_desc.txt') as f:
             successful = True
           except:
             print "Google is blocking now"
-            #os.system('/etc/init.d/tor restart')
+            os.system('/etc/init.d/tor restart')
 #            print(urllib2.urlopen('http://icanhazip.com').read())
             #break
     
