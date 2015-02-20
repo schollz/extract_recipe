@@ -1,0 +1,85 @@
+01001|Butter
+01004|Blue cheese
+01009|Cheese
+01012|Curd
+01017|Cream cheese
+01026|Mozzarella
+01033|Parmigiano-Reggiano
+01049|Cream
+01054|Whipped cream
+01057|Eggnog
+01077|Milk
+01088|Buttermilk
+01095|Condensed milk
+01116|Yogurt
+01123|Egg
+01124|Egg white
+01125|Yolk
+01129|Boiled egg
+01166|Oaxaca cheese
+02001|Allspice
+02002|Star Anise
+02004|Bay leaf
+02005|Caraway
+02006|Cardamom
+02008|Chervil
+02009|Chili powder
+02010|Cinnamon
+02011|Clove
+02014|Cumin
+02015|Curry powder
+02019|Fenugreek
+02023|Marjoram
+02024|Mustard seed
+02025|Nutmeg
+02027|Oregano
+02028|Paprika
+02030|Black pepper
+02031|Cayenne pepper
+02033|Poppy seed
+02035|Pumpkin pie spice
+02037|Saffron
+02038|Salvia officinalis
+02039|Savory
+02041|Tarragon
+02043|Turmeric
+02044|Basil
+02045|Dill
+02046|Mustard
+02047|Table salt
+02049|Thyme
+02050|Vanilla extract
+02053|Vinegar
+02054|Caper
+02055|Horseradish
+02063|Rosemary
+02064|Peppermint
+02065|Spearmint
+02069|Balsamic vinegar
+04002|Lard
+04017|Thousand Island dressing
+04042|Peanut oil
+04053|Olive oil
+04058|Sesame oil
+04510|safflower oil
+04518|Oil
+04544|Shortening
+04582|Canola Oil
+04617|Margarine
+04642|Sunflower oil
+05006|Chicken meat
+05157|Quail
+05165|Turkey
+05282|Foie gras
+05654|Ostrich
+06013|Broth
+06043|Cream of mushroom soup
+06075|Beef bouillon
+06164|Salsa
+06169|Tabasco pepper
+06179|Fish sauce
+06583|Ramen
+06961|Hot sauce
+06971|Worcestershire sauce
+07005|Blood sausage
+07019|Chorizo
