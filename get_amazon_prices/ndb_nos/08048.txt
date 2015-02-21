@@ -1,0 +1,32 @@
+0	5.96	Kix Honey Cereal, 12-Ounce Boxes (Pack of 2)
+1	30.25	General Mills, Kix Cereal, Honey, 12-Ounce Box (Pack of 4)
+2	36.3	General Mills, Kix Cereal, Berry Berry, 12-Ounce Box (Pack of 4)
+3	16.4	Kix, 18 Ounce (Pack of 5)
+4	25.0	General Mills Kix Cereal, 12 oz (Pack of 4)
+5	49.95	General Mills Kix Cereal Crispy Corn Puffs, Bowl Pak, 0.63 Ounce -- 96 per case.
+6	7.99	Kix Cereal, 12 oz
+7	18.0	Kix Berry Berry Cereal 12 Ounce (Pack of 2)
+8	53.0	General Mills(r) Berry Berry Kix Cereal (Bowl) (Case of 96)
+9	24.95	General Mills Kix Cereal, Honey, 12 oz (Pack of 4)
+10	29.58	Kix Cereal, 8.7-Ounce Boxes (Pack of 6)
+11	89.95	General Mills Berry Berry Kix Cereal Bowl (96 Pieces)
+12	4.47	Honey Kix Crispy Corn Puffs Cereal 12 oz
+13	46.3	Berry Berry Kix, 12 Ounce (Pack of 14)
+14	50.05	General Mills Kix Berry Berry Cereal, 0.68 Ounce -- 96 per case.
+15	144.44	General Mills Berry Berry Kix Cereal Bowl Case Pack 96
+16	165.3	General Mills Berry Berry Kix Cereal Bowl [96 Pieces] *** Product Description: General Mills Berry Berry Kix Cereal Bowl. 7/8 Oz Bowl. ***
+17	123.38	General Mills Berry Berry Kix Cereal Bowl (Pack Of 96)
+18	42.95	Kix Cereal, 18-Ounce Box (Pack of 5)
+19	44.16	Kix Cereal, 12-Ounce Boxes (Pack of 7)
+20	129.52	General Mills Kix Cereal 18OZ (Pack of 20)
+21	173.03	General Mills Kix Cereal Bowl Case Pack 96
+22	123.96	General Mills Kix Cereal 8.7 OZ (Pack of 24)
+23	203.7	General Mills Kix Cereal Bowl [96 Pieces] *** Product Description: General Mills Kix Cereal Bowl. 5/8 Oz Bowl. ***
+24	51.0	General Mills Kix Cereal, 12 oz (Pack of 6)
+25	89.77	General Mills Kix Cereal - 14 Pack
+26	6.99	Post Honey Bunches Of Oats with Vanilla Bunches & Multigrain Flakes Cereal 18 oz
+27	60.17	Honey Kix Crispy Corn Puffs Cereal 12 oz (Pack of 14)
+28	49.5	Bulk Pak Kix Cereal 4 Case 25 Ounce
+29	65.45	Kix Cereal, 12 Ounce -- 14 per case.
+30	56.25	Kix Crispy Corn Puffs Cereal 8.7 oz (Pack of 12)
+31	50.05	Kix Honey Cereal, 0.68 Ounce -- 96 per case.

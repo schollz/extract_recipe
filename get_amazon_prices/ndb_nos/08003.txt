@@ -1,0 +1,4 @@
+0	14.33	Kellogg's Cereal, Apple Jacks, 9 ounce
+1	44.93	Kellogg's Cereal Favorites Variety Pack, Single Serve Bowls (Pack of 96)
+2	57.12	Kellogg's Cereal Favorites Variety Pack, 1.5 to 2.8-Ounce Single Serve Cups (Pack of 60)
+3	19.99	Kellogg's Cereal 30 Individual Box Variety Pack 32.73 Total Ounces - Value Box

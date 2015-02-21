@@ -1,0 +1,15 @@
+0	41.72	Crispix Corn & Rice Cereal, 12-Ounce Boxes (Pack of 14)
+1	53.64	Kellogg's Crispix Cereal, 18 Ounce (Pack of 12)
+2	25.23	Kellogg's, Crispix Corn & Rice Cereal, 12oz Box (Pack of 4)
+3	9.99	Kellogg's Crispix Cereal-12 oz
+4	29.95	Kellogg's Crispix Corn & Rice Cereal, 17.9-Ounce Boxes (Pack of 3)
+5	29.95	Crispix Corn & Rice Cereal, 12-ounce Boxes (Pack of 3)
+6	11.92	Rice Krispies Toasted Rice Cereal, 18-Ounce Boxes (Pack of 4)
+7	51.35	Crispix 4 Case 30 Ounce
+8	52.95	Crispix Cereal, 0.75-Ounce Single Serve Packs (Pack of 96)
+9	49.92	Kellogg's Crispix Cereal, 12 oz (Pack of 6)
+10	36.99	Kellogg's Crispix Cereal, 12 oz (Pack of 4)
+12	49.92	Kellogg's Crispix Cereal, 12 oz (Pack of 6)
+13	60.69	Kellogg's Crispix, 17.9-Ounce Boxes (Pack of 6)
+14	12.99	Kelloggs Crispix Cereal - 2 Boxes (12 oz ea)
+15	24.4	Crispix Cereal12oz (packet of2)

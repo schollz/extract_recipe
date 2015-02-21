@@ -1,0 +1,14 @@
+0	11.95	Banana Flour
+1	29.99	Plantain Seed Powder 1.1 lb (500 g)
+2	2.89	Samai Garlic Plantain Chips (75g)
+3	2.89	Samai Salted Plantain Chips (75g)
+4	29.99	Plantain Leaf Powder 1.1 lb (500 g)
+6	39.49	Plantain 4:1 Powdered Extract 1.1 lb (500 g)
+7	12.82	Jansal Valley Whole Annatto Seed, 24 Ounce
+8	48.99	Plantain Wild Harvested Powder 1.1 lb (500 g)
+9	8.36	Samai Plantain Chips, Pacific Sea Salt, 5 Ounce (Pack of 8)
+10	6.98	Samai Plantain Chips Pacific Sea Salt, 2.65-ounce Pack of 2
+11	42.0	Dragonfly Tea Leaf Tea Assam 50g (pack of 3)
+12	16.99	Mama Joe's "Treasure Africa" Delicious Gourmet Stew with Vegetable Chunks Spicy Pepper HOT!!!. Delicious Spaghetti Sauce. Marinara. Pasta Sauce. Dinner Sauce for Rice, Potatoes, Meatballs etc. ALL NATURAL. GLUTEN FREE !!! -2 Pack. 24oz Big Jars
+13	16.99	Mama Joe's "Treasure Africa" Delicious Gourmet Stew with Vegetable Chunks. Original MILD. Not Spicy!!!. Delicious Spaghetti Sauce. Marinara. Pasta Sauce. Dinner Sauce for Rice, Potatoes, Meatballs etc. ALL NATURAL. GLUTEN FREE !!! -2 Pack. 24oz Big Jars
+14	139.49	Dragonfly Tea Leaf Tea Assam 50g (Pack of 6)

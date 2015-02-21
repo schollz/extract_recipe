@@ -1,0 +1,19 @@
+0	40.32	Kellogg's Granola with Raisins, Low Fat, 2.22-Ounce Single Serve Boxes (Pack of 70)
+1	32.55	Kellogg's Low Fat Granola without Raisins, 10.6 Ounce (Pack of 6)
+2	4.69	Kellogg's Low Fat Granola with Raisins, 10.6 oz.
+3	49.06	Sweet Home Farm Low Fat Granola with Raisins, 20.5-Ounce Cartons (Pack of 4)
+4	115.25	Kelloggs Low Fat Granola without Raisins Cereal, 37.5 Pound -- 1 each.
+5	14.64	Quaker Oatmeal Raisin Chewy Granola Bars 90 Calories, 8-Count 0.84 Ounce Bars, (Pack of 6)
+6	50.09	Sweet Home Farm Granola, Low Fat Granola with Raisins, 20.5 Ounce (Pack of 8)
+7	28.19	Heartland Granola Cereal, Low Fat Raisin, 14-Ounce Box (Pack of 6)
+8	14.64	Quaker Chocolate Chunk Chewy Granola Bars 90 Calories,  0.84 Ounce 8 Bar Pack (Pack of 6)
+9	17.99	Quaker Chewy 90 Calorie Low Fat Oatmeal Raisin Granola Bars, 12 Count - 2 Pk
+10	58.29	Quaker Chewy Granola Bar Low Fat Oatmeal Raisin, 8-Count Boxes (Pack of 12)
+11	32.59	Heartland Granola Cereal, Low Fat No Raisin, 14-Ounce Box (Pack of 6)
+12	14.64	Quaker Chewy Granola Bar, Variety Pack,0.84 Ounce, 8-Count (Pack of 6)
+13	14.64	Quaker Peanut Butter Chewy Granola Bars 90 Calories, 0.84 Ounce, 8 Bars per Pack (Pack of 6)
+14	22.9	Heartland Brands Granola Cereal Low Fat No Raisin (6x14oz)
+15	27.99	Heartland Granola Cereal, Original, 16-Ounce Box (Pack of 6)
+16	29.89	Heartland Granola Cereal, Raisins, 16-Ounce Box (Pack of 6)
+17	9.95	Simply Nature Organic Apple Walnut Granola Cereal 16 oz
+18	38.84	Heartland, Granola Lf No Raisin, 14-Ounce (6 Pack)

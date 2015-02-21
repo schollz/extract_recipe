@@ -1,0 +1,32 @@
+0	27.88	Chesapeake Bay Maryland Blue Crab Box
+1	5.95	Blue Crab Bay Co. Chesapeake Bay Seasoning in a Jar
+2	33.95	Blue Crab Bay Co. Barnacles Snack Mix, 8-Ounces (Pack of 4)
+3	33.95	Blue Crab Bay Co. Sea Salt Nuts, 12-Ounce Packages (Pack of 4)
+4	29.95	Blue Crab Bay Co. Clam Dip Kit, 6.75-Ounces (Pack of 4)
+5	33.95	Blue Crab Bay Co. Crab House Crunch, 12-Ounce Packages (Pack of 4)
+7	28.95	Blue Crab Bay Co. All Purpose Chesapeake Bay Seasoning, 3.4-Ounce Container (Pack of 6)
+10	33.95	Blue Crab Bay Co. Crab House Nuts, 12-Ounce Packages (Pack of 4)
+11	35.95	Blue Crab Bay Co. She Crab Soup, 15-Ounces (Pack of 6)
+13	23.78	Blue Crab Bay Co. Chesapeake Crab Cake Mix, 2-Ounce Package (Pack of 6)
+15	33.95	Blue Crab Bay Co. Skipjacks, Spicy Honey Roasted Peanuts, 12-Ounce Cans (Pack of 4)
+17	28.95	Blue Crab Bay Co. Sea Salt, Fine, 4.7-Ounce Container (Pack of 6)
+19	32.3	Blue Crab Bay Co. Clam Dip Blend, 0.5-Ounces (Pack of 12)
+20	15.95	Blue Crab Bay Co. Crab Dip Kit, 6.75 Ounce Box
+21	34.45	Blue Crab Bay Co. Shrimp Dip Blend, 0.5-Ounces (Pack of 12)
+22	22.95	Blue Crab Bay Co. Sting Ray, Spicy Bloody Mary Mixers with Ocean Clam Juice, 64-Ounce Container
+23	56.65	Blue Crab Bay She-Crab Soup, 15 Ounce -- 12 per case.
+24	69.99	Chesapeake Bay Crab Cakes (Eight 3 oz.)
+25	24.95	Blue Crab Bay Co. Herbs for Seafood, .95-Ounce Container (Pack of 6)
+26	24.95	Blue Crab Bay Co. Steaming Spices, for Crabs & Shrimp, 1.8-Ounce Container (Pack of 6)
+27	34.45	Blue Crab Bay Co. Crab Dip Blend, 0.5-Ounces (Pack of 12)
+29	9.99	Peppers Zesty Blue Crab Salsa 12 Oz
+30	49.99	Old Bay Classic Crab Cake Mix - 5 lb. container
+31	22.95	Blue Crab Bay Co. Crab Cake Kit - (8.5 oz)
+32	14.95	Mixer Bloody Mary Spicy 25 FO
+33	56.65	Cream of Crab Soup, 15 Ounce -- 12 per case.
+34	82.05	Blue Crab House Crunchy Nut, 12 Ounce -- 12 per case.
+35	59.99	Chesapeake Bay Crab Balls (Sixteen 1 oz.)
+36	47.25	Blue Crab Bay Steaming Spice, 2.7 Ounce -- 12 per case.
+37	64.99	Great Arrivals Birthday Fishing Gift Basket, Gone Fishing
+38	64.99	Great Arrivals Fishing Gift Basket, Gone Fishing
+39	64.99	GreatArrivals Gift Baskets Valentine's Day Fishing Basket, Gone Fishing, 6 Pound

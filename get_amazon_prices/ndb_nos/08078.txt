@@ -1,0 +1,37 @@
+0	24.5	General Mills Trix Cereal, 10.7 oz (Pack of 4)
+1	8.92	Trix Cereal, 10.7 oz
+2	99.0	Trix Cereal, 14.8-Ounce Boxes (Pack of 14)
+3	5.68	Trix Cereal 14.8 oz
+4	15.89	General Mills Lucky Charms, Trix, Cocoa Puffs, 38.5 Ounce
+5	25.48	Trix Cereal New Wildberrry Red Swirls, 10.7-Ounce Box (Pack of 6)
+6	11.75	Trix Wildberrry Red Swirls Cereal, 10.7-ounce Box (Pack of 2)
+7	41.65	Trix Cereal Bar, 1.42 Ounce -- 96 per case.
+8	49.05	Trix 25 Percent Less Sugar Cereal, 1 Ounce -- 96 per case.
+9	45.9	Trix Cereal, 10.7 Ounce -- 12 per case.
+10	11.94	Cookie Crisp Cereal, 19.8-Ounce Boxes (Pack of 3)
+11	9.0	General Mills Cereals Trix Box, 22.7 Ounce
+12	49.05	Trix Cereal, 1 Ounce -- 96 per case.
+14	15.98	General Mills Lucky Charms, Cocoa Puffs, and Trix Three Bag 38.5 Total Ounce Value Box
+15	11.81	GENERAL MILLS CEREAL TRIX 10.7 OZ
+16	26.25	Yoplait Trix Triple Cherry Greek Yogurt, 4 Ounce -- 48 per case.
+17	11.99	Reeses Puffs, Peanut Butter, 22.9 Ounce (Pack of 3)
+18	44.99	General Mills(r) Trix(r) Cereal Bar Case Pack 96 - 431609
+19	24.97	Bundle of 4 Boxes of Trix Cereal 14.8 Oz with Four Plastic Ikea Bowls
+20	26.25	Yoplait Trix Raspberry Rainbow Yogurt, 4 Ounce -- 48 per case.
+21	49.99	General Mills Trix Cereal, Bulk Pak, 32 Ounce -- 4 per case.
+22	165.3	General Mills Trix Cereal Bowl [96 Pieces] *** Product Description: General Mills Trix Cereal Bowl. 3/4 Oz Bowl. ***
+23	9.99	General Mills Lucky Charms and Trix Wildberry Red Swirls Cereal
+25	10.65	Silly Rabbit Trix Cereal General Mills Breakfast Pal
+26	59.99	Trix General Mills Cereal Bowl Packs
+27	123.38	General Mills Trix Cereal Bowl (Pack Of 96)
+28	106.59	Yoplait Trix Strawberry Banana Bash Yogurt, 4 Ounce -- 48 per case.
+29	123.15	Trix Cereal New Wildberrry Red Swirls Box 10.7 OZ (Pack of 24)
+30	9.5	Silly Rabbit Trix Cereal General Mills Breakfast Pal
+31	26.99	General Mills Lucky Charms, Cocoa Puffs and Trix 3 bags/38.5 oz (Pack of 3)
+32	35.99	General Mills Lucky Charms, Cocoa Puffs and Trix 3 bags/38.5 oz (Pack of 4)
+33	74.0	VINTAGE 1987 Big G Cereals Presents- THE MAGIC SECRETS VIDEO PROMOTIONAL VHS TAPE- Frankenberry, Count Chocula, Lucky Charms, Trix Rabbit, Honey Bee- Magician Dan Witkowski
+35	17.99	General Mills Lucky Charms, Cocoa Puffs and Trix 3 bags/38.5 oz (Pack of 2)
+36	141.92	General Mills Trix Cereal Bowl Case Pack 96
+37	9.62	General Mills Cereal Variety Pack, 8 pouches 9.14 oz
+38	8.5	General Mills Triple Pack 2 Lb ( 6.5 Oz)
+39	89.55	General Mills Cereal Breakfast Pack Pouches , 9.14 OZ (Pack of 12)

@@ -1,0 +1,4 @@
+0	31.29	Fresh Sapodilla (Nispero) 3lb
+1	49.95	Tropical Fruit Box (5lbs.)
+2	39.95	Fresh Kent Mangoes (9 Lbs)
+3	79.85	Tropical Fruit Box (10lbs.)

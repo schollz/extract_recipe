@@ -1,0 +1,12 @@
+0	23.92	Kellogg's Smacks Cereal, 15.3 Ounce (Pack of 8)
+1	2.5	Honey Smacks, 15.3 Oz
+2	7.5	Honey Smacks Cereal, 15.3 Ounce Box
+3	31.76	Honey Smacks Cereal, 15.3-Ounce Boxes (Pack of 4)
+4	3.68	Kellogg's Frosted Mini Wheats Original, 24 Ounce Box
+5	24.41	Post Golden Crisp Cereal, 14.75-Ounce Boxes (Pack of 4)
+6	111.16	Kellogg's Honey Smacks Sweetened Puffed Wheat Cereal - 16 Pack
+7	57.25	Nestle STARS Honey Breakfast Cereals - 10.58oz / 300gr x 5 BOXES (Bulk pack)
+8	57.25	Kellogg's / Kelloggs HONEY POOPS with HAZELNUT FILLING Breakfast Cereals - 13.22oz / 375gr x 4 BOXES (Bulk pack)
+9	62.95	JORDANS BIOLOGIC MUESLI Breakfast Cereals - 17.63 / 500gr (x 3 Boxes - BULK PACK)
+10	57.25	Nestle GOLDEN GRAHAMS CINNAMON Breakfast Cereals - 13.22oz / 375gr x 4 BOXES (Bulk pack)
+11	55.25	Nestle CLUSTERS CHOCOLATE Breakfast Cereals - 13.22oz / 375gr x 4 BOXES (Bulk pack)

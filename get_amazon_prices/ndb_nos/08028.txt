@@ -1,0 +1,18 @@
+0	12.1	All Bran Cereal, Complete Wheat, 18-Ounce Boxes (Pack of 2)
+1	36.99	Kellogg's All Bran Complete Wheat Flakes Cereal, 17.3 oz (Pack of 4)
+2	38.02	All Bran Complete Wheat Bran Flakes, 0.875-Ounce Bowls (Pack of 96)
+3	6.09	Kellogg's Complete Wheat Flakes-18 oz
+4	44.95	Kellogg's All-Bran Complete Wheat Flakes Cereal, 17.3 oz (Pack of 6)
+5	8.99	Kellogg's Complete Wheat Bran Flakes, 17.3 oz
+6	179.7	Kelloggs Complete Wheat Bran Flakes Cereal (Box) [70 Pieces] *** Product Description: Kelloggs Complete Wheat Bran Flakes Cereal (Box) 1.13 Oz Individual Box. ***
+7	161.17	Kelloggs Complete Wheat Bran Flakes Cereal (box) Case Pack 70
+8	132.65	Kelloggs Complete Wheat Bran Flakes Cereal (box) (Pack Of 70)
+9	45.59	Complete Bran Flakes Cereal, 1.13-Ounce Single Serve Packs (Pack of 70)
+10	59.99	Kelloggs Complete Wheat Bran Flakes Cereal (Box) (70 Pieces) [Misc.]
+11	25.99	Shiloh Farms: Wheat Flakes 16 Oz (6 Pack)
+12	10.9	Erewhon Cereal Organic Raisin Bran, 15 Ounce
+13	66.99	Shiloh Farms: Raw Flake Wheat Germ 12 Oz (12 Pack)
+14	11.57	Erewhon Supergrains Quinoa and Chia Cereal, 9 Ounce
+15	16.3	Erewhon Organic Raisin Bran Cereal 15 OZ (Pack of 3)
+16	94.21	Erewhon Supergrains Quinoa And Chia Cereal 9 Ounce (Pack of 12)
+17	31.99	Erewhon Organic Raisin Bran Cereal 15 OZ (Pack of 3)

@@ -1,0 +1,10 @@
+0	29.6	Melissa's Fresh Cherimoyas, (3 lb)
+1	48.95	Exotic Fruit Box (5lb)
+2	129.99	Cherimoya - Avg 8 Lb Case
+3	28.95	Melissa's Fresh Rambutans (2 lb)
+4	8.25	Chirimoya, Natural Flavor Blend - 4 fl. oz. bottle - Silver Cloud Estates
+5	9.99	San Roque Layers of Cookie with Cherimoya Caramel Filling (Porcion De Manjar De Chirimoya - Product of Peru) 2.7oz Single Box
+6	43.95	Chirimoya, Natural Flavor Blend - 1 Quart bottle - Silver Cloud Estates
+7	121.77	Chirimoya, Natural Flavor Blend - 1 Gallon jug - Silver Cloud Estates
+8	59.95	Fresh Guanabana (Soursop, Graviola) 2-3 Lb Fruit
+9	33.4	SnoWizard South of the Border(tm) Snoball Flavor Pack (4 Flavors)

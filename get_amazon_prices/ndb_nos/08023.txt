@@ -1,0 +1,16 @@
+0	36.8	Cracklin' Oat Bran Cereal, 17-Ounce Boxes (Pack of 10)
+1	29.25	Kellogg's, Cracklin' Oat Bran, 17oz Box (Pack of 4)
+2	18.99	Kelloggs, Cracklin Oat Bran, 17oz Box (Pack of 2)
+3	7.93	Kellogg's, Cracklin' Oat Bran Cereal, 17oz Box (Single)
+4	32.47	Cracklin' Oat Bran Cereal, 17-ounce Boxes, 3 Pack
+5	8.99	Kellogg's Cracklin' Oat Bran 17 oz
+6	60.45	Kellogg's Cracklin' Oat Bran Cereal, 17 oz (Pack of 10)
+7	29.95	Kellogg's Cracklin' Oat Bran Cereal, 17 oz (Pack of 4)
+8	40.12	Kellogg's Cracklin' Oat Bran, 17oz, 5ct
+9	143.9	Cracklin' Cereal 17 OZ (Pack of 20)
+10	60.65	Kellogg's Cracklin' Oat Bran Cereal, 17 oz (Pack of 6)
+11	24.99	Kel Cracklin Oar Bran 17 oz 4 CT
+12	85.99	Vigilant Eats: Goji Cacao Superfood Oat Cereal 3 Oz (24 Pack)
+13	85.99	Vigilant Eats: Maca Double Chocolate Superfood Oat Cereal 3 Oz (24 Pack)
+14	85.99	Vigilant Eats: Coconut Maple Vanilla Superfood Oat Cereal 3 Oz (24 Pack)
+15	85.99	Vigilant Eats: Espresso Maca Mulberry Superfood Oat Cereal 3 Oz (24 Pack)

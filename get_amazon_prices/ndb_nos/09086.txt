@@ -1,0 +1,42 @@
+0	17.51	Ambrosia Devon Custard And Apple Crumble 125G x 4
+1	10.5	Apple and Custard Fizzy Hearts 500g Bag 1/2 Kilo
+2	10.0	Samosir Blend: Organic Soursop, Graviola, Guanabana Leaf Tea Blended with Wild Cinnamon & Andaliman
+3	5.75	Ambrosia Devon Custard Puds with Apple Crumble (125g)
+4	6.29	Heinz Fruity Custard Pear & Apple 4mth+ (4x100g)
+5	26.97	Heirloom Fruit Curd Paw Paw (Pack of 3)
+6	99.99	Halal Sweets Apple and Custard 100g
+7	5.9	Apple and Custard Fizzy Hearts 250g Bag 1/4 Kilo
+8	22.99	Heinz Mum's Own Recipe Apple Crumble and Vanilla Custard 7 Months Plus 200 g (Pack of 6)
+9	29.6	Melissa's Fresh Cherimoyas, (3 lb)
+10	28.0	Tastykake Apple Pie - Pack of 12
+11	5.9	Mr Kipling Bramley Apple Pies 6
+13	8.79	Soursop Organic Tea Leaves Pack of 50 Whole Leaves
+14	6.18	Soursop Organic Tea Leaves Pack of 30 Leaves
+15	24.89	Papaya Leaf
+16	39.95	Fresh Kent Mangoes (9 Lbs)
+17	22.99	Cinnamon Apple Danish Bread Pudding
+18	10.0	Citrus Edge: Organic Soursop, Graviola, Guanabana Leaves Blended with Wild Lemongrass
+20	36.9	Ambrosia Ready To Eat Devon Custard 4 X 125G x 4
+21	22.99	Gerber 2nd Foods Assorted, 2-count, 3.5-ounce Units (Pack of 6)
+22	14.26	Dynamic Health Graviola Guanabana-Soursop Extract Superfruit Juice Blend, 16 Ounce
+23	14.99	Chouffon Soft Chou Cream Fresh Apple & Yogurt 480 Kcal
+24	37.2	Tastykake Lemon Pie - Pack of 12
+26	81.15	Sweet Street Unsliced Caramel Apple Granny Bar -- 4 per case.
+27	10.75	Ambrosia Devon Custard 4 X 125G
+28	88.35	Hormel Healthlabs Solutions Apple/Cranberry Nutritious Juice Drink, 6 Ounce -- 50 per case.
+29	38.98	Krispy Kreme 1 Dozen Variety Pack
+30	82.95	Sweet Street Caramel Apple Granny Bar, 3.7 Pound -- 4 per case.
+31	128.55	Sweet Street Caramel Apple Granny Pie, 14 Slice -- 4 per case.
+32	64.35	Love and Quiches Apple Cobbler, 5 Pound -- 2 per case.
+34	29.65	Ella'S Kitchen Ooh My Goodness Oat Crumble, 3-Ounce (Pack of 7)
+35	30.93	Organic Baby Food for Stage Two
+36	45.0	Tastykake Cherry Pie - Pack of 12
+37	11.96	Mcvities Medley Digestive Caraml And Milk Chocolate 6X30g
+38	39.63	Frontier Natural Products BG13129 Frontier Cyln Cinn Stck Ft - 1x1LB
+39	26.84	Sadaf Cinnamon Powder, 2.1-Ounce Jars, (Pack of 12)
+40	45.0	Tastykake Blueberry Pie - Pack of 12
+41	22.99	Madagascar Bourbon Vanilla Beans Grade A-1 - 24 Beans
+42	30.09	Frontier Natural Products BG13137 Frontier Cyln Cinn Powder Ft - 1x1LB
+43	20.99	Madagascar Bourbon Vanilla Beans Grade A-1 - 18 Beans
+44	1.75	Herbal Tea: Papaya Leaf (Organic)
+45	4.56	Cinnamon Powder - 1oz (Pack of 3)
