@@ -1,0 +1,10 @@
+0	29.95	Queso Oaxaca En Bola Los Altos (String Mozzarella Cheese Wheel) 3 Lb
+1	24.95	Oaxaca El Mexicano Mexican Mozzarella Cheese TriPack
+2	34.95	Queso Oaxaca Deshebrado Los Altos (Shredded Mozzarella Cheese) 5 Lb
+3	12.99	Queso Oaxaca (8 ounce)
+4	24.71	Assortment of Mexican Cheese by Gourmet-Food
+5	54.99	V&V Supremo: Queso Chihuahua (5.75-6.25 Lb)
+6	34.95	Queso Oaxaca Los Altos En Tiras (Mozarella Cheese Strips) 5 Lb
+7	33.05	Mexican Cheese Gift Box by Gourmet-Food
+8	150.25	Cheesemakers Bola Oaxaca Cheese, 5 Pound -- 4 per case.
+9	64.99	FUD: Queso Oaxaca 6.6 Lb.
