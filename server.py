@@ -3,7 +3,7 @@ import webbrowser
 import BaseHTTPServer
 import SimpleHTTPServer
 import markdown2
-from extract_recipe import * 
+from recipe_extractor import * 
 
 FILE = 'extractor.html'
 PORT = 8081
