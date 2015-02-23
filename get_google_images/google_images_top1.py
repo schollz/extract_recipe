@@ -1,18 +1,18 @@
 '''
-This program uses the AmazonAPI to gather the top results for grocery items 
-and saves them according to their USDA NDB_NO identifier. 
+This program grabs the first google image for a given search
 
 Use the tor_wrapper if you get blocked from making too many calls.
 '''
 
-from amazon.api import AmazonAPI
 from unidecode import unidecode
+import urllib2
+import json
+import sqlite3 as lite
+con = lite.connect('../db')
+
+usingTor = False
 
 
-usingTor = True
-
-# Set to True if using the first time, otherwise use false
-start = False
 
 if usingTor:
   import socks
@@ -21,46 +21,18 @@ if usingTor:
   socket.socket = socks.socksocket
 
 
-with open('.amazon_assoc_tag','rb') as f:
-  for line in f:
-    AMAZON_ASSOC_TAG=line
-# https://console.aws.amazon.com/iam/home#security_credential
-with open('.amazon_access_key','rb') as f:
-  for line in f:
-    AMAZON_ACCESS_KEY=line
-with open('.amazon_secret_access_key','rb') as f:
-  for line in f:
-    AMAZON_SECRET_KEY=line
+def getImage(searchString):
+  opener = urllib2.build_opener()
+  opener.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0')]
+  j = opener.open('https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q='+searchString.replace(' ','%20'))
+  data = j.read()
+  jsonData = json.loads(data)
+  try:
+    data = jsonData['responseData']['results'][0]['url']
+  except:
+    return False
+  return data
 
-amazon = AmazonAPI(AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG)
-
-
-if not start:
-  with open('lastNDB','rb') as f:
-    for line in f:
-      lastNDB = line.strip()
-
-with open('../get_freebase_num/ndb_no_freebase.txt','rb') as f:
-  for line in f:
-    (ndb_no,searchTerm)=line.split('|')
-    print ndb_no
-    print searchTerm
-    if start:
-      products = amazon.search(Keywords=searchTerm, SearchIndex='Grocery')
-      knownUnit = None
-      prices = []
-      units = {}
-      for i, product in enumerate(products):
-        try:
-          if product.price_and_currency[0] is not None:
-            with open('ndb_nos/' + ndb_no + '.txt','a') as f:
-              f.write("{0}\t{2}\t{1}\n".format(i, unidecode(product.title),product.price_and_currency[0]))
-        except:
-          pass
-      with open('lastNDB','a') as f:
-        f.write(ndb_no + '\n')
-    else:
-      if ndb_no == lastNDB:
-        start = True
-      
-      
+imageUrl = getImage('Cheese, blue')
+if imageUrl:
+  print imageUrl
