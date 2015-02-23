@@ -21,11 +21,16 @@ if usingTor:
   socket.socket = socks.socksocket
 
 
-AMAZON_ASSOC_TAG='XX'
+with open('.amazon_assoc_tag','rb') as f:
+  for line in f:
+    AMAZON_ASSOC_TAG=line
 # https://console.aws.amazon.com/iam/home#security_credential
-AMAZON_ACCESS_KEY='XX'
-AMAZON_SECRET_KEY='XX'
-
+with open('.amazon_access_key','rb') as f:
+  for line in f:
+    AMAZON_ACCESS_KEY=line
+with open('.amazon_secret_access_key','rb') as f:
+  for line in f:
+    AMAZON_SECRET_KEY=line
 
 amazon = AmazonAPI(AMAZON_ACCESS_KEY, AMAZON_SECRET_KEY, AMAZON_ASSOC_TAG)
 
