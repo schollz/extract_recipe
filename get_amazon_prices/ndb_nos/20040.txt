@@ -1,0 +1,79 @@
+0	27.62	Nishiki Premium Brown Rice, 15-Pounds Bag
+2	15.93	NISHIKI Premium Brown Rice, 5-Pound
+7	14.48	Trader Joe's Organic Brown Basmati Rice
+8	19.13	Bob's Red Mill Rice Long Grain Brown, 27-Ounce (Pack of 4)
+9	35.0	Kokuho Rose Brown Rice - 20lb Bag
+11	12.63	Botan Calrose Brown Rice (5#)
+12	19.96	Bob's Red Mill Organic Rice Medium Grain Brown, 27-Ounce (Pack of 4)
+13	17.88	Lundberg Organic California Jasmine Rice, Brown, 16 Ounce (Pack of 6)
+14	19.74	Lundberg Eco-Farmed Short Grain Brown Rice, 32-Ounce (Pack of 6)
+16	18.19	Sempio Brown Rice, 15 Pound
+17	16.99	Koshihikari Premium Sprouted Brown Gaba Rice, 2.2-Pound Pouches (Pack of 2)
+18	17.15	Seeds of Change Microwavable Quinoa and Brown Rice with Garlic, 8.5-Ounce (Pack of 4)
+19	21.92	Roland Brown Basmati Rice, 11-Pounds Bag
+20	11.95	Success Boil-in-Bag Whole Grain Brown Rice 6 Extra Large Bags Net Wt 32oz
+21	14.99	Seeds of Change Quinoa and Brown Rice, 8.5 oz./6pack
+22	7.72	Minute Brown Rice 10 minute Instant Whole Grain Rice 14 oz
+23	26.95	Tamanishiki Super Premium Brown Rice, 4.4-Pounds (Pack of 2)
+24	31.4	Minute Ready to Serve Natural Whole Grain Brown Rice 2 - 4.4 oz cups (Pack of 8)
+25	18.56	Bob's Red Mill Rice Sweet Brown, 27-Ounce (Pack of 4)
+26	57.99	Long Grain Brown Rice - Bulk 50 Pound Bag
+27	37.31	Tamanishiki Super Premium Short Grain Rice, 15-Pound
+28	19.9	Bob's Red Mill Rice Short Grain Brown, 27-Ounce (Pack of 4)
+29	15.95	Dynasty Jasmine Brown Rice, 5-Pound
+30	44.82	Lundberg Eco-Farmed Long Grain Brown Rice, 25-Pound
+31	21.16	Bob's Red Mill Rice Flour Brown, 48-Ounce (Pack of 4)
+33	13.39	BOTAN Calrose Brown Rice, 5-Pound
+35	19.14	Lundberg Countrywild, Gourmet Blend, Whole Grain Brown Rice, 16-Ounce Bags (Pack of 6)
+36	37.12	Bombay Basmati Brown Rice, 10-pounds Sack
+37	16.02	Hukkura Brown Rice, 4.4-pounds
+39	33.26	Lundberg Farms USDA ORGANIC Short Brown Rice Gluten Free 12 LB
+40	55.28	Lundberg Long Brown Rice, Organic, Gluten Free, 25-pounds (Pack of1)
+42	31.05	Hukkura Easy-Cooking Premium Koshihikari Brown Rice, 11-Pound Bag
+43	22.14	Lundberg Jubilee, Gourmet Blend of Whole Grain Brown Rice, 16-Ounce Units (Pack of 6)
+44	15.2	Sempio Gen Ji Mai 12 Grain Whole Grain Brown Rice, 4.4 Pound
+45	21.13	Bob's Red Mill Rice Basmati Brown, 27-Ounce (Pack of 4)
+46	17.52	Sempio Whole Grain Sprouted Brown Rice, 4.4 Pound
+48	15.39	Authentic Foods Gluten Free Brown Rice Flour Superfine -- 3 lbs
+49	11.24	Lundberg Sprouted Brown Basmati Rice, 1 Pound
+51	11.04	Nishiki Cooked Brown Rice, 7.4-Ounces (Pack of 6)
+52	42.15	433 Total Servings of Long-grain Brown Rice 43 Lb. Emergency Food Pail By Augason Farms 10 Cents Per Serving 1/4 Cup Servings
+53	18.5	Minsley Cooked Brown Rice Bowl, Organic, Reday in 90 sec.Microwave, 7.4-Ounce Bowls Pack of 6
+54	11.75	Minute Brown Rice 10 minute Instant Whole Grain Rice 14 oz (pack of 2)
+55	2.79	One 24 oz Bob's Red Mill Whole Grain Brown Rice Flour
+56	9.99	Lundberg Organic Long Grain Brown Rice -- 2 lbs
+57	4.69	Arrowhead Mills Organic Brown Rice Flour, 2-Pound
+58	67.38	Lundberg Organic California Brown Basmati Rice, 25-Pound
+59	8.5	Palmetto Farms Brown Aromatic Basmati Rice
+60	50.15	Lundberg Eco-Farmed California Brown Basmati Rice, 25-Pound
+61	26.21	Tamaki Haiga - Shortgrain Rice
+62	13.99	Tsuru Mai Brown - 5lb Bag
+63	23.99	Midland Harvest: Medium Grain Brown Rice 20 Lb.
+64	24.4	Gerber Baby Cereal - Organic & Probiotic Variety Pack: Organic Oatmeal Cereal, Organic Brown Rice Cereal, DHA Probiotic Rice Cereal, 3 Healthy Flavors Bundle
+65	10.3	RiceSelect Royal Blend, Texmati White, Brown, Wild, and Red Rice, 21 Ounce Jar
+66	27.0	Bob's Red Mill Organic Brown Rice Farina Creamy Rice Hot Cereal, 26-Ounce Bags (Pack of 4)
+67	7.99	Texmati Brown Jasmati Rice, 30 Ounce
+68	24.95	Uncle Ben's Original Long Grain Rice 12 lb. bag
+69	20.0	Uncle Ben's Brown Basmati Rice, Ready Rice, 8.5 oz (Pack Of 6)
+70	21.23	Minsley Organic Cooked Brown Rice with Quinoa Cup, 4.2 Ounce (Pack of 12)
+71	24.17	Sempio Sweet Brown Rice, 15 Pound
+72	7.49	Lundberg California Brown Basmati Rice -- 2 lbs
+74	19.96	Bob's Red Mill Rice Wild/Brown Mix, 27-Ounce (Pack of 4)
+75	37.55	Planet Rice Sprouted Brown Rice, 22 Ounce (Pack of 6)
+76	14.95	Lundberg Organic Sweet Dreams Brown Rice Syrup -- 21 fl oz
+77	26.93	Botan Calrose Rice, 15-Pound
+80	41.88	Lundberg Organic Brown Rice Cakes (Lightly Salted), 8.5-Ounces (Pack of 12)
+83	24.94	Vietnamese Brown Rice Spring Roll Wrapper -8 oz, Pack of 6
+84	30.0	Minute Ready to Serve Brown & Wild Rice 2 - 4.4 oz cups (Pack of 8)
+85	15.99	Yamamotoyama - Genmai Cha (Brown Rice Tea) 90 Bag Value Pack
+86	39.1	Brown Rice Snaps, Unsalted Plain with Organic Brown Rice, 3.5-Ounce Packs (Pack of 12)
+88	44.89	Royal Basmati Rice 20-Pound Bag
+89	66.54	Lundberg Organic Short Grain Brown Rice, 25-Pound
+90	39.25	Brown Rice Snaps, Vegetable with Organic Brown Rice, 3.5-Ounce Packs (Pack of 12)
+91	28.24	Barbara's Organic Brown Rice Crisps Cereal, 10 Ounce (Pack of 6)
+92	17.07	Pastariso All Natural Brown Rice Penne, 1-Pound (Pack of 6)
+93	12.95	Authentic 100% Organic Genmai Cha (Brown Rice Green Tea) 100 Teabag Value Pack
+94	11.3	Earth's Best Organic Brown Rice Cereal 8 oz (Pack of 2)
+96	39.59	Lundberg Organic California Basmati Rice, Brown, 16 Ounce (Pack of 6)
+98	17.75	Pastariso All Natural Brown Rice Spaghetti, 1-Pound (Pack of 6)
+99	12.99	Organic Brown Rice Baby Cereal Made with Sprouted Whole Grain Brown Rice 7 Oz. (198 g) - 2 Pack

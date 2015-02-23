@@ -1,0 +1,93 @@
+1	8.75	1 Doz Bagels Kosher From Lillys Home Style, Unlike Any Other Bagel You Have Ever Tasted. Once You Try This Bagel You Will Be Ordering From Us Daily!
+2	7.99	Thomas' New York Style Bagels - Blueberry, 22 oz
+4	8.99	Thomas' Cinnamon Raisin Bagels, 18oz
+5	5.99	Bagel Spice - With Sea Salt Flakes
+6	13.99	Bagel Spice 3 Pack Bundle
+7	5.99	Katz, Gluten Free Everything Bagel, 13 oz
+8	7.4	New York Style Original Bagel Crisps Roasted Garlic
+9	4.49	New York Style Everything Bagel Crisps Snacks
+10	26.94	Glutino Gluten Free Bagel Chips, Original , 6-Ounce (Pack of 6)
+11	32.15	New York Style Mini Bagels, Sea Salt, 5.5 Ounce (Pack of 12)
+12	29.34	Glutino Parmesan and Garlic Bagel Chips Gluten Free, 6-Ounce (Pack of 6)
+13	17.0	McCormick Everything Bagel (Garlic, Onion & Sesame) Seasoning, 21 oz
+15	5.99	Bagel Spice - Original Recipe - Salt Free Seasoning Mix
+16	12.99	Thomas Bagel Thins 100% Whole Wheat - 8 Thin Bagels - 13 oz (Pack of 2)
+17	7.99	Great Low Carb Bread Co. - Everything Bagels
+18	19.65	New York Style Garlic Bagel Chips 204g (3 pack)
+19	8.0	Thomas Bagel Thins Plain - 8 Thin Bagels - 13 oz (Pack of 2)
+20	5.99	Bagel Spice - Zesty Jalapeno - Gourmet Spice Mix
+21	9.99	New York Style Cinnamon Raisin Bagel Chips, 7.2 oz
+22	32.15	New York Style Bagel Crisps, Sea Salt and Black Pepper, 7.2 Ounce (Pack of 12)
+23	7.99	Great Low Carb Bread Co. - Cinnamon Bagels - 1 Bag
+24	7.99	Great Low Carb Bread Co. - Sesame Bagels
+25	5.27	Glutino Gluten Free Bagel Chips, Cinnamon and Sugar, 6.0 Ounce
+26	17.59	Great Low Carb Everything Bagels 2 Bags
+27	17.99	Great Low Carb Sesame Bagels 2 Bags
+28	9.99	The Original Bagel Spread 6 Pack Garden Vegetable
+29	32.15	New York Style Mini Bagels, Garlic, 5.5 Ounce (Pack of 12)
+30	7.99	ThinSlim Foods 100 Calorie, 2g Net Carb, Love The Taste Low Carb Cinnamon Bagels
+31	48.46	Udi's Gluten Free Plain Bagels, 8-pack
+32	8.5	Slug Slime - Roasted Seasoning Blend - Everything Bagel Topping
+33	34.54	Old London Bagel Chips, Garlic and Herb, 5 Ounce (Pack of 12)
+34	7.99	ThinSlim Foods 100 Calorie, 2g Net Carb, Love The Taste Low Carb Everything Bagels
+35	13.98	Thomas Bagel Thins-everything(2pack)
+36	7.99	ThinSlim Foods 100 Calorie, 2g Net Carb, Love The Taste Low Carb Plain Bagels
+37	7.99	ThinSlim Foods 60 Calorie, 2g Net Carb, Love Your Waist Low Carb Cinnamon Bagels
+39	5.99	Katz Gluten Free Sesame Bagel
+40	7.99	Kinnikinnick Gluten Free New York Style Soft Plain Bagels 1 Pack
+41	53.75	Kraft Bagel-fuls, Strawberry Bagel Filled with Cream Cheese and Strawberry Spread, 2.5-Ounce, 76-Count Bagels
+42	13.99	Udis Gluten Free Plain Bagel 4 Ct (Pack of 2) 14oz Each
+43	13.49	Bagel Dogs with Cheese
+45	15.04	Glutino Gluten Free Bagel Chips Orignal (2 Pack)
+46	17.0	Great Low Carb Plain Bagels 65 Calorie Version 2 Bags
+47	10.19	Hometown Bagel Sea Salt All Natural Bagel Chips, 6 oz, 2 pk
+48	40.42	New York Style, Bagel Crsp Seasalt, 6 OZ (Pack of 12)
+49	16.99	Udi's Gluten Free Everything Inside Bagel, 4 Bagels per Pack
+50	6.0	Chia Bagels(r)
+51	51.37	Glutino Premium Bagels
+52	7.99	Great Low Carb Bread Co. - Pumpernickel Bagels
+53	17.98	Great Low Carb Pumpernickel Bagels 2 Bags
+54	7.99	Great Low Carb Bread Co. - Low Calorie Plain Bagels
+55	7.99	Great Low Carb Garlic Butter Bagels
+56	7.99	ThinSlim Foods 60 Calorie, 2g Net Carb, Love Your Waist Low Carb Everything Bagels
+57	13.99	Udis Gluten Free Cinnamon Raisin Bagel 4 Ct (Pack of 2) 14oz Each
+58	63.11	Glutino Premium Sesame Seed Bagel, 20.8 Ounce -- 6 per case.
+59	5.99	Katz Gluten Free Poppy Bagel
+60	22.44	Udis Gluten Free Cinnamon Raisin Bagel 4 Ct (Pack of 4)
+61	24.35	Heinz Cheese, Sausage and Pepperoni Mini Bagel Bite - Appetizer, 7 Ounce -- 72 per case.
+62	25.95	Simply Bagels Gift Box
+63	13.0	Los Bagels - Bakers Dozen Slugs (Everything)
+64	32.85	NY Style Bagel Chip Cinnamon Raisin, 6-ounce Bags (Pack of 12)
+66	7.95	Glutino Bagel Chips Gluten Free Parmesan and Garlic -- 6 oz
+67	7.99	Great Low Carb Bread Co. - Onion Bagels
+68	4.89	Glutino Bagel Chips Gluten Free Original -- 6 oz
+69	12.99	Thomas' Mini Plain Pre-sliced Bagels 15 Oz 2 Packs
+70	7.99	ThinSlim Foods 60 Calorie, 2g Net Carb, Love Your Waist Low Carb Plain Bagels
+71	7.99	Udi's Gluten Free Whole Grain Bagel 14oz (1pack) 4bagels
+72	7.99	Great Low Carb Bread Co. - Low Calorie Everything Bagels
+73	26.99	Udis Gluten Free Mighty Bagel 4 Ct (Pack of 4) 14oz Each
+74	35.85	Otis Spunkmeyer Plain Bagel, 3 Ounce -- 48 per case.
+75	21.99	Udis Gluten Free Plain Bagel 4 Ct (Pack of 3) 14oz Each
+76	41.04	New York Style Plain Bagel Crisps, 7.2 Ounce -- 12 per case.
+77	24.35	Heinz Three Cheese Mini Bagel Bite - Appetizer, 7 Ounce -- 72 per case.
+78	17.95	Aesop's Assorted Bagel Box
+79	26.99	Udi's Gluten Free Everything Inside Bagel 14oz (Pack of 4)
+80	64.39	Udi's Gluten Free Everything Inside Bagel (Case of 8)
+81	52.79	Udi's Gluten Free Mighty Bagel (Case of 8)
+82	25.99	New York Style Bagel Crisps Plain 6 Bags - 7.2 Ounces each
+84	19.08	Glutino, Gluten Free, Parmesan & Garlic Bagel Chips, 6oz Box (Pack of 3)
+85	23.25	Great Low Carb Bread Co. - Sesame Bagels - 3 Bags
+86	33.49	Katz Gluten Free Everything Bagels (Case of 6) [Misc.]
+87	17.0	Great Low Carb Cinnamon Bagels 65 Calorie Version 2 Bags
+88	29.95	4 Pack - Slug Slime - Roasted Seasoning Blend - Everything Bagel Topping
+89	22.7	Great Low Carb Cinnamon Bagels 2 Bags
+90	37.35	Schar Gluten Free Plain Bagels 14.1 OZ (Pack of 6)
+91	26.16	Gardetto's Roasted Garlic Rye Chips, 8.0-Ounce Bags (Pack of 12)
+92	45.8	New York Style Bagel Chips, Sweet Swirls, Cinnabon, 6oz (Pack of 12)
+93	30.89	Udi's Gluten Free Bread and Bagel Variety Pack
+94	33.96	Old London Bagel Chips, Sea Salt, 5 Ounce (Pack of 12)
+95	8.9	Daily Chef Cinnamon Raisin Bagels (6 ct.)
+96	32.45	Lenders White Whole Grain Bagel, 2 Ounce -- 72 per case.
+97	24.35	Heinz Pepperoni and Cheese Mini Bagel Bite - Appetizer, 7 Ounce -- 72 per case.
+98	80.5	Rudis Organic Multigrain Bagel, 12 Ounce -- 12 per case.
+99	49.45	New York Style Everything Bagel Crisps, 7.2 oz Bag (Pack of 12)

@@ -1,0 +1,87 @@
+0	7.81	Bob's Red Mill Rice Flour White 24 ozs
+1	14.5	Bob's Red Mill Rice Flour White, 24-Ounce (Pack of 4)
+2	5.25	Thai Rice Flour - 16 oz
+3	21.16	Bob's Red Mill Rice Flour Brown, 48-Ounce (Pack of 4)
+4	14.95	Authentic Foods Superfine White Rice Flour - 3lb
+5	2.79	One 24 oz Bob's Red Mill Whole Grain Brown Rice Flour
+6	2.99	White Rice Flour 24 oz Pkg
+7	5.99	GLUTINOUS RICE FLOUR 1x16OZ [Hot Sale]
+8	16.76	Bob's Red Mill Rice Flour Sweet White, 24-Ounce (Pack of 4)
+9	4.69	Arrowhead Mills Organic Brown Rice Flour, 2-Pound
+10	15.39	Authentic Foods Gluten Free Brown Rice Flour Superfine -- 3 lbs
+11	12.99	Mochiko (Sweet Rice Flour) - 16oz (Pack of 3)
+12	4.19	Bob's Red Mill Sweet White Rice Flour - 24 oz
+13	52.99	Fine Rice Flour - 50 Pound Bag
+14	12.59	Authentic Foods Superfine Sweet Rice Flour - 3lb
+15	10.8	Dried Sweet Glutinous Rice Flour - 2x 1 Lb (Traditional Water Milled)
+17	12.54	Bisquick Pancake and Baking Mix, Gluten-Free, 16-oz. Boxes (Count of 3)
+18	3.99	Sadaf Rice Flour, 24 Ounce Bag
+19	10.68	Bob's Red Mill Organic White Rice Flour, 24 oz
+20	28.25	Bob's Red Mill White Rice Flour, Organic, 24-Ounce Packages (Pack of 4)
+21	22.5	Betty Crocker All Purpose Gluten Free Rice Flour Blend, 16 Ounce (Pack of 6)
+22	3.24	White Rice Flour Now Foods 32 oz Bag
+23	12.95	Blue Star Mochiko Sweet Rice Flour, Naturally Gluten-Free, 16 oz, (Pack of 2)
+24	10.99	King Arthur Flour Multipurpose Flour, Gluten Free, 24-ounces
+25	11.95	Koda Farms Mochiko Sweet Rice Flour Pack of Two 16oz Per Pck
+28	22.33	Bob's Red Mill Rice Flour Brown, 24-Ounce (Pack of 4)
+30	11.6	Bob's Red Mill Organic Brown Rice Flour -- 24 oz
+31	9.49	Brown Rice Flour, GF, 1 lb.
+33	23.35	Bob's Red Mill, Whole Grain Brown Rice Flour, 24 oz Packages (680 g) (Pack of 4)
+34	49.11	Bob's Red Mill Bulk Rice Flour, White, 1461B25, 25-Pound (Pack of 1)
+35	16.97	Authentic Foods Superfine Brown Rice Flour - 3lb
+36	58.73	Great River Organic Milling, Organic Specialty Brown Rice Flour, 25-Pound Package
+37	9.99	Jiva USDA Organic White Rice Flour 2 Pound Bag
+38	31.57	Arrowhead Mills Organic Brown Rice Flour, 32 Ounce (Pack of 6)
+39	41.42	Organic White Rice Flour 32 Ounces (Case of 6)
+40	2.59	Ener-G White Rice Flour, 20 oz
+41	4.58	Glutinous Rice Flour - 16oz (Pack of 3)
+42	12.99	Bob's Red Mill Brown Rice Flour - 24 oz - 2 pk
+43	19.29	Bob's Red Mill Tapioca Flour, 20-Ounce (Pack of 4)
+44	4.29	GLUTINOUS RICE FLOUR 2x16OZ
+46	4.59	One 18 oz Bob's Red Mill Rice Bran
+47	11.49	White Rice Flour 2.5 lbs (Gluten Free Baking Ingredients)
+48	20.5	Bob's Red Mill Sweet White Rice, 27-Ounce (Pack of 4)
+49	66.99	Brown Rice Flour - 50 Pound Bag
+50	17.99	Organic, Sprouted Brown Rice Flour, Non-GMO, Bio-Available with a Great Taste (24 oz) - Pack of 2
+51	3.49	Ener-G Pure Brown Rice Flour -- 18 oz
+52	57.8	Bob's Red Mill Bulk Organic Rice Flour, 25-Pound (Pack of 1)
+53	9.11	Gerber Cereal Rice, 8 oz
+55	17.62	Sweet White Rice Flour, 1 lb.
+57	35.99	Gluten Free All Purpose Flour & Pie Crust Mix Made with Organic Flour (5 lbs) by Arnel's Originals, Verified Non-GMO, Certified Organic, Certifed Gluten-Free
+59	24.39	Hodgson Mills Brown Rice Flour, 2 Pound -- 6 per case.
+60	138.89	Great River Organic Milling White Rice Flour, 50 Pound
+61	18.36	Bob's Red Mill All Natural Stabilized Rice Bran, 18-Ounce Bags (Pack of 4)
+62	12.09	Authentic Foods Tapioca Flour  - 2.5 lb
+63	2.56	One 24 oz (1 lb 8 oz) 680 g Bob's Red Mill, Potato Starch Unmodified, Gluten Free
+64	14.99	Mochiko (Sweet Rice Flour) - 16oz [Pack of 1]
+65	19.88	White Rice Flour, 1 lb.
+66	66.8	Great River Organic Milling White Rice Flour, 25 Pound
+67	1.86	Rice Flour (Khamphouk) [Pack of 3]
+68	26.95	Mochiko (Sweet Rice Flour) - 16oz (Pack of 6)
+69	14.9	Sweet Rice Flour (3 Lb) By Wang
+70	23.21	Bob's Red Mill Potato Starch, 24-Ounce (Pack of 4)
+71	10.98	Rice Flour (2 lbs)
+72	32.97	Authentic Foods Brown Rice Flour Superfine and White Rice Superfine Flour (2 Pack)
+73	52.84	Bob's Red Mill Bulk Rice Flour, Brown, 1460B25, 25-pounds (Pack of1)
+74	3.99	Ener-G Sweet Rice Flour Gluten Free -- 20 oz
+76	13.89	Authentic Foods Sorghum Flour Superfine 3lbs
+77	2.77	Rice Flour (Bot Te Tinh Khiet) - 16oz [6 units] by Erawan.
+78	18.99	1 lb. Organic, Sprouted Brown Rice Flour
+79	18.99	Pastariso Multi-Pack Sampler, 6.0-Pounds
+80	24.41	Bob's Red Mill Flour, White Rice, Sweet, 24-Ounce (Pack of 4)
+81	19.99	White Rice Flour 10 lbs
+82	28.78	Ener-G Foods Light White Rice Loaf, 8-Ounce Packages (Pack of 6)
+83	34.95	Bobs Red Mill White Rice Flour, 25 Pound -- 25 per case.
+85	60.0	Gluten Free All-purpose Flour (BULK 25lb Box)
+86	9.42	Pillsbury BEST Multi-Purpose Gluten-Free Flour Blend, 2 Pound
+87	2.65	Rice Flour (2 lb, 907 g)
+88	6.99	NOW Foods Organic Brown Rice Flour-1 lb
+89	18.98	5lb. Organic, Sprouted Brown Rice Flour
+90	32.49	Gluten Free Pantry Beth All Purpose Baking Flour, 16 Ounce -- 6 per case.
+91	11.99	Organic Rice Flour (2 LB.)
+92	21.53	Bob's Red Mill Tapioca Flour, 20-Ounce (Pack of 4)
+93	12.99	Organic Brown Rice Baby Cereal Made with Sprouted Whole Grain Brown Rice 7 Oz. (198 g) - 2 Pack
+94	18.95	5 Packs Three Ladies Spring Roll Rice Paper ( Round 22 Cm )
+95	33.97	Gluten Free Organic Perfect Flour Blend
+98	0.62	Rice Flour (Khamphouk) [Pack of 1]
+99	18.0	Gluten Free All-purpose Flour (4-16oz Bags)

@@ -1,0 +1,95 @@
+0	11.17	Pro-Cure Sturgeon Cocktail Scent, 2-Ounce
+1	62.0	Sturgeon (Black) Caviar 56 g (2 oz.) jar
+2	170.0	Bemka.com Russian Ossetra Crown Farmed Caviar, 2-Ounce Jar
+3	32.0	Bemka.com American Sturgeon Hackleback Wild Caviar, 1-Ounce, 1-Ounce Jar
+4	109.9	Marky's Farmed California Osetra Caviar, Transmontanus White Sturgeon from USA - 2 oz
+5	182.0	Marky's Hackleback Caviar, American Sturgeon - 7 oz
+6	64.19	American Sturgeon Caviar
+7	26.0	Marky's Hackleback Caviar, American Sturgeon - 1 oz
+8	69.99	OVERNIGHT GUARANTEED! Fresh Siberian Sturgeon Osetra Caviar 1 oz Jar
+9	54.95	Marky's Farmed California Osetra Caviar, Transmontanus White Sturgeon from USA - 1 oz
+10	20.99	Kelp Vegetarian Caviar - Sturgeon - 3.5oz
+11	159.99	GUARANTEED OVERNIGHT! C&C SAMPLER 3 jars - Siberian Osetra, American Hackleback Sturgeon, Royal Osetra Caviar 3 x 20g ea with 36pcs Russian Blini & Spoon
+12	51.99	GUARANTEED OVERNIGHT! Wild American Hackleback Sturgeon Caviar 1oz Jar
+14	155.0	Sturgeon caviar 100g (3.5 oz). Complimentary upgrade to Overnight FedEx shipping
+15	147.2	Trout Caviar 16 oz - Freshly Arrived from France
+16	25.0	Hackleback Sturgeon Caviar - 1 oz
+17	108.0	Sturgeon (Black) Caviar 100 g (3.5 Oz.) Jar
+18	7.0	Black Capelin Caviar 'Malossol' 1.75 oz. / 50 gr.
+19	134.99	GUARANTEED OVERNIGHT! Fresh Premium USA White Sturgeon Osetra Caviar Transmontanus - 2 oz Jar
+20	305.0	Osetra Sturgeon Caviar 125 Grams (4.3/8 Ounce)
+21	20.7	Bemka.com American Bowfin Wild Caviar, 2-Ounce Jar
+22	104.0	Marky's Hackleback Caviar, American Sturgeon - 4 oz
+23	416.0	Marky's Hackleback Caviar, American Sturgeon - 16 oz
+24	189.0	Golden Imperial Osetra Caviar 1 Oz -
+25	270.0	Italian White Sturgeon Caviar Malossol 100g - 4oz (Overnight Shipping)
+26	171.99	GUARANTEED OVERNIGHT! C&C "International" Gourmet Caviar Gift Basket - 1oz Royal Osetra - 1oz Wild American Hackleback Sturgeon - 2 Spoons - 36 pcs Russian Blini
+27	99.0	Caviar Spoon with Sturgeon Handle, Mother of Pearl & Silver- 4.5"L
+28	34.99	Kelp Caviar - Sturgeon Flavour - 3.5oz (4 PACK)
+29	139.99	OVERNIGHT GUARANTEED! Wild American Hackleback Sturgeon Caviar 4 oz Jar
+30	162.15	Plaza Osetra Farmed Russian Sturgeon Osetra Caviar 2 oz.
+31	18.4	Trout Caviar 2 oz - Freshly Arrived from France
+32	69.99	GUARANTEED OVERNIGHT! Wild American Hackleback Sturgeon Caviar 2 oz/ 56g Jar
+33	115.0	American Hackleback Sturgeon Caviar 4.4 Ounce
+34	219.8	Marky's Farmed California Osetra Caviar, Transmontanus White Sturgeon from USA - 4 oz
+35	114.99	GUARANTEED OVERNIGHT! C&C "American" Gourmet Luxury Caviar Gift Basket - Wild American Hackleback Sturgeon 1oz - Fresh Salmon Keta Roe 1oz - 2 Spoons - 36pcs Russian Mini Blini
+36	52.0	Marky's Hackleback Caviar, American Sturgeon - 2 oz
+37	140.0	Italian White Sturgeon Malossol Caviar 50g - 2oz (Overnight Shipping)
+38	79.99	GUARANTEED OVERNIGHT! Fresh Premium USA White Sturgeon Osetra Caviar Transmontanus -1 oz Jar/ 28 g
+39	2399.99	GUARANTEED OVERNIGHT! Royal Osetra Farmed Sturgeon Caviar - 35 oz/ 1 kg kilo Tin
+40	206.99	GUARANTEED OVERNIGHT! Fresh Farmed Siberian Sturgeon Osetra Caviar 4 oz Jar
+41	237.0	Oscietra Royal (Russian Sturgeon Caviar) by Calvisius, 50 Grams Approximately 1.75 Ounces
+42	494.99	OVERNIGHT GUARANTEED! Wild American Hackleback Sturgeon Caviar 16 oz/ 1 lb Tin
+43	240.12	California Farmed Osetra Caviar 4 oz - White Sturgeon
+44	99.99	GUARANTEED OVERNIGHT! American Caviar SAMPLER 1oz jars ea - Bowfin, Salmon, Paddlefish, Hackleback Sturgeon 1oz ea + SPOON & 36pcs Russian Blini
+45	391.98	Plaza Baerii Farmed Siberian Sturgeon Caviar 2 oz Jars of Siberian Sturgeon Caviar 3 Pack
+46	109.99	OVERNIGHT GUARANTEED! Fresh Farmed Siberian Sturgeon Osetra Caviar 2 oz Jar
+47	90.0	Italian White Sturgeon Caviar Malossol 30g - 1oz (Overnight Shipping)
+48	1250.0	Italian White Sturgeon Malossol Caviar 500g - 17.6oz (Overnight Shipping)
+49	650.0	Italian White Sturgeon Malossol Caviar 250g - 9oz (Overnight Shipping)
+51	187.72	Farmed White Sturgeon Osetra from California - 1 oz
+52	195.0	American Hackleback Sturgeon Caviar 8 Ounce
+53	147.0	Oscietra Royal (Russian Sturgeon Caviar) by Calvisius, 28 Grams Approximately 1 Ounce
+54	129.99	Venetian Sturgeon Malossol Caviar 50g - 1.75oz (Overnight Shipping)
+55	199.0	Oscietra Sturgeon Malossol Caviar 50g - 1.75oz (Overnight Shipping)
+56	520.0	White Sturgeon Caviar by Calvisius, 250 Grams Approximately 8.8 Ounces
+57	119.0	Oscietra Sturgeon Malossol Caviar 28g - 1oz (Overnight Shipping)
+58	116.0	Oscietra Classic (Russian Sturgeon Caviar) by Calvisius, 28 Grams Approximately 1 Ounce
+59	825.0	Oscietra Classic (Russian Sturgeon Caviar) by Calvisius, 250 Grams Approximately 8.8 Ounces
+60	430.0	Oscietra Classic (Russian Sturgeon Caviar) by Calvisius, 125 Grams Approximately 4.4 Ounces
+61	1075.0	Oscietra Royal (Russian Sturgeon Caviar) by Calvisius, 250 Grams Approximately 8.8 Ounces
+62	79.99	Venetian Sturgeon Malossol Caviar 28g - 1oz (Overnight Shipping)
+63	275.0	White Sturgeon Caviar by Calvisius, 125 Grams Approximately 4.4 Ounces
+64	546.0	Oscietra Royal (Russian Sturgeon Caviar) by Calvisius, 125 Grams Approximately 4.4 Ounces
+65	878.41	Plaza de Caviar's Delicious Plaza Osetra Farmed Russian Sturgeon Caviar, 8.8 ounce Tin
+66	125.0	White Sturgeon Caviar by Calvisius, 50 Grams Approximately 1.75 Ounces
+67	86.0	White Sturgeon Caviar by Calvisius, 28 Grams Approximately 1 Ounce
+68	187.0	Oscietra Classic (Russian Sturgeon Caviar) by Calvisius, 50 Grams Approximately 1.75 Ounces
+70	722.63	Plaza de Caviar's Nutritious Farmed White Sturgeon, 8.8 ounces Tin
+71	60.03	Bemka.com Californian Ossetra Transmontanous Farmed Caviar, 1-Ounce Jar
+72	17.0	Italian Summer Black Truffles Whole 0.5 oz.
+73	44.99	cgb_91240_1 Danita Delimont - Lighthouses - MI, Lake Huron Shore Sturgeon Point Lighthouse - US23 WBI0148 - Walter Bibikow - Coffee Gift Baskets - Coffee Gift Basket
+74	349.0	Caviar Osetra White Sturgeon (TRA) 'Malossol' - Farm raised - 4.00 oz
+76	125.0	Osetra Sturgeon Caviar 50 Grams (1.3/4 Ounce)
+77	175.0	2oz. Tin of California White Sturgeon Caviar
+78	893.55	Kaluga Sturgeon Caviar - Malossol, Farm Rised - 9 oz jar
+79	312.0	Caviar Osetra White Sturgeon (TRA) 'Malossol' - Farm raised - 3.50 oz.
+80	299.99	Tradition White Sturgeon Caviar 4.375 Ounce Tin
+81	62.0	Caviar Osetra White Sturgeon (TRA) 'Malossol' - Farm raised - 0.50 oz.
+82	2400.0	Italian White Sturgeon Malossol Caviar 1000g- 35.2oz (Overnight Shipping)
+83	181.0	Caviar Osetra White Sturgeon (TRA) 'Malossol' - Farm raised - 1.75 ox
+84	463.68	Premium Farmed White Sturgeon 7 Oz
+85	320.0	4.5oz. Tin of California White Sturgeon Caviar
+86	264.96	Premium Farmed White Sturgeon 4 Oz
+87	50.31	Kaluga Sturgeon Caviar - Malossol, Farm Rised - 0.5 Oz Jar
+88	98.0	Kaluga Amur Sturgeon Caviar 1 Oz (Acipenser Schrencki - Huso Dauricus)
+89	1389.78	Kaluga Sturgeon Caviar - Malossol, Farm Rised - 14 oz jar
+90	424.0	Caviar Osetra White Sturgeon (TRA) 'Malossol' - Farm raised - 5.00 oz.
+91	125.0	Caviar Osetra White Sturgeon (TRA) 'Malossol' - Farm raised - 1.00 oz.
+92	107.81	American Osetra Classic White Sturgeon Caviar - Malossol - 2 Oz
+93	124.99	Tradition White Sturgeon Caviar 1.75 Ounce Tin
+95	730.0	9oz. Tin of California White Sturgeon Caviar
+96	216.2	American Osetra Classic White Sturgeon Caviar - Malossol - 4 Oz
+97	75.0	Osetra Sturgeon Caviar 28 Grams (1 Ounce)
+98	381.0	(COMBO OF FOUR) OLMA Black Caviar White Sturgeon 2oz (56g) Glass Jar (FREE Overnight Shipping)
+99	384.65	Marky's Farmed California Osetra Caviar, Transmontanus White Sturgeon from USA - 7 oz

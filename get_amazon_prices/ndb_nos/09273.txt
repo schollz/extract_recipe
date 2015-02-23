@@ -1,0 +1,80 @@
+0	33.15	Dole 100% Pineapple Juice 8.4oz 24 Count
+1	8.89	Dole 100% Pineapple Juice - 6 oz - 6 ct
+2	30.83	Ocean Spray Pineapple Juice 100%, 5.5-Ounce Pouches (Pack of 48)
+3	32.34	Lakewood Organic PURE Pineapple, 32-Ounce Bottles (Pack of 6)
+4	20.99	Langers Pineapple Juice, 16-Ounces (Pack Of 12)
+5	2.7	Dole 100% Pineapple Juice - 46 oz
+6	28.44	Lakewood Premium Juice, Pure Pineapple, 32 Ounce (Pack of 6)
+8	32.85	Lakewood Organic PURE Pineapple Juice, 12.5-Ounce Bottles (Pack of 12)
+10	32.18	Dole 100% Pineapple Juice 46 Oz (Pack of 6)
+12	28.69	Dole(r) 100% Pineapple Juice - 24 Cans - 8.4 Oz. Each
+15	57.95	Langers 100% Juice with Vitamin C, Pineapple, 64 Ounce (Pack of 8)
+16	29.29	Dole Pineapple Chunks in Juice, 20 Ounce Cans (Pack of 12)
+17	41.49	Dole Pineapple Juice 6 6-oz. cans (Pack of 6) = 36 cans
+18	19.99	Dole Pineapple Slices in Juice, 8 Ounce Cans (Pack of 12)
+19	54.08	Dole Pineapple Juice, 46-Ounce Cans (Pack of 12)
+20	15.27	Dole Pineapple Chunks in Juice, 8 Ounce Cans (Pack of 12)
+21	17.9	Welch's Single Serve Orange Pineapple Juice, 6pk(Case of 2)
+22	19.07	Dole Pineapple Tidbits in Juice, 8 Ounce Cans (Pack of 12)
+23	29.52	Lakewood Organic Pure Juice, Fruit Punch, 32 Ounce (Pack of 6)
+26	37.52	Langers Juice Cocktail, Pineapple Orange Guava, 101.4 Ounce (Pack of 4)
+27	20.93	Welch's Orange Pineapple Drink, 10-Ounce Bottles (Pack of 24)
+28	15.76	Del Monte CRUSHED PINEAPPLE in 100% Pineapple Juice 20oz (2 Pack)
+29	26.33	Welch's Drink Variety Pack - Fruit Punch Grape Orange-Pineapple Drink 10-Ounce Bottles (Pack of 24)
+30	73.13	Lakewood Pure Pineapple Juice, 32 Ounce -- 12 per case.
+31	32.99	Dole Pineapple Orange Banana Juice, 6 Count Cans (Pack of 8)
+32	11.97	Stur - Pineapple (3pck) Coconut Water enhancer.........liquid drink mix, makes 48 8oz. servings - real coconut water (not concentrate) with purified water, natural fruit and stevia extracts - mixes instantly for use on-the-go with delicious taste. All-Natural, Non-GMO, 250% Vitamin C, Sugar-free, Calorie-free. **Family Business, Happiness Guaranteed**
+33	21.42	Native Forest Organic Pineapple Slices, 15-Ounce Cans (Pack of 6)
+34	22.15	Dole 16- 4 Oz Pineapple Tidbits in 100% Pineapple Juice, 4 Lb
+36	43.47	Langers 100% Juice with Vitamin C, Apple Orange Pineapple, 64 Ounce (Pack of 8)
+37	3.49	Gerber Harvest Juice Mango Pineapple Carrot Blend 4-Pack - 4 Ounce
+38	38.65	Ocean Spray, 100% Juice, Citrus Mango Pineapple, 60 Ounce (Pack of 8)
+39	23.49	Langers Juice Cocktail, Pineapple Orange Guava, 10 Ounce (Pack of 12)
+40	41.39	Dole Crushed Pineapple in Juice, 20 Ounce Cans (Pack of 12)
+41	31.95	Envy 100% Fruit Juice, Pineapple Orange 8oz (non-carbonated)
+42	54.94	Langers Juice Cocktail, Pineapple Orange Guava, 64 Ounce (Pack of 8)
+43	24.99	Pack of 2 Trader Joe's 100% Pineapple Juice (Each 4 Cans)
+44	10.97	Skinnygirl Pineapple Coconut Water Enhancer Naturally Sweetened - 5 Calories
+46	31.3	Juice Pineapple Org 32 FO (Pack Of 6)
+48	16.64	Amazing Grass Green Superfood Multivitamin Pineapple Lemongrass Box Of 15 Individual Servings, 0.25 Ounces
+49	29.12	Langers Juice Cocktail, Pineapple Orange Guava, 16 Ounce (Pack of 12)
+51	20.94	Native Forest Organic Pineapple Crushed, 14-Ounce Cans (Pack of 6)
+52	31.02	Hansen's 100% Juice, Apple Orange Pineapple, 64 Ounce (Pack of 8)
+53	29.73	Hawaiian Sun Nectar, Pineapple-Orange, 11.5-Ounce (Pack of 24)
+54	24.99	Goya - Pineapple Juice / Jugo De Pina (100% Natural) Each Can Is 9.6 Oz (Pack Of 24)
+55	51.81	Dole Pineapple Orange Juice Blend, 6-Ounce Containers (Pack of 48)
+56	13.53	Lakewood Pure Pineapple Juice, Organic, 1 Quart
+58	20.99	Dole Pineapple Chunks in 100% Pineapple Juice - 20 oz. - 4 ct.
+59	19.99	Amazing Grass Green Superfood Multivitamin Pineapple Lemongrass, 30 Servings, 7.4 Ounces
+60	8.18	Dole Crushed Pineapple in 100% Juice, No Sugar Added 20 oz
+61	28.45	L&A Coconut Pineapple Juice, 32-Ounce (Pack of 6)
+62	28.88	Dole Pineapple Juice, 6-ounce Cans (Pack of 24)
+63	31.63	Ocean Spray Cranberry Cocktail Drink, 5.5-Ounce Bottles (Pack of 48)
+65	39.99	Dole Pineapple Juice 6 z. 6 ct. - 8 Pack (48 total)
+66	38.12	Dole Pineapple Fruit Bowl Tidbits in 100% Pineapple Juice 4 - 4 oz cups (Pack of 6)
+67	32.59	Naked Pineapple Mango Coconut Water Juice 15.2 FL oz (5 Pack)
+68	20.96	Dole Tropical Gold Pineapple Chunks in 100% Pineapple Juice (6 ~ 20oz Cans)
+69	30.59	Vita Coco Pineapple Coconut Water, 500 ml, 12 ct
+70	29.52	Langers 100% Juice, Pineapple, 16 Ounce (Pack of 12)
+71	39.0	Festival Pineapple Chunks in juices Choice, 20-Ounce (Pack of 24)
+74	3.09	Dole Pineapple Slices in 100% Pineapple Juice 20 oz
+75	39.33	FAVE 100 Percent Fruit and Vegetable Juice, Orange Tangerine Pineapple, 46 Fluid Ounce (Pack of 8)
+77	24.87	V-8 V-Fusion + Energy Orange Pineapple Vegetable & Fruit Juice, 8 fl oz, 6 pack(Case of 2)
+78	3.59	Dole Tropical Gold Premium Pineapple Chunks in Juice (432g)
+80	53.32	Dole Pineapple Chunks in Juice, 8-Ounce Cans (Pack of 24)
+81	25.45	Dole Pineapple Slices in Juice, 20 Ounce Cans (Pack of 12)
+82	26.0	Harvest Bay Coconut Water with Pineapple, 8.45 Ounce (Pack of 12)
+83	18.59	Coco Lopez Cream Coconut, 15-Ounce Cans (Pack of 6)
+84	70.53	Skimpy Mixers Pineapple, 2.4 Pound (Pack of 12)
+85	37.7	R.W. Knudsen Family Organic Juice Pineapple -- 32 fl oz
+87	25.29	Jumex Coconut Pineapple Juice, 11.3-Ounce (Pack of 24)
+89	39.99	Dole Pineapple Juice, 6-Ounce Cans (Pack of 48)
+91	44.85	Langers 100% Juice, Pineapple, 32 Ounce (Pack of 12)
+92	31.99	Grace Tropical Rhythms Pineapple Ginger Juice 16 Oz. (12 Pack)
+93	12.98	Lawry's, Teriyaki with Pineapple Juice Marinade & Sauce, 12oz Bottle (Pack of 3)
+94	54.98	Dole Pineapple Slices in Juice, 107 Ounce Cans (Pack of 6)
+95	45.44	Lakewood Organic All-Star Variety Pack 1, 32-Ounce Bottles (Pack of 6)
+96	6.74	Del Monte Pineapple Tidbits - 106 oz. can
+97	39.03	Ocean Spray 100% Pineapple Juice Bars In a Bottle (Pack of 12), 32-Ounce Boxes (Pack of 12)
+98	13.99	Lakewood Organic Fresh Pressed Pure Pineapple (1 X 32 Fl Oz)
+99	11.59	OKF Aloe Pineapple Flavor 1.5L

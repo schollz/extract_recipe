@@ -1,0 +1,85 @@
+0	27.88	Chesapeake Bay Maryland Blue Crab Box
+1	79.99	FRESH DUNGENESS CRAB MEAT (2 POUNDS)
+2	115.0	Canadian Wild Caught Snow Crab Clusters, 10 LB
+3	111.0	King Crab Legs Wild Caught Frozen 5 lb.
+4	91.25	Crown Prince Natural Fancy White-Lump Crab Meat, 6-Ounce Cans (Pack of 12)
+7	5.05	Bumble Bee Fancy White Crab, 6 Ounce
+8	89.95	Soft Shell BLUE CRAB (2 DOZEN)
+9	141.3	Miller's Select Claw Crab Meat, 6.5-Ounce Tins (Pack of 12)
+10	140.0	King Crab Legs JUMBO (5 LBS)
+11	79.99	SeaBear Northwest Dungeness Crab Clusters 5 lbs
+13	26.73	Sea Best Snow Crab Clusters, 2 Pound
+14	23.73	Sea Fare White Crab Meat, 6.5-Ounce (Pack of 3)
+15	175.0	FRESH Cooked DUNGENESS CRABS (6 Large Crabs)
+17	25.46	Roland White Crab Meat, 6-Ounce Cans (Pack of 6)
+19	94.99	1 Dozen Large Blue Crabs
+20	22.99	Consul Crab Meat, 6-Ounce Cans (Pack of 6)
+21	65.53	Crab Master CM1 Crab Meat Picker
+22	1109.0	25 pounds Giant Alaskan Red King Crab
+23	14.99	Zatarains Pre-Seasoned Crab and Shrimp Boil 72 Ounce
+24	7.76	Old Bay Classic Cake Mix, Crab, 16-Ounce
+25	13.93	King Kooker 00037 16-Ounce Crab, Shrimp, Crawfish Boil
+26	29.95	Miller's Select Claw Crab Meat (Pack of 2)
+27	26.99	60 - 1 Oz. Bags of Crab Flavored Chips
+28	5.78	Zatarains Concentrated Crab and Shrimp Boil
+30	65.0	Heron Point Jumbo Lump Crabmeat 2 lb.
+31	48.09	Reese All White Crabmeat, 6-Ounce Cans (Pack of 12)
+32	24.99	Frozen Large Rock Crab Claws - 1lbs
+33	13.99	Zatarain's Crab Boil Six 3oz Bags
+35	23.04	ZATARAIN'S Crawfish, Crab and Shrimp Boil, Dry, 3-Ounce (Pack of 12)
+36	45.0	Snow Crab Claws 2 lbs.
+37	10.0	Three Crabs Brand Fish Sauce, 24-Ounce Bottle
+38	17.99	Cajun Crawfish (Crab & Shrimp) Swamp Dust 2lb
+40	13.98	Louisiana Fish Fry Crawfish, Shrimp & Crab Boil, 16oz,(Pack of 3)
+41	16.07	Louisiana Crawfish, Crab and Shrimp Boil 4.5 Lbs Bag
+42	61.02	Charleston Seafood Claw Crabmeat, 32-Ounce Box
+43	16.95	Route 11 Chesapeake Crab All Natural Potato Chips 6 oz (Pack of 3)
+44	8.88	ZATARAINS Crab and Shrimp Boil Liquid, Concentrated, 8-Ounce
+45	10.95	Gullah Gourmet She Crab Soup
+46	22.99	Prima Taste Singapore Chilli Crab Lamian Noodles, Pack of 4
+47	6.4	Crab Paste with Soya Bean Oil
+48	27.49	Zatarain's Mix Crab Cake 5.75 OZ(Pack of 6)
+49	6.95	The Peanut Shop of Williamsburg Crab Town Nuts, 10.5-Ounce Tin
+50	9.95	Gullah Gourmet She Crab Soup Mix
+52	5.41	Cape Cod All Natural Vegetable Soup, Red Crab, 15 Ounce
+53	8.95	WYE RIVER Condensed Red Crab Soup 10.5 oz.
+54	79.95	Succulent Alaskan King Crab Legs & Hearty New England Clam Chowder package
+55	21.7	Imported Three Crabs Brand Fish Sauce, 24-Ounce Bottle (Pack of 2)
+56	22.14	Bookbinders (Old Original) Crab Bisque, 10.5-Ounce (Pack of 6)
+58	24.98	Sea Best Southern Red King Crab Legs, 1.5 Pound
+59	140.0	King Crab Legs LARGE JUMBO (5 POUNDS)
+60	10.0	Utz Potato Chips, The Crab Chip, Family Size, 9.5 oz, (pack of 3)
+61	10.0	UTZ The Crab Chip Potato Chip Family Size 4 pack (10.5 oz each)
+65	17.38	Tony Chachere Seafood Seasonings, Crawfish and Crab Boil, 7 Pound
+66	28.75	Minor's Crab - no-added MSG - Net WT 16 oz (1LB) 453g
+67	28.0	Condensed Red Crab Soup 10.5 ounces (3 pack)
+68	6.92	Zatarain's Concentrated Shrimp & Crab Boil, 4 Fl Oz, 240ml
+69	5.29	Zatarain's Dry Crab and Shrimp Boil, 3 oz
+70	49.99	Rastelli Direct Jumbo Lump Crabcake - 8 (3 oz.) Portions
+71	48.04	Chicken of the Sea Crab, White, 6-Ounce Packages (Pack of 12)
+72	55.31	Chincoteague Seafood Vegetable Crab Soup, Red, 22.5 Pound
+73	10.75	Trader Joe's Crab Meat with 15% Leg Meat
+74	81.91	Charleston Seafood Frozen King Crab Legs, 32-Ounce Box
+75	25.0	UTZ Crab Chips Potato Chips 9.5 Ounces (Pack of 10)
+77	9.59	LOUISIANA Fish Fry Products Liquid Seafood Crawfish Crab and Shrimp Boil 8 oz
+78	9.95	Crab Character Suckers (12 Pack) - Candy & Suckers & Lollipops
+79	10.98	Zatarain's, Crawfish Shrimp Crab Boil In Bag, 3oz Box (Pack of 4)
+80	49.99	Prima Taste Singapore Chilli Crab Lamian Noodles, Pack of 12
+81	7.97	Three Crabs Brand Fish Sauce
+82	21.97	Campbell's Homestyle Maryland-style Crab Soup & New England Clam Chowder 18.8 Oz/18.6 Oz (4 Pack)
+83	8.99	Zatarain's Crab and Shrimp Boil Liquid, Lemon, 8-ounce
+84	8.75	Rub With Love Crab Mix, 3.5 oz jar
+85	12.5	Louisiana Fish Fry Products-Crawfish, Crab & Shrimp Boil-Six 5oz Packages
+86	69.99	Chesapeake Bay Crab Cakes (Eight 3 oz.)
+88	9.95	Crab Food or Cupcake Picks - 25 ct
+89	19.99	Cajun Land Crab Shrimp Crawfish Boil Complete 4 Lbs
+90	5.5	Crab Apple Jelly (Wild) 9.6 ounce
+91	14.96	Louisiana Concentrated Crawfish, Crab, and Shrimp Boil
+92	33.95	Blue Crab Bay Co. Sea Salt Nuts, 12-Ounce Packages (Pack of 4)
+93	39.2	McCormick Shrimp & Crab Boil Spice, 3-Ounce Units (Pack of 12)
+94	19.99	Zatarains Concentrated Crab and Shrimp Boil (Pack of 6)
+95	3.09	Louisiana Fish Fry Crawfish Crab and Shrimp Boil
+96	74.28	Charleston Seafood Crab Cakes, 32-Ounce Box
+97	29.95	Blue Crab Bay Co. Clam Dip Kit, 6.75-Ounces (Pack of 4)
+98	12.59	Nora Chinese Style Crab and Corn Soup Mix, 2.12-Ounce (Pack of 6)
+99	22.5	Zatarain's New Orleans Style Seafood Cake Mix Kit: One 5.75 oz Box of Salmon Cake Mix, One 5.75 oz Box of Crab Cake Mix, and One 8.5 oz Bottle of Pike Pier Fisherman All Natural Tartar Sauce in a Gift Box

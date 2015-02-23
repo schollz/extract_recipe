@@ -1,0 +1,93 @@
+0	40.32	Kellogg's Granola with Raisins, Low Fat, 2.22-Ounce Single Serve Boxes (Pack of 70)
+1	17.88	Kellogg's Low Fat Granola with Raisins, 10.6 Ounce (Pack of 6)
+2	32.55	Kellogg's Low Fat Granola without Raisins, 10.6 Ounce (Pack of 6)
+3	14.64	Quaker Oatmeal Raisin Chewy Granola Bars 90 Calories, 8-Count 0.84 Ounce Bars, (Pack of 6)
+4	22.75	Kellogg's Low Fat Granola with Raisins (Pack of 4)
+5	4.69	Kellogg's Low Fat Granola with Raisins, 10.6 oz.
+6	49.06	Sweet Home Farm Low Fat Granola with Raisins, 20.5-Ounce Cartons (Pack of 4)
+7	50.09	Sweet Home Farm Granola, Low Fat Granola with Raisins, 20.5 Ounce (Pack of 8)
+8	12.99	Quaker Chewy 90 Calorie Low Fat Oatmeal Raisin Granola Bars, 0.84 oz, 12 count
+9	28.19	Heartland Granola Cereal, Low Fat Raisin, 14-Ounce Box (Pack of 6)
+10	115.25	Kelloggs Low Fat Granola without Raisins Cereal, 37.5 Pound -- 1 each.
+11	10.0	Sunbelt Bakery: Low Fat Oatmeal Raisin Chewy Granola Bars (3 Boxes)
+12	58.29	Quaker Chewy Granola Bar Low Fat Oatmeal Raisin, 8-Count Boxes (Pack of 12)
+14	14.64	Quaker Chocolate Chunk Chewy Granola Bars 90 Calories,  0.84 Ounce 8 Bar Pack (Pack of 6)
+15	17.99	Quaker Chewy 90 Calorie Low Fat Oatmeal Raisin Granola Bars, 12 Count - 2 Pk
+16	19.99	Sweet Home Farm Granola Low Fat with Raisins -- 20.5 oz
+17	18.54	Quaker Breakfast Cookies Oatmeal Raisin, 6-Count Boxes,10.1-Ounces  (Pack of 6)
+18	64.45	Low Fat Granola With Raisins 4 Bags Per Case 50 Oz Per Bag
+19	31.02	Sunbelt Bakery's Low Fat OATMEAL RAISIN Chewy Granola Bars 10 Count (8 Boxes)
+20	21.46	Sunbelt Bakery's Low Fat OATMEAL RAISIN Chewy Granola Bars 10 Count (5 Boxes)
+21	40.55	Sunbelt Bakery's Low Fat OATMEAL RAISIN Chewy Granola Bars 10 Count (12 Boxes)
+22	32.59	Heartland Granola Cereal, Low Fat No Raisin, 14-Ounce Box (Pack of 6)
+23	141.66	Kelloggs Low Fat Granola with Raisins Cereal (Pack Of 70)
+24	14.64	Quaker Chewy Granola Bar, Variety Pack,0.84 Ounce, 8-Count (Pack of 6)
+25	21.99	Sunbelt Bakery: Low Fat Oatmeal Raisin Chewy Granola Bars (4 Boxes)
+27	35.95	Peace Cereal Hearty Low Fat Clusters and Flakes Cereal Raisin Bran -- 10.5 oz
+28	38.28	Ambrosial Granola Organic Grecian Grove Antioxidant Blend, 12-Ounce Pouch (Pack of 6)
+29	38.28	Ambrosial Granola Organic Venetian Vineyard Omega-3 Plus, 12-Ounce Pouch (Pack of 6)
+30	5.29	Kashi Organic Promise Raisin Vineyard Cereal, 13.7 Ounce
+31	20.21	Quaker Breakfast Cookies Oatmeal Chocolate Chip, 6-Count 10.1oz Boxes (Pack of 6)
+32	102.88	Golden Temple Natural Low Fat Raisin Almond Granola , 25 pound -- 1 each
+33	14.64	Quaker Peanut Butter Chewy Granola Bars 90 Calories, 0.84 Ounce, 8 Bars per Pack (Pack of 6)
+34	193.7	Kelloggs Low Fat Granola With Raisins Cereal [70 Pieces] *** Product Description: Kelloggs Low Fat Granola With Raisins Cereal (Box) 2.22 Oz, Individual Box. ***
+35	29.85	Heartland Granola Cereal, Low Fat Raisin, 14-ounce Box (Pack of 3)
+36	110.52	Quaker 90 Calories Low Fat Oatmeal Raisin Granola Bars 6.72 OZ (Pack of 24)
+37	22.9	Heartland Brands Granola Cereal Low Fat No Raisin (6x14oz)
+38	78.93	Heartland Cereal Granola, Low Fat Raisin 14 OZ (Pack of 12)
+39	104.15	Heartland Cereal Granola, Low Fat Raisin 14 OZ (Pack of 18)
+40	80.26	Sweet Home Farm Low Fat Granola with Raisins, 20.5 oz
+41	62.91	Kellogg's Cereal Cup Assortment Pack - Wellness (6 Flavors),Pack of 60
+42	38.28	Ambrosial Granola Organic Athenian Harvest Muesli Fiber Boost, 12-Ounce Pouch (Pack of 6)
+43	67.41	Sweet Home Farm Low Fat Granola, 20.5 Ounce -- 8 per case.
+44	38.99	Sunbelt Bakery: Low Fat Granola Cereal 16 Oz (6 Pack)
+45	21.99	365 Everyday Value Organic Raisin Granola
+46	18.75	Quaker Natural Granola Oats, Honey, Raisins & Almonds Cereal 28 oz
+47	14.47	Mrs. May's Roasted Seaweed Almond Rice Stix, 4 Ounce (Pack of 6)
+48	29.48	Quaker Chewy Granola Bars Chocolate Chunk, Oatmeal Raisin and Peanut Butter Variety Pack 90 Calories, 8 Bars per Pack  Net Wt 6.7 oz.., (Pack of 6)
+49	65.66	Quaker Oatmeal Raisin Chewy Granola Bars 90 Calories, 8 Bars per Pack (Pack of 12)
+50	27.99	Heartland Granola Cereal, Original, 16-Ounce Box (Pack of 6)
+51	17.78	Peace Cereals Raisin Bran Cereal (3x10.5 oz.)
+52	38.67	Peace Cereals Cereal Hearty Rasin Bran, Low-Fat 10.5 oz. (Pack of 6)
+53	15.03	Mrs. May's Almond Rice Stix, Cranberry and Blueberry, 4 Ounce (Pack of 6)
+54	46.68	Arrowhead Mills Organic Gluten Free Yellow Corn Grits, 24 Ounce (Pack of 12)
+55	15.03	Mrs. May's Almond Rice Stix, Mango Strawberry, 4 Ounce (Pack of 6)
+57	36.1	Health Valley Organic Sprouted Amaranth Flakes, 12.65-Ounce Boxes (Pack of 6)
+58	29.89	Heartland Granola Cereal, Raisins, 16-Ounce Box (Pack of 6)
+59	107.75	Quaker Natural Granola Oats, Honey, Raisins & Almonds Cereal 28 oz (Pack of 12)
+60	19.99	Kind Healthy Grains Clusters- Super Variety Packs 11 Oz (Pack of 3) - Maple Quinoa W/chia, Peanut Butter Whole Grain, Fruit & Nut Clusters
+61	6.95	Organic Sprouted Wheat - All Natural Vegan / Vegetarian / Raw Food Simply Brand Breakfast Cereal - 1 Lb.
+62	24.11	KIND Fruit + Nut Bar, Fruit & Nut Delight, 1.4-Ounce Bars (Pack of 8)
+63	43.62	Health Valley Fiber 7 Flakes, 12.65-Ounce Boxes (Pack of 6)
+64	8.41	Familia - Swiss Crunch Muesli Cereal Multigrain - 11 oz.
+65	32.95	Bakery on Main Apple Raisin Walnut, Gluten Free Granola, 12 oz Bags, 6 pk
+66	5.59	Bakery On Main Extreme Fruit & Nut, Gluten Free Granola, 12 oz Bags
+67	45.13	Seitenbacher Muesli #12 Low Fat Active 16 Oz (Pack of 4)
+68	98.87	Kellogg's Wellness Cereal, 60 Single Serve Cups, Assortment 1 case
+69	8.85	Kellogg's Raisin Bran Crunch - 43.3 oz.
+70	71.95	General Mills Assorted Cereal in a Cup - Goodness Pack, 2.18 Ounce -- 60 per case.
+71	8.25	Dried Organic Banana Chips 16 oz by OliveNation
+72	13.29	Bakery On Main Extreme Fruit & Nut, Gluten Free Granola, 12 oz Bags, 2 pk
+73	12.99	Dorset Cereal Berries and Cherries 800g
+74	23.99	Mango Pecan Coconut Granola - 2 Lb.
+75	14.97	Bakery On Main | Granola-Fiber Power VARIETY PACK - Cinnamon Raisin and Triple Berry [Gluten Free] [ 2 PACK]
+76	5.15	Dried Organic Banana Chips 8 oz by OliveNation
+77	46.5	Healthy Choices Deluxe Care package
+78	35.15	Dried Organic Banana Chips 5 lbs by OliveNation
+80	9.95	Simply Nature Organic Apple Walnut Granola Cereal 16 oz
+81	63.9	Apple Breakfast Bar 7.1 oz. (Case of 12)
+82	49.95	Military Care Package: Healthy Snacks Care Package
+83	89.53	Bakery on Main Gourmet Naturals Fiber Power Cinnamon Raisin Granola, 12 Oz 6pk
+84	38.84	Heartland, Granola Lf No Raisin, 14-Ounce (6 Pack)
+85	49.95	Healthy Snacks: Healthy Snacks Care Package
+86	49.95	Healthy Food Gift: Healthy Choice Care Package
+87	49.97	Healthy Foods Care Package - Great College or Military Care Package
+88	55.99	Gift for Choosing Healthy Snack Gift Baskets Associates Care Package
+89	10.98	Perkier Porridge Pot - Apple, Cinnamon & Raisin 65g
+90	69.95	Kelloggs Wellness 30 Count Assorted Cereals
+91	17.98	Alpen Raspberry & Apple 560G
+92	49.97	Snack Lightly
+93	22.99	Dorset Cereals Luscious Berries & Cherries 800G
+94	46.95	Healthy Choices Deluxe Care package
+95	53.91	Gift Baskets Health Conscious Gift Baskets
+96	49.95	APO: Healthy Snacks Care Package

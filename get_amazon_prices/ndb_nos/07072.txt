@@ -1,0 +1,91 @@
+0	16.95	Natural Genoa Salami- Nitrate Free (1 stick)
+1	39.95	Cinque Salami Bundle | Set of 5 Volpi Salami
+2	10.24	Busseto Dry Cured Salami - Black Pepper (8 ounce)
+3	23.49	Columbus Salame Company Renaissance 3 Salame Gift Pack 3-10oz.
+4	49.95	World Salami Sampler Gift Box
+5	10.99	Gallo Salame Italian Dry Salame Party Size 18.5 Oz. Chub
+6	9.99	Columbus Salame Company Italian Dry Salame 14 Oz. Paper Wrapped
+7	13.81	Columbus Salame Company Artisan Salame Secchi Fiore 2 Pack (Approx. 9 Oz.)
+9	17.99	Sliced Biltong - 8oz SLICED Seasoned Dried Beef
+10	50.28	Buon Gusto Italian Dry Salami By Columbus 4lb Jumbo Chub
+12	20.99	Hungarian Brand Salami with Paprika - Csabai, approx. 2.1lb
+13	37.5	Salami assorted Milan (6 pack) Nitrate Free~dry cured 8oz sticks
+14	57.95	Volpi Salami, Salami, Salami Gift Set
+15	11.49	Gallo Deli Thin Sliced Italian Dry Salame 8 oz. package (Pack of 2)
+16	24.99	PICK Hungarian Salami, approx. 800g
+18	79.99	4.75 lb - Gourmet Italian Meat Lovers Gift Basket
+19	14.95	Genoa Salami Sliced Premium Deli Meat (4 pack) 12 ounces Total
+20	12.95	Pick Original Hungarian Salami - (1 pc / 250g)
+21	29.75	Gourmet Italian Meat Lovers Gift Box
+22	18.49	Columbus Salame Company Fiore Italian Dry Salame 2lb Stick
+23	12.54	Olli Toscano Salami, 6 Ounce
+24	22.5	Sweet Soppresata Dry Cured Italian Sausage: 14-18 oz. Stick
+25	24.99	Olli Napoli Salami, 6 Ounce
+27	6.99	Columbus Salame Company Sopressata Salame 10 Ounce Stick
+28	15.42	Columbus Salame Company Italian Dry Salame 10 Ounce Stick
+30	20.99	Hungarian Brand Salami - Teli, approx. 2.1lb
+31	29.99	2 Pounds Gallo Italian Dry Salame Salami Deli Thin Sliced Total 32oz
+32	42.94	Molinari & Sons San Francisco Italian Dry Salami 3lb Stick Molded Paper Wrapped
+33	27.95	Galileo Premium Italian Dry Salame 3lb Chub
+34	29.99	Wisconsin Cheeseman Eight of Your Favorite Sausages Gift Assortment
+35	27.95	Columbus, Sopressata, 2.5 lb
+36	10.99	Busseto Vino Rosso Dry Salami (1 X 7 Oz)
+37	9.94	Pick Hungarian Winter Salami (8.8 ounce)
+38	29.99	Gallo Italian Dry Salame Chub 32oz
+39	10.42	Busseto Chub Herb Coat, 8.0 Ounce
+40	10.57	Busseto Salami, Spicy, Paperwrapped, 7.0 Ounce
+42	42.99	Igourmet Ultimate Salami Collection, 2.8-Pound
+43	11.49	Bende Csabai Hungarian Style Salami with Paprika - Short - approx 0.8 lb
+44	11.99	PICK Hungarian Salami, approx. 400g
+46	18.95	All Natural, Nitrate Free Dry Cured Pepperoni: 9oz. Pkg (2 Sticks Per Package)
+47	6.49	Columbus Salame Company Italian Dry Salame 8 Oz. Paper Wrapped Stick
+48	6.59	Daniele Paper Wrapped Salame Portofino Chub
+49	10.95	Volpi Chianti Salame - 8 oz
+50	10.95	Volpi Prosecco Sparkling Wine Salami - 8oz.
+51	21.99	Creminelli Wild Boar Salami
+52	42.95	Finocchiona Salami By Molinari & Sons
+53	7.5	Olli Salumeria Salami Molisana, 6 Ounce
+54	17.99	Columbus - Peppered Salame, 2 - 10 oz. Sticks
+55	10.15	Hickory Farms Summer Sausage Hardwood Smoked
+56	34.99	PICK Hungarian Salami, approx. 1250g
+57	39.9	Columbus Salame Company Italian Dry Salame V2 Paper Wrap 3 Pound
+58	34.99	100% Beef Salami (jewish salami) 1lb by HolanDeli
+60	42.99	Salami Sticks - 48 ct.
+61	31.99	Columbus Salame Company Genoa Salame 2.5 Pound Stick
+62	6.99	Battistoni Artisan Sweet Italian Salami with Wine, 10oz
+63	13.95	Daniele paper Wrapped Toscano Salame
+64	12.49	Gallo Salame Italian Dry Salame 8 Oz. Chub (Pack of 2)
+66	31.95	Columbus Salame Company Artisan Collection Gift Pack Crespone and Cacciatore 1.4lb
+67	25.99	Landjaeger German Sausage, 12pk (6x2pks)
+68	37.0	Creminelli Fine Meats Artisan Salami Tartufo Truffle Salami 3 sticks (approx. 1.5 lbs)
+69	15.24	Columbus Salame Company Sliced Italian Dry Salame 12 Oz. Pack
+70	13.73	Columbus Salame Company Hot Cajun Fennel Salame 10 Ounce Stick
+71	10.99	Hungarian Brand Salami with Paprika - Csabai, approx. 0.8lb
+72	49.95	Columbus Salame Company Salame Secchi String of 12 Salames
+73	12.99	Olli Salumeria Calabrese Spicy Salame with Sangiovese Wine, 6 ounce
+74	9.29	15.2oz Gallo Italian Dry Salame Deli Thin Sliced Salami (One Bag)
+75	32.4	Volpi Genoa Salami - 4.5 lb piece
+76	8.69	Columbus Salame Company Artisan Finocchiona Salame Grab N Go 10 Ounce
+77	24.99	Assorted Square and Old Forest Salami by HolanDeli
+78	19.95	The Swiss Colony Five-Sausage Gift Box
+79	24.14	Busseto Italian Dry Sliced Salami, 16.0 Ounce
+80	26.99	Creminelli Fine Meats Artisan Piccante Salami Pepperoni 3 Sticks (approx. 1 lb)
+81	36.99	Black Kassel Old Forest Salami 1lb by HolanDeli
+82	34.95	Columbus Salame Company Calabrese Hot Salame 4 Pound Cryovac Stick
+83	57.94	California Delicious Meat and Cheese Gift Crate
+84	29.99	Hickory Farms 4-Piece Farmhouse Sampler Gift Pack 12.1 oz
+85	22.99	Dry Cured Hard Salami Kit
+86	34.0	Beef (6 pack) Dry Cured Salami 8oz sticks Nitrate Free
+87	17.11	Olli Salumeria Artisan Salame - Molisana (6 ounce)
+88	7.99	Hungarian Brand Salami, Daniele, approx. 0.7lb
+89	28.95	Tony's Fine Foods Italian Dry Salami 3lb Stick
+90	15.89	Busseto Chub Green Peppercorn, 8.0 Ounce
+91	19.99	100% Beef Salami 4oz by HolanDeli
+92	19.77	GoPicnic Ready-to-Eat Meals Salami and Cheese, 3.4 Ounce
+93	24.99	Trail's Best Double Salami Stick (Pack of 24)
+94	31.5	Fennel & Black Pepper (6 pack) Milan Dry Cured Salami 8oz sticks Nitrate Free
+95	14.99	Salami with Pistachio - 1lb (454g)
+96	100.85	Margherita Genoa Deli Salami, 6.7 Pound -- 3 per case.
+97	56.0	Milan Dry Cured Salami (4 pack) assorted sampler 24 oz sticks Nitrate Free (6Lbs total)
+98	10.95	Volpi Rose Wine Salame - 8 oz
+99	34.99	Parmesan Salami 1lb by HolanDeli

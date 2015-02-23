@@ -1,0 +1,75 @@
+1	18.99	Pastariso Multi-Pack Sampler, 6.0-Pounds
+5	3.99	Explore Asia Organic Black Bean Spaghetti, 7.05-Ounce Pouch
+7	12.45	De Cecco Orecchiette, 16-Ounce Boxes (Pack of 5)
+8	19.96	Garofalo Papardelle Nido Pasta, 16-Ounce (Pack of 4)
+9	10.5	Barilla Pasta Rotini and Farfalle Value Pack 3 Farfalle and 3 Rotini 1 Pound Boxes
+11	1.65	Newman's Own Marinara Sauce, 24 Ounce
+12	8.01	Barilla Campanelle Pasta 16 oz
+13	3.53	Barilla Pastina Pasta 12 oz
+15	16.48	De Cecco Bucatini, 16-Ounce Boxes (Pack of 5)
+16	14.45	De Cecco Fusilli, 16-Ounce Boxes (Pack of 5)
+18	18.98	De Cecco Cavatappi, 16-Ounce Boxes (Pack of 5)
+20	18.29	TruRoots Gluten-free Ancient Grain Penne Pasta (2.2 Lbs / 1 KG)
+21	19.99	Garofalo Variety Pack 100% Organic 6 Pack - 1.1 Lb Each
+22	1.59	Barilla Tri-Color Rotini
+23	13.4	De Cecco Fettuccine, 16 Ounce Boxes (Pack of 5)
+24	1.25	No Yolks Broad Egg Noodles, 8 Oz
+25	23.77	Explore Asian Fettuccini, Organic Edamame & Mung Bean, 7.05 Oz (Pack Of 6)
+26	25.99	Rustichella Bucatini, 17.5-Ounce Bags (Pack of 4)
+28	14.45	De Cecco Penne Rigate, 16 Ounce Boxes (Pack of 5)
+29	11.95	De Cecco Acini Di Pepe, 16 Ounce Boxes (Pack of 5)
+30	16.82	De Cecco Farfalle, 16 Ounce Boxes (Pack of 5)
+35	32.72	Near East Roasted Garlic & Olive Oil Vermicelli Pasta Mix, 7-Ounce Boxes (Pack of 12)
+37	17.07	Pastariso All Natural Brown Rice Penne, 1-Pound (Pack of 6)
+38	16.48	De Cecco Rotelle, 16-Ounce Boxes (Pack of 5)
+40	16.48	De Cecco Farfalline, 16 Ounce Boxes (Pack of 5)
+41	6.99	Anelletti No. 56 (Tomasello) 16oz(1lb)
+42	12.99	Explore Asian Organic Black Bean Spaghetti Pasta -- 7.05 oz Each / Pack of 2
+43	13.03	Garofalo Farfalle Pasta, 16-Ounce (Pack of 4)
+44	21.09	Hodgson Mill, Organic Whole Wheat Angel Hair Pasta, 12- ounce (Pack of 12)
+45	15.58	La Piana Pasta Di Campofilone Squid Ink Linguine, 8.8 oz., (Pack of 2)
+46	9.9	Heartland Gluten Free Spaghetti 12 oz. (Pack of 5)
+47	17.88	Garofalo Schiaffoni Pasta, 16-Ounce (Pack of 4)
+48	25.97	De Cecco Pasta, Elbows, 16-Ounce Boxes (Pack of 5)
+49	45.35	Donne Del Grano Italian Donne Del Grano Lanterne Bianca Pasta, Lantern White, 17.8 Ounce (Pack of 8)
+50	10.74	Dreamfields Pasta Healthy Carb Living, Rotini, 13.25-Ounce Boxes (Pack of 6)
+51	22.02	Hodgson Mill Organic Whole Wheat Penne with Milled Flaxseed, 12-Ounce Boxes (Pack of 8)
+52	13.18	Garofalo Farfalline Pasta, 16-Ounce (Pack of 4)
+53	16.48	De Cecco Gemelli, 16-Ounce Boxes (Pack of 5)
+54	5.5	De Cecco Pasta, Egg Pappardelle, 8.8 Ounce
+55	16.98	De Cecco Angel Hair Nests, 8.8-Ounce Boxes (Pack of 5)
+56	13.4	De Cecco Thin Spaghetti (Spaghettini), 16-Ounce Boxes (Pack of 5)
+57	9.6	Garofalo Whole Wheat Pappardele Pasta, 16 Ounce
+58	11.68	Gerber Graduates Pasta Pick-Ups Ravioli, Chicken and Carrot, 8 Count, 6 Oz
+59	19.99	Dreamfields Pasta Healthy Carb Living, Penne Rigate, 13.25-Ounce Boxes (Pack of 6)
+61	39.36	Dreamfields Pasta Angel Hair, 13.25 Ounce Boxes (Pack of 10)
+62	12.11	De Cecco Potato Gnocchi, 17.5- Ounce Boxes (Pack of 4)
+63	18.75	De Cecco Linguine Fini, 16 Ounce Boxes (Pack of 5)
+64	12.64	Sam Mills Pasta D'Oro Gluten Free Penne Rigate, 1-Pound (Pack of 6)
+66	3.99	Hello Kitty Organic Pasta Shapes (250g)
+67	11.68	Gerber Graduates Pasta Pick-Ups Ravioli, Turkey and Vegetable, 6 Ounce, 8 Count
+68	14.45	De Cecco Rigatoni, 16 Ounce Boxes (Pack of 5)
+69	28.86	Dreamfields Pasta Healthy Carb Living, Elbow Macaroni, 13.25-Ounce Boxes (Pack of 6)
+70	22.95	Classico Traditional Favorites tomato & basil pasta sauce, 3-pack 96 oz Glass Jar
+71	18.95	Ragu Chunky Pasta Sauce, Tomato, Garlic, and Onion, 3 Pack ~ 45oz Jars
+72	16.48	De Cecco Fedelini, 16 Ounce Boxes (Pack of 5)
+73	8.99	Spaghetti alla Chitarra Pasta di Gragnano IGP 17.6 Oz
+74	19.92	Sun-Dried Tomato Basil Linguini Handmade Pasta with Garlic Herb Sauce Blend
+76	19.79	Ragu America's Favorite Pasta Sauce Traditional Old World Style Sause 2 Pound 13 Ounce Value Jars (Pack of 3)
+78	39.38	Mueller's Linguine Pasta, 16 Ounce (Pack of 20)
+80	25.99	Garofalo Spaghetti Pasta No 9. - La Pasta Di Gragnano presso Napoli (Pack of 8 - 16 Oz x 8 / 453g x 8)
+81	28.83	Explore Asian Organic Soybean Pasta, Spaghetti Shape, 7.05-Ounce (Pack of 6)
+82	11.99	"Zoo Animal Pasta" 17.6oz : Product of Italy
+84	20.59	Barilla Gluten Free Pasta Sampler Pack of 3 - Penne, Rotini, Elbows 12 oz each
+85	19.08	DaVinci Pasta Short Cuts, Penne Rigate, 16 Ounce Bags (Pack of 12)
+86	22.47	Pasta Roni Parmesan Cheese Angel Hair Pasta Mix, 5.1-Ounce Boxes (Pack of 12)
+87	26.23	Hodgson Mill Organic Whole Wheat Spaghetti with Milled Flax Seed, 12-Ounce Boxes (Pack of 12)
+88	18.8	De Cecco Angel Hair (Capellini No. 9) Pasta, 16-Ounce Boxes (Pack of 5)
+90	18.76	De Cecco Spaghetti, 16 Ounce Boxes (Pack of 5)
+91	17.98	Trader Joes Organic Brown Rice & Quinoa Fusilli Pasta Gluten Free - 2 Pack
+92	22.55	bionaturae Organic Whole Wheat Fusilli, 16-Ounce Bags (Pack of 6)
+93	12.22	Knorr Pasta Sides: Cheddar Broccoli (Pack of 2) 4.3 oz Bags
+94	22.33	OrgraN Buckwheat Pasta, Spirals, 8.8-Ounce Packages (Pack of 7)
+97	16.14	Alessi Pasta Fazool Soup, 6-Ounce Packages (Pack of 6)
+98	4.15	Ronzoni Spaghetti Pasta 16 oz
+99	12.28	Kraft Pasta Salad, HomeStyle Macaroni, 7.1-Ounce Boxes (Pack of 6)

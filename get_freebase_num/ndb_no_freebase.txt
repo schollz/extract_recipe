@@ -1,0 +1,517 @@
+01001|Butter
+01004|Blue cheese
+01009|Cheese
+01012|Curd
+01017|Cream cheese
+01026|Mozzarella
+01033|Parmigiano-Reggiano
+01049|Cream
+01054|Whipped cream
+01057|Eggnog
+01077|Milk
+01088|Buttermilk
+01095|Condensed milk
+01116|Yogurt
+01123|Egg
+01124|Egg white
+01125|Yolk
+01129|Boiled egg
+01166|Oaxaca cheese
+02001|Allspice
+02002|Star Anise
+02004|Bay leaf
+02005|Caraway
+02006|Cardamom
+02008|Chervil
+02009|Chili powder
+02010|Cinnamon
+02011|Clove
+02014|Cumin
+02015|Curry powder
+02019|Fenugreek
+02023|Marjoram
+02024|Mustard seed
+02025|Nutmeg
+02027|Oregano
+02028|Paprika
+02030|Black pepper
+02031|Cayenne pepper
+02033|Poppy seed
+02035|Pumpkin pie spice
+02037|Saffron
+02038|Salvia officinalis
+02039|Savory
+02041|Tarragon
+02043|Turmeric
+02044|Basil
+02045|Dill
+02046|Mustard
+02047|Table salt
+02049|Thyme
+02050|Vanilla extract
+02053|Vinegar
+02054|Caper
+02055|Horseradish
+02063|Rosemary
+02064|Peppermint
+02065|Spearmint
+02069|Balsamic vinegar
+04002|Lard
+04017|Thousand Island dressing
+04042|Peanut oil
+04053|Olive oil
+04058|Sesame oil
+04510|safflower oil
+04518|Oil
+04544|Shortening
+04582|Canola Oil
+04617|Margarine
+04642|Sunflower oil
+05006|Chicken meat
+05157|Quail
+05165|Turkey
+05282|Foie gras
+05654|Ostrich
+06013|Broth
+06043|Cream of mushroom soup
+06075|Beef bouillon
+06164|Salsa
+06169|Tabasco pepper
+06179|Fish sauce
+06583|Ramen
+06961|Hot sauce
+06971|Worcestershire sauce
+07005|Blood sausage
+07019|Chorizo
+07055|Pate
+07072|Salami
+07909|Spam
+07924|Bratwurst
+08001|All-Bran
+08003|Kellog's Apple Jacks
+08005|Bran Buds
+08010|Cap'n Crunch
+08013|Cheerios
+08014|Cocoa Krispies
+08017|Cookie Crisp
+08019|Honey Nut Chex
+08020|Corn flakes
+08023|Cracklin' Oat Bran
+08028|Complete Wheat Bran Flakes
+08030|Kellogg's Froot Loops
+08031|Kellogg's Frosted Mini-Wheats
+08035|General Mills Golden Grahams
+08045|Honey Nut Cheerios
+08047|Quaker King Vitaman Cereals
+08048|General Mills Kix Cereals
+08049|Life
+08050|Lucky Charms
+08058|Kellog's Product 19 Cereal
+08060|Raisin Bran
+08065|Rice Krispies
+08067|Special K
+08068|Corn Pops
+08069|Frosted Flakes
+08071|Honey Smacks
+08077|Total
+08078|Trix
+08087|MultiGrain Cheerios
+08089|Wheaties Cereals
+08120|Oatmeal
+08189|Low Fat Granola Without Raisins
+08194|Reese's Puffs
+08243|Honey Nut Clusters
+08247|Total Raisin Bran
+08259|Crispix
+08267|Frosted Cheerios
+08268|Franken Berry
+08270|Count Chocula
+08271|General Mills Cocoa Puffs
+08272|Cinnamon Toast Crunch Ready-to-Eat Cereals
+08273|Boo Berry
+08284|Low Fat Granola With Raisins
+08286|Kellogg's Mueslix Cereal
+08380|Kellog's Raisin Bran Crunch
+09001|Malpighia emarginata
+09003|Apple
+09016|Apple juice
+09021|Apricot
+09037|Avocado
+09040|Banana
+09042|Blackberry
+09050|Blueberry
+09057|Boysenberry
+09059|Breadfruit
+09060|Carambola
+09062|Cherimoya
+09070|Cherry
+09078|Cranberry
+09083|Carissa lanceolata
+09086|Custard-apple
+09088|Elderberry
+09089|Common fig
+09107|Gooseberry
+09111|Grapefruit
+09131|Grape
+09139|Guava
+09140|Strawberry Guava
+09144|Jackfruit
+09146|Jujube
+09148|Kiwifruit
+09149|Kumquat
+09152|Lemon juice
+09156|Lemon peel
+09159|Lime
+09160|Lime Juice
+09164|Lychee
+09167|Loganberry
+09172|Longan
+09174|Loquat
+09176|Mango
+09177|Purple mangosteen
+09181|Cantaloupe
+09184|Honeydew
+09190|Morus
+09191|Nectarine
+09193|Olive
+09200|Orange
+09201|Valencia orange
+09206|Orange juice
+09218|Tangerine
+09226|Papaya
+09229|Papaya Juice
+09231|Passion fruit
+09236|Peach
+09252|Pear
+09265|Persimmon
+09266|Ananas
+09273|Pineapple Juice
+09277|Cooking plantain
+09279|Plum
+09286|Pomegranate
+09295|Pomelo
+09296|Quince
+09299|Raisin
+09301|Rambutan
+09302|Raspberry
+09307|Rhubarb
+09313|Sapodilla
+09315|Soursop
+09316|Strawberries
+09321|Sugar-apple
+09322|Tamarind
+09326|Watermelon
+09334|Feijoa
+09340|Asian pear
+09404|Grapefruit juice
+09421|Date palm
+09422|Durian
+09426|Candied fruit
+09429|Pineapple
+09433|Clementine
+09442|Pomegranate juice
+10005|Pork belly
+10006|Pork
+10036|Pork chop
+10123|Bacon
+10130|Back bacon
+10218|Pork loin
+10905|Ham
+11001|Alfalfa sprouts
+11003|Amaranth
+11005|Broadleaf arrowhead
+11007|Artichoke
+11011|Asparagus
+11024|Momordica charantia
+11026|Bamboo shoot
+11052|Green bean
+11080|Beta vulgaris
+11086|Beet Greens
+11090|Broccoli
+11096|Rapini
+11098|Brussels sprout
+11104|Greater Burdock
+11109|Cabbage
+11119|Chinese cabbage
+11122|Cardoon
+11124|Carrot
+11134|Cassava
+11135|Cauliflower
+11141|Celeriac
+11143|Celery
+11145|Celtuce
+11147|Chard
+11149|Chayote
+11152|Chicory
+11156|Chives
+11161|Collard greens
+11165|Coriander
+11167|Sweet corn
+11191|Black-eyed pea
+11199|Vigna unguiculata subsp. sesquipedalis
+11203|Garden cress
+11205|Cucumber
+11207|Dandelion
+11209|Eggplant
+11213|Endive
+11215|Garlic
+11216|Ginger
+11218|Calabash
+11220|Luffa
+11233|Kale
+11241|Kohlrabi
+11246|Leek
+11251|Romaine lettuce
+11252|Iceburg Lettuce
+11253|Lettuce
+11254|Sacred Lotus
+11257|Red Leaf Lettuce
+11260|Edible mushroom
+11268|Shiitake
+11270|Mustard Greens
+11276|Tetragonia
+11278|Okra
+11282|Onion
+11291|Scallion
+11293|Welsh onion
+11295|Fried onion
+11297|Parsley
+11298|Parsnip
+11304|Pea
+11333|Bell pepper
+11362|Potato
+11422|Pumpkin
+11427|Common Purslane
+11429|Radish
+11435|Rutabaga
+11437|Purple Salsify
+11439|Sauerkraut
+11445|Seaweed
+11446|Laver
+11450|Soybean
+11457|Spinach
+11477|Zucchini
+11482|Acorn squash
+11485|Butternut squash
+11503|Water spinach
+11507|Sweet potato
+11518|Taro
+11564|Turnip
+11568|Turnip greens
+11591|Watercress
+11601|Yam
+11603|Jicama
+11641|Summer squash
+11643|Winter squash
+11669|Wakame
+11677|Shallot
+11695|Tomato
+11698|Chrysanths
+11819|Chili pepper
+11886|Tomato juice
+11900|Maize
+11934|Mashed potato
+11935|Ketchup
+11952|Radicchio
+11954|Tomatillo
+11957|Fennel
+11959|Arugula
+11963|Nopal
+11965|Broccoflower
+11972|Lemongrass
+11977|Serrano pepper
+11979|Jalapeno
+11982|Pasilla
+11984|Epazote
+11986|Malabar spinach
+11990|Wasabi
+11993|Hen-of-the-wood
+11995|Fiddlehead fern
+12006|Chia
+12021|Safflower
+12023|Sesame seed
+12036|Sunflower seed
+12061|Almond
+12078|Brazil nut
+12087|Cashew
+12097|Chestnut
+12104|Coconut
+12115|Coconut cream
+12117|Coconut milk
+12127|Maidenhair Tree
+12131|Macadamia
+12142|Pecan
+12145|Canarium ovatum
+12151|Pistachio
+12154|Walnut
+12198|Tahini
+12220|Flax
+12516|Pumpkin seed
+13147|Short ribs
+13339|Beef tongue
+13346|Corned beef
+13498|Ground beef
+13795|Beef
+13917|Beef tenderloin
+13929|Sirloin steak
+14003|Beer
+14034|Creme de menthe
+14049|Gin
+14050|Rum
+14051|Vodka
+14084|Wine
+14096|Red Wine
+14106|White Wine
+14130|Cream soda
+14136|Ginger ale
+14144|Lemon-lime
+14150|Carbonated orange drink
+14152|Burgundy wine
+14154|Red Bull
+14155|Tonic water
+14209|Coffee
+14268|Fruit punch
+14288|Lemonade
+14355|Black tea
+14400|Soft drink
+14411|Water
+14414|Coffee liqueur
+14545|Chamaemelum nobile
+15001|Anchovy (food)
+15008|Carp
+15012|Caviar
+15015|Cod
+15025|Eel
+15028|Flounder
+15033|Haddock
+15039|Herring
+15042|Kipper
+15051|Spanish  Mackerel
+15072|Roe
+15088|Sardine
+15091|Sea Bass
+15101|Snapper
+15104|Sturgeon
+15112|Tilefish
+15123|Tuna
+15136|King crab
+15139|Chesapeake blue crab
+15144|Crab
+15145|Crayfish
+15147|Lobster
+15149|Caridean Shrimp
+15154|Spiny lobster
+15155|Abalone
+15156|Dried Abalone
+15157|Short Neck  Clams
+15163|Cuttlefish
+15166|Octopus
+15171|Oyster
+15172|Scallop
+15175|Squid
+15236|Salmon
+16006|Bean
+16014|Frijoles negros
+16027|Kidney beans
+16037|Navy Beans
+16052|Broad bean
+16056|Chickpea
+16067|Hyacinth Bean
+16069|Lentil
+16071|Lima Bean
+16080|Mung bean
+16082|Cellophane noodles
+16085|Split pea
+16087|Peanut
+16098|Peanut butter
+16101|Pigeon pea
+16103|Refried beans
+16113|Natto
+16114|Tempeh
+16124|Soy sauce
+16135|Winged bean
+16427|Tofu
+17001|Lamb and mutton
+17088|Veal
+18001|Bagel
+18016|Biscuit
+18029|Sourdough
+18041|Pita
+18044|Pumpernickel
+18069|White bread
+18079|Bread crumbs
+18134|Sponge cake
+18217|Matzo
+18242|Crouton
+18293|Pancake
+18337|Puff pastry
+18363|Corn tortilla
+18369|Baking powder
+18372|Sodium bicarbonate
+18373|cream of tartar
+18375|Yeast
+18439|English muffin
+19095|Vanilla Ice Cream
+19120|Chocolate
+19165|Cocoa bean
+19169|Custard
+19172|Jell-O
+19296|Honey
+19304|Molasses
+19334|Brown sugar
+19335|Sugar
+19336|Powdered sugar
+19351|Corn syrup
+19353|Maple syrup
+20005|Barley
+20009|Groat
+20022|Cornmeal
+20027|Corn starch
+20028|Couscous
+20030|Hominy
+20040|Brown rice
+20050|Rice
+20054|Glutinous rice
+20061|Rice flour
+20064|Rye flour
+20066|Semolina
+20076|Wheat
+20081|All-purpose Flour
+20088|Wild rice
+20097|Pasta
+20099|Macaroni
+20114|Soba
+20116|Somen
+20120|Spaghetti
+20133|Rice noodles
+20140|Spelt
+20317|Masa
+20409|Noodle
+20581|Flour
+22901|Tortellini
+22916|Lasagne
+23005|Steak
+35015|Empetrum
+35027|Cloudberry
+35043|Huckleberry
+35070|Sea cucumber
+35078|Tea
+35080|Venison
+35154|Salmonberry
+35192|Agave azul
+35200|Prairie Turnip
+35203|Rose hip
+35204|Chokecherry
+35206|Shadbush
+42040|Grenadine
+42178|Mayonnaise
+42280|Hot dog
+42307|Unsalted Butter
+43114|Vermicelli
+43143|Kimchi
+43158|Saccharin
+43345|Kool-Aid
+43382|Cranberry juice
+43479|Sake
+48052|Wheat gluten
+90560|Escargot

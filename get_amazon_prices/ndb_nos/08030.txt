@@ -1,0 +1,100 @@
+0	12.97	Kellogg's Cereal, Froot Loops Treasures, 10.5 Ounce
+1	4.46	Kellogg's Froot Loops Sooper Loopers Cereal 12.2 oz
+2	12.79	Club Pack Kellogg's Froot Loops Cereal Two Bag Value Box 43.6 oz
+3	8.7	Kellogg's Froot Loops Cereal
+4	27.52	Froot Loops Cereal, 0.95-Ounce Individual Boxes (Pack of 70)
+5	27.52	Kellogg's Froot Loops Cereal, 21.7 Ounce (Pack of 8)
+6	10.96	Kellog's Froot Loops 21.7 Ounce Box (1 Box)
+7	11.29	Kellogg's Froot Loops Breakfast Cereal, Single-Serve 1.5Oz Cup, 6 Cups/Box
+8	11.81	Kellogg's Froot Loops Cereal 17 oz
+9	9.93	SCS Kellogg's(r) Froot Loops(r) Cereal - 43.6 Oz.
+10	7.74	Kellogg's Froot Loops Froot Loops Cereal - Bloopers - 9.3 oz
+11	15.49	Club Pack Kellogg's Froot Loops Cereal Two Bag Value Box 43.6 oz
+12	7.99	Kellogg's Froot Loops Numbers Assorted Fruit Flavored Snacks 10 Pouch/8 oz. Box (Pack of 2)
+13	27.99	Kellogg's Froot Loops Cereal, Marshmallow, 12.6-Ounce Boxes (Pack of 4)
+14	17.99	Kellogg's Froot Loops Cereal, Marshmallow, 12.6-ounce Boxes (Pack of 2)
+15	12.75	Kellogg's On the Go Fun! Froot Loops Pouches - 8 CT
+16	49.39	Froot Loops Kellogg's Jump-Starts Express, Reduced Sugar, 5.97 Ounce (Pack of 44)
+17	12.89	Kellogg's Tri-Fun Cereal Assortment Pack, Froot Loops, Cocoa Krispies and Apple Jack, 58 Ounce
+18	13.29	Kellogg's Froot Loops - Letters & Numbers Fruit Snacks (50 Pouches)
+19	12.39	Kellogg's Froot Loops Letters Assorted Fruit Flavored Snacks 10 Pouch/8 oz. Box (Pack of 2)
+20	20.05	Kellogg's Tri-Fun Cereal Froot Loops, Cocoa Krispies 58oz
+21	16.5	Kellogg's Froot Loops Treasures!, 10.5 Oz. Box, (2 Pack)
+22	22.49	Kelloggs Froot Loops Cereal, 26 oz
+23	52.95	Froot Loops Cereal, 0.75-Ounce Bowls (Pack of 96)
+24	68.09	Club Pack Kellogg's Froot Loops Cereal Two Bag Value Box 43.6 oz (Pack of 6)
+25	18.53	Froot Loops Breakfast Cereal, Single-Serve 1.5oz Cup, 6/Box
+26	54.5	Kellogg's Froot Loops, 17 Oz, (Pack of 12)
+27	11.81	KELLOGGS FROOT LOOPS WITH MARSHMALLOWS CEREAL 12.6 OZ BOX
+28	6.04	KELLOGGS FROOT LOOPS CEREAL 12.2 OZ BOX
+29	27.65	Kellogg's Froot Loops Letters Fruit Pieces, 8 Ounce (Pack of 10)
+30	12.99	Kellogg's Froot Loops Cereal 17 Oz
+31	88.64	Kellogg's Froot Loops Cereal 17 oz (Pack of 12)
+32	12.78	Kellogg's Cereal, Froot Loops Treasures, 10.5 Ounce by Froot Loops [Foods]
+33	18.4	Kellogg's Cereal Jumbo Variety Pack, 31.37 oz, 30 Pack
+34	79.61	Kellogg's Froot Loops Sooper Loopers Cereal 12.2 oz (Pack of 16)
+35	26.5	Kellogg's Favorite Variety Pack Cereal Bowls - Raisin Bran Crunch, Apple Jacks, Corn Pops, Krave Chocolate, Frosted Flakes, Frosted Mini-Wheats (Bite Size), Froot Loops & Cocoa Krispies (8 Pack)
+36	52.05	Cereal Fruit Loops
+37	38.89	Froot Loops Cereal, with Sprinkles, 12.2 Oz. (Pack of 4)
+38	20.37	Kellogg's 16 Count of Fun Pak Single Serving Cereals Kids Love!
+39	69.95	Froot Loops Cereal 1/3 Less Sugar, 0.67-Ounce Bowls (Pack of 96)
+40	22.24	Kellogg's, Froot Loops Cereal, 180 g
+41	15.0	Kellogg's Froot Loops 350G
+42	135.74	Kelloggs Froot Loops Cereal (bowl) Case Pack 96 - 362342
+43	40.48	Kellogg's Froot Loops Cereal, 11-Ounce Boxes (Pack of 4)
+44	50.34	Kellogg's Variety Pack 30 Individual Boxes -Apple Jacks, Corn Pops, Mini Wheats, Rice Krispies, Froot Loops Frosted Flakes- 30 pack of .95 oz
+45	8.71	KEB01246 - Kellogg's Froot Loops Breakfast Cereal
+46	56.65	Kelloggs Froot Loops Sweetened Multi-Grain Cereal, 8.7 Ounce -- 12 per case.
+47	27.65	Kellogg's Froot Loops Numbers Fruit Pieces, 8 Ounce (Pack of 10)
+48	12.09	Kellogg's Frosted Flakes Breakfast Cereal, 2.1 oz. Single-Serve Cup, 6 Cups/Box
+49	44.93	Kellogg's Cereal Favorites Variety Pack, Single Serve Bowls (Pack of 96)
+50	23.99	Kellogg's Cereal Variety Pack, 52-Ounce Box
+51	12.57	Kellogg's Individual Box Cereal Jumbo Variety Pack, 31.37 Oz, 30 Pack
+52	16.28	Kelloggs Variety Cereal, 31.37-Ounce
+53	57.12	Kellogg's Cereal Favorites Variety Pack, 1.5 to 2.8-Ounce Single Serve Cups (Pack of 60)
+54	11.47	Froot Loops(r) Breakfast Cereal, 1 1/2 oz. Serving Size Cups, 6/Box (KEB01246)
+55	73.2	Kellogg's Fruit Loops Cereal 8.7 oz (Pack of 12)
+56	33.38	KITDXESXB12WSPKKEB01246 - Value Kit - Kellogg's Froot Loops Breakfast Cereal (KEB01246) and Dixie Pathways Heavyweight Paper Bowls (DXESXB12WSPK)
+57	28.45	Kellogg's Froot Loops Munch Zone Pouches Five (5) 3.2oz boxes
+58	55.15	Kelloggs Froot Loops Reduced Sugar Whole Grain Cereal, 1 Ounce Bowl -- 96 per case.
+59	12.28	Kellogg's Frosted Flakes, 12.6 ounce
+60	8.54	KEB01468 - Kellogg's Breakfast Cereal
+61	23.99	Froot Loops Cereal, Sweetened Multi-Grain, 12 oz, (pack of 3)
+62	112.95	Kellogg's Froot Loops Cereal, Marshmallow, 12.6-Ounce Boxes (Pack of 16)
+63	26.77	KITDXE5342CDPKKEB01246 - Value Kit - Kellogg's Froot Loops Breakfast Cereal (KEB01246) and Dixie Hot Cups (DXE5342CDPK)
+64	188.34	Kelloggs Froot Loops - Reduced Sugar Bowl [96 Pieces] *** Product Description: Sweetened Multi-Grain Cereal. 1 Oz. Bowl Of Reduced Sugar Froot Loops. 25% Less Sugar Than Original Froot Loops. Natural Fruit Flavors. Ingredients: Corn Flour Blend ( ***
+65	29.26	KITKEB01246NLE101243 - Value Kit - Kellogg's Froot Loops Breakfast Cereal (KEB01246) and Nestle Bottled Spring Water (NLE101243)
+66	27.16	KITKEB01246LIP291 - Value Kit - Kellogg's Froot Loops Breakfast Cereal (KEB01246) and Lipton Tea Bags (LIP291)
+67	19.99	Kellogg's Froot Loops in a Cup Cereal 1.5oz (Pack of 6)
+68	123.64	Kelloggs Froot Loops Cereal (box) Case Pack 70 - 362343
+69	15.02	KELLOGGS FROOT LOOPS CEREAL 14.7 OZ BOX
+70	186.66	Kellogg's Froot Loops
+71	9.98	KELLOGGS CEREAL IN CUP FROOT LOOPS 1.5 oz Each ( 6 in a Pack )
+72	14.0	Kellogg's Froot Loops Cup (42g)
+73	7.2	Kelloggs Froot Loops Sweetened Multi-Grain Cereal
+74	184.5	Kelloggs Froot Loops Cereal (Bowl) [96 Pieces] *** Product Description: Kelloggs Froot Loops Cereal (Bowl) 3/4 Oz Bowl. ***
+75	123.64	Kellogg'S Froot Loops Cereal (Box) [70 Pieces] *** Product Description: Kellogg'S Froot Loops Cereal (Box) .95 Oz, Individual Box.Ingredients: Corn; Wheat; And Oat Flour; Sugar; Partially Hydrogenated Vegetable Oil (One Or More Of: Coconut, Cotto ***
+76	40.0	Cereal Kellogg's Froot Loops 350 G.
+77	41.94	Kellogg's, Froot Loops Cereal, 12.2oz Box (Pack of 6)
+78	15.02	KELLOGGS FROOT LOOPS CEREAL 14.7 OZ BOX
+79	71.55	Kellogg's Froot Loops Cereal-in-a-Cup 6-Count, 3.63-Ounce Packages (Pack of 60)
+80	59.87	KITCOX01761EAKEB01246 - Value Kit - Kellogg's Froot Loops Breakfast Cereal (KEB01246) and Clorox Disinfecting Wipes (COX01761EA)
+81	36.85	Kelloggs Cereal Froot Loops - Box 8.7 Oz 4 Packs - Tj
+82	61.25	KITKEB01246OFX00019 - Value Kit - Kellogg's Froot Loops Breakfast Cereal (KEB01246) and Office Snax Reclosable Canister of Sugar (OFX00019)
+83	34.39	Kellogg's Froot Loops Cereal, 17 oz
+84	47.15	Kellogg's - 3 Pack - Froot Loops Breakfast Cereal Single-Serve 1.5Oz Cup 6/Box "Product Category: Breakroom And Janitorial/Beverages & Snack Foods"
+85	138.21	Kelloggs Froot Loops - Reduced Sugar Bowl (Pack Of 96)
+86	123.64	Kellogg's Froot Loops Cereal (box) (Pack Of 70)
+87	50.0	Kelloggs Froot Loops Sweetened Multi-Grain Cereal, 12.2 Ounce -- 16 per case.
+88	79.95	Froot Loops Cereal, 1.5-Ounce Cups (Pack of 60)
+89	12.5	Cereal-in-a-Cup,Super Size,2.8 oz,6/PK,Raisin Bran Crunch
+90	12.23	Kellogg's Products - Kellogg's - Breakfast Cereal, Frosted Flakes, Single-Serve 2.1oz Cup, 6 Cups/Box - Sold As 1 Box - Individual servings, super-size-to-go cups.
+91	8.71	Cereal Cereal In A Cup Froot Loops 1.5 Ounce Each
+92	44.93	Kellogg's Cereal Family Variety Pack, Single Serve Bowls, (Pack of 96)
+93	26.98	Froot Loops & Apple Jacks Cereal, Sweetened Multigrain, 21.7-Ounce Boxes (Pack of 2)
+94	12.23	Cereal-in-a-Cup,Super Size,2.8 oz,6/PK,Raisin Bran Crunch
+95	42.45	KelloggsTM Froot Loops(r) Cereal in a Cup; 1.5 oz. Cups, 6/pk
+96	19.99	Kellogg's Cereal 30 Individual Box Variety Pack 32.73 Total Ounces - Value Box
+97	12.23	Breakfast Cereal, Raisin Bran Crunch, Single-Serve 2.8oz Cup, 6/Box, Sold as 1 Box
+98	23.95	Kellogg's Fun Pak Variety Pak 8.56 oz ec 3 packs of 8
+99	10.11	Kellogg's Raisin Bran In A Cup Cereal

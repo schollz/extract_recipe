@@ -1,0 +1,92 @@
+0	6.89	Hellmann's Real Mayonnaise, 30oz
+1	17.27	Kewpie Mayonaise, 17.64-Ounce Tubes (Pack of 2)
+2	11.59	Duke's Mayonnaise, 32-ounce Jar
+3	17.21	Hellmann's Easy Out Real Mayonnaise 22 Oz Each, Pack of 2
+4	10.99	Hampton Creek, Just Mayo, Original, Gluten Free, Soy Free, Egg Free, 30oz Jar (Indivdual)
+5	12.99	Sir Kensington's Mayonnaise - Classic - 10 OZ
+6	16.95	Hellmanns Real Mayonnaise - 64 oz. jar
+7	19.94	Hellmann's Mayonnaise Dressing with Olive Oil, Squeeze 22 oz (Pack of 3)
+8	12.95	Blue Plate Real Mayonnaise 30 Oz (Pack of 1)
+9	8.6	Hellmann's Real Mayonnaise, 15-Ounce Jar
+10	12.11	Trader Joes Organic Mayonnaise 1 Pt
+12	22.12	Blue Plate Mayonnaise Extra Heavy, 128-Ounce
+13	2.65	Woebers Mayonnaise, Toasted Garlic, 11 Ounce
+14	9.95	Hellmann's Mayonnaise, Light, 30 oz
+15	13.99	Kraft Mayonnaise, 22-Ounce Squeeze Bottles (Pack of 2)
+16	27.55	Earth Balance Mindful Mayo Dressing with Olive Oil, 16 Ounce -- 6 per case.
+17	5.49	The Ojai Cook Organic Mayonnaise 16 Oz. Jar
+19	20.99	75 Individual Hellmann's Mayo Packets-Great For Work/School; Always Fresh!
+20	12.5	Benedicta Gourmet Mayonnaise - French Mayonnaise - 8.8 oz.
+21	25.99	Trader Joe's Organic Mayonnaise (Pack of 2) 16-oz Jars
+22	19.95	Duke's Mayonnaise, 32-ounce Jar - Pack of 2
+24	18.99	Duke's Real Mayonnaise 3 Pack, 18oz Each
+25	10.03	Hellmann's Mayonnaise, Extra Virgin Olive Oil, 30 oz
+26	30.99	Hellmann's Mayonnaise, Light Squeeze 22 oz, (pack of 4)
+27	10.73	Hellmann's Canola Mayonnaise, 30oz
+29	25.98	French Mayonnaise - Delouis Fils - pack of 4
+30	12.99	Spectrum Organic Omega-3 Mayonnaise with Flax Oil Gluten Free -- 16 oz
+31	2.75	Tabasco Spicy Mayonnaise, 16 Ounce
+32	30.67	Heinz Real Mayonnaise, 11.5 Ounce (Pack of 12)
+33	9.34	Kewpie Mayonnaise (Japanese Mayo) - 500g Net 17.64 FL. OZ.
+34	23.45	New! Improved! 84 Hellmann's Real Mayonnaise Stick Packs-Easier to Open! 3/8oz each
+35	18.95	Hampton Creek, Just Mayo, Variety Pack, 3 Flavors (1 Each), 8oz Bottle (Pack of 3)
+36	19.99	Hellmanns Real Mayonnaise 3/8 oz - 50 packs
+37	10.11	Kewpie Mayonnaise 17.64 Oz.
+38	35.19	Duke's Mayonnaise, 32-Ounce Jars (Pack of 4)
+39	22.95	Japanese Kewpie Mayonnaise - 17.64 oz. (Pack of 3)
+40	17.55	Hampton Creek Just Mayo Vegan Eggless Soy-Free Kosher Mayonnaise 2 Pack (12 oz)
+41	35.0	Heinz Mayonnaise, 0.42-Ounce Single Serve Packages (Pack of 200)
+42	4.39	Hain Mayonnaise Safflower
+43	7.49	Musashi Japanese Spicy Mayo - 12oz Squeeze Bottle
+44	20.95	Blue Plate Mayonaise (2-PACK)
+45	69.08	Hain Pure Foods Safflower Mayonnaise (3x24 OZ)
+46	9.26	Japanese Kewpie Mayonnaise - 17.64 oz.
+47	26.99	Blue Plate  Mayonnaise, Squeeze, 18-Ounce Bottles (Pack of 6)
+48	6.69	Sir Kensington's Mayonnaise - Chipotle - 10 OZ
+49	16.95	Hellmann's Mayonnaise (36 oz., 2 pk.)
+50	7.1	Thomy Delikatess Mayonnaise in Tube (200 G)
+51	3.59	Duke's Mayonaise 8 oz.
+52	16.99	Sir Kensington's Mayonnaise Classic -- 10 oz (Single Jar)
+53	45.9	Hellmann's Mayonnaise, Real 16.5 oz, (Pack of 6)
+54	27.0	Just Mayo Original By Hampton Creek, Gluten Free, Egg Free, Soy Free, Dairy Free, 64 Fl Oz
+55	2.79	Woebers Mayonnaise, Cool Dill, 11 Ounce
+56	12.98	French Mayonnaise - Mayonnaise - Amora - 9,35 Oz
+57	14.99	Duke's Real Mayonnaise - Two 8 Fl Oz Jars
+58	33.98	Kenko Japanese Mayonnaise, 17.63-Ounce (Pack of 5)
+59	29.95	Portion Pack Mayonnaise - 200/12g packets
+60	27.25	Best Foods REAL Mayonnaise - BONUS! 30oz jar (2 jars)
+61	9.99	Biona Organic Free Range Mayonnaise 230g
+62	9.99	50 packets - Kraft Real Mayo 7/16 oz pouch (portion control)
+63	5.99	Spectrum Naturals Organic Mayonnaise -- 11.25 fl oz
+65	8.98	Kraft Mayo Ranch Mayonnaise, 12 Ounce
+66	19.95	Best Foods, Real Mayonnaise, 9oz Squeeze Bottle (Pack of 3)
+67	19.53	The Ojai Cook Mayonnaise, Organic, 16 Ounce (Pack of 2)
+68	19.75	Duke's Real Mayonnaise Smooth & Creamy 2-16 fl oz Jars
+69	9.69	Trader Joe's Wasabi Mayonnaise, 12 Oz
+70	26.85	Hellmanns Real Mayonnaise 3/8 oz Packet (Case of 84)
+71	20.99	Duke's Mayonnaise, 1 GALLON! (128 oz)
+72	97.8	Spectrum Naturals Organic Olive Oil Mayonnaise, 12 oz
+73	39.1	Hellmann's Real Mayonnaise, 64Ounce Bottles (Pack of 3)
+74	31.0	Best Foods(r) Light Mayonnaise (Case of 210)
+75	28.89	Hellmann's Real Mayonnaise, 22 Ounce Squeeze Bottle (Pack of 4)
+76	8.49	Real Mayonnaise - 2 Quart Jar - Kirkland Signature (64 Oz.)
+77	25.15	Ken`s Extra Heavy Mayonnaise 1 Gallon
+78	12.94	Duke's Real Mayonnaise Squeeze 18oz
+79	14.99	Hampton Creek, Just Mayo, Original, Gluten Free, Egg Free, Soy Free, 8oz Container (Pack of 3)
+80	18.08	Kraft Mayo Extra Heavy Mayonnaise, 128 Ounce
+81	22.17	Blue Plate Mayonnaise, Real, 8 Ounce (Pack of 12)
+82	42.66	Hellmann's Mayonnaise, Real Squeeze 9 oz(12 pack)
+83	18.16	Kraft Sandwich Shop Mayo Chipotle, 12 Ounce Squeeze Bottle (Pack of 8)
+85	12.97	Hellmann's Real Mayonnaise, 16.5Ounce Squeeze Bottle (Pack of 2)
+86	9.09	Goya Mayonnaise, 16 Ounce
+87	18.99	French Mayonnaise From Dijon Amora-Mayonnaise De Dijon-3 Tube Pack
+88	16.28	Musashi Japanese Spicy Mayo (2 Pack)
+89	10.47	Nasoya All Natural Original Nayonaise -- 15 fl oz
+90	17.5	Kraft, Sandwich Shop Mayo, Hot n Spicy Mayonaise, 12oz Squeeze Bottle (Pack of 2)
+91	15.99	Portion Pack Mayonnaise, 0.32-Ounce Single Serve Packages (Pack of 200)
+92	26.96	Duke's Mayonnaise, 48-ounce Jars (Pack of 2)
+93	5.87	Hampton Creek Just Mayo Sriracha (8 oz)
+94	16.95	Hellmann's Creamy Balsamic Mayonnaise Dressing - Pack of 2 (30oz Each Bottle)
+95	10.97	Hampton Creek, Just Mayo, Sriracha, Gluten Free, Egg Free, 8oz Container (Pack of 3)
+96	19.95	Hampton Creek, Just Mayo, Original, Gluten Free, Egg Free, Soy Free, 30oz Jar (Pack of 2)
+98	28.75	Blue Plate Mayonnaise, 30-Ounce Jars (Pack of 4)

@@ -1,0 +1,78 @@
+0	14.79	ReaLemon 100% Lemon Juice - 2/48 oz. btls.
+1	7.49	ReaLemon 100% From Concentrate Lemon Juice 32 oz
+2	3.99	True Lemon 2.85 Ounce
+3	9.49	Sicilia Lemon Juice - 7 oz.
+4	9.17	ReaLemon 100% Lemon Juice from Concentrate 15 oz
+6	11.25	Realemon 100% Lemon Juice, 48 oz
+7	55.75	Lakewood Organic PURE Lemon Juice, 12.5-Ounce Bottles (Pack of 12)
+8	23.45	Florida Key West Lemon Juice, 128 Ounce
+9	55.59	Volcano Bursts Organic Italian Lemon Juice, 33.8 oz
+11	36.27	Dream Foods International Volcano Lemon Burst, 6.7-Ounce Containers (Pack of 12)
+12	10.87	Sicilia Lemon Juice - 4 oz
+13	11.0	Nellie & Joe's Famous Key LEMON Juice, The Original- 16 oz
+14	5.98	Lieber's Lemon Juice 32 oz
+15	17.45	ReaLemon 100% Lemon Juice from Concentrate, 0.14-Ounce Single Serve Packages (Pack of 200)
+16	59.75	Lakewood Organic Pure Lemon, 32 Ounce (Pack of 6)
+17	4.76	Santa Cruz 100 % Organic Lime Juice -- 16 fl oz
+18	49.99	100% Organic Lemon Juice
+19	20.97	Sicilia Lemon Juice, 4 Fl Oz (Pack of 6)
+20	2.19	Dream Foods Volcano Lemon Burst - 200 ml - 2 pk
+21	19.87	Sicilia Fresh Squeezed Lemon Juice - 4 Oz (3 Pack)
+22	49.99	100% Organic Lemon Juice
+23	6.99	Sicilia Organic Lemon Juice - 4 oz
+25	46.42	Italian Volcano Lemon Juice, 1-liter Bottles (Case of 6)
+26	88.08	Santa Cruz Organic Pure Lemon Juice
+27	7.47	Nellie and Joe's Key West Lime Juice, 16oz Plastic
+28	13.39	Realemon Lemon Juice, 32 oz, 3 pk
+29	23.5	Whole Lemon Powder Concentrate - (100 grams)
+30	17.05	Lemon Juice Packets, 4 Gram -- 200 per case
+31	44.95	Sicilia Lemon Juice Squeezed From Fresh Lemons Not From Concentrate 4fl oz (24 Pack)... mtc
+32	43.34	Festival Lemon juices, Concentrate Plastic Bottle, 32-Ounce (Pack of 12)
+33	26.37	Lakewood Organic Lemonade Juice, 32-Ounce Bottles (Pack of 6)
+34	31.29	Realemon Lemon Juice, 48-Ounce Bottles (Pack of 4)
+35	29.95	ReaLemon 100% Lemon Juice from Concentrate, 15-Ounce Squeeze Bottles (Pack of 6)
+36	12.95	King Arthur Flour Lemon Juice Fruit Powder - 6 oz.
+37	6.59	Delallo 100% Lemon Juice
+38	56.15	Lakewood Organic PURE Lime Juice, 12.5-Ounce Bottles (Pack of 12)
+40	7.29	Whole Spice Juice Powder, Lemon, 4 Ounce
+43	12.71	Whole Spice Lemon Juice Powder, 2.6 Ounce
+44	31.44	Lakewood Organic Juice Blend, Lemon Ginger Echinacea, 32 Ounce (Pack of 6)
+45	5.32	True Grapefruit Sachet Packets, 32 Count (0.90oz)
+47	1.99	Jif Natural Strength Lemon Juice (55ml)
+48	8.66	ReaLime 100% Lime Juice from Concentrate 15 oz
+50	14.95	Sicilia Lemon & Lime Juice Bundle 100% Natural 1 Bottle of Each Flavor. 7.0 oz. Each.
+51	16.89	Whole Spice Lemon Juice Powder, 1 Pound
+52	18.87	ReaLime, 100% Lime Juice, 128 Ounce
+53	3.99	True Lime Shaker, 2.85 Ounces
+56	24.49	Langers Meyer Lemon Zero Calorie Sparkling Juice, 17 Ounce (Pack of 12)
+57	61.64	Whole Spice Lemon Juice Powder, 5 Pound
+58	79.45	Lakewood PURE Organic Lemon Juice, (NOT from Concentrate), Buy TWELVE Bottles and SAVE More, Each Glass Bottle is 32 Ounces (Pack of 12)
+60	44.95	Sicilia Lemon Juice Squeezed From Fresh Lemons, Not From Concentrate 4 Fl oz (24 Pack)... HPVagr
+61	14.46	Volcano Lemon Juice (Six 6.7oz bottles )
+63	25.95	Italia Garden Italian Lemon Juice 6.76 Oz (Pack of 4)
+66	59.91	Nellie & Joes B79958 Nelllie & Joes Key West Lemon Juice -12x16oz
+68	38.92	Sicilia Lemon Juice 4 Fl Oz (Pack of 12)
+69	48.86	Organic Lemons - 10-12 Lb Case
+71	12.0	Hawaiian Punch Singles To Go Drink Mix, Lemon Berry, 8-Count (Pack of 12)
+72	13.99	Lemon Juice Powder - Natural Spray Dried & Unsweetened Non-GMO Lemon Juice, 12 oz
+73	18.99	Lemon Juice Powder - Organic Spray Dried & Unsweetened Non-GMO Lemon Juice, 12 oz
+74	21.95	Knudsen Juice, Simply Nutritious Lemon ginger Echinacea 32 fl.oz(Pack of 3)
+76	9.17	REALLEMON LEMON JUICE 100% 8 OZ
+77	8.99	Sicilia Lime Juice - 7 oz
+78	135.81	Suja Water UP! LEMON LOVE Juice (Lemon Stevia Cayenne) 16 OZ Each Bottle (12 PACK)
+79	19.95	Stur - Variety Pack (5pck) - ALL-NATURAL Stevia Water Enhancer ......makes 100 8oz. servings - drink mix. Non-GMO, natural fruit flavor, natural stevia leaf extract, sugar-free, calorie-free, preservative-free, 100% Vitamin C, liquid stevia drops. **Family Business, Happiness Guaranteed**
+80	19.95	Stur - Variety Pack (5pck) - ALL-NATURAL Stevia Water Enhancer ......makes 100 8oz. servings - drink mix. Non-GMO, natural fruit flavor, natural stevia leaf extract, sugar-free, calorie-free, preservative-free, 100% Vitamin C, liquid stevia drops. **Family Business, Happiness Guaranteed**
+81	25.0	Meyer Lemon Concentrate
+82	14.97	Sweet 'n Pure Sugar Free Fresh Drops Variety Pack (2 each Chewy Lemon and Chewy Strawberry)
+84	20.0	True Lemon, Lime & Orange Crystallized Fruit Assorted 192 Pack.
+85	25.0	True Lemon Crystalized Lemon 32 Packet Box (3 Pack)= 96 Single Packets
+86	71.1	Santa Cruz Organic 100 Percent Lemon Juice, 16 Ounce -- 12 per case.
+87	17.2	Favorit Iced Tea, Lemon, 33.8-Ounce (Pack of 6)
+88	3.18	Honest Kids Berry Berry Good Organic Lemonade (8 Count, 6.75 Fl Oz Each)
+90	68.99	Lemon Juice Powder - Natural Spray Dried & Unsweetened Non-GMO Lemon Juice, 5 lb
+91	7.95	True Lemon Cold Pressed & Crystalized Lemon
+92	52.0	Purity Super Juice, Beet, Apple, Ginger Lemon 14 Oz (12 Pack)
+93	29.52	Lakewood Organic Pure Juice, Fruit Punch, 32 Ounce (Pack of 6)
+94	44.5	True Lemon Crystallized Lemon, 32 Packets per Box (Case of 12)
+98	89.0	Juice from the RAW 3 Day ORGANIC Juice Cleanse - 18 Bottles
+99	2.39	Pride Lemon Juice (250ml)

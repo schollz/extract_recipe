@@ -1,0 +1,87 @@
+0	16.45	Kool Aid Variety 48 Packs
+1	11.64	Kool-Aid Cherry Unsweetened Soft Drink Mix, 0.13-Ounce Envelopes(Pack of 48)
+2	7.03	Kool-Aid Tropical Punch Soft Drink Mix 19oz
+4	13.69	Kool Aid Tropical Punch 34 Quarts Worth or Powder 82.5 Ounces
+5	9.48	Kool-Aid Cherry Mix 19 oz
+7	14.98	Kool-Aid Liquid Drink Mix Variety 3 Pack (Grape, Cherry and Tropical Punch)
+8	7.67	Kool-Aid Grape Soft Drink Mix 19 oz
+9	34.99	Kool-Aid Singles Cherry (for 16.9-Ounce Bottles), 12-Count Packets (Pack of 6)
+10	1.56	Kool-Aid Twists Soft Drink Mix - Ice Blue Raspberry Lemonade Unsweetened, Caffeine Free, 0.22 oz/envelope (Pack of 12)
+11	11.19	Kool-aid Orange Unsweetened Soft Drink Mix 0.15-ounce Envelopes (Pack of 48)
+12	14.0	KOOL-AID GREEN APPLE Unsweetened Drink Mix (12 Packets)
+13	12.48	Kool-Aid Tropical Punch Unsweetened Soft Drink Mix, 0.16-Ounce Envelopes (Pack of 48)
+14	11.75	Kool-Aid Grape Unsweetened Soft Drink Mix, 0.14-Ounce Envelopes (Pack of 48)
+15	18.44	Kool-Aid Invisible Drink Mix, Grape, 19-Ounce Container (Pack of 4)
+17	15.99	KOOL-AID SHARKLEBERRY FIN Unsweetened Drink Mix (12 Packets)
+19	7.49	Kool-Aid Drink Mix orange ( 538g )
+20	6.99	Kool-Aid Singles Grape Soft Drink Mix - 12 CT
+21	9.43	Kool-Aid Black Cherry Unsweetened Soft Drink Mix, 0.13-Ounce Envelopes (Pack of 48)
+22	19.38	Kool-Aid Drink Mix, Variety Pack (Pack of 48)
+23	8.97	Kool-Aid Orange Soft Drink Mix Singles, 12 ct
+24	16.1	Sodastream Kool Aid Caps Variety Pack, 1.69 Ounce, 8-Count
+25	1.56	Kool-Aid Pink Lemonade Unsweetened Soft Drink Mix - 0.23-Ounce Packets, 12 Pack
+26	20.78	Kool-Aid Liquid Drink Mix - GRAPE 1.62oz (Pack of 4)
+27	22.99	Kool-aid Liquid Drink Mix 4 Pack (Cherry, Grape, Orange, and Tropical Punch)
+28	30.73	Kool-aid Tropical Punch Soft Drink Mix, 82.5-Ounce Canisters (Pack of 2)
+29	14.99	48 Kool Aid packets of Peach Mango Makes 96 quarts just add sugar
+30	17.98	Kool-aid Cherry Mix 19oz Container (2 Pack)
+32	20.35	Kool Aid Peach Mango Sugar Sweetened, 19-Ounce (Pack of 4)
+33	19.78	Kool-Aid Liquid Drink Mix - Cherry 1.62oz (Pack of 4)
+34	11.0	Kool-Aid Drink Mix, Lemonade (Pack of 48)
+36	38.4	Kool-Aid Unsweetened Energy Drink, Sharkleberry Fin, .16 Ounce (Pack of 192)
+37	25.0	Kool-Aid Singles Grape, 12-Count Packets 6.6-Ounce (Pack of 6)
+38	11.98	Kool-Aid Strawberry Unsweetened Soft Drink Mix, 0.14-Ounce Envelopes (Pack of 48)
+39	16.99	48 Kool Aid packets of Strawberry Kiwi Makes 96 quarts just add sugar
+40	16.95	Kool-Aid Drink Mix, Sugar Sweetened Cherry, 19-Ounce Container (Pack of 4)
+41	12.5	Kool-Aid Tropical Punch Jammers 10 pk
+42	1.95	Kool-Aid Twists Soft Drink Mix - Ice Blue Raspberry Lemonade Unsweetened, Caffeine Free, 0.22 oz/envelope (Pack of 15)
+43	11.99	Kool Aid - Peach Mango 2 Quart (Pack of 6)
+45	11.89	Kool-Aid Pre-Sweetened Drink Mix 19z Orange Flavor - 2 Pack
+46	19.48	Kool-Aid Drink Mix, Sugar Sweetened Grape, 19-Ounce Container (Pack of 4)
+47	9.35	Kool-aid Singles Cherry (For 16.9-ounce Bottles), 12-count Packets (1 Box))
+48	37.75	Kool-Aid Liquid Unsweetened Drink Mix, Green Apple, .22 Ounce (Pack of 192)
+49	14.99	Kool-Aid Liquid Drink Mix - WATERMELON - 1.62 oz. (Pack of 3)
+50	38.4	Kool-Aid Cherry Unsweetened Soft Drink Mix, 0.13 Ounce Packets (Pack of 192)
+51	11.99	Kool-Aid Jamaica Unsweetened Drink Mix (Pack of 10)
+52	6.95	Kool-aid Burst 6 Count 1 Pack
+53	36.07	Kraft Kool-Aid, Strawberry Kiwi, 0.13 Ounce (Pack of 192)
+54	25.46	Kool-Aid Drink Mix Variety 3-Pack (Cherry, Tropical Punch and Grape)
+57	34.67	Kool-Aid Drink Mix, Sugar Sweetened Ice Blue Raspberry Lemonade Soft Drink Mix, 20-Ounce Containers (Pack of 6)
+59	12.29	Kool-Aid Pink Lemonade Unsweetened Soft Drink Mix, 0.23-Ounce Envelopes (Pack of 48)
+60	42.98	Kool-Aid Watermelon Liquid Drink Mix (Case of 12)
+61	5.88	Kool-aid Liquid Watermelon Liquid Drink Mix
+62	38.4	Kool-Aid Strawberry Kiwi Unsweetened Soft Drink Mix, 0.17 Ounce Packets (Pack of 192)
+63	13.04	Kool-aid Grape Mix 19 Oz Container (2 Pack)
+64	55.05	Kool-Aid Drink Mix, Sugar Sweetened Grape, 29-Ounce Container (Pack of 12)
+65	39.99	Kool-Aid Singles(for 16.9-Ounce Bottles) Orange, 12-Count Packets (Pack of 6)
+66	30.0	Kool-Aid Sugar Sweetened Energy Drink, Green Apple, 19.5 Ounce (Pack of 12)
+67	45.19	Kool-Aid Aguas Frescas Mandarina-Tangerine Unsweetened Soft Drink Mix, 0.16 Ounce Packets (Pack of 192)
+68	44.83	Kool-Aid Sugar Sweetened 8 Quart Drink Mix, Sharkleberry Fin, 19.0 Ounce (Pack of 12)
+69	19.55	Kool-Aid, Cherry Limeade Drink Mix, 19oz Canister (Pack of 4)
+70	20.73	Kool-Aid Unsweetened Island Twists Blue Raspberry Lemonade (72 counts), Each Packet Makes 2 Qts, 0.22 oz
+72	18.49	Kool-Aid Liquid Drink Mix - Tropical Punch 1.62oz (Pack of 4)
+73	28.95	Kool-Aid Singles Tropical Punch (for 16.9-Ounce Bottles), 12-Count Packets (Pack of 6)
+74	25.4	Kool Aid Jammers 40 Pk 6 Oz Pouches
+75	8.49	Kool-Aid Liquid - Blue Raspberry Flavoring - Makes 24, 8 Oz Glasses
+76	5.79	Kool-Aid Ice Blue Raspberry Lemonade Drink Mix
+77	9.69	Kool-aid Ghoul-aid Jammers Scary Blackberry
+78	45.17	Kool-Aid Powdered Drink Mix, Cherry Limeade, 19 Ounce (Pack of 12)
+79	10.69	Kool-Aid Invisible Cherry Drink Mix, 19 oz, 2 pk
+80	12.49	Kool-Aid Jammers Grape 10 ct, 6 oz
+81	0.11	Kool-Aid Soft Drink Mix Grape Unsweetened, Caffeine Free - 0.14 Oz
+82	35.81	Kool Aid Pina Pineapple 48 Count
+84	1.32	Kool-Aid Soft Drink Mix Grape Unsweetened, Caffeine Free - 0.14 Oz, Pack of 12
+85	38.4	Kool-Aid Orange Unsweetened Soft Drink Mix, 0.15 Ounce Packets (Pack of 192)
+87	9.49	Kool-Aid Strawberry Soft Drink Mix 19 oz
+88	5.0	Kool-Aid Blue Raspberry Jammers 10 pk
+89	19.99	Kool-Aid Liquid Drink Mix; Cherry, Tropical Punch, Grape & Watermelon (Pack of 4)
+90	120.49	Kool Cherry Drink Mix 8 QT (Pack of 24)
+91	11.29	Kool-Aid Ice Blue Raspberry Lemonade Drink Mix, 2 pk
+92	6.95	Kool-Aid Black Cherry Unsweetened Soft Drink Mix - 0.13 Ounce, 12 Pack
+93	25.99	Kool Aid Mandarina Tangerine 48 Count
+94	9.75	Kool-Aid Strawberry Kiwi Soft Drink Mix 19 oz
+95	11.49	Kool-Aid, Cherry Limeade Drink Mix, 19oz Canister (2 Pack)
+96	39.99	Purplesaurus Rex Kool-aid Drink Mix (48 packs)
+97	44.99	Kool-Aid Soft Drink Mix, Unsweetened, Lemon-Lime, 0.13 oz (Pack of 192)
+98	9.49	Kool-Aid Peach Mango Soft Drink Mix 19 oz
+99	17.21	Kool-aid Strawberry Unsweetened Soft Drink 48ct

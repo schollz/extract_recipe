@@ -1,0 +1,86 @@
+0	2.36	Pillsbury Best All Purpose Flour, 5 lb.
+1	22.52	Hodgson Mill Organic Naturally White Flour, Unbleached All-Purpose, 2-Pounds (Pack of 6)
+2	9.57	King Arthur 100% Organic All Purpose Flour, 32 oz
+3	7.38	Pillsbury Best All Purpose Unbleached Flour, 5 Pound
+4	3.99	Bob's Red Mill Organic Unbleached White All Purpose Flour, 48 Ounces
+6	83.74	Wheat Montana Natural White All-Purpose Flour, 5 Pound (Pack of 8)
+7	71.16	Great River Organic Milling Organic Specialty Flour All Purpose Whole Wheat, 50-Pounds
+9	29.95	Bob's Red Mill All-Purpose Gluten-Free Baking Flour, 22-Ounce Packages (Pack of 4)
+10	24.0	King Arthur Flour - All Purpose Unbleached, 5-Pounds (Pack of 2)
+11	44.31	King Arthur Flour Gluten Free All-Purpose Baking Mix, 24 Ounce (Pack of 6)
+12	24.95	Bob's Red Mill Flour Gluten Free All Purpose Baking, 22-ounces (Pack of 4)
+13	15.99	Organic White wheat all purpose flour, No bleaching, No potassium bromate, (5 Pound)
+14	19.99	Bob's Red Mill Unbleached White All-purpose Flour(4-PACK)
+15	32.49	Gluten Free Pantry Beth All Purpose Baking Flour, 16 Ounce -- 6 per case.
+16	38.28	Great River Organic Milling, Organic Specialty All Purpose Whole Wheat Flour, 25-Pound Package
+17	45.48	King Arthur Flour 100% Organic All-Purpose Flour, Unbleached, 2 Pound (Pack of 12)
+18	14.99	Organic Whole wheat all purpose flour, No bleaching, No potassium bromate, (5 Pound)
+19	58.69	Bob's Red Mill Bulk Flour, All Purpose, Gluten Free, 1600B25, 25-Pound (Pack of 1)
+20	10.19	White Lily All Purpose Flour - 80 oz - 2 pk
+21	20.35	Gold Medal(r) All-purpose Flour - 10 Lbs.
+22	7.19	White Lily All Purpose Flour - 80 oz
+23	22.75	Glutino Gluten-Free Pantry All Purpose Baking Flour, 6 Count
+24	14.97	XO Baking Co Gluten Free All Purpose Flour Blend, 21-Ounce
+25	25.29	White Lily All Purpose Flour, 32 Ounce (Pack of 12)
+26	10.82	Gluten-Free All Purpose Flour Now Foods 17 oz Powder
+27	34.49	King Arthur Flour All-Purpose Baking Mix Gluten Free -- 24 oz
+29	12.5	Wondra All Purpose Quick-Mixing Sauce 'N Gravy Flour (Pack of 2) 13.5 oz Size
+30	60.0	Gluten Free All-purpose Flour (BULK 25lb Box)
+31	32.48	All Purpose Baking Flour Gluten Free 44 Ounces (Case of 4)
+32	22.5	Betty Crocker All Purpose Gluten Free Rice Flour Blend, 16 Ounce (Pack of 6)
+33	14.97	One 28 oz Arrowhead Mills All Purpose Baking Mix Gluten Free
+34	10.93	Premium Gold All-Purpose Flour, Flax and Whole Grain, 2 Pound
+35	11.95	Gold Medal All Purpose Bleached & Enriched Flour 5 lbs
+36	10.99	King Arthur Flour Multipurpose Flour, Gluten Free, 24-ounces
+37	49.99	Conagra All Purpose Flour (H&R) 50lb
+38	56.85	King Arthur Flour 100% Organic Unbleached All-Purpose Flour, 5 Pound (Pack of 6)
+39	22.64	Wholesome Chow Organic All-Purpose Baking Mix Gluten Free -- 64 oz
+40	37.99	Bakers & Chefs All Purpose Flour - 25 lb. bag
+41	35.99	Gluten Free All Purpose Flour & Pie Crust Mix Made with Organic Flour (5 lbs) by Arnel's Originals, Verified Non-GMO, Certified Organic, Certifed Gluten-Free
+44	36.0	King Arthur, All Purpose Unbleached Flour, 80oz Bag (Pack of 2)
+47	4.95	Gold Medal All Purpose Flour - 80 oz
+48	32.34	Wholesome Chow Gluten Free All Purpose Baking Mix, 19.7 Ounce (Pack of 6)
+49	19.99	Mehl's Gluten-Free All-Purpose Flour - 5 Pound Bag
+50	18.88	Heckers Unbleached All Purpose Flour 5 lbs
+51	17.9	Cup4Cup Glute Gluten Free Flour, 3 lb
+53	44.95	Bob's Red Mill Organic Unbl White Flour, 5-Pound (Pack of 4)
+54	8.99	Pillsbury Best All Purpose Bleached Enriched Pre-sifted Flour, 32 oz, 2 pk
+55	10.99	Conagra All Purpose Hotel and Restaurant Flour, 25 Pound
+56	19.99	Organic White Kamut All Purpose Flour, (5 Pound)
+57	13.49	Gold Medal Unbleached All Purpose Presifted Flour 5 lbs
+58	11.95	Bob's Red Mill 1 to 1 Baking Flour Gluten Free -- 22 oz
+61	2.69	Gold Medal Flour - All Purpose 5lb
+62	9.99	White Lily Self Rising Flour, 5-lb bags, 2-Pack
+63	81.35	Premium Gold Gluten Free Flax & Ancient Grains All-purpose Flour 5 Lbs. (2.27 Kg)
+64	11.75	Gluten-Free All Purpose Flour
+65	19.59	Bob's Red Mill All Purpose Gluten Free Flour, 22 oz, 2 pk
+68	36.39	Bob's Red Mill Flour White Unbleached Organic, 5-Pound (Pack of 4)
+69	18.0	Gluten Free All-purpose Flour (4-16oz Bags)
+71	12.12	Ceresota Flour Unbleached 5.0 LB
+72	12.98	King Arthur Flour Organic Unbleached All Purpose Flour -- 2 lbs
+73	8.76	White Lily Bread Flour, 5 Pound
+74	48.29	Pamela's Products Pam Artisan Flour Blend 4 Lb (Pack Of 3)
+75	71.3	Heartland Mill, 100% Organic All Purpose Unbleached Flour, 50 Lbs
+76	12.75	King Arthur All Purpose Flour - 10lb
+77	67.69	Arrowhead Mills Baking Mix All Purpose Gluten Free 28 oz. - Pack of 6
+79	12.54	Bisquick Pancake and Baking Mix, Gluten-Free, 16-oz. Boxes (Count of 3)
+80	24.48	King Arthur Flour Unbleached All-Purpose Organic Flour - Pack of 3 (2lbs Each Bag)
+81	38.5	Bulk Flours And Baking Ingred, 100% Organic All Purpose Unbleached Whi
+82	39.07	White Wings All Purpose Flour, 25 Pound
+83	7.99	Orgran All Purpose Plain Flour Gluten Free -- 17.5 oz
+84	13.11	Gold Medal All Purpose Organic Flour, 80-Ounce Package
+85	18.91	All Purpose Baking Flour Gluten Free (Case of 4) 22 Ounces
+86	138.39	Gold Medal All Purpose Unbleached Flour, 5 Pound -- 8 per case.
+87	47.97	Bella Gluten Free All Purpose Baking Mix Family Size 64 Oz (Pack of 3/ 183 oz)
+88	20.82	Gluten Free Mama, Mama's Almond Blend All Purpose Gluten-Free Flour, 2 Pound Pouch (Pack of 2)
+89	7.59	Gluten Free Allergy Friendly All-Purpose Flour
+90	16.35	Five Roses Flour All Purpose, 5.5lb
+91	14.18	Glutino Gluten Free Pantry All Purpose Flour, 16 Ounce
+92	17.49	Kinnikinnick All Purpose Flour Mix, Gluten Free, 16-Ounce (Pack of 3)
+93	26.8	Bella Gluten-Free All Purpose Baking Mix (Pack of 4)
+94	24.99	Bob's Red Mill - Gluten Free All Purpose Baking Flour, Wheat Free, Dairy Free, Kosher, 22 oz (Pack of 5)
+95	19.42	Gluten Free Mama, Mama's Coconut Blend All Purpose Gluten-Free Flour, 2 Pound Pouch (Pack of 2)
+96	3.99	All-Purpose Italian 00 Flour by Pivetti (2.2 pound)
+97	41.99	All Purpose Flour Unbleached - 50 Pound Bag
+98	25.49	Chebe Bread All-Purpose Mix, Gluten Free, 7.5-Ounce Bags (Pack of 8)
+99	45.3	Easy Make Gluten Free All Purpose Flour Mix, 2 Pound (Pack of 6)

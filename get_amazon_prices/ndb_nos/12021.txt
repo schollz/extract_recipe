@@ -1,0 +1,87 @@
+1	12.99	Thai Safflower, Safflower Saffron
+5	23.19	Spicely Organic Safflower, 2.8 Ounce
+6	4.39	Hain Mayonnaise Safflower
+7	12.99	Loriva Cold Pressed Safflower Oil, 12.7 Fluid Ounce
+8	7.99	Hollywood Safflower Oil, 32 oz
+9	56.59	Hain Pure Foods Safflower Mayonnaise, 24-ounce (Pack of 6)
+10	69.08	Hain Pure Foods Safflower Mayonnaise (3x24 OZ)
+11	75.44	Spectrum Naturals High Heat Safflower Oil -- 16 fl oz
+12	36.81	Eden Foods, Organic Safflower Oil, Unrefined, 16 fl oz (473 ml) (3 packs)
+13	6.99	Safflower Oil Expeller-Pressed 16 fl oz (474 ml) Liquid
+15	24.99	365 Everyday Value Safflower Seed Oil (Pack of 2)
+16	5.99	Safflower Herbal Tea 15 Bag
+17	45.99	1 Gallon Saffola 100% Safflower Oil (128oz) 3.79 Liter for Frying Baking Salad, No Cholesterol, Low in Saturated Fat
+18	24.95	American Saffron Herbal Tea, 6 oz.
+19	11.19	Spectrum Naturals Organic Refined Safflower Oil, 16 oz
+20	38.32	Loriva Supreme Foods Safflower Oil, 12.7 Ounce -- 6 per case.
+21	19.49	Safflower Oil, 16 fl oz (473 ml)
+22	44.22	Spectrum Naturals High Oleic Refined Safflower (3x32 Oz)
+23	28.01	Louana Safflower Oil, 24 Oz, (Pack of 4)
+24	11.49	Safflower Tea .10 Envelope/package
+25	8.72	Edible Safflower Petals - 110ml
+26	36.99	Safflower Powder 1 lb
+27	19.19	Safflower Oil Powder - 1 lb
+28	9.87	Chosen Foods Organic Safflower Oil, 16.9 Fluid Ounce
+29	33.0	40 Teabags Safflower Garcinia Tea Obesity Slimming Tea Made in Thailand
+31	20.28	Safflower Mayonnaise
+32	26.38	Bulk Herb-Safflower Oil Powder - 1lb(16oz)
+35	27.5	Spectrum Naturals Organic Refined Safflower Oil (3x16 Oz)
+36	15.1	Spectrum Naturals Organic High Heat Safflower Oil -- 16 fl oz
+37	7.99	Saffola Safflower Mayonnaise, 24 oz
+39	12.9	Safflower Oil Organic (High Oleic)
+40	11.99	Mahamosa Irish Rum and Cream Tea 2 oz - Loose Leaf Flavored Black Tea Blend (with coconut shreds, wild strawberry leaves, flavoring, safflower)
+41	33.15	Hain Pure Foods Safflower Oil, 32-Ounce (Pack of 3)
+42	33.15	L Original Oil Safflower (Pack of 6)
+43	115.08	Spectrum High Heat Safflower Oil, 32 oz
+45	42.44	Safflower Petals Whole - 1 lb,(Frontier)
+46	96.25	Hain Pure Foods Safflower Oil, 32 Ounce -- 12 per case.
+47	13.5	Mahamosa African Summer Honeybush Tea 2 oz, Loose Leaf Honeybush Herbal Tea Blend (with lemongrass, lemon myrtle, rose hips, eucalyptus, hibiscus, safflowers, marigold, orange, tea)
+48	108.26	Napavl: Oil, Og, Safflower, 25.4 OZ
+50	15.46	Clearspring Clearsping Org Safflower Oil (500Ml) Gluten Free Organic Vegan
+51	35.3	Abhaibhubejhr Safflower Herbal Tea,thai,2 Pack
+52	66.42	Hain Pure Foods Safflower Mayonnaise 24 Oz (Pack Of 6) - Pack Of 6
+53	107.99	Safflower Powder 1.1 lb (500 g)
+54	100.73	Spectrum Organic Refined Safflower Oil ( 12x16 OZ)
+55	23.24	Hollywood Safflower Oil, 32 Ounce Bottle
+56	44.09	Hollywood Safflower Oil, 32 Ounce Bottle (Pack of 2)
+57	196.9	Hain Pure Foods Lite Safflower Mayonnaise, 24 Ounce -- 12 per case.
+58	15.0	Thailand Herbs Safflower Tea Cholesterol Help Blood Circulation 20 Tea Bags Thanyaporn
+59	14.01	Louana Safflower Oil, 24 Fl Oz, (Pack of 2)
+60	126.5	Napa Valley Naturals Organic Safflower Oil, 25.4 Fluid Ounce -- 12 per case.
+61	21.01	Louana Safflower Oil, 24 Oz, (Pack of 3)
+62	24.94	Disney Parks Wonderland Official Unbirthday Mad Tea Party Blend Loose Leaf Tea
+64	17.0	Organic Peach Tea 2 PACK - Mrs. Bryant's Green Rooibos Colonial Organic Southern Peach Tea-2 Pack (1.6 oz per pack)-No sugar added,Caffeine Free. A gourmet blend of Organic Green Rooibos, dried Peaches, Marigold & Safflower Blossoms - Organic, Hand-blended, Loose tea (each pack makes 60 cups)
+65	17.88	Seitenbacher Organic Oil, Premium Salad Oil, 8.4-Ounce Bottles (Pack of 2)
+66	29.95	Pompeian OlivExtra Safflower Oil infused with Olive Oil 24 Oz (Pack of 2)
+67	16.07	HAIN - Oil Safflower - 32 Oz
+68	54.76	Hollywood Safflower Oil, 32 Ounce Bottle (Pack of 6)
+70	9.99	Basilur 2 in1 Pure Ceylon Black tea with rose petals, safflower "English Rose" and "Dimbula" from Fruit and Flowers Collection in Metal Caddy Loose 125g
+71	14.79	Safflower Tea Herbal Tea Safflower Extract Healthy Drink Reduce Cholesterol Help Blood Circulation 1.5 g x 20 Tea Bags Made in Thailand
+72	18.31	Mahamosa Pomegranate Bai Mu Dan White Tea 2 oz, Loose Leaf White Tea Blend (with pomegranate peels, safflowers, pomegranate flavor) (Pai Mu Tan, bai mudan
+73	39.99	Hain Pure Foods Safflower Mayonnaise (6x12 OZ)
+74	115.04	Spectrum High Oleic Refined Safflower ( 12x32 OZ)
+75	62.73	Hain Pure Foods Safflower Mayonnaise -- 24 oz
+76	12.95	Saffron
+77	11.99	Black Pure Ceylon Tea with Safflower, Marigolds, Blue Mallow Blossoms "Renaissance. Czar Nikolas II" 100 pack
+78	18.94	Spectrum Naturals Expeller Pressed Organic High Heat Safflower Oil (2 X 16 Fl Oz)
+79	19.8	Japanese Traditional Small Lovely Sugar Candy Konpeitou Confetti Colored with Natural Ingredients: Gardenia Red Radish Safflower in a Glass Jar (Tennen)
+80	13.88	Mahamosa Jackfruit Delight Tea 2 oz - Flavored Black and Green Tea Blend Loose Leaf (with black tea, green tea, orange peels, flavoring, rose petals, safflowers, marigold petals)
+81	9.99	Vitali-Tea - Hi-Antioxidant Green Tea, Total Wellness Blend of Hi-Antioxidant Green tea with hibiscus, safflowers and lemon and raspberry flavor
+82	14.0	Safflower TEA Herbal for Health From Thailand Thai Herb Abhaibhubejhr
+83	48.74	Robersons : 1 Litre Refined Safflower Oil
+84	134.99	Safflower Powder 2.2 lbs (1 kg)
+85	18.75	Black Pure Ceylon Tea with Rose Petals and Safflower "St.Valentine Czar Nikolas II" 100 Pack
+86	13.5	Mahamosa Almond Rum Honeybush Tea 2 oz, Loose Leaf Honeybush Herbal Tea Blend (honeybush, almond, safflower with almond, macadamia nut and rum flavor), Dessert Tea
+87	9.99	Cosmopolitian Tea - From Our Luxury Wine and Spirit Influenced Tea Selection - Luxury Ingredients: Black Tea, Cornflowers, Marigolds, Safflowers, Lavender with Citrus Fruit Flavor. Country of Origin: India
+88	34.95	Kingdom Quality AFGHAN SAFFRON (r) (c) (5 grams - 0.176 Oz)  FRESH -- NEWLY CULTIVATED  Rated #1 By International Taste & Quality Institute For It's Superior Color, Taste and Fragrance Among Spanish & Persian Saffrons -- ISO Certify Superior Grade A Saffron -- Average Color Reading 270 -- Safflower Free -- Imported Fresh, Directly From Our Saffron Fields in Afghanistan, Packaged in NEW YORK -- Still We Grow Our Saffron The Traditional & Organic Way, Means More Work Just To Get You The Highest Quality Possible -- in Today's Fraudulent Saffron Market, Your Honest Supplier Of 100% Pure & 100% Genuine Hard To Get Afghan Saffron -- Not Fake_Not Cheap _ Not Mixed $$MONEY BACK GUARANTEE$$
+89	12.75	Mahamosa Chocolate Berry Honeybush Rooibos Tea 4 oz, Loose Leaf Honeybush-Rooibos Herbal Tea Blend (with safflowers, marigolds, strawberry, raspberry, chocolate flavors), Dessert Tea
+90	13.0	Abhaibhubejhr Safflower Tea , 10 Tea Bags
+91	39.22	Spectrum Naturals Organic Refined Safflower Oil, 16 oz
+92	6.0	Dried Safflower Tea 40g
+93	14.8	Mahamosa Flavored Black Tea Blend and Tea Infuser Set: 2 oz Tropicana Black Tea, 1 Stainless Steel Tea Ball Infuser (Bundle- 2 items)(Tea Ingredients: Black tea, marigolds, cornflowers, blue mallow flowers, safflowers with passion fruit and mango flavor)
+94	14.31	Mahamosa Tropical White Tea (Pai Mu Tan) 2 oz, Loose Leaf White Tea Blend (bai mu dan tea, bai mudan tea) (with marigolds, cornflowers, blue mallow flowers, safflowers with passion fruit and mango flavor)
+95	33.51	Organic Safflower C/S
+96	99.12	Hain Pure Foods Safflower Mayonnaise ( 12 x 24 OZ)
+97	71.08	Hollywood Peanut Oil, 24 Ounce Bottles (Pack of 12)
+98	11.75	Mahamosa Chocolate Berry Honeybush Rooibos Tea 2 oz, Loose Leaf Honeybush-Rooibos Herbal Tea Blend (with safflowers, marigolds, strawberry, raspberry, chocolate flavors)
+99	17.99	Mahamosa Pomegranate White Tea 2 oz - Loose Leaf Flavored White Tea Blend (with white tea, safflower, rosehips, and flavoring)

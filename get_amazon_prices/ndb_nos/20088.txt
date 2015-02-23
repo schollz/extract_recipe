@@ -1,0 +1,80 @@
+0	5.38	Lundberg Organic Wild Rice, 8 Ounce
+1	21.08	Gourmet House Wild Rice, 16-Ounce (Pack of 4)
+3	25.39	Red Lake Nation 100% All Natural Minnesota Cultivated Wild Rice, 12-Ounce (Pack of 4)
+4	11.33	Bergin Nut Company Wild Rice, 16 Ounce Bags
+5	37.95	Nature's Earthly Choice Minnesota Cultivated Wild Rice, All Natural, 3 Pounds
+6	122.52	Gourmet House Cracked Wild Rice, 16-Ounce (Pack of 6)
+7	10.3	RiceSelect Royal Blend, Texmati White, Brown, Wild, and Red Rice, 21 Ounce Jar
+8	36.49	Goose Valley Wild Rice - 5 lb
+9	20.89	Quality Wild Rice, 16-ounce (Pack of 3)
+10	19.96	Bob's Red Mill Rice Wild/Brown Mix, 27-Ounce (Pack of 4)
+11	13.99	1 LB MN WILD RICE AMERICAN INDIAN HAND HARVESTED & WOOD PARCHED ALL NATURAL!
+13	96.0	Fall River Wild Rice 25 Lb Bucket-Fancy
+14	16.97	InHarvest Grade A Wild Rice, 2 Pound
+15	49.99	Gourmet House All Natural Minnesota Cultivated Wild Rice, 16 Oz (Pack of 12)
+17	29.0	Fall River Wild Rice 5 LB Bulk-Fancy
+18	12.22	Red Lake Nation 100% All Natural Minnesota Cultivated Wild Rice, 12 Ounce
+19	15.5	Organic Harvest Medley Rice Blend 3.2lbs
+21	19.99	Uncle Ben's Long Grain and Wild Rice Original Recipe Value Pack, 6 Count
+22	19.14	Lundberg Countrywild, Gourmet Blend, Whole Grain Brown Rice, 16-Ounce Bags (Pack of 6)
+23	44.31	Bob's Red Mill Quick Cooking Wild Rice, 8-Ounce Packages (Pack of 8)
+24	25.99	BINESHII GHOST WILD RICE, THE RAREST AND FINEST WILD RICE IN THE WORLD!
+25	58.3	Canadian Organic Wild Rice - 5 lbs
+26	6.04	InHarvest Kansas Wild Rice Medley, 2 Pound
+27	22.49	Lundberg Wild Blend, Gourmet Blend of Wild and Whole Grain Brown Rice, Gluten Free , 4LB
+28	20.48	Rice-A-Roni Original Long Grain & Wild Rice, 4.3-Ounce Boxes (Pack of 12)
+29	22.9	Lundberg Farms Gourmet Wild Rice Blend (6X1 Lb)
+30	34.49	Bear Creek Country Kitchens Creamy Wild Rice Soup Mix, 10.1- Ounce Bags (Pack of 6)
+32	31.2	Minnesota Grown Wild Rice - 1 lb (Pack of 4)
+33	43.74	Lundberg Organic Quick Wild Rice, 8-Ounce Pouches (Pack of 6)
+34	49.95	Roland Wild Rice, 5-Pound Bag
+35	16.87	InHarvest Grade A/B Wild Rice, 1 Pound
+36	17.06	Veetee Dine In Rice, Basmati and Wild, 9.9 Ounce (Pack of 6)
+37	110.0	Lundberg Organic Wild Blend Gourmet Brown Rice, 25-Pound
+38	18.6	truRoots Organic Sprouted Rice and Quinoa Blend Bag, 2 Pound
+39	49.22	Reese, Minnesota Wild Rice, 4-Ounce Boxes (Pack of 12)
+40	69.5	2 - 5 lb Bags Organic Wild Rice
+42	22.5	Wild Oats Marketplace Organic Variety Sampler 3 Pack 1 Lb. Each
+43	19.23	Fondo di Toscana Wild Organic Red Rice, 2.2 Pound
+44	5.99	Wild Rice - Grade A+ (8 ounce)
+45	25.15	Zatarain's New Orleans Style Long Grain & Wild Rice, 7-Ounce Boxes (Pack of 12)
+46	160.66	Bob's Red Mill Wild Rice Bulk (1x25LB )
+47	34.33	Gourmet House Minnesota Cultivated Wild Rice -- 6 oz
+48	7.72	InHarvest Grade C Wild Rice, 2 Pound
+50	5.0	Canoe Cooked Wild Rice, 15-Ounce
+52	36.57	Canadian Organic Wild Rice - 1 lb (Pack of 3)
+54	24.13	Farmhouse Brown And Wild Rice, 4.0 Ounce (Pack of 12)
+55	35.95	Wild Rice Blend - 10 Lb Bag
+56	208.27	Lundberg Organic Wild Rice, 25-Pound
+57	9.5	Mahatma Long Grain & Wild Rice with Seasonings
+58	14.99	Bob's Red Mill Whole Grain Wild and Brown Rice Premium Rice Blend
+59	9.99	Lundberg Wild Blend Brown Rice, 16 oz
+60	27.5	Better flavor than Wild Rice Vivo Whole Grain Brown Rice, Red Rice, Black Rice, Oat, and Wheat, High Fiber Sugar Free, 48-ounce Bag $0.16 / Oz Better flavor than Wild Rice
+61	2.96	Near East - Long Grain & Wild Rice Mix Original - 6 oz.
+63	27.99	Red Lake Nation 100% All Natural Quick-Cook Minnesota Cultivated Wild Rice, 12-Ounce (Pack of 3)
+64	28.5	Roland Wild Rice, 16-Ounce Bags (Pack of 2)
+68	12.9	Nature's Earthly Choice All Natural Black Rice / 4lbs., 1.81kg.
+70	23.48	cookSimple Cranberry Wild Rice, 6.1 oz. (Pack of 4)
+72	9.49	Wild Riceworks Gourmet Crisps, Sea Salt and Black Sesame, 14 Ounce
+73	18.7	InHarvest Grade A+ Wild Rice, 2 Pound
+74	17.17	Lundberg Organic Whole Grain and Wild Rice, Wild Porcini Mushroom, 6 Ounce (Pack of 6)
+75	30.0	Minute Ready to Serve Brown & Wild Rice 2 - 4.4 oz cups (Pack of 8)
+76	7.21	Slow Cooker Gourmet Minnesota Lake Country Chicken and Wild Rice Soup Mix, 9.5 Ounce
+77	15.9	Wild Riceworks Sea Salt Rice Crisps 16 Oz
+80	26.2	Uncle Ben's, Ready, Whole Grain Medley, Brown & Wild Rice, 8.5oz Pouch (Pack of 6)
+82	14.95	Uncle Ben's Country Inn Chicken & Wild Rice, 6 Ounce (Pack of 4)
+83	47.53	Nature's Earthly Choice Minnesota Cultivated All Natural Wild Rice, 12 Ounce
+84	12.97	Wild Sweet Rice (2lbs)
+85	11.32	InHarvest Traditional Hand Harvested Wild Rice, 1 Pound
+86	7.59	Purely American Kennett Square Mushroom Barley and Wild Rice Soup, 10 Ounce
+87	35.84	Wolfgang Puck Organic Chicken with White & Wild Rice Soup, 14.5 Ounce (Pack of 12)
+88	27.69	Lundberg Organic Rice, Brown Basmati and Wild, 1 Ounce (Pack of 6)
+90	26.15	Goose Valley Family Reserve Natural Wild Rice, 5 Ounce -- 6 per case.
+92	16.64	Bear Creek Country Kitchens Creamy Wild Rice Soup Mix, 10.1 Oz Bags (Pack of 2)
+93	34.36	RiceSelect Royal Blend, Texmati White, Brown, Wild, & Red Rice, 21-Ounce Jars (Pack of 4)
+94	22.14	Lundberg Jubilee, Gourmet Blend of Whole Grain Brown Rice, 16-Ounce Units (Pack of 6)
+95	7.96	Himalayan Red Rice, 1 lb.
+96	20.67	Chicken & Wild Rice Soup - 7 Meals
+97	8.72	Eden Foods - Wild Rice Hand Harvested Whole Grain - 7 oz.
+98	21.99	Minute Multi-Grain Medley Brown Rice Red Rice Wild Rice Quinoa  4 - 3 Oz Bags (Pack of 4)
+99	35.75	Nature's Earthly Choice Wild Rice, 6 x 12 ounce

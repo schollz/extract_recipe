@@ -1,0 +1,64 @@
+3	18.34	Hormel White & Dark Chunk Turkey, 5-Ounce Cans (Pack of 12)
+4	58.95	Hickory-Smoked Smokehouse Turkey (9 - 11 lbs)
+7	22.23	Hormel Premium Turkey Breast in Water, 5-Ounce Cans (Pack of 12)
+9	19.95	Smoked Turkey Tenderloin (1 lb.)
+10	27.99	Omaha Steaks 1 (1.8 lb.) Home-Style Roasted Turkey Breast
+11	18.59	Ostrim Applewood Turkey Sticks,  10 - 1.5-Ounce Packages
+12	18.25	Jack Link's Original TURKEY JERKY - PREMIUM CUTS 12.5oz (354g)
+14	16.92	Oberto All Natural Teriyaki Turkey Jerky, 3.25 ounce package (Pack of 4)
+17	22.99	Omaha Steaks 1 (2 lb.) Oven Roasted Turkey Breast
+19	10.36	Jack Links Original Turkey Jerky, 4.25 Ounce
+20	37.99	Nick's Sticks Spicy Free Range Turkey Snack Sticks - Gluten Free - No Antibiotics or Hormones (12 packages of 2 sticks)
+21	6.19	FIELD TRIP Jerky All Natural Gluten Free Turkey Jerky, Cracked Pepper No. 7, 2.15 Ounce
+23	29.97	Up North Cherry Maple Smoked Turkey Jerky 1 lb.
+24	25.07	Gerber Graduates Kid Selects Turkey Meatballs, 7.05 Ounce (Pack of 8)
+25	22.2	Krave Basil Citrus Turkey Jerky (4/3.25 oz)
+28	15.95	Hickory Farms Turkey Sausage 2 Pack
+29	19.99	Krave Lemon Garlic Turkey Jerky 16 Ounce
+30	21.99	PACIFIC GOLD PREMIUM TERIYAKI TURKEY JERKY Snack Pack (VALUE Pack of 2 Bags for 16 Total Ounces)
+33	4.53	Bridgford Turkey Pepperoni, Sliced, 4 Ounce Package
+34	19.99	Oven Roasted 100% White Lean Turkey Spam (Pack of 3) 12 oz Can
+35	28.5	Hickory Farms Turkey Summer Sausage 10 Ounces (Pack of 3)
+36	6.19	FIELD TRIP Jerky All Natural Gluten Free Turkey Jerky, Crushed Chilies No. 19, 2.2 Ounce
+38	24.49	Jack Link's Original Turkey Jerky, 18 ounces (Two 9-oz bags)
+40	26.45	SPAM Oven Roasted Turkey, 12-Ounce Cans (Pack of 6)
+42	16.0	Old Wisconsin, Turkey Snack Bites, 4-Ounce Packages (Pack of 4)
+43	47.99	Krave (8 pack assorted) Sampler 3.25oz packets Gourmet Jerky
+44	8.4	Better Than Bouillon Superior Touch Turkey Base 8oz
+45	29.97	Bulk Beef Jerky's Honey BBQ Smoked Turkey Jerky - 1 Lb
+46	11.59	Sprout Baby Food Stage Three, Market Vegetables and Pear with Turkey, 4.5 Ounce (Pack of 5)
+47	17.72	Jack Links Turkey and Cheese, 1.2 Ounce (Pack of 16)
+49	23.95	Krave Lemon Garlic Turkey Jerky (4/3.25 oz)
+50	11.99	Stovetop Stuffing Trio Chicken Turkey and Cornbread Stuffing 6oz Each
+52	11.14	Shelton's Turkey Jerky, Hot & Spicy, 4 Ounce Bag
+53	3.48	Jack Links Original Turkey Bites, 5 Ounce
+54	46.4	Valley Fresh 100% Natural White Turkey Breast in Water, 10-Ounce Cans (Pack of 12)
+56	46.1	Shelton's Turkey Chili, Mild CWB, 15-Ounce Cans (Pack of 12)
+57	55.95	Perky Jerky Turkey Jerky Variety Pack of 12
+62	15.99	Jack Links Turkey Original Jerky, 6.2 Ounce
+64	69.99	Nick's Sticks Free Range Turkey Snack Sticks - Gluten Free - No Antibiotics or Hormones (25 Packages of 2 Sticks)
+65	26.01	Jack Link's Original Turkey Jerky, 3.25-Ounce Bags (Pack of 4)
+67	10.5	Trio Turkey Gravy Mix 1 Lb 4 Oz
+68	37.99	Nick's Sticks Free Range Turkey Snack Sticks - Gluten Free - No Antibiotics or Hormones (12 Packages of 2 Sticks)
+69	32.88	Hormel TURKEY PEPPERONI Slices 6oz (4 Pack)
+71	8.99	Spice: Brine, Turkey, 11 OZ
+72	9.76	Jack Links Sweet Teriyaki Turkey Jerky, 6.2 Ounce
+73	69.99	Nick's Sticks Spicy Free Range Turkey Snack Sticks - Gluten Free - No Antibiotics or Hormones (25 packages of 2 sticks)
+74	27.47	Krave Turkey Jerky All-natural - Gluten Free, No Nitrates, Low Fat - Basil Citrus Flavor - Net Weight 16 Oz (454 G)
+75	5.11	French's Roasted Turkey Gravy Mix - 6/.88 oz. packets
+77	11.49	Hickory Farms Turkey Summer Sausage
+78	29.99	Nick's Mini Free Range Turkey Bites (5 4oz Packages)
+79	64.0	Honey Roasted Turkey Breast
+81	29.99	Imagine Organic Gravy, Roasted Turkey, 16 Ounce (Pack of 12)
+83	44.99	Omaha Steaks Ham & Turkey Combo
+86	16.99	Turkey Almond Cranberry Bar (Pack of 6)
+87	19.99	Nick's Sticks Free Range Turkey Snack Sticks - Gluten Free - No Antibiotics or Hormones (6 Packages of 2 Sticks)
+90	5.92	Bridgford Original Turkey Jerky, 3 Ounce Pouch
+91	23.12	Hormel Turkey Chili with Beans, 98% Fat Free, 15-Ounce (Pack of 6)
+93	41.25	Wolf Brand Turkey Chili without Beans, 15 Ounce (Pack of 12)
+94	10.13	Dukan Diet Turkey Jerky Hot and Spicy, 3 Ounce
+95	19.99	Nick's Sticks Spicy Free Range Turkey Snack Sticks - Gluten Free - No Antibiotics or Hormones (6 Packages of 2 Sticks)
+96	23.25	Hormel Compleats Turkey & Dressing, 10-Ounce Microwavable Bowls (Pack of 6)
+97	12.95	Turkey Gravy Mix ~ 4 Packs
+98	16.0	Heinz Home Style Roasted Turkey Gravy 12 Oz (Pack of 3)
+99	37.45	Bay View Turkey Gizzards, Two Jars

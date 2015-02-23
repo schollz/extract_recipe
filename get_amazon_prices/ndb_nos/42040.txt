@@ -1,0 +1,89 @@
+1	17.99	Rose's Grenadine, 1 Liter
+2	10.95	Rose's Grenadine Syrup, 12 oz
+3	6.95	Stirrings Authentic Grenadine Syrup - 12 oz
+4	8.2	Torani Grenadine Syrup, 750 ml Bottle
+5	18.0	Employees Only Grenadine Syrup - 12 oz
+6	10.89	Fee Brothers Grenadine Syrup 4 oz.
+7	14.49	Jack Rudy Grenadine Syrup
+8	13.5	Teisseire Grenadine French Syrup Grenadine concentrate 750ml 25.4fl.oz
+11	29.25	Stirrings Authentic Grenadine Cocktail Mixer, 12 Ounce -- 6 per case.
+13	54.71	Rose's Grenadine, 33.81-Ounce Bottles (Pack of 12)
+14	25.26	1883 Routin Grenadine Syrup
+15	8.99	Rose's Grenadine Syrup 12 Ounce Bottle
+16	79.23	Mott's 1 Liter Grenadine (03-0211) Category: Cocktail Drink Mixes
+17	25.7	Monin Sugar Free Pomegranate Syrup (Sugar Free, Calorie Free), 33.8-Ounce Plastic Bottle (1 liter Bottle)
+18	29.95	Fee Brothers Bar Cocktail Mixers Starter Set
+19	11.66	Angostura Aromatic Cocktail Bitters - 4 oz Bottle
+20	20.95	Luxardo, Maraschino Cherries 13 oz.
+21	33.36	Cocktail Rx Grenadine and Sweetened Lime Juice Variety Pack, 12.7 Ounce (Pack of 4)
+22	7.79	Fee Brothers Grenadine Syrup: 12.7 oz
+23	24.99	Monin Rich Red Pomegranate Syrup, 1 liter
+24	8.99	Sonoma Syrup Grenadine Bar Mixer 8 oz
+25	34.95	Master of Mixes Cocktail Grenadine, 12.68-Ounce Glass Bottles (Pack of 6)
+26	19.99	B.G. Reynold's, Hibiscus Grenadine Drink Syrup 375ml
+27	91.5	Torani(r) Grenadine Syrup
+28	13.75	Teisseire French Syrup all natural Raspberry Syrup 20.3fl.oz
+30	5.55	Tropical Dream Vanilla Grenadine Flavored Ceylon Black Tea, 25 Bags in Decorative Wood Crate - SALE
+31	10.95	Sonoma Syrup Pomegranate Simple Syrup12.7 oz
+32	11.78	Monin Grenadine Syrup
+33	8.99	Taste of Florida Grenadine
+35	22.95	Luxardo Gourmet Maraschino Cherries - 400g Jar
+36	8.95	Fee Brothers Blue Curacao Cordial Syrup - 32 oz
+39	94.33	Fee Brothers Bar Cocktail Bitters Complete Set - 12 Bottles
+40	7.19	Kilimanjaro Honey Pomegranate Grenadine Cocktail Syrup - 12.7 oz
+41	10.49	French Pomegranate Teisseire Concentrated Syrup
+42	12.99	Genevieve's Grenadine
+43	14.45	Toschi Grenadine Syrup
+44	17.99	Monin Premium Grenadine Syrup 700 ml
+45	53.22	Volcano Grenadine Burst 3.38 Oz (Pack Of 24)
+46	30.29	On The House Grenadine Syrup 25 Oz (Pack of 2)
+47	50.68	Jack Rudy Grenadine Syrup Pack of 2
+48	63.81	Grenadine Syrup , 12 ounce -- 12 per case
+49	36.77	Powell & Mahoney Grenadine True, 375 Ml. Case Of 6
+50	14.06	karvan cevitam grenadin geen kleurstoffen (grenadine syrup) - 26.5oz
+51	13.5	Mint Teisseire Concentrated Mint Syrup 750ml 25.4fl.oz
+52	10.5	Blue Lady Tea, Citrus melange of passion fruit, grapefruit, orange, and grenadine imparts a sweet, slightly tart flavour. - 4 Oz Bag.
+53	63.81	Mott's 12 Ounce Rose's Grenadine (03-0209) Category: Cocktail Drink Mixes
+54	42.19	Grenadin Geen Kleurstoffen (Grenadine Syrup) - 26.5oz (Pack of 3)
+55	34.99	Bg Reynolds Hibiscus Grenadine 750
+56	130.12	MONIN GRENADINE, CS 12/750ML, 01-0137 MONIN INC MONIN SYRUPS
+58	35.5	baron grenadine
+59	45.43	Roses 25 Oz Original Grenadine (C31359) 12/Case
+60	34.61	Cocktail Rx Simple Syrup, 12.7 Ounce Bottles (Pack of 4)
+61	35.13	Cocktail Rx Sweetened Lime Juice, 12.7 Ounce Bottles (Pack of 4)
+63	8.38	Counter Box of 30 Foil Wrapped Monk's Blend, Vanilla Grenadine Ceylon Black Tea Bags
+64	24.6	Roses Grenadine, 12-Ounce (Pack of 6)
+66	16.97	Morris Kitchen Spiced Apple Syrup (8 Oz)
+67	11.89	Grenadine Teisseire French Syrup Grenadine concentrate 600ml (20.3 fl oz), Grenadine by Teisseire [Foods]
+68	30.55	JERO GRENADINE MIX, CS 6/LTR, 01-0211 CARRIAGE HOUSE COMPANIES COCKTAIL MIX
+69	52.53	Stirrings Authentic Grenadine 12 Oz (Pack of 6) - Pack Of 6
+70	64.47	A. C. Calderoni & Company Bar Blend Grenadine Cocktail Mix (03-0142) Category: Cocktail Drink Mixes
+71	51.91	Goldmannchen Tee Sanfter Apfel Grenadine (Gentle Apple Grenadine), Fruit Tea, 20 Individually Sealed Tea Bags
+72	38.06	CRANBERRY-GRENADINE - fruit tea - in a sealed aroma bag - (750g)
+73	44.99	cgb_74793_1 Danita Delimont - Sailing - St. Vincent and the Grenadines, View from sailboat-CA35 DSR0001 - Daniel Schreiber - Coffee Gift Baskets - Coffee Gift Basket
+74	29.98	CRANBERRY-GRENADINE - fruit tea - in a Tea Caddy - O 115 mm, height 150 mm (250g)
+75	19.05	CRANBERRY-GRENADINE - fruit tea - in a Tea Caddy - O 98 mm, height 135 mm (100g)
+76	19.49	Grenadine Syrup
+77	60.45	CRANBERRY-GRENADINE - fruit tea - in a Black Jap Caddy - 147x147x214mm (1 Kilo)
+78	18.99	Blue Lady Tea, Citrus melange of passion fruit, grapefruit, orange, and grenadine imparts a sweet, slightly tart flavour. - 8 Oz Bag.
+79	111.12	Master Of Mixes Grenadine Syrup
+80	22.75	CRANBERRY-GRENADINE - fruit tea - in a Black Jap Caddy fitted lid square - 103x103x118mm (200g)
+81	15.31	CRANBERRY-GRENADINE - fruit tea - in a sealed aroma bag - (250g)
+82	34.99	Blue Lady Tea, Citrus melange of passion fruit, grapefruit, orange, and grenadine imparts a sweet, slightly tart flavour. - 1lb Tea Bag.
+83	34.99	Roland: Grenadine Syrup 25 Oz (6 Pack)
+84	44.99	cgb_75217_1 Danita Delimont - St. Vincent and the Grenadines - Tobago Cays, St. Vincent and the Grenadines-CA35 MDE0139 - Michael DeFreitas - Coffee Gift Baskets - Coffee Gift Basket
+85	21.0	CRANBERRY-GRENADINE - fruit tea - in a Black Jap Caddy - 88x88x122mm (200g)
+86	73.72	Monin - Grenadine Syrup - 700ml (Case of 6)
+87	71.36	CRANBERRY-GRENADINE - fruit tea - in a Tea Caddy - O 170 mm, height 220 mm (1 Kilo)
+88	9.25	CRANBERRY-GRENADINE - fruit tea - in a Black Jap Caddy - 56x56x82mm (40g)
+89	24.52	Monin Grenadine Sirup, 250 ml Bottle
+90	104.92	Rose's Grenadine 12 FZ (Pack of 24)
+91	27.73	CRANBERRY-GRENADINE - fruit tea - in a sealed aroma bag - (500g)
+92	14.03	CRANBERRY-GRENADINE - fruit tea - in a Black Jap Caddy - 77x77x100mm (75g)
+93	46.33	CRANBERRY-GRENADINE - fruit tea - in a sealed aroma bag - (1 Kilo)
+94	18.34	CRANBERRY-GRENADINE - fruit tea - in a Silver Caddy - O 76 mm, height 153 mm (100g)
+95	14.03	CRANBERRY-GRENADINE - fruit tea - in a Black Jap Caddy O 64 mm, height 100 mm(75g)
+96	54.0	CRANBERRY-GRENADINE - fruit tea - in a Tea Caddy - O 130 mm, height 280 mm (500g)
+97	29.99	Major Peters Grenadine Mix Mix, 1 Liter -- 6 Case
+98	8.43	CRANBERRY-GRENADINE - fruit tea - in a sealed aroma bag - (100g)
+99	19.99	Rose's Grenadine Syrup 25 Fl Oz

@@ -1,0 +1,95 @@
+0	9.95	Ziyad Vermicelli Pasta, 16 Ounce
+1	14.95	Vietnamese Rice Stick(vermicelli) Three Ladies Brand 2lbs
+2	19.28	Ronco Vermicelli, 16-Ounce (Pack of 8)
+3	43.98	Pagoda Lungkow Bean Thread Vermicelli (Glass Noodles) 9 X 200 gram Pink Net Pack
+4	20.71	La Moderna/Interamerican Foods Pasta, Vermicelli, 7-Ounce (Pack of 20)
+5	14.99	Instant Rice Vermicelli Noodles (Pack of 3)
+6	5.96	Bambino Roasted Vermicelli - 950g. 33.51oz.
+8	34.56	Ka-Me Rice Sticks (Vermicelli), 8 Ounce Packages (Pack of 12)
+9	11.97	Ottogi Korean Vermicelli (Dang Myun) Glass Noodle, 17.63 Ounces
+10	31.62	Double Happiness Vermicelli Bean Threads in Net, 10.5-Ounce (Pack of 5)
+11	1.95	Bambino Roasted Vermicelli 7 Oz
+12	16.17	Dragonfly Sweet Potato Vermicelli, 1 lb 4 ounce (Pack of 2)
+13	21.97	Grand Western Vermicelli Bean Thread (2 packs of 300 grams)
+14	22.07	Dragonfly Rice Vermicelli, Jiangxi, Large, 14-Ounce (Pack of 6)
+16	28.03	Mueller's Vermicelli, 8 Ounce (Pack of 24)
+17	15.67	India Tree Chocolate Vermicelli, 5.6 oz (Pack of 2)
+18	7.51	Pure Mung Bean Vermicelli - 8.8 oz
+19	38.0	India Tree Chocolate Vermicelli, 2.7 lb
+20	11.31	India Tree Chocolate Vermicelli, Natural, 5.9 oz
+21	18.9	Instant Mama Bean Vermicelli Noodles Clear Soup - Pack of 10
+22	7.49	San Giorgio Vermicelli Pasta 16 oz
+23	22.6	Dragonfly Rice Vermicelli, Jiangxi, Small, 14-Ounce (Pack of 6)
+24	39.95	Dragonfly Rice Vermicelli, 2.2-Pound (Pack of 5)
+25	6.97	Assi Glass Noodles, Korean Vermicelli, Dangmyun, Sweet Potato Starch (12 Ounces)
+26	11.64	Pasta Roni Garlic & Olive Oil Vermicelli Mix, 4.6-Ounce Boxes (Pack of 12)
+27	19.45	Explore Asian Organic Jasmine Red Rice Vermicelli Noodles, 8 Ounce (Pack of 6)
+28	2.79	Thai Kitchen - Thin Rice Noodles Vermicelli-Style - 8.8 oz.
+29	14.99	Instant Whole Grain Rice Vermicelli (Pack of 3)
+30	19.65	Thai Mama Instant Bean Vermicelli Clear Soup 40g - 12 Packs
+31	7.0	Longkou Vermicelli Bean Threads
+32	22.0	Mama Instant Bean Vermicelli Noodles Tom Yum 40g. (Pack Of 6 sachets)
+33	36.65	Peacock Rice Vermicelli, 7-Ounce Packages (Pack of 12)
+34	10.0	2 packs - Assi Glass Noodles, Korean Vermicelli, Dangmyun, Sweet Potato Starch (12 Ounces)
+35	15.2	Callebaut Vermicelli Dark 16 oz
+36	20.99	Tung-i Instant Bean Vermicelli (Chinese Spices Tong Tsai) - 1.94oz (Pack of 10)
+37	25.38	Dragonfly Jiangxi Rice Vermicelli Family Pack, Large, 2.2-Pound (Pack of 4)
+38	8.95	Vermicelli Bucati Pasta di Gragnano IGP 17.6 Oz
+39	9.26	Three Ladies Spring Roll Rice Paper Wrappers (Round 22cm 3pks)
+40	28.32	Sotanghon Chicken (Instant Vermicelli Soup) - 1.41oz (Pack of 30)
+41	7.95	India Tree Party Decoratifs, Chocolate Vermicelli Sprinkles
+42	19.99	Shuang Ta Green Bean Vermicelli 15 Oz /400 G (Pack of 2)
+43	3.23	Skinner Vermicelli, 12 Ounce
+44	17.0	Callebaut Vermicelli Dark 32 oz
+45	32.72	Near East Roasted Garlic & Olive Oil Vermicelli Pasta Mix, 7-Ounce Boxes (Pack of 12)
+46	21.48	La Preferida Vermicelli (Fideo), 10-Ounce (Pack of 12)
+47	8.06	Pure Mung Bean Vermicelli - 17.6 Oz
+49	22.14	King Soba Organic & Fair Trade Vermicelli Noodles - Gluten Free (6 Packages)
+50	26.5	Pagoda Vermicelli Bean Threads - Pack of 16
+51	39.76	Golden Flying Horse Singapore Brown Rice Vermicelli, 10.58-Ounce (Pack of 10)
+52	34.95	Callebaut Vermicelli Dark 48 oz
+53	39.59	Thai Mama Instant Bean Vermicelli Tom Yam Koong Flavour 40g - 12 Packs Product of Thailand
+54	10.99	La Moderna Vermicelli Pasta
+55	2.49	Rice Vermicelli by Roland - Brown Rice (8.8 ounce)
+56	22.59	(pack of 3) Imported Ukrainian Vermicelli 450g
+57	29.99	Roland Gluten Free Brown Rice Vermicelli, 8.8 Ounce -- 12 per case.
+58	0.89	Double Happiness Vermicelli Bean Threads in Net, 16-Ounce (Pack of 5)
+59	65.39	Instant Mama Rice Vermicelli Noodles Shrimp Creamy Tom Yum Flavor - 12 Cups
+60	21.29	NG Fung Jiangxi Rice Stick Instant Vermicelli, 10.5-Ounce (Pack of 6)
+61	27.69	Vermicelli Brown Rice Pasta (Pack of 6)
+62	45.74	MTR Vermicelli Payasam Mix, 7.04-Ounce Boxes (Pack of 30)
+63	31.99	Bun Tuoi San Xuat Tai My Tho (Fresh Rice Vermicelli) - 32oz (Pack of 3)
+64	4.39	Thai Taste Rice Vermicelli Noodles Nests (200g)
+65	39.99	Sempio Premium Vermicelli, Thin, 6.6-Pound (Pack of 2)
+66	7.95	Callebaut Vermicelli Dark 8 oz
+67	24.15	Dragonfly Extra Large Jiangxi Rice Vermicelli, 14-Ounce (Pack of 6)
+68	22.59	(pack of 3) Imported Egg Vermicelli 450g
+69	20.64	Ronco Vermicelli, 7-Ounce (Pack of 24)
+70	19.8	Lucky Me Instant Sotanghon (Vermicelli Soup-chicken Flavor) 40g (Pack of 20)
+72	21.15	Dragonfly Bean Vermicelli, Potato Starch, 14-Ounce (Pack of 5)
+73	19.89	Laziza Vermicelli Kheer Mix (rice Pudding), 155-Gram Boxes (Pack of 6)
+74	24.99	Cacao Barry - "White Vermicelli", Box 1kg/2.2lb
+75	4.0	Vermicelli , Cellophane Noodle
+77	31.2	Explore Asian Organic Jasmine Brown Rice Vermicelli Noodles, 8 Ounce (Pack of 6)
+78	29.38	COCOA B VERMICELLI, CHOCOLATE
+79	25.0	Kaset Bean Vermicelli 40g. (Pack of 10)
+80	29.4	"Kaset" Thai Vermicelli 100% Bean (40 g) Pack of 10
+81	15.97	La Moderna Soup Vermicelli, 3-ounces (Pack of12)
+82	5.46	Fine Vermicelli (Cut) - 16oz by SIPA.
+83	52.95	Callebaut Vermicelli Dark 80 oz
+84	25.65	Glass Noodle Bean Vermicelli with Mung Bean 40 g X 6 Pack Thai
+85	31.79	Sempio Premium Vermicelli, Thin (1.5 kg), 3.306-pounds (Pack of 4)
+86	15.15	India Tree Chocolate Vermicelli, 2.5 oz (Pack of 3)
+87	19.0	Sempio Instant Noodles, Hot & Spicy Flavor, 151-Grams (Pack of 8)
+88	9.99	CJ Korean Bean Thread (Dang Myun, Glass Noodle), 1.1 Pounds
+89	8.99	Vermicelli - Bean Thread Lungkow
+90	33.85	La Moderna Vermicelli Pasta, 16-Ounce (Pack of 20)
+91	29.58	Ronco Vermicelli, 32-Ounce (Pack of 6)
+92	3.99	Near East Vermicelli Pasta With Roasted Garlic - 7 oz
+93	23.95	Pasta Roni, Garlic & Olive Oil Vermicelli Mix, 4.6oz Box (Pack of 6)
+94	8.99	Vermicelli Noodle, Korean Style (31.74 Oz) By Ottogi
+95	39.38	Mueller's Vermicelli, 16 Ounce (Pack of 20)
+96	17.85	Brown Rice Vermicelli Noodle 170g ; Healties Foods
+97	13.0	Vermicelli Bean Thread - 10.5 oz.
+98	74.47	10 Packs Double Dragon Vermicelli 80g
+99	22.99	Dehydrated Rice Vermicelli 500g

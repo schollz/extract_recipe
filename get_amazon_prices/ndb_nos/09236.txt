@@ -1,0 +1,54 @@
+0	18.25	Haribo Gummi Candy, Peaches, 5-Pound Bag
+1	21.29	Trolli Gummy Bulk Gummy Peachie O's, 5 Pound
+3	16.48	Haribo Gummi Candy, Peaches, 5-Ounce Bags (Pack of 12)
+4	18.07	Celestial Seasonings Herb Tea, Country Peach Passion, 20-Count Tea Bags (Pack of 6)
+8	14.95	Torani Peach Syrup 750mL
+9	14.81	Monin Flavored Syrup,White Peach, 33.8-Ounce Plastic Bottle (1 liter)
+10	3.95	Haribo Peaches
+13	16.97	Butterfields Peach Buds Pack of 3
+15	2.79	Bigelow Perfect Peach Tea Bags, 20 ct
+16	3.5	LorAnn Gourmet Liquid Flavoring PEACH - 1 DRAM
+18	24.25	San Benedetto Iced Tea Peach Flavor 12 Bottles
+21	10.0	Quaker Instant Oatmeal Peaches & Cream, 1.23 Ounce, 10-Count Boxes (Pack of 4)
+23	20.37	Sun Maid Peaches, 6-Ounce Pouches (Pack of 6)
+24	42.35	Looza Peach Nectar ( 6x33.8 OZ)
+25	9.23	American Classic Loose Tea, Plantation Peach Tin, 2.3 Ounce
+28	12.5	Haribo Gummi Peaches: 5LBS
+32	55.99	Bionaturae Organic Fruit Spread; Peach (12x9oz)
+33	10.97	Old Hickory Peach Extract
+35	11.99	Amoretti Premium Syrup, Peach, 25.4 Ounce
+36	26.18	Native Forest Organic Sliced Peaches, 15-Ounce Cans (Pack of 6)
+37	13.0	Snapple Diet Iced Tea, Peach, 22 Count
+38	16.95	AriZona Peach Iced Tea Iced Tea Stix Sugar Free, 0.8-Ounce Boxes (Pack of 6)
+39	20.34	Yogi Peach DeTox Tea, 16 Tea Bags (Pack of 6)
+40	14.5	MIO Liquid Peach Tea, 1.62-Ounce, (Pack of 4)
+43	19.77	Crystal Light Peach Tea Mix (2.7-Ounce), 30-Count On-the-Go Packages (Pack of 2)
+49	2.99	Celestial Seasonings Sleepytime Herbal Tea, Peach, 20-Count
+51	2.99	Celestial Seasonings Sleepytime Herbal Tea, Peach, 20-Count
+52	26.4	Brothers-ALL-Natural Yellow Peach Crisps, 0.28-Ounce  Bags (Pack of 24)
+55	15.49	Dried Peaches. 2lbs
+57	23.43	Crystal Light Green Tea Peach Mango Drink Mix On The Go 10-0.08 oz packets (6 Pack)
+61	3.48	Lipton Tea & Honey Iced Tea Mix, Summer Peach Liquid 2.43 oz
+63	12.26	Trader Joe's Dried White Peaches 16. oz bag
+64	17.29	Sodastream Crystal Light Peach Iced Tea Drink Mix (2 Pack)
+68	10.23	The Republic of Tea, Ginger Peach Green Tea, 50-Count
+69	23.75	Crystal Light Energy On The Go, Peach Mango, 10-Count (Pack of 6)
+70	23.75	Crystal Light Energy On The Go, Peach Mango, 10-Count (Pack of 6)
+73	20.28	Del Monte Sliced Peaches Yellow Cling Peaches in 100% Real Fruit juices from Concentrate, 15-Ounce (Pack of 6)
+75	15.5	Crystal Light On The Go Green Tea Peach Mango, 10-Count Boxes (Pack of 4)
+76	35.99	Dole Sliced Peaches, 23.5 Ounce Jars (Pack of 8)
+78	31.43	Lipton Iced Tea Mix, Diet Peach 2.9 oz ,  ( 4 Count )
+79	30.04	Libby's Splenda Sliced Peaches, 23.5-Ounce Jars (Pack of 8)
+80	35.0	Crystal Light Liquid Drink Mix, Peach Bellini, 12 Count (Pack of 12)
+81	15.01	Crystal Light Peach Tea Drink Mix (12-Quart), 1.5-Ounce Packages (Pack of 4)
+83	10.87	Dried Peaches (1 Pound Bag)
+84	14.51	Harney and Sons Loose Leaf Tea, Peaches and Ginger, 8 Ounce
+88	34.08	Libby's Peach Halves, Heavy Syrup, 29-Ounce Cans (Pack of 12)
+89	36.0	Arizona Tea Can, Diet Peach, 23 Ounce (Pack of 24)
+90	36.0	Arizona Tea Can, Diet Peach, 23 Ounce (Pack of 24)
+91	16.75	Crystal Light Green Tea Peach Mango Drink Mix (Makes 10-Quarts), 1.85-Ounce Canister (Pack of 4)
+92	21.36	Dole Diced Peaches in 100% Juice, 4-Ounce Cups (Pack of 36)
+94	15.96	Crystal Light On The Go Peach Tea, 10-Count Boxes (Pack of 4)
+95	34.95	Monin Flavored Syrup, Peach, 33.8-Ounce Plastic Bottles (Pack of 4)
+96	39.9	Lipton Iced Tea Mix, Peach Sweetened 10 qt (pack of 6)
+97	6.99	Rishi Tea Peach Blossom, 1.13 Ounce

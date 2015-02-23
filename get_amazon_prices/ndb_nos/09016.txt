@@ -1,0 +1,74 @@
+0	17.92	Mott's Apple Juice, Original, 128-Ounce Bottles (Pack of 4)
+3	19.84	Mott's Motts for Tots Apple Juice, 64-Ounce Bottles (Pack of 8)
+4	17.94	Mott's 100% Juice, Apple Juice , 6.75-Ounce Boxes (Pack of 32)
+5	16.89	Martinelli's Apple Juice, 10-Ounce Pet (Pack of 12)
+6	14.69	Tree Top Apple Juice, 10-Ounce (Pack of 24)
+7	26.53	Tropicana 100% Apple Juice 24/10 Oz. Bottles
+8	6.72	Mott's 100% Apple Juice - 2/86 oz. bottles
+9	19.33	Mott's 100% Juice, Apple Juice, 5.5-Ounce Single Serve Cans (Pack of 24)
+10	56.54	Mott's 100% Juice, Apple Juice, 8 Ounce, 6 Count
+11	31.1	Mott's  Apple Juice, 64-Ounce Bottles (Pack of 8)
+12	33.99	Hansen's Apple Juice, 64 Ounce Bottles (Pack of 8)
+14	17.94	Mott's for Tots Apple, 6.75-Ounce Boxes (Pack of 32)
+15	23.99	Ocean Spray No Thaw Apple 100% Juice, 4-Ounce Bottles (Pack of 48)
+16	36.57	Lakewood Organic Apple Juice, 32-Ounce Bottles (Pack of 6)
+17	58.66	Martinelli, Juice Apple Unfiltered, 1.5-Liter (6 Pack)
+18	32.95	Mott's 100% Apple Juice, Original, 24 Count
+19	31.18	Hansen's Natural Juice, Apple Cider, 64 Ounce (Pack of 8)
+21	32.08	Ocean Spray Apple Juice 100%, 5.5-Ounce Cans (Pack of 48)
+22	19.99	Martinelli's Apple Juice Half Gallon (6 Pack)
+24	32.95	Mott's 100% Apple Juice, Original, 24 Count
+27	70.34	Martinellis Organic Apple Juice, 64 Ounce -- 6 per case.
+28	33.99	Hansen's Organic Apple Juice, 64 Ounce Bottles (Pack of 8)
+29	22.16	Mott's 100% Apple Juice, 4.23-Ounce Boxes (Pack of 44)
+30	33.99	Hansen's Organic Apple Juice, 64 Ounce Bottles (Pack of 8)
+31	56.54	Martinelli's Apple Juice Organic, 64-Ounce (Pack of 6)
+32	21.44	Martinelli's Apple Juice, 10-Ounce Pet (Pack of 9)
+33	28.0	Tree Top Apple Juice, 5.5 Ounce (Pack of 24)
+35	11.43	Vincent Family Dried Cranberries  ,10 oz
+36	37.72	Mott's Medleys 100% Juice Plastic Bottles, Apple, 64 Ounce (Pack of 8)
+37	26.33	Welch's Drink Variety Pack - Fruit Punch Grape Orange-Pineapple Drink 10-Ounce Bottles (Pack of 24)
+39	24.55	Apple & Eve 100% Juice No Sugar Added Variety Pack 36 - 6.75 oz. Boxes
+40	18.23	Ocean Spray 100% Apple Juice Box, 4.23 Ounce Box (Pack of 40)
+41	36.12	Tropicana Apple Juice, 10 Ounce (Pack of 24)
+42	3.29	Gerber Juice Apple - 4Pk
+43	23.8	Mott's 100% Juice, Apple White Grape, 6.75-Ounce Boxes (Pack of 32)
+44	6.89	Minute Maid Apple Juice To-Go, 10 oz, 6 ct
+45	69.99	Mott's Apple Juice, 32-Ounce Bottles (Pack of 12)
+47	18.99	Nestle Juicy Juice, Apple, 4.23-Ounce Boxes (Pack of 40)
+50	13.42	Juicy Juice 100% Juice, Apple, 8-Count, 6.75-Ounce Boxes (Pack of 4)
+51	15.97	Ocean Spray Cran-Apple Juice
+52	23.8	Mott's 100% Juice, Apple White Grape, 6.75-Ounce Boxes (Pack of 32)
+53	14.24	Tropicana Apple Juice 10oz Bottles 24ct Case
+58	23.99	Hormel Drink Thick & Easy Apple Juice (Nectar Consistency), 4-Ounce Portion Control Cups (Pack of 24)
+59	45.0	Martinelli's Apple Juice 1.5 Ltr (Pack Of 6)
+60	45.0	Martinelli's Apple Juice 1.5 Ltr (Pack Of 6)
+63	44.31	Ocean Spray Apple Juice, 60-Ounce Bottles (Pack of 8)
+64	23.75	Hansen's Organic Juice, Apple, 6.75 Ounce (Pack of 32)
+66	13.42	Juicy Juice 100% Juice, Apple, 8-Count, 6.75-Ounce Boxes (Pack of 4)
+67	31.95	Envy 100% Fruit Juice, Cherry Apple 8oz (non-carbonated)
+69	24.92	Apple & Eve(r) 100% Apple Juice 24/10oz Bottles
+71	6.97	Langers Apple Juice, 64 oz
+72	11.43	Vincent Family Dried Cranberries  ,10 oz
+74	49.58	Langers Harvest 100% Juice with Vitamin C, Apple Plus, 64 Ounce (Pack of 8)
+75	11.49	Suma Organic Apple Juice Concentrate 400ml
+76	23.99	Hormel Drink Thick & Easy Apple Juice (Honey Consistency), 4-Ounce Portion Control Cups (Pack of 24)
+77	24.99	Apple & Eve Sesame Street Cookie Monster's Orange Tangerine, 4.2-Ounce Boxes (Pack of 40)
+78	34.95	Thick-It AquaCareH2O Apple Juice, Honey Consistency, 64 oz. Bottle, 4/Case
+79	56.54	Langers Apple Juice 100%, 64 Ounce (Pack of 8)
+80	35.68	Tropicana 100 Percent Apple Juice, 12 Count
+81	45.0	Gerber 100% Juice Apple Prune, 4-Ounce Bottles (Pack of 24)
+82	42.38	Back to Nature Juice, Apple, 48 Ounce (Pack of 5)
+83	12.99	Minute Maid 100% Apple Juice Cartons, 6 oz, 10 ct, 2 pk
+84	4.99	APPLE JUICE freezer bars
+86	22.09	Apple & Eve Apple Juice, 3 ct, 6.75 oz, 9 pk
+87	44.28	Apple & Eve Juice, White Grape Grover, 8-Count Aseptic Boxes (Pack of 5)
+88	9.7	Snapple, Fruit Drink, Apple Juice, 16 Fl Oz (Pack of 6)
+89	29.98	Apple & Eve Juice, Apple, 3-Count Aseptic Boxes, 6.75-Ounce,  (Pack of 9)
+90	8.0	1 Box (6-ct.) MOTT'S APPLE * Singles to Go! 100% Vitamin C * Sugar Free Drink Mix *
+91	17.94	Mott's for Tots Apple White Grape, 6.75-Ounce (Pack of 32)
+92	33.99	Hansen's Apple Strawberry Juice, 64 Ounce Bottles (Pack of 8)
+93	9.85	Mott's 100% Apple Juice - 1 Gallon (128 Oz.) Bottles (Pack of 2)
+97	27.01	Langers Barney 100% Juice, Apple, 32 Ounce (Pack of 6)
+98	18.9	Thick & Easy Juice - Apple Juice Nectar - Model 566782
+99	81.21	Fragile Planet Organic Filtered Apple Juice, 64 Fluid Ounce -- 8 per case.

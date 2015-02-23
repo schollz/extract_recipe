@@ -1,0 +1,81 @@
+0	15.82	One 16 oz Frontier Natural Products Organic Chicory Root Roasted
+1	12.25	COFFEE PARTNER(r) Ground Chicory
+2	15.5	Blue Prairie Organic Roasted Chicory Root
+4	12.55	Instant Chicory from France 3.5oz
+5	9.49	Cafe Du Monde Coffee and Chickory, 15 Ounce
+6	8.75	Leroux 100% Ground Chicory from France 8.8 oz
+7	4.2	Rina's Garden French, Roasted Chicory Root - Coffee Alternative - 1 Lb Bulk
+8	16.49	2 (Two) Cans of Cafe Du Monde
+9	19.97	Leroux Regular Instant Chicory 3.5oz/100g 2 Pack
+10	9.95	ALMOSTcoffee, Coffee Substitute, 16 Oz.
+11	10.48	LC Foods Inulin Fiber Chicory Root Low Carb, Gluten Free, Wheat Free, No Sugar, All Natural, Diabetic Friendly (12.8 oz)
+12	6.99	Chicory Root Roasted Granules
+13	24.49	Cafe Du Monde Coffee Chicory, 15-Ounce (Pack of 3)
+18	25.53	Dandy Blend, Instant Herbal Beverage with Dandelion, 2 lb. Bag
+21	10.99	Cafe Du Monde Chicory Decaffeinated
+22	7.77	Brewer's Best Brewing Herb's and Spices - Chicory Root
+23	8.75	Camp Chicory and Coffee 241g
+24	12.1	Cafe Du Monde Coffee & Chicory Net Wt. 15 OZ.
+25	29.28	Luzianne Premium Blend Coffee & Chicory, 16 Ounce Cans (Pack of 3)
+26	7.39	Pukka Herbal Teas After Dinner Organic Fennel Chicory and Cardamom Tea, 20 Count
+27	13.41	French Market Coffee Single Serve Cups, Medium-Dark Roast With Chicory, 12 count
+29	24.44	CDM Coffee & Chicory, Regular Grind, 13-Ounce Cans (Pack of 4)
+30	40.63	Coffee Partner, Chicory, 6.5 OZ (Pack of 12)
+31	30.62	Celestial Seasonings Caffeine-Free Herb Tea with Roasted Chicory, 40-Count Tea Bags (Pack of 6)
+32	7.77	Brewer's Best Brewing Herb's and Spices - Chicory Root
+34	13.93	French Soluble Chicory 5 g X 20 Leroux-Chicore Soluble 5g X 20
+37	4.3	Celestial Seasonings Caffeine Free Herbal Tea with Roasted Chicory - 40 Tea Bags, 1 Each
+38	36.97	Community Coffee New Orleans Blend Coffee & Chicory Single-Serve K-Cups, 36 Count
+41	74.1	Prewetts Instant Organic Chicory 6 x 100g
+42	8.49	Beignet Mix 28 oz
+43	23.97	New Orleans Roast - Dark Roast & Chicory Single Cups, 12 Count (PACK OF 3 BOXES)
+44	17.1	Community Coffee New Orleans Blend Coffee & Chicory Single-Serve K-Cups, 12 Count
+45	11.89	DANDY BLEND INSTANT HERBAL BEVERAGE with Dandelion 7.05 oz
+46	35.0	French Market Coffee, Single Serve K-Cups, Medium Dark Roast Coffee and Chicory, 4.9oz Box (Pack of 3)
+47	25.36	RT Dark Roast Coffee and Chicory, 13-Ounce (Pack of 4)
+48	3.39	Chicory Root 1 oz
+49	45.26	Half a Dozen Cans (6 Cans) of Coffee Du Monde - 15 oz. cans
+50	24.99	Cafe Du Monde Coffee Decaf And Chicory, 13-Ounce Bags (Pack of 3)
+51	19.84	Leroux Regular Instant Chicory 7oz/200g
+53	26.0	French Market Coffee Roast Single Serve Cups, Dark Roast Coffee and Chicory (2 Pack of 12)
+54	13.39	Nescafe Sunrise Instant Coffee Chicory Mix Richer Aroma EXperience for 120 Cups(120 Sachets)
+55	29.13	Luzianne White Label Coffee and Chicory, 13-Ounce (Pack of 4)
+56	3.55	Spices: Chicory Root ~ Organic ~ Roasted ~ 1 oz
+57	7.41	SENA -Premium - Chicory herb cut- (100g)
+58	13.95	Community Coffee & Chicory New Orleans Blend 12 Oz Bag
+59	26.93	Internatural Foods Cafix Crystals, Jar, 7-Ounce (Pack of 3)
+60	13.0	Rina's Garden French, Roasted and Granulated Chicory Root - 2 lbs. Bulk
+61	19.95	New Orleans Famous Union Coffee & Chicory 12 Oz Ground 2 Pack
+62	99.99	French Market Coffee & Chicory, City Roast (Dark Roast), 12-ounce Cans (Case of 12)
+64	6.99	New Orleans Roast - Dark Roast & Chicory Single Cups, 12 Count
+65	26.97	Dandelion Root Roasted Granule - 1 lb,(Frontier)
+66	12.49	New Orleans Famous French Market Coffee & Chicory 12 Oz Bag
+67	3.95	Chicory Root-4oz- Ingredient of New Orleans Style Coffee
+68	20.7	Community Coffee and Chicory Single-Serve Coffee, 18 Count
+69	14.73	Pero: Coffee Substitute Extra Instant Beverage Jar, 5.25 oz
+71	28.35	Organic Dandelion Root Roasted C/S
+72	46.98	Community Coffee New Orleans Blend Coffee & Chicory Single-Serve K-Cups, 48 Count
+73	54.98	Community Coffee New Orleans Blend Coffee & Chicory Single-Serve K-Cups, 60 Count
+74	6.99	New Orleans Roast - Dark Roast & Chicory
+75	28.0	French Market Coffee & Chicory (4 Bag Pack)
+76	17.99	Leroux Instant Chicory with Caramel Flavor 3.5oz/100g 3 Jars
+77	7.99	Coffee and Chicory by Cafe du Monde - Original (15 ounce)
+78	65.94	Community Coffee New Orleans Blend Coffee & Chicory Single-Serve Cups, 72 Count
+79	11.38	Just Like Sugar Everyday Sweetener -- 100 Packets
+80	11.99	Barleycup Organic Chicory Cup 100g
+81	3.11	Chicory Class Glass Ginseng
+82	12.89	Community Coffee New Orleans Blend (Coffee and Chicory)
+84	34.99	PJ's Coffee - Chicory on Chartres (PACK OF 3 BAGS)
+85	3.11	Chicory Instant Classic Bag
+86	35.0	Community Coffee, Coffee and Chicory, Medium Dark Roast, 12-Ounce Bags (Pack of 3)
+88	14.5	Luzianne Instant Coffee & Chicory Beverage, 8 oz
+89	15.74	Frontier Bulk Chicory Root 1 lb
+90	35.99	Luzianne Chicory, 6.5-Ounces (Pack of 6)
+91	3.9	Delta Peninsular Roasted Ground Barley and Chicory Coffee Mix 250g
+92	12.5	CDM Dark Roast Coffee & Chicory (Auto Drip)
+93	16.65	Leroux Soluble Chicory - 20 sticks / box - 2 boxes
+94	18.5	Guayusa Gunshot Blend: a Gunpowder Original (coffee alternative| all natural ingredients| 100% organic)
+95	7.99	Chicory Root roasted Granules - 1 lb
+96	33.44	Coffee Masters Gourmet Coffee, Louisiana Blend, Whole Bean, 12-Ounce Bags (Pack of 4)
+97	11.99	Barleycup Organic Chicory Cup 100g
+98	21.84	SENA -Premium - Chicory root powder- (500g)

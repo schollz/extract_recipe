@@ -1,0 +1,67 @@
+0	75.0	Tuscan Whole Milk, 1 Gallon, 128 fl oz
+4	15.99	Horizon Organic 1 % Low Fat Milk, 8-Ounce Aseptic Cartons (Pack of 18)
+5	10.61	Nestle Carnation Instant Nonfat Dry Milk, 25.6-Ounce
+9	35.95	Borden Shelf Stable 2% White Milk 32oz. - 6 Unit Pack
+12	34.0	Horizon Organic Low Fat Milk, Chocolate, 8-Ounce Aseptic Cartons (Pack of 18)
+13	12.49	Hoosier Hill Farm All American Dairy Whole Milk Powder 1 lb
+15	26.89	Parmalat Whole Milk 1 Qt (Pack of 6)
+16	25.51	Parmalat Lil' Milk Whole Milk with Vitamin D 3 pk
+20	8.59	Meyenberg Goat Milk - Powdered, 12-Ounce
+21	15.93	Carnation Malted Milk, Original  2 Lb 8-Oz
+22	14.47	Klim Full Cream Milk Powder, 1.76 Pound
+23	5.31	Parmalat 2% Reduced Fat Milk 1 Qt
+24	27.39	Parmalat 2% Reduced Fat Milk 32 Oz(Pack of 6)
+26	70.18	ORV20333160 - Organic Valley Whole Milk
+27	34.66	So Delicious Dairy Free - Organic Coconut Milk Beverage Organic Unsweetened,  32-Ounce (Pack of 6)
+28	7.99	Shelf Stable Reduced Fat 2% Milk - 32 Oz Carton
+30	35.95	Borden Shelf Stable Whole White Milk 32oz. - 6 Unit Pack
+31	23.49	Hershey's 2% Chocolate Milk, 21- 8 Ounce Aseptic Boxes
+32	31.04	Carnation Instant Nonfat Dry Milk - 4.4 lbs
+33	33.0	Horizon Organic Low Fat Milk, Vanilla, 8-Ounce Aseptic Cartons (Pack of 18)
+36	27.76	Got Milk Magic Milk Straws, Ultimate Variety Pack, 12 Pack (6 Straws Per Pack)
+37	3.88	Parmalat Whole Milk 1 Qt
+38	19.99	Klim Full Cream Milk Powder, 12.69 Ounce
+39	13.89	Milk-Bone Trail Mix With Real Beef & Sweet Potato Dog Snacks, 9-Ounce (Pack of 3)
+40	23.32	Nestle Nido Milk Powder, Imported, (400 gm), 14.1-Ounce Cans (Pack of 3)
+42	12.48	Traditional Medicinals Organic Mother's Milk Herbal Tea 2-pack;32 Count.
+43	48.99	Enfagrow Stage 3 Toddler Next Step Natural Milk 24 Ounce
+44	36.74	Meyenberg Whole Powdered Goat Milk, Vitamin D, 12-Ounce Cans (Pack of 3)
+45	90.0	Enfagrow Toddler Next Step Toddler Milk Drink - Natural Milk Flavor - Powder - 24 oz - 4 pk
+46	17.74	Nestle Carnation Evaporated Milk, 8 Can of 12oz
+48	13.55	Trader Joe's Organic Sweetened Condensed Milk, 14 oz (397g) Squeeze Bottle
+49	15.79	Nestle Nido Instant Dry Whole Milk Powder, Fortificada, 1.76 Pound Can
+50	10.75	Non-Instant Non Fat Milk Powder, 1lb.
+52	9.59	Bob's Red Mill Milk Powder, Non Fat Dry, 22 Ounce
+53	37.08	Meyenberg Evaporated Goat Milk, 12-Ounce Cans (Pack of 12)
+54	27.95	Similac Go & Grow Milk-based Complete Toddler Nutrition, Powder / 1.38 Lb
+55	37.47	Anchor Full Cream Milk Powder -900g/2lb
+56	50.49	Peak Dry Whole Milk, Rich & Creamy, 2500g
+58	17.29	Nestle, Carnation, Malted Mik, Original, 13oz Container (Pack of 3)
+59	16.46	So Delicious Dairy Free - Organic Coconut Milk Beverage Original,  32-Ounce (Pack of 6)
+60	15.12	White Wave Silk Pure Almond Milk Vanilla -- 8 fl oz Containers - Pack of 4
+61	23.99	Blue Diamond Breeze Unsweetened Vanilla, 32-ounce (Pack of 6)
+64	25.93	Nestle Nido Instant Milk Powder Fortified, 12.7-Ounce Tins (Pack of 4)
+65	48.97	Parmalat Milk 2% Fat Quart, 32-Ounce (Pack of 12)
+66	12.31	Meyenberg Non Fat Canned Powder Goat Milk, 12-Ounce
+67	28.95	AROY-D COCONUT MILK 100% ORIGINAL NET 8.5 OZ (250 ML) (Pack of 12)
+68	35.59	step milk powder 820g
+69	17.45	Native Forest Organic Premium Coconut Cream, Unsweetened, 5.4 Ounce (Pack of 12)
+71	17.94	Parmalat 1% Milk, 32 oz, 2 pk
+74	14.88	100% Coconut Milk - 8.5 oz packages (6-pack)
+77	16.3	Coconut Milk Powder, 1 Lb.
+78	35.99	Rice Dream Original Rice Drink, 32 Ounce Aseptic Boxes (Pack of 12)
+79	17.88	Milk-Bone Mini's Flavor Snacks Dog Biscuits, 15-Ounce (Pack of 6)
+81	23.49	NIDO Instant Full Cream Milk Powder, 900g
+82	32.45	Nestle Nido Instant Dry Whole Milk Powder, Fortificada, 1.76-Pound Cans (Pack of 2)
+83	42.35	Organic Valley HTST 2 Percent Reduced Fat Fresh Milk, 128 Ounce -- 4 per case.
+85	19.16	Mauna Loa Macadamias, Milk Chocolate, 6-Ounce Bags (Pack of 4)
+86	35.88	Rice Dream Rice Drink, Vanilla, 32 Ounce (Pack of 12)
+87	39.75	Horizon Organic Milk,  8 Ounce ,18 Count
+88	44.28	Meyenberg Powdered Goat Milk, Vitamin D, 4-Ounce Pouches (Pack of 12)
+91	12.5	Carnation Evaporated Milk, 97 Ounce (Pack of 6)
+92	12.2	Better than Milk Vanilla Vegan Soy Powder, 22.4 Ounce Can
+94	8.14	Alvita Teas Organic Herbal Tea Bags Milk Thistle - 24 Tea Bags
+95	14.39	Better Than Milk Original Vegan Rice Powder, 21.4 Ounce
+96	17.22	Godiva Chocolate Bar, Milk Salted Caramel, 3.5-Ounces (Pack of 5)
+97	47.77	Bob's Red Mill Non-Fat Dry Milk Powder, 26-Ounce Packages (Pack of 4)
+99	29.88	Native Forest Organic Light Coconut Milk, Reduced Fat, 13.5-Ounce Cans (Pack of 12)

@@ -1,0 +1,84 @@
+1	11.97	Kodiak Cakes Butter Milk and Honey Flapjack and Waffle Mix, 24-Ounce (Pack of 3)
+3	12.54	Bisquick Pancake and Baking Mix, Gluten-Free, 16-oz. Boxes (Count of 3)
+6	15.58	Bob's Red Mill Organic 7 Grain Pancake & Waffle, Whole Grain Mix, 26-Ounce Bags (Pack of 4)
+7	15.07	Krusteaz Buttermilk Pancake Mix, 10-Pound
+8	15.56	Bob's Red Mill Gluten-Free Pancake Mix, 22-Ounce Packages (Pack of 4)
+10	39.95	Bisquick Shake 'n Pour Buttermilk Pancake Mix, 10.6-Ounce Containers (Pack of 8)
+11	16.76	Bob's Red Mill Organic High Fiber Pancake & Waffle, Whole Grain Mix, 26-Ounce Bags (Pack of 4)
+12	15.99	Stonewall Kitchen Farmhouse Pancake and Waffle Mix, 33-Ounce Can
+13	16.87	Hungry Jack Buttermilk Pancake Mix, 7 Ounce (Pack of 12)
+14	9.95	Stonewall Kitchen Blueberry Pancake and Waffle Mix, 16 Ounce Can
+15	15.24	Bisquick Complete Pouch, Buttermilk Pancake, 6.75 Ounce (Pack of 9)
+17	3.89	Walden Farms - Calorie Free Pancake Syrup - 12 oz.
+18	18.86	Fiber One Complete Pancake Mix, Buttermilk, 28.3-Ounce Boxes (Pack of 4)
+19	9.86	Aunt Jemima Complete Pancake Mix, 32 oz
+21	42.97	Bisquick Shake 'N Pour Buttermilk Pancake Mix, 5.1-Ounce Containers (Pack of 12)
+22	6.45	Arrowhead Mills Organic Gluten Free Pancake & Baking Mix, 26 Ounce
+23	7.97	Aunt Jemima Pancake Mix, 32 oz
+24	3.63	Glutino Gluten Free Instant Pancake Mix, 6.67 Ounce
+25	12.99	Paleo Pancake & Waffle Mix (Low Carb & Gluten Free)
+26	9.5	Aunt Jemima Original Complete Pancake & Waffle Mix 32 oz
+27	19.97	Golden Malted Waffle and Pancake Flour, Original, 33-Ounce Can
+28	34.14	Namaste Foods, Gluten Free Waffle & Pancake Mix,  21-Ounce Bags (Pack of 6)
+29	3.19	Whole Wheat Buttermilk Pancake Mix 32 oz Box
+30	17.95	On The Go Paleo Pancake Mix Gluten & Grain Free -- 16.8 oz
+31	21.84	Pamela's Products Baking & Pancake Mix - 4 lb
+32	15.96	Bob's Red Mill Buckwheat Pancake Mix, 26-Ounce Bags (Pack of 4)
+33	14.36	Bob's Red Mill Pancake/Waffle 10 Grain, 26-Ounce (Pack of 4)
+34	13.5	My Favorite Banana Caramel Pancake Mix, 16 Oz
+35	39.64	Cherrybrook Kitchen Gluten Free Dreams, Pancake & Waffle Mix, 18-Ounce Boxes (Pack of 6)
+36	9.95	Stonewall Kitchen Chocolate Chip Pancake and Waffle Mix, 16 Ounce Can
+38	8.46	Los Chileros Blue Corn Pancake and Waffle Mix, 16 Ounce
+40	31.44	King Arthur Flour Gluten Free Pancake Mix, 15 Ounce (Pack of 6)
+41	17.59	P28 Foods High Protein Pancake Dry Mix White Chocolate -- 16 oz
+42	21.84	Garvey's Organic Pancake & Waffle Mix, 9-Ounce Boxes (Pack of 6)
+43	9.95	Stonewall Kitchen Cinnamon Apple Pancake Mix, 16 Ounce Can
+44	7.39	King Arthur Flour Pancake Mix, Gluten Free, 15-ounces
+45	9.99	Maple Grove Farms Pancake Mix Honey Buckwheat, 24-Ounce
+46	11.25	Pancake Mix (Grain-Free, Gluten-Free), Fast & Easy, 6 Servings
+49	9.37	Krusteaz Pumpkin Spice Pancake Mix
+50	9.97	Bruce's Sweet Potato Pancake Mix - 1.5 lb
+51	21.99	Karo Pancake Syrup, 16-Ounce (Pack of 4)
+52	34.95	Stonewall Kitchen Farmhouse Pancake and Waffle Mix, 33 Ounce (Pack of 2)
+53	18.99	High Protein Pancake Mix Made by ProCakes
+54	26.99	Karo pancake Syrup 16 oz. Green Label - 6 Unit Pack
+55	6.65	Lunds Pancake Mix, Swedish, 12 Ounce
+56	17.98	Bruce's Sweet Potato Pancake Mix (5-pack)
+58	44.94	The Cravings Place All Purpose Pancake & Waffle Mix, 23-Ounce Bags (Pack of 6)
+59	9.97	Aunt Jemima Whole Wheat Blend Pancake & Waffle Mix, 35 Oz 1 box
+60	10.48	Archer Farms Red Velvet Pancake and Waffle Mix
+63	26.79	Bruce's Complete Sweet Potato Pancake and Waffle Mix 24oz Box (Pack of 3)
+65	19.99	Snoqualmie Falls Lodge Old Fashioned PANCAKE & WAFFLE Mix 5lb.
+66	65.21	Gluten Free Mama, Mama's Pancake Mix and Waffle Mix, 32 Ounce Pouch (Pack of 6)
+67	8.95	Bob's Red Mill Buckwheat Pancake Mix - 26 oz
+68	16.95	Hawaiian Sun Pancake Mix Assortment 6-ounce (Pack of 3)
+69	31.8	Lund's Swedish Pancake Mix, 12-Ounce Boxes (Pack of 12)
+70	17.99	My Favorite Birthday Cake Pancake & Waffle Mix, 24 Oz.
+71	19.44	Mo's Bacon Chocolate Chip Pancake Mix
+72	10.2	Trader Joes Pumpkin Pancake and Waffle Mix
+73	29.99	Cracker Barrel Original Buttermilk Pancake Mix - 2 Lb Box - (Pack of 2)
+74	8.0	In The Mix - "Red Velvet Pancake Mix"
+75	6.71	Banana Macadamia Nut Pancake Mix From Hawaii
+76	10.43	Trader Joe's Toasted Coconut Pancake Mix 19oz
+77	5.98	Maple Grove Farms Pancake Mix, Gluten Free, 16 Ounce
+78	6.14	Arrowhead Mills Organic Sprouted Grain Pancake and Waffle Mix, 26 Ounce
+79	11.28	Pancake Mix, Korean Style (2.2 Lb) By Beksul
+80	19.75	Set of Two Trader Joe's Spiced Pumpkin Pancake & Waffle Mix You Will Love the Delicious Blend of Pumpkin,cinnamon,ginger & Nutmeg ,You Will Love It !!!
+81	25.76	Bisquick Complete Pancake and Waffle Mix, 28 Ounce (Pack of 4)
+82	12.5	My Favorite Red Velvet Pancake Mix, 16 Oz
+83	14.77	Golden Malted Pancake & Waffle Flour Mix, Original, 16-Ounce Can
+84	20.69	King Arthur Flour Gluten Free Pancake Mix (Pack of 3)
+85	7.73	Hawaiian Pineapple Coconut Pancake Mix From Hawaii
+86	8.89	Stonewall Kitchen Double Chocolate Pancake and Waffle Mix, 16 Ounce Can
+87	12.99	Big Train Low Carb Buttermilk Pancake & Waffle Mix 9 oz. bag
+88	14.95	Namaste Foods Gluten Free Waffle & Pancake Mix
+89	12.38	Betty Crocker Bisquick Pancake Mix, Buttermilk-10.6 oz
+90	15.99	Aunt Jemima Deluxe Complete Pancake and Waffle Mix Two 5 Pound Boxes
+91	19.99	Bruce's Sweet Potato Pancake & Waffle Mix, 1.5 Lbs, (Pack of 2)
+92	8.0	NOW Foods Gluten-Free Baking and Pancake Mix -- 17 oz
+93	17.77	Hungry Jack, Potato Pancake Mix, 6oz Box (Pack of 4)
+94	34.45	Hodgson Mill Gluten Free Pancake and Waffle Mix, 16 Ounce (Pack of 8)
+96	11.99	Hungry Jack Complete Buttermilk Pancake & Waffle Mix 32 oz
+97	13.5	My Favorite Toasted Coconut Pancake Mix, 16 Oz
+98	12.97	Perfectly Pink Pancake & Waffle Mix with Chocolate Chips 8 oz
+99	10.95	Walden Farms Pancake Syrup Packets (Six 2 Oz. Packets)

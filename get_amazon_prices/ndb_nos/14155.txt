@@ -1,0 +1,87 @@
+2	11.99	Schweppe's Tonic Water
+4	13.95	Premium Tonic Water Sample Pack - Set of 6
+5	17.41	Hansen's Diet Tonic Water, 8 Ounce (Pack of 24)
+6	34.99	Schweppes Indian Tonic Water 12 X 150ML
+7	15.17	Glass Fever-Tree Drink Gift Pack
+8	23.46	Fever-Tree Handpicked Elderflower Tonic Water, 16.9 Ounce (Pack of 8)
+9	10.95	Fever Tree Sampler Pack - Set of 6
+11	34.99	Schweppes Tonic Water 10oz Glass Bottles (Pack of 24)
+13	14.95	Tomr's Handcrafted 200 ml Tonic Artisanal Quinine Syrup Concentrate
+14	10.69	Schweppes Tonic Diet Water, 33.8 Fl Oz 6 Ct
+17	37.29	Schweppes Tonic Water 33.8 Fl. Oz, Pack of 12
+18	38.61	Fever Tree Tonic Water, 16.9 Ounce -- 8 per case.
+19	18.99	El Guapo Bitters Tonic Syrup - British Colonial Style 16.5oz plastic bottle
+20	9.99	Schweppes Diet Tonic Water
+21	13.99	Q Tonic 4Pack
+22	70.56	Fentimans Tonic Water, 9.3 Ounce - 4 per pack -- 6 packs per case.
+23	12.95	Bradley's Kina Tonic Syrup
+24	17.99	Schweppes Slimline Indian Tonic Water (12x150ml)
+25	26.58	7 UP Canada Dry Tonic Water, 33.82-Ounce (Pack of 15)
+26	10.1	Schweppes Tonic Water, 33.8 Fl. Oz, (Pack of 4)
+27	84.95	Q Tonic Superior Tonic Water, 750 Milliliter -- 12 per case.
+28	25.12	Great Value Low Calorie Diet Tonic Water, 6pk(Case of 2)
+29	15.89	Fever Tree Premium Indian Tonic Water 4 X 200ML
+30	32.95	Tomr's Handcrafted Tonic Syrup Concentrate - 750 ml
+31	7.89	Polar Tonic Water, Diet, 33.8 Fl. Oz, ( Pack of 6 )
+32	9.71	Fentimans Traditional Tonic Water - 9.3 oz Bottle
+33	14.39	Fentiman's Tonic Water (4x200ml)
+34	1.99	Fentimans Traditional Tonic Water - 4.2 oz Bottle
+35	5.39	Schweppes Indian Tonic Water (150ml)
+36	11.68	Fever-Tree Naturally Light Indian Tonic Water 6.8 oz (4 bottles)
+37	3.59	Fever Tree Elderflower Tonic Water - 16.9 oz
+38	40.89	7 UP Canada Dry Diet Tonic Water, 33.82-Ounce (Pack of 15)
+39	74.38	Fentimans Tonic Water (6x4Pack )
+40	49.83	Shasta Tonic Water 10 OZ (Pack of 4)
+41	55.44	Fever Tree, Soda Tonic Water, 200 ML (Pack of 6)
+42	31.02	Hansens Natural Beverage Tonic Water Soda, 8 Ounce -- 24 per case.
+43	29.99	Seagram's Tonic Water 33.82 Fl Oz (Pack of 12)
+44	12.95	Tomr's Handcrafted Tonic Syrup Concentrate - 200 ml
+45	32.95	Tomr's Handcrafted 750 ml Tonic Artisanal Quinine Syrup Concentrate
+46	38.19	Fever-Tree Naturally Light Indian Tonic Water 6.8 oz (12 bottles)
+47	14.99	Pinckney Bend Classic Tonic Syrup
+48	2.35	Fever Tree Premium Naturally Light Tonic Water
+49	8.99	Soda Stream Diet Tonic Syrup Sodamix-Specialty Flavor
+50	2.35	Fever Tree Mediterranean Tonic Water - 6.8 oz
+51	44.43	Fever-Tree Nat Light Tonic Water (8x16.9OZ )
+53	60.73	Fever-Tree Naturally Light Tonic Water (6x4 Pack)
+54	31.63	Hansen's Tonic Water (4x6Pack )
+55	73.39	Q Drinks Spectacular Tonic Water (6x4x12 OZ)
+56	45.6	Fever Tree Tonic Slim Light Tonic Water - 24 pack
+57	14.39	Fever Tree Mediterranean Tonic Water (4x200ml)
+58	8.87	Polar Tonic Water, Diet, Lime, 33.8 Fl. Oz, ( Pack of 6 )
+59	54.27	Q Tonic Superior Tonic Water, 8 ounce - 4 per pack -- 6 packs per case.
+61	15.29	Wgmns Tonic Water, Diet, 33.8 Fl. Oz. Contains Quinine. Calorie Free. Gluten Free. Lactose Free. Vegan. Low Sodium. Caffeine Free, (Pack of 4)
+62	5.39	Schweppes Slimline Indian Tonic Water (150ml)
+63	10.79	Fever Tree Elderflower Tonic Water (500ml)
+64	14.99	Jack Rudy Elderflower Tonic
+66	13.29	Q Tonic, 750 ml
+68	61.99	Fever-Tree Medit Tonic Water (6x4Pack )
+69	8.99	Schweppes Indian Tonic Water (1L)
+70	23.95	Bradley's Kina Tonic Syrup, Twin-Pack
+71	45.2	Fever Tree Tonic Water - 24/200 ml
+72	43.99	Firefly Tonics Purity/Detox, Lemon, Lime & Ginger, 11.2-Ounce Bottles (Pack of 6)
+73	16.19	Fever Tree Naturallly Light Indian Tonic Water (4x200ml)
+74	90.68	Fentimans - Water 4Pk Tonic (Pack of 6)
+75	28.69	Fever-Tree Naturally Light Indian Tonic Water 6.8 oz (8 bottles)
+77	48.49	Fever Tree Tonic Water, Case of 6 - 4 Packs (Total 24 Bottles)
+78	56.75	Fever Tree Water Tonic Mediterranean 6.8 Fo (Pack Of 6)
+79	132.0	Bradley's Kina Tonic Syrup, 12-bottle Case
+80	17.99	Schweppes Indian Slimline Tonic Water 3 x 1ltr 3000g
+81	49.65	Poland Spring Sparkling Spring Water Mandarin Orange Essence - 6 PK
+82	140.01	Fever Soda Tonic Water 4/6.8 FZ (Pack of 18)
+83	16.99	Fever Tree Naturally Light Indian Tonic Water 4 X 200ML
+84	25.18	Fentimans Tonic Water 8 x 200ml
+85	17.89	Polar Lime Tonic Water, 1 Liter (Pack of 12)
+86	11.69	Schweppes Indian Slimline Tonic Water 1L
+87	13.95	Bradley's Barrel Aged Kina Tonic
+88	8.99	Schweppes Slimline Indian Tonic Water (1L)
+89	89.99	Q Tonic Water, Superior 750 Ml (Pack of 6)
+90	14.39	Fever Tree Indian Tonic Water (4x200ml)
+91	14.57	Fentimans, Tonic Water 4pk/9.3oz.
+92	17.78	Polar Tonic Water, 10 Fl Oz (Pack of 12)
+93	14.39	Bottlegreen Pink Tonic Water - Pomegranate & Elderflower (4x175ml)
+94	53.86	Summit Spring Raw Water, 50 Ounce (Pack of 12)
+95	38.74	Summit Spring Maine Spring Water, 33 Ounce (Pack of 12)
+96	59.99	7 UP Canada Dry Tonic Water, 10-Ounce (Pack of 24)
+97	14.39	Bottlegreen Elderflower Tonic Water (4x175ml)
+98	39.9	Fever-Tree Tonic Water (6x4 Pack)

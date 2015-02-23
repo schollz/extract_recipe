@@ -1,0 +1,67 @@
+0	20.85	Yoplait Original Variety Pack Yogurt, 6 Ounce - 18 per pack -- 18 packs per case.
+1	22.95	Chobani Simply 100 Calorie Blueberry on the Bottom Non Fat Greek Yogurt, 5.3 Ounce -- 12 per case.
+4	5.99	Fage Total Greek Yogurt, (500g) 17.6oz
+5	20.15	Yoplait 100 Calorie Vanilla Greek Yogurt, 5.3 Ounce -- 12 per case.
+6	4.59	Sun Maid Yogurt Blueberries, Vanilla, 4 Ounce
+8	48.98	Yogourmet Electric Yogurt Maker
+9	14.99	Premium Yogurt Powder by Hoosier Hill Farm 1 lb
+11	18.19	Euro-Cuisine R11020 Yogurt Starter
+12	8.26	Happy Squeeze Organic Snacks, Greek Yogurt Razzleberry, 3.5 oz (Pack of 6)
+17	26.25	Siggis Skyr Vanilla Icelandic Style Yogurt, 5.3 Ounce -- 12 per case.
+18	2.99	Gerber Graduates Yogurt Melts, Banana Vanilla, 1 Ounce
+20	16.25	Gerber Yogurt Blends Assortment Snacks, 2.62 Pound
+25	2.69	Fage Total Greek Yogurt, 7oz-Pre-Order
+27	3.99	Euro Cuisine Yogurt Starter
+31	25.19	Happy Baby Organic Baby Food Stage 2 Greek Yogurt Variety Pack of 12
+32	17.04	Gerber Graduates Yogurt Blends Snack, Carrot Peach Mango, 4 Count (Pack of 6)
+33	9.75	Yogurt Powder, 1lb.
+34	15.15	Dannon Fruit on the Bottom Peach Yogurt, 6 Ounce -- 12 per case.
+35	47.82	Kar's Nuts Yogurt Apple Nut Mix, 1.5-Ounce Bags (Pack of 72)
+36	11.9	Rickland Orchards Greek On The Go Yogurt Coated Super Fruit Granola, 22 Ounce
+37	29.3	Ritter Sport, Milk Chocolate with Yogurt Filling, 3.5-Ounce Bars (Pack of 12)
+38	30.75	So Delicious Plain Cultured Coconut Milk Yogurt, 6 Ounce -- 12 per case.
+39	22.95	Chobani Low Fat Apricot Greek Yogurt, 5.3 Ounce -- 12 per case.
+41	13.35	Happy Squeeze Organic Snacks, Greek Yogurt Peachy Keen, 3.5 oz (Pack of 6)
+42	22.42	Gerber Graduates Yogurt Melts - Variety Pack of 4 (Banana Vanilla, Peach, Strawberry, Mixed Berries)
+43	24.15	Green Valley Organic Lactose Free Plain Yogurt, 6 Ounce -- 12 per case.
+44	16.07	Gerber Graduates Yogurt Melts Value Pack, 4 Ounce
+45	12.64	Bulgarian Starter Culture for Traditional Yogurt - natural - up to 20 liters
+47	26.25	Yoplait Trix Triple Cherry Greek Yogurt, 4 Ounce -- 48 per case.
+48	3.49	Kellogg's Special K Cereal, Fruit and Yogurt, 16.6 Ounce
+49	17.99	World's Best Milka Chocolate - Yogurt, 10 Bars
+52	22.44	Jet Tea Strawberry Banana Non Fat Yogurt Smoothie 64 oz
+53	33.15	Noosa Honey Yogurt, 16 Ounce -- 6 per case.
+55	13.56	Welch's Strawberry Fruit'n Yogurt Snacks 8 Pouches (2 Pack - 16 Pouches Total)
+56	23.75	Sconza Yogurt Covered Raisins 42oz bag
+57	9.9	Sprout Rise Yogurt Smoothie, Berry Cherry, 5.5 Ounce (Pack of 5)
+59	29.77	Gerber Blueberry Yogurt Blends, 3.5 OZ (Case of 6)
+60	32.99	Ocean Spray Craisins Dried Cranberries Greek Yogurt (Pack of 4)
+61	24.66	Sun Maid Vanilla Yogurt Raisins, 6-count (Pack of 9)
+62	16.52	Sun Maid Vanilla Yogurt Raisins, 5-Ounce (Pack of 6)
+65	24.5	True Bliss Confections Greek Yogurt Dipped Freeze Dried Strawberries 1.125lbs.
+66	16.75	Yoplait Original Strawberry Banana Yogurt, 6 Ounce -- 12 per case.
+67	8.52	Yogourmet Freeze-Dried Kefir Starter -- 1 oz
+68	7.3	Welch's Strawberry Fruit'n Yogurt Snacks 8 Pouches
+69	20.83	2 Bags Sun Maid Raisins Vanilla Yogurt Raisins 10 Mini Packs
+70	4.4	Sun Maid Yogurt Cherries, Dark Chocolate, 5 Ounce
+71	25.95	Dang Greek Yogurt Coated Coconut Chips - 6 Pack - 2oz.
+73	22.72	Gerber Yogurt Blends Snack, Sweet Potato Pear, 4 Count (Pack of 6)
+75	7.99	Ocean Spray Craisins Dried Cranberries Greek Yogurt
+76	10.99	Nature Valley Greek Yogurt Protein Chewy Bars, Mixed Berry, 7.1 Ounce
+77	13.97	2 Packs Trader Joe's Yogurt Stars Crisp Vanilla Cookies with Fruity Yogurt Coatings
+78	16.03	NuGo All-Natural Nutrition Bar, Vanilla Yogurt, 1.76-Ounce Bars (Pack of 15)
+79	20.35	Oikos Vanilla Nonfat Greek Yogurt, 5.3 Ounce -- 12 per case.
+81	26.34	Nature's Path Organic Granola Bars, Yogurt Berry Strawberry, 5-Count Bars (Pack of 6)
+83	23.63	Gerber Yogurt Blends Snack, Raspberry Spinach, 4 Count, 3.5-Ounce Cups (Pack of 6)
+84	19.08	Sun Maid Vanilla Yogurt Raisins, 8-Ounce Bag (Pack of 6)
+85	2.99	Gerber Graduates Yogurt Melts - Organic Red Berries - 1 oz
+86	12.65	Trader Joe's Yogurt Covered Pretzels
+87	14.88	Sun Maid Dark Chocolate Yogurt Raisins, 7-Ounce Pouches (Pack of 6)
+88	23.63	Gerber Graduates Yogurt Blends Snack, Apple Zucchini, 4 Count (Pack of 6)
+89	18.03	Island Snacks Yogurt Pretzels, 5-Ounce (Pack Of 6)
+90	23.34	Earth's Best Organic Yogurt Puffs, Blueberry, 1.8 Ounce (Pack of 6)
+93	15.6	Gerber Graduates Grabbers Fruit & Yogurt Variety Pack, 9 ct - 4.23 oz
+94	18.66	Earth's Best Organic Yogurt Puffs, Peach, 1.8 Ounce (Pack of 6)
+95	22.15	Activia Light Strawberry Peach Blueberry Probiotic Yogurt, 4 Ounce - 24 per pack -- 1 each.
+97	31.95	Secial K Fruit & Yogurt 12.5 Oz Box 4 Pack
+98	17.76	Simply Organic Greek Yogurt Dip Mix, Zesty Spinach, 1 Ounce (Pack of 12)

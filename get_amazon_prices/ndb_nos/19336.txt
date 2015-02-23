@@ -1,0 +1,75 @@
+0	17.86	Bakers & Chefs 10 Times Ultra Fine Powdered Sugar - 7 lb. bag
+1	6.24	Domino Powdered Confectioners Sugar 16oz
+2	9.0	Wholesome Sweeteners Fair Trade Organic Powdered Sugar, 16 Ounce Pouch
+4	14.75	C&H, Pure Cane, Confectioners Powdered Sugar, 16oz Box (Pack of 4)
+5	17.84	Bakers & Chefs 10x Powdered Sugar - 7 Lb. Bag
+7	14.51	Domino Confectioners Sugar 10-X Powdered Pure Cane Sugar(4 lb bag)
+8	12.93	C&h Powdered Sugar 4 Lbs
+9	11.98	Trader Joe's Organic Powdered Sugar From Evaporated Cane Juice
+11	10.39	C&H Pure Cane Sugar CONFECTIONERS POWDERED 16oz (2 Pack)
+12	35.0	Wholesome Sweeteners Fair Trade Organic Powdered Sugar, 16-Ounce Pouches (Pack of 6)
+13	6.0	India Tree Fondant & Icing Powdered Sugar, 12 oz.
+15	35.08	India Tree Fondant & Icing Sugar, 2 lb (Pack of 2)
+16	75.45	Hain Pure Foods Organic Powdered Sugar, 16 Ounce (Pack of 12)
+17	28.45	Bakers & Chefs 10x Powdered Sugar - 7 lb. bag - CASE PACK OF 2
+19	32.99	Florida Crystals Organic Sugar, Powdered, 16-Ounce Bags (Pack of 6)
+21	5.79	Woodstock Organic Powdered Sugar, 16 oz
+22	147.89	Wholesome Sweeteners Sugar, Organic Powdered, 50 Pound
+25	11.99	Coffee-Mate, Sugar Free Hazelnut, Powdered Coffee Creamer, 10.2oz Canister (Pack of 2)
+26	16.16	Sqwincher 060101-MB Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Mixed Berry Flavor, 0.11 oz Bag (Pack of 50)
+27	20.49	US Sugar 10X Powdered Sugar, 7 Pound
+28	17.78	Sqwincher 060105-RB Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Raspberry Flavor, 5.41 oz Bag (Pack of 50)
+29	25.97	Hain Pure Foods Organic Powdered Sugar 16-Ounce Units (Pack of 3)
+30	13.99	Wholesome Sweetners Organic Powdered Sugar (2x1 LB)
+31	15.79	Wholesome Sweeteners Fair Trade Org Powdered Sugar, 16 oz Pouches, 3 pk
+33	6.95	Sucre Neige Non-Melting Powdered Sugar by OliveNation 16 oz
+34	18.45	Sqwincher 060103-LA Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Lemonade Flavor, 0.11 oz Bag (Pack of 50)
+35	13.99	Peanut Butter Powder by Hoosier Hill Farm, 1 lb.
+38	23.78	Nestle Hot Cocoa Mix No Sugar Added, Box of 30, .52 Ounce Packets
+39	3.95	Sucre Neige Non-Melting Powdered Sugar by OliveNation 8 oz
+40	1.29	Vanilla Powdered Sugar - 6 pcs
+41	22.49	Sqwincher 060100-OR Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Orange Flavor, 0.11 oz Bag (Pack of 50)
+43	15.39	Sqwincher 060107-GR Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Grape Flavor, 0.11 oz Bag (Pack of 50)
+45	25.99	Crazy Richard's Pure PB - Powdered Peanut Butter - 6 Pack
+46	22.99	NAKED PB - 100% Premium Powdered Peanut Butter - 2lb Bulk
+48	9.13	Domino Confectioners 10x Powerdered Sugar (2)-1lb. boxes
+49	29.75	C&H, Pure Cane, Powdered Sugar, 32oz Bag (Pack of 2)
+50	28.95	Coffee-mate SUGAR FREE CREAMY CHOCOLATE FLAVOR POWDERED CREAMER, 10.2 OZ, Case of 3
+51	19.95	Stur - Variety Pack (5pck) - ALL-NATURAL Stevia Water Enhancer ......makes 100 8oz. servings - drink mix. Non-GMO, natural fruit flavor, natural stevia leaf extract, sugar-free, calorie-free, preservative-free, 100% Vitamin C, liquid stevia drops. **Family Business, Happiness Guaranteed**
+52	8.55	Duchess Mini Sugar Donuts - 12/3 oz.
+53	11.95	Sucre Neige Non-Melting Powdered Sugar by OliveNation 32 oz
+54	19.99	Everly - All Natural Zero Calorie Powdered Drink Mix - Green Tea Passion Fruit (30 Count) .................... Water Enhancer with Natural Flavor, Natural Color, Sugar Free, Sweetened with Stevia Leaf Extract, and Vitamin Enhanced for Fitness Hydration, on the Go!
+55	7.69	Lot of 3 (6-ct.) Box ~CRUSH PINEAPPLE~ Singles to Go! Sugar Free Drink Mix.
+56	11.97	Stur - Original (3pck) Coconut Water enhancer.........liquid drink mix, makes 48 8oz. servings - real coconut water (not concentrate) with purified water, natural fruit and stevia extracts - mixes instantly for use on-the-go with delicious taste. All-Natural, Non-GMO, 250% Vitamin C, Sugar-free, Calorie-free. **Family Business, Happiness Guaranteed**
+57	6.4	Alpine Spiced Cider, Sugar-free Apple Flavor Drink Mix, 1 Box of 10 Pouches
+58	19.95	PB2 Powdered Peanut Butter and PB2 Powdered Cocoa Peanut Butter - 85% Less Fat and Calories - 16 Oz Each - 2 Pack - Free Bonus PB2 Recipe Cards Included (17 Cards in Total)
+59	18.0	Sqwincher 060102-FP Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Fruit Punch Flavor, 0.11 oz Bag (Pack of 50)
+60	20.14	Maple Syrup Powder - 1 lb,(Frontier)
+61	10.35	Hershey's Unsweetened Cocoa Can, 100% Cacao, 23-Ounce
+62	23.5	Lot of 12 (6ct.) Boxes- Mixed Variety CRUSH & SQUIRT Sugar Free- Singles to go! 3 Strawberry, 3 Orange, 3 Grape & 3 Squirt!.
+63	7.75	Dry Fondant, 1 lb.
+64	35.48	Sqwincher 060100-OR 0.11 oz Lite Qwik Stik Powder Concentrate Electrolyte Replacement Beverage Mix, Orange Flavor (Pack of 50)
+65	16.93	Sqwincher 060106-LL Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Lemon-Lime Flavor, 0.11 oz Bag (Pack of 50)
+67	12.0	Hawaiian Punch Singles To Go Drink Mix, Lemon Berry, 8-Count (Pack of 12)
+68	14.95	Smart Sweet Xylitol Powder 1.5lbs- No GMO, Corn, Wheat, Soy, Dairy or Gluten
+69	29.43	Coffee-mate Sugar Free Three(3) Flavor Bundle - Vanilla Caramel, Creamy Chocolate, and Hazelnut
+70	9.43	Natural Confectionery Powder
+71	24.48	N'Joy Non Dairy Creamer 2gram packets, 1000 Count
+73	19.99	Everly - All Natural Zero Calorie Powdered Drink Mix - Peach Mango (30 Count) .................... Water Enhancer with Natural Flavor, Natural Color, Sugar Free, Sweetened with Stevia Leaf Extract, and Vitamin Enhanced for Fitness Hydration, on the Go!
+74	39.99	Powdered Xylitol. Made in the USA - 5 Pounds
+75	19.82	Lot of 9 Boxes/54packets- Mixed Variety CRUSH Sugar Free- Singles to go! 3 Strawberry, 3 Orange & 3 Grape.
+77	10.99	Now Foods Lactose Milk Sugar - 1 lb ( 2-Pack)
+78	6.67	Organic Powdered Sugar 16 oz Pkg
+79	24.0	Wyler's Light Sugar Free Drink Mix, Cool Raspberry, 0.58-Ounce (Pack of 12)
+81	6.0	Pure Maple Sugar 1/2 pound (8 0z)
+82	9.89	Honey Granules, 8 oz.
+85	10.22	Lipton Iced Tea Mix, Lemon Sweetened 28 qt (pack of 2)
+86	13.07	AriZona Arnold Palmer Half and Half (Iced Tea/Lemonade Stix), 1.2-Ounce Boxes (Pack of 6)
+87	11.96	Coffee-mate Sugar Free Creamy Chocolate Powdered Creamer, 10.2 oz
+88	17.15	Krispy Kreme, Krispy Juniors, Powdered Sugar Doughnuts in a bag
+89	17.64	Sqwincher 060099-SL Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Strawberry Lemonade Flavor, 0.11 oz Bag (Pack of 50)
+90	17.02	Sqwincher 060109-CC Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Cool Citrus Flavor, 0.11 oz Bag (Pack of 50)
+94	24.48	Margaritaville Singles to Go Drink Mix, Margarita, 6 Count (Pack of 12)
+96	19.99	Everly - All Natural Zero Calorie Powdered Drink Mix - Pomegranate Maqui Berry (30 Count) .................... Water Enhancer with Natural Flavor, Natural Color, Sugar Free, Sweetened with Stevia Leaf Extract, and Vitamin Enhanced for Fitness Hydration, on the Go!
+97	7.98	Sugar Free Hawaiian Punch Wild Purple Smash Singles to Go 8 Packets (4 Pack)
+98	73.1	Hain Pure Foods Organic Sugar, 24 Ounce (Pack of 12)

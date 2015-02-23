@@ -1,0 +1,92 @@
+0	8.5	Watercress Organic, 2 Oz. Bag
+1	48.68	Micro Greens - Watercress - 4 x 4 oz
+2	22.5	Watercress Herb Rooibos Tea FREE Infuser Ball Makes 30+ Cups
+3	16.07	Watercress Herb Powder 1 lb
+4	70.99	Watercress 4:1 Powdered Extract 2.2 lbs (1 kg)
+5	11.99	Watercress Herbal Tea
+7	50.99	Watercress Powder 2.2 lbs (1 kg)
+8	1.45	Compound Honey with Propolis and Watercress Sachet - 1.41 Oz (40gr)
+9	22.5	Watercress Herb Nasturtium officinale Green Tea Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+10	39.97	Knorr Classic Cream of Watercress Soup Mix 25 Portions - 1 x 467gm
+11	77.43	Petite Greens - Watercress - 4 x 8 oz
+13	48.58	Petite Greens - Watercress - 4 x 4 oz
+14	22.5	Watercress Herb Tea FREE Infuser Flavoured With A Hint Of Natural Mint Makes 30+ Cups
+15	30.99	Watercress Herb Tea FREE Infuser Available in Natural Orange Lemon Mint Makes 30+ Cups
+16	22.5	Watercress Herb Nasturtium officinale Green Tea Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+17	30.99	Watercress Herb Tea FREE Infuser Natural No Flavour Added Makes 60+ Cups
+18	22.5	Watercress Herb Tea FREE Infuser Natural No Flavour Added Makes 30+ Cups
+19	29.99	Watercress Herb Nasturtium officinale Green Tea Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+20	22.5	Watercress Herb Tea FREE Infuser Available in Natural Orange Lemon Mint Makes 60+ Cups
+21	29.99	Watercress Herb Nasturtium officinale Rooibos Tea Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+22	29.99	Watercress Herb Nasturtium officinale Rooibos Tea Blend - Natural - Free Infuser - Makes 60+ Cups
+23	29.99	Watercress Herb Nasturtium officinale Green Tea Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+24	29.99	Watercress Herb Nasturtium officinale Rooibos Tea Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+25	29.99	Watercress Herb Nasturtium officinale Green Tea Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+26	32.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+27	14.99	Watercress Herb Herbal Coffee Nasturtium Officinale 100% Caffeine Free - 50g
+28	22.5	Watercress Herb Nasturtium officinale Rooibos Tea Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+29	22.5	Watercress Herb Tea FREE Infuser Flavoured With A Hint Of Natural Lemon Makes 30+ Cups
+30	24.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+31	24.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+32	30.99	Watercress Herb Tea FREE Infuser Flavoured With A Hint Of Natural Mint Makes 60+ Cups
+33	29.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+34	32.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+35	22.5	Watercress Herb Nasturtium officinale Green Tea Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+36	21.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+37	29.99	Watercress Herb Nasturtium officinale Green Tea Blend - Natural - Free Infuser - Makes 60+ Cups
+38	29.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+39	22.5	Watercress Herb Nasturtium officinale Rooibos Tea Blend - Natural - Free Infuser - Makes 30+ Cups
+40	24.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+41	21.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+42	30.99	Watercress Herb Tea FREE Infuser Flavoured With A Hint Of Natural Orange Makes 60+ Cups
+43	32.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+44	29.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+45	30.99	Watercress Herb Tea FREE Infuser Flavoured With A Hint Of Natural Lemon Makes 60+ Cups
+46	21.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+47	29.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+48	29.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+49	29.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+50	22.5	Watercress Herb Nasturtium officinale Green Tea Blend - Natural - Free Infuser - Makes 30+ Cups
+51	22.5	Watercress Herb Nasturtium officinale Rooibos Tea Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+52	29.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+53	29.99	Watercress Herb Nasturtium officinale Green Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+54	22.5	Watercress Herb Rooibos Tea FREE Infuser Ball Makes 60+ Cups
+55	29.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - Natural - Free Infuser - Makes 60+ Cups
+56	21.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+57	21.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+58	22.5	Watercress Herb Tea FREE Infuser Flavoured With A Hint Of Natural Orange Makes 30+ Cups
+59	32.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - Natural - Free Infuser - Makes 60+ Cups
+60	21.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+61	22.5	Watercress Herb Nasturtium officinale Rooibos Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+62	21.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - Natural - Free Infuser - Makes 30+ Cups
+63	24.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - Natural - Free Infuser - Makes 30+ Cups
+64	19.99	Watercress Herb Herbal Coffee Nasturtium Officinale 100% Caffeine Free - 100g
+65	29.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - Natural - Free Infuser - Makes 60+ Cups
+66	24.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+67	29.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - Natural - Free Infuser - Makes 60+ Cups
+68	29.99	Watercress Herb Nasturtium officinale Rooibos Tea Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+69	22.5	Watercress Herb Nasturtium officinale Green Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+70	29.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+71	21.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - Natural - Free Infuser - Makes 30+ Cups
+72	21.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+73	22.5	Watercress Herb Nasturtium officinale Rooibos Tea Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+74	64.99	Watercress Juice Powder 2.2 lbs (1 kg)
+75	32.99	Watercress Herb Nasturtium officinale Earl Grey Tea Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+76	29.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+77	21.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+78	21.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+79	29.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+80	15.5	Schwartz Fish Creamy Watercress & Stilton Sauce 300g
+81	29.99	Watercress Herb Nasturtium officinale Rooibos Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+82	21.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+83	21.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - Natural - Free Infuser - Makes 30+ Cups
+84	29.95	Watercress Herb Nasturtium officinale Pure Himalayan Darjeeling Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+85	29.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+86	21.95	Watercress Herb Nasturtium officinale Phulbari Assam Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+87	21.95	Watercress Herb Nasturtium officinale Lapsang Souchong Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+88	51.99	Watercress Juice Powder 1.1 lb (500 g)
+91	56.99	Watercress 4:1 Powdered Extract 1.1 lb (500 g)
+92	9.0	Champagne Vinaigrette
+93	28.9	Wgmns Food You Feel Good About 100% Juice, Vegetable, No Salt Added, 46 Fl. Oz. Gluten Free. Lactose Free. Vegan, (Pack of 2)
+96	19.99	V8 Low Sodium 100% Vegetable Juice, 11.5 Ounce Pop Top Cans (Pack of 6)
+99	74.41	Sacramento Vegetable Juice From Concentrate 46 FL OZ (3 Count)

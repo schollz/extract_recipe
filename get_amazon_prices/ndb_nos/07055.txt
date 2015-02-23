@@ -1,0 +1,93 @@
+0	24.5	4 Gourmet Pates & Rillettes From France Combo
+1	7.99	Les Trois Petits Cochons Pates - Pate au Poivre Noir (8 ounce)
+2	27.48	Profi Pate Village, 4.6-Ounce (Pack of 12)
+3	44.48	Sell's Liver Pate, 4.25-Ounce Cans (Pack of 24)
+5	4.0	Henaff Pork Liver Pate by Henaff (France)
+6	37.0	Whole Goose Foie Gras Entier (goose liver)
+7	9.95	Henaff French Pork Pate de campagne, Country Pate - 130 grams
+8	24.95	Sells, Pate Liver, 4.25 OZ (Pack of 6)
+9	1.18	Liver Pate (podravka) 100g
+10	39.99	Three Little Pigs Coarse Pate Assortment (2.9 pound)
+11	22.9	Duck Mousse with Port Wine - 7oz - Pork-Free - The Set of 2 Terrines
+12	1.27	Chicken Pate (cekin-vita) 3.4 oz (97g)
+13	32.0	Whole Duck Foie Gras Entier (duck liver)
+14	29.1	Roland Pate with Port Wine, 2.8-Ounce Jars (Pack of 4)
+15	22.0	Giovani's Goose Pate 2.75 oz
+16	22.96	French Pate de Campagne prepare en Bretagne
+18	26.98	All Natural Calves Liver Pate (4 pack)
+19	26.0	Goose Foie Gras Terrine (pate) 220g (7.76oz)
+20	18.45	Henaff Pork Liver Pate 4.5 oz (Pack of 3)
+21	3.99	Podravka Liver Pate 100g
+22	35.0	Goose Liver Block with Truffle, 150g (5.3oz)
+24	5.75	Pork Pate (gavrilovic) 3.53oz(100g)
+25	3.99	Argeta Pate Spread, Tuna, 3.35 Ounce
+26	11.99	Rougie Duck and Pork Pate with Orange
+27	26.98	All Natural German-Style Pate with Goose (4 pack)
+28	6.09	Argeta Pate Spread, Salmon, 3.35 Ounce
+29	1.17	Tea Time Pate, 100g(3.5oz)
+30	18.75	Black Truffle Pate'
+31	55.15	Sells Liver Pate (24x4.25 Oz)
+33	23.95	Saag's - Braunschweiger Liver Pate 3lb
+35	24.99	SeaBear Canned Trio 3-Pack, 10.25-Ounce Unit
+36	8.99	Pate de Canard a l'Orange (8 ounce)
+37	23.95	Tour Eiffel Campagne Pate Slice, 5 Ounce -- 6 per case.
+38	9.95	Henaff French Pork Pate Pure Porc 96% - 153 gram can
+39	9.99	Mousse du Perigord Pork-Free Pate (8 ounce)
+40	5.89	PODRAVKA CHICKEN PATE 95G
+41	10.95	Henaff Pork Rillettes by Henaff (France)
+42	23.99	Pate De Foie (Pack of 3)
+43	13.24	Duck Liver Mousse with Cognac 5 oz. (2 pack)
+44	9.99	Profi - Village Pork Pate with Forest Mushrooms 4.6 Oz/ 130g (Pack of 5)
+45	45.18	Roland Dark Pate a Glacer, 8.8-Pounds Pail
+46	12.89	Henaff - The Original Henaff Pork Pate - 5.4 oz.
+47	47.95	Pate A Glacer Brune (Dark)
+48	9.99	Rougie Duck Rillettes made according to the Perigord tradition (Southwest France) 2.8oz
+49	25.0	Duck Foie Gras Parfait
+50	8.49	Turmeric Ginger Pineapple Pates de Fruits (Fruit Jelly Candy) 2.1 oz.
+51	43.2	Portlock Smoked Salmon Pate 3.5 Oz (Pack of 4)
+53	23.44	Lobster Pate with Cognac 2.75oz (Pack of 6)
+54	6.49	ARGETA SALMON PATE 95g
+55	24.0	Premium Quality Duck Foie Gras 100g
+56	0.89	Pate Pasteta, 50g
+57	19.99	Liver Pate 4.25 Oz Pack of Two
+58	14.99	Giovanni's Goose Pate with Port Wine (3x95g/3x3.4oz)pack of 3
+59	6.99	Abba Seafood Pate from Sweden - Salmon Pate (5.1 ounce)
+60	22.29	Alessi Pureed Garlic Pate, 4.5 Ounce (Pack of 6)
+61	21.75	White Truffle Pate'
+62	57.99	Rougie Mousse of Goose Liver, 11.2-Ounce Tubes (Pack of 2)
+63	29.21	Roland Pate with Orange Liqueur, 2.8-Ounce Jars (Pack of 4)
+64	99.99	Roland: Dark Pate A Glacer 8 Lb (2 Pack)
+65	7.59	French Choux Pastry Francine-Pate A Choux - 10,58 Oz
+66	69.45	Tartex Organic Mushroom Pate Tube 200 g (Pack of 4)
+67	40.0	Fastachi(r) Belgian Pate De Fruits (Fruit Jellies)
+68	13.99	Cekin Kokosja Pasteta 5x97g/5x3.4oz Delicious Chicken Pate Made in USA 5-PACK
+69	21.59	Boissier Pink Tin Parisian Pate De Fruit Candies
+70	32.99	La Rustichella White Truffle Pate - 3.5 oz
+71	6.49	Tuna Pate (Argeta) 95g
+72	8.99	Pate Forestier - Wild Mushroom Pate (8 ounce)
+73	8.95	Henaff French Pork Pate de Campagne - Countryside Pate - 4.5 oz.
+74	29.99	Tea Time Pate (Cajna Pasteta) - 3.5oz (Pack of 24)
+75	11.98	Cote D'or Dark Chocolate with Marzipan 150g (5.29oz)
+76	24.96	All Natural Teawurst (4 pack)
+77	4.99	Rougie Duck and Pork Pate with Orange, 2.8 oz
+78	27.03	Duck Foie Gras Mousse with Port Wine Pate - All Natural
+79	20.5	Mushroom Pate with Marsala Wine (Pack of 3)
+80	18.25	Vigo Importing Company Pate, Black Olive, 4.50-Ounce (Pack of 6)
+81	89.99	Liver Pate (podravka) CASE 60x100g
+82	21.95	Lobster Pate (Giovannis) 3x95g/3x3.4oz Pack of 3
+83	59.99	Gourmet Gift Basket, Aperitif Pate Assortment
+84	25.0	Block of Goose Foie Gras (Goose Liver) 130g
+85	46.66	Country Pate | Pate de Campagne by Les Trois Petits Cochons 6 x 8 oz case
+86	12.88	Henaff Pork Pate de Campagne by Henaff (France)
+87	15.0	Pork Liver Pate Colorings - Cooked in France
+88	8.0	Sell's Liver Pate, 4.25 oz
+89	1.99	Vegetarian Pate With Mushrooms
+90	59.99	Rougie Mousse of Goose Liver with 2% Truffles, 11.2-Ounce Tubes (Pack of 2)
+91	2.89	BROTHER AND SISTER BEEF LUNCHEON LOAF 150g
+92	9.99	Profi - Village Pork Pate with Bacon 4.6 Oz (Pack of 5)
+93	19.49	Voisin Pates de Fruites
+94	1.49	SCANDIA SIBIU SOY VEGETABLE PATE WITH MUSHROOMS 120G
+96	100.52	100% Cacao Pate - Unsweetened Chocolate Bar - 3 kg
+97	2.99	Sibiu Soy Pate with Mushrooms (Pateu Vegetal cu Ciuperci)- 120g /4.2 oz - Pack of 2
+98	4.61	Pate Chicken Liver
+99	21.59	Boissier Blue Tin Parisian Pate De Fruit Candies

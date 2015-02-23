@@ -1,0 +1,93 @@
+0	39.99	Libby's Corned Beef 12oz Can (Pack of 6)
+2	13.51	Argentina Corned Beef, 12 Ounce
+3	28.32	Hormel Reduced Fat Corned Beef Hash, 15-Ounce Units (Pack of 12)
+4	14.99	TSM Corned Beef Cure 5lb
+5	38.0	Two Corn Beef Briskets With Spice Packet, Flat Cuts, 7 LBS
+6	24.95	Hormel Mary Kitchen Corned Beef Hash, Homestyle, 6 Count
+7	32.99	Palm Corned Beef - Premium Quality from New Zealand - 4 x 11.5 oz (326 g)
+8	8.99	Libby's, Corned Beef, 7oz Pouch (Pack of 3)
+9	14.11	Exeter Corned Beef
+10	25.0	Libby's, Corned Beef, 7oz Pouch (Pack of 6)
+11	24.0	4 Packs Ox & Palm Corned Beef with Juices 11.5oz Ea
+12	24.99	San Miguel Purefoods Corned Beef with Chunks 3 cans x 340g (ORIGINAL)
+13	34.5	Silverside Irish Corned Beef
+14	3.16	Pampeano Corned Beef 12 Oz
+15	24.99	Libby Corned Beef 7 oz. (3-Pack)
+16	57.95	Saag's Fire Roasted Corned Beef USDA Choice Top Round 5lb
+18	27.95	SPAM Classic, 12-Ounce Cans (Pack of 6 )
+19	25.4	Hormel Roast Beef Hash, 15-Ounce (Pack of 6)
+20	45.97	Hereford Corned Beef (Case of 6)
+21	55.8	Ox Palm Corned Beef 11.5oz (10 Pack)
+22	6.99	Hormel Reduced Fat Corned Beef Hash, 15 oz, 2 pk
+23	36.99	Grace Corned Beef, 12-Ounce (Pack of 6)
+24	30.0	Hormel Homestyle Corned Beef Hash 7.5oz (Case of 12)
+25	9.4	Large Palm Corned Beef 15 oz with Juices
+26	89.9	Hormel Imported Corned Beef, 12-oz. can (Pack of 12)
+27	14.9	Hormel Mary Kitchen Homestyle Corned Beef Hash 4- 19oz Cans
+28	36.7	Libby's, Imported Corned Beef, 12oz Can (Pack of 5)
+29	18.78	Mary Kitchen Corn Beef Hash 15 oz. (3-Pack)
+30	8.06	Hereford Canned Corned Beef, 12 oz
+31	12.94	Princes Corned Beef Reduced Salt (340g)
+32	48.92	Hereford Corned Beef Hash 15oz (8 Pack)
+33	29.0	Palm Corned Beef w/ Juices 7.25 oz (6 Pack)
+34	151.5	Ox & Palm Chunky Corned Beef with Juices (1 Box=24 Cans)
+35	25.26	Kirkland Signature Roast Beef NET WT 12 oz (pack of 4).
+37	49.49	Libby's Corned Beef Hash 15 oz (Pack of 12)
+38	60.0	Libby's Corned Beef, 7-Ounce Cans (Pack of 8)
+39	27.98	Hereford Corned Beef Hash 15oz (4 Pack)
+40	27.28	Hormel, Home Style, Corned Beef Hash, 15oz Can (Pack of 6)
+41	161.31	Libby's Corned Beef 12 oz (Pack of 24)
+42	21.86	Hormel Reduced Fat Corned Beef Hash, 15 oz, 2 pk
+43	9.95	Goya Seasonings, Corned Beef, 12 Ounce
+44	185.0	Palm Corned Beef 7oz (Pack of 24)
+45	42.35	Hormel Corned Beef Hash, 25-Ounce (Pack of 6)
+46	24.5	Hormel Homestyle Corned Beef Hash 7.5 Oz. (Case of 6)
+47	49.95	Corned Beef with Juices - 15oz (Pack of 6)
+49	20.39	Dak, Premium Ham, 16oz Can (Pack of 3)
+50	49.95	Palm Onion Corned Beef 11.5oz (6 Pack)
+51	165.0	CORNED BEEF WITH JUICES
+53	7.63	Ox & Palm Corned Beef, 11.5 Ounce
+54	30.0	Armour Hearty Homestyle Cornbeef Hash, 15-Ounce (Pack of 6)
+55	12.99	MILLIARD Pickling Spice - 1lb.
+56	24.79	Libby's Corned Beef Hash, 108 Ounce
+57	14.28	ARMOUR CORNED BEEF HASH HEARTY HOMESTYLE CANNED 15 OZ
+58	51.0	Palm Corned Beef with Juices 15 oz (6 Pack)
+59	85.75	Keystone Brand Meats Corned Beef Hash, 26 Ounce (Pack of 12)
+60	34.72	Hormel, Canned Beef Corned, 12oz Can (Pack of 6)
+61	37.99	USDA Prime Beef Brisket Full Flat Cut, 3 lbs
+62	35.8	Argentina Corned Beef, 12 Ounce 6 Pack
+63	87.58	Armour Corned Beef Hash 15 OZ (Pack of 24)
+64	92.85	Chef Mate Corned Beef Hash Entree 6 Case 96 Ounce
+65	21.92	Chef-mate Creamed Sliced Beef, 6-lb 10-oz
+67	41.24	Spam Sampler 12oz Cans (Pack of 6 Different Flavors)
+68	46.05	Armour Hearty Homestyle Corned Beef Hash, 15 Ounce -- 12 per case.
+69	10.77	Keystone Meats All Natural Ground Beef, 28 Ounce
+70	95.81	Corned Beef with Natural Juices - 15oz (Pack of 6)
+71	47.2	Mary Kitchen Corned Beef Hash - 12 Pack
+72	71.5	Libbys Corned Beef 12oz-12 Unit Pack
+73	49.95	Armour Corned Beef Hash (Case of 12)
+74	96.99	Palm Corned Beef - Premium Quality From New Zealand - 12 x 11.5 Oz (326 grams)
+75	92.0	Palm Corned Beef with Juices 15oz (10 Pack)
+76	9.28	Mary Kitchen Homestyle Corned Beef Hash, 15 Ounce
+77	62.99	Venice Maid Foods: Corned Beef Hash 3/108 Oz Cans
+78	33.07	OX & PALM CORNED BEEF HASH (3-PACK)
+79	10.29	Exeter Halal Corned Beef (340g)
+80	18.99	MILLIARD Pickling Spice - 2lbs.
+81	9.89	Princes Corned Beef (200g)
+82	5.95	Downhome Pickling Spice 3.8 oz.
+83	59.99	Stainless Steel Ham Press
+84	15.97	Crown Corned Beef with Natural Juices, 15 Ounce
+85	12.34	Eldon's Sausage and Jerky Supply Premium Corned Meat Cure, 2.745 Pound
+86	39.99	Libby Roast Beef with Gravy, 12-Ounce Cans (Pack of 8)
+87	102.2	Hormel Corned Beef Hash 15 OZ (Pack of 24)
+88	15.2	Palm Corned Beef 326g
+89	39.0	Hormel Roast Beef & Gravy, 12-Ounce Cans (Pack of 6)
+90	33.0	Libby's Corned Beef 12oz (5 Pack)
+91	47.9	Corned Beef with Natural Juices - 15oz (Pack of 3)
+93	28.49	Grace Corned Beef, 12-Ounce Cans (Pack of 4)
+94	49.99	Armour Sliced Beef Dried, 2.25-Ounce Jars (Pack of 12)
+95	11.07	Crown Corned Beef with Natural Juices, 11.5 Ounce
+96	73.0	Libbys Corned Beef Hash 15oz 12 count
+97	15.6	Palm Garlic Corned Beef With Juices 326g
+98	11.49	Alshark Corned Beef, 12 oz, Halal, Product of Brazil
+99	21.99	Natural Beef Rounds, 40-43mm (1 5/8"-1 3/4"), 1 Hank

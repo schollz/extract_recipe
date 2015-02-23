@@ -1,0 +1,53 @@
+1	110.99	Wagyu Kobe Beef Strip Steak
+2	299.99	Organic Beef & Steak - Variety Pack By Rastelli Direct
+3	17.99	Sliced Biltong - 8oz SLICED Seasoned Dried Beef
+6	25.26	Kirkland Signature Roast Beef NET WT 12 oz (pack of 4).
+8	48.0	Beef Brisket Flats, No Deckle, USDA Select Fresh, 7 LB Average
+9	12.99	USDA Choice 93% Lean Ground Sirloin Beef, Sold by the Pound
+10	79.99	Omaha Steaks The Fantastic Feast
+11	64.49	Organic Grass Fed Beef Rib Roast, By Rastelli Direct
+13	10.77	Keystone Meats All Natural Ground Beef, 28 Ounce
+17	19.99	Organic 100% Grass Fed Ground Beef (1lb Package)
+22	18.89	Jack Link's Premium Cuts 100 Calorie Snack Packs Nine- 1.25 oz Variety Pack
+23	22.99	Gerber 2nd Foods, Beef and Gravy, 2.5-Ounce Jars  (Pack of 12)
+24	19.99	Nick's Sticks Spicy 100% Grass-Fed Beef Snack Sticks - Gluten Free - No Antibiotics or Hormones (6 packages of 2 sticks)
+25	49.99	Omaha Steaks The Complete Treat
+27	39.49	Organic Grass Fed Beef Sirloin Steaks, 4 (6 Oz.) Portions, By. Rastelli Direct
+28	39.93	Mountain House Ground Beef, Cooked
+29	19.99	Jack Link's Beef Stick, Original, 36-Count Bag (Pack of 2) 33.5oz
+30	17.6	Jack Links Premium Cut Original Beef Steak Jerky 12 Individual Packs
+32	21.99	Valentines Day Jack Links Beef Jerky Feed Your Wild Side
+35	4.99	Oh Boy! Oberto Original Thin Style Beef Jerky, 3-Ounce Bag
+41	15.79	Kirkland Signature Steak Strips Extra Thick Cut, 12 Ounce
+42	0.22	Gerber 2nd Foods Beef and Beef Gravy -- 2.5 oz
+44	7.08	Keystone Meats All Natural Canned Beef, Ground, 14 Ounce
+45	8.89	Superior Touch Better Than Bouillon Beef Base 8oz(227g)
+46	89.0	Contains 10 - 1 lb. Lean Grass Fed Organic Ground Beef
+48	46.95	Hickory Farms Deluxe Signature Beef Sausage & Cheese Gift Basket
+49	16.0	Oberto All Natural Original Beef Jerky, 3.25 ounce package (Pack of 4)
+51	5.99	FIELD TRIP Original No. 3 All Natural Beef Jerky, 2.2 Ounce
+55	19.9	Hillshire Farm Yard-O-Beef - 3lbs
+60	17.94	Jack Links Original Beef Sticks, 7.2-Ounce Bags (Pack of 3)
+61	39.99	Libby Roast Beef with Gravy, 12-Ounce Cans (Pack of 8)
+62	24.75	Krave Beef Jerky Mixed Pack (4x3.25oz)
+63	13.0	Minor's (Original Formula) Beef Base - 16 oz.
+64	29.99	Biltong - Seasoned Dried Beef Sliced 16oz Pack
+68	16.92	Oberto All  Natural Peppered Beef Jerky, 3.25 ounce package (Pack of 4)
+70	69.99	Nick's Sticks 100% Grass-Fed Beef Snack Sticks - Gluten Free - No Antibiotics or Hormones (25 packages of 2 sticks)
+73	15.0	Now Foods Beef Gelatin Natural Powder 1 lb
+75	4.99	Herb-Ox Bouillon Packets Beef Instant Broth & Seasoning Sodium Free 1.1 oz Box (Gluten Free)
+76	10.65	Better Than Bouillon Organic Beef Base 8 oz
+78	33.33	Jack Link's Combo Pack All American Beef & Cheese, 1.2-Ounce Packages (Pack of 32)
+79	39.32	Mountain House Creamed Beef
+80	29.97	Up North Gourmet Blazin Hot Beef Jerky 1 Lb.
+82	19.09	Oh Boy! Oberto Original Tender Style Beef Jerky 30 Wrapped Sticks Canister NET WT 12 OZ
+84	25.97	PACIFIC GOLD ALL NATURAL 97% FAT FREE BEEF JERKY VARIETY PACK (12 - 1.25 OZ Bags, NET WT 15 OZ)
+86	6.78	FIELD TRIP Honey Spice No. 11 All Natural Beef Jerky, 2.2 Ounce
+88	24.5	Jacks Links Premium Cuts Teriyaki Flavored Beef Jerky 14 Ounce Giant Pack
+89	9.85	Nissin Cup O'Noodles Ramen Noodle Soup, Beef Flavor, 2.25-Ounce (Pack of 12)
+90	28.32	Hormel Reduced Fat Corned Beef Hash, 15-Ounce Units (Pack of 12)
+91	7.09	Herb Ox Beef Bouillon Cubes - 25 Cubes - Gluten Free & No MSG Added
+95	41.76	Jack Links Original Beef Stix, 1.02-Ounce (Pack of 72)
+96	13.39	Maruchan Ramen, Beef, 3-Ounce Packages (Pack of 24)
+97	6.95	Jack Links Cholula Beef Jerky, 3.25 Ounce
+98	14.85	Maruchan Ramen, Roast Beef, 3-Ounce Packages (Pack of 24)

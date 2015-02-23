@@ -1,0 +1,72 @@
+0	13.99	Corn Pops Cereal, 12.5-Ounce Packages (Pack of 4)
+1	14.56	Kellogg's Corn Pops Cereal, 1.5-Ounce Cups (Pack of 12)
+2	8.39	Kellogg's Corn Pops, 12.5 oz
+3	47.35	Corn Pops Cereal, 0.95-Ounce Individual Boxes (Pack of 70)
+5	34.95	Barrel O Fun Corn Pops, 6 Ounce (Pack of 12)
+6	4.46	Kellogg's Corn Pops Cereal 12.5 oz
+7	27.48	Corn Pops Cereal, 17.2-Ounce Boxes (Pack of 3)
+10	34.26	Jolly Time Healthy Pop Kettle Corn - 100 Calorie Microwave Popcorn Mini Bags, 4-Count Boxes (Pack of 12)
+12	38.02	Corn Pops Cereal, 0.75-Ounce Single Serve Bowls (Pack of 96)
+14	7.19	Pop Secret 100 Calorie Kettle Corn - 11.2 oz - 10 ct
+15	18.58	Jolly Time 100 Calorie Healthy Pop Kettle Corn Mini Bags (2 Pack) 10 Count Boxes
+17	10.01	Charms Candy Corn Pops 11 oz bag (Pack of 2)
+19	43.5	Jolly Time Healthy Pop Kettle Corn - 94% Fat Free Weight Watchers Microwave Popcorn, 3-Count Boxes, 9 oz, (Pack of 12)
+21	19.99	Pop Weaver Microwave Popcorn Kettle Corn 3 Boxes 18 Bags
+23	7.99	Gold Medal 2538 28 oz Pop 'N Glaze Pop
+24	23.95	Charms Candy Corn Super Blow Pops, 48ct
+25	21.68	Pop Secret Popcorn 100% Natural Premium Jumbo Popping Corn (2 Pack) Large 30 oz Bottles
+26	6.98	Gold Medal Prod. 2045 Flavacol Seasoning Popcorn Salt 35oz.
+29	11.15	Orville Redenbacher's Pop Up Bowl Kettle Korn Gourmet Popping Corn, 2.9 Ounce, 6 Count
+30	18.78	Orville Redenbacher's Smart Pop Pop up Bowl Kettle Korn 94% Fat Free 6 Servings (2 Pack)
+32	34.3	Mega-pop Popcorn Kit - 8 Oz. - 24 Ct.
+33	5.99	Kellogg's Corn Pops On the Go Cereal Pouches - Corn Pops - 8 ct
+34	29.99	Orville Redenbacher's Smart Pop Gourmet Popping Corn ,10 Bags (Pack of 2)
+35	18.99	Orville Redenbacher, Pop Up Bowl, Kettle Corn, 17.4oz Box (Pack of 2)
+36	23.06	Jolly Time Microwave Pop Corn Blast O Butter Ultimate Theatre Style 3.2 Oz Bags 6 Per Box - Pack Of 3
+37	7.99	Gold Medal Frosted Caramel Popcorn Glaze Mix 28 oz
+38	61.62	Pop Secret Jumbo Popping Corn, 30 oz Jars, 6 pk
+39	24.49	Paragon Bulk Bag Yellow PopCorn (12.5-Pounds)
+41	15.0	Pop'd Kerns 4-Flavor Variety: One 3.5 oz Bag Each of Original, Barbeque, Cheddar, and Ranch in a Gift Box
+42	29.88	Old Fashion Movie Night Candy Gift , Movie Theater Boxed Candy Bundle
+44	32.29	Jiffy Pop Popcorn - a Case of 12 pans
+45	24.0	Angies Boom Chicka Pop Kettle Sweet and Salty 1 Oz (24 Pack)
+46	11.95	Kellogg's Corn Pops, 9 ounce
+47	29.0	Angies Boom Chicka Pop Kettle Sweet and Salty 1 Oz (30 Pack)
+48	7.99	Kellogg's Cereal, Corn Pops, 9.2 Ounce
+49	15.99	Flavacol Salt and Glaze Pop Flavoring 3 Pack
+50	7.95	Orville Redenbacker's Pop Up Bowl Kettle Korn 3 pk Microwave Popcorn 8.7 oz
+54	13.96	Orville Redenbacher's Gourmet Popping Corn Pop Up Bowl Simply Salted - 3 CT
+55	7.74	Pop-Secret Sweet 'N Crunchy Caramel Popcorn, 3 Bag Count/Box
+56	35.0	Glad Corn Pop'd Kerns Original -- 10 oz
+57	39.21	Jolly Time 100 Calorie Healthy Pop Butter Microwave Popcorn Mini Bags, 4-Count Boxes, 4.8 Ounce, (Pack of 12)
+59	69.46	Grand Pop's Best Authentic Kettle Corn, 5.5 Ounce (Pack of 21)
+60	40.12	Jolly Time Healthy Pop Caramel Apple 94% Fat Free Sweet Microwave Popcorn, 3-Count Boxes (Pack of 12)
+61	40.68	Gold Medal Popcorn Kit Coconut 6 Oz
+62	11.14	Paragon Butter Flavored Seasoning Salt
+63	41.0	Angies Boom Chicka Pop Kettle Sweet and Salty 7 Oz (12 Pack)
+64	26.5	Kellogg's Favorite Variety Pack Cereal Bowls - Raisin Bran Crunch, Apple Jacks, Corn Pops, Krave Chocolate, Frosted Flakes, Frosted Mini-Wheats (Bite Size), Froot Loops & Cocoa Krispies (8 Pack)
+65	15.94	Orville Redenbacher's Smart Pop Kettle Popcorn, 6 pk, 1.94 oz
+66	39.95	Glaze Pop Popcorn Flavoring Variety Pack - Six Flavors
+68	31.85	Gold Medal Products Co 24Ct Corn/Oil Kit 2838 Popcorn (10.6oz of kernels; pre-measured for 8oz kettles)
+69	65.23	Orville Redenbacher's Pop Up Bowl Gourmet White Corn , 8.7 OZ (Pack of 12)
+70	20.97	Chuao Chocolatier Pop Corn Pop Chocolate Bar (3-pack)
+73	99.44	Orville Oriville Redenbacher's Gourmet Popping Corn Pop Up Bowl Gourmet White Corn 6 PK (Pack of 12)
+74	27.95	FunkyChunky Chip-Zel-Pop, Tall Canister, 1 Lb 3 Ounce
+75	18.95	Kellogg's Variety Pack Cereal, 57.5 Ounces Total, Cocoa Krispies, Corn Pops & Apple Jacks
+76	35.05	Cosmos Creations Premium Puffed Popcorn Variety Pack of 14 - 4 flavors - 1.7 and 1 oz bags
+77	32.66	Black Jewell Premium Microwave Popcorn, Kettle, 3-Count, 10.5-Ounce Boxes (Pack of 6)
+80	23.99	Paragon Coconut Popcorn Popping Oil (Gallon)
+81	36.99	Kim's Magic Pop Combo Pack B 12-Pack: Freshly Popped Rice Cakes, Healthy Grain Snack, 0 Weight Watchers Point
+84	14.99	Jolly Time, Healthy Pop Kettle Corn, 94% Fat Free Microwave Popcorn, 3-Count Box (Pack of 3)
+85	8.19	Trader Joe's Organic Popping Corn
+86	24.99	Jelly Belly Buttered Pop Corn Jelly Beans 4 Pack
+88	33.74	West Bend 82386 Kettle Krazy Popcorn Popper and Nut Roaster
+90	16.98	Pop Secret 100 Calorie Pop Kettle Corn - Sweet & Salty - Premium Microwave Popcorn 11.2 oz, 10 Servings (Pack of 2)
+92	4.95	John Deere Johnny Pop Quality Pop Corn - 1 Bag
+93	23.48	Great Northern Popcorn Original Popcorn, 12.5 Pound
+94	39.7	Pop-Secret Fat Free Popcorn Variety Pack
+95	34.22	G.H. Cretors Popcorn Chicago Mix, 7.5-Ounce Bags (Pack of 12)
+96	11.36	Wabash Valley Farms Real Theatre Popcorn Popping Oil
+97	11.95	Pop Weaver Extra Butter Microwave Popcorn 8 Bags- (Pack of Two)
+98	52.6	Corn Pops Cereal, 1.5-Ounce Single Serve Cups (Pack of 60)
+99	12.0	Boomchickapop Sweet & Spicy 6 ounce

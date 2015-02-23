@@ -1,0 +1,94 @@
+0	13.98	Fresh Mozzarella (BelGioioso) 2 x 16oz (453g) 2 PK
+1	7.5	Italian Buffalo Milk Cheese, Mozzarella - Approx. 7 oz
+2	24.66	Mozzarella Whole Milk Loaf 6Lb
+3	19.0	Roaring Brook Dairy Mozzarella Cheesemaking Kit
+4	4.99	Mozzarella by Zerto - Pound Cut - Part Skim (15.5 ounce) by igourmet
+5	34.53	KRAFT CHEESE MOZZARELLA FINELY SHREDDED 8 OZ ZIPPER BAG PACK OF 3
+6	41.99	Freeze Dried Mozzarella Cheese - 1.75 Pound Can
+7	36.0	Mozzarella and Ricotta DIY Cheese Kit
+8	12.78	T.G.I. Friday's Mozzarella Sticks 2.25-Ounce , Original Flavor (Pack of 6)
+9	13.65	Mozzarella Di Bufala Cheese, 8.8oz
+10	24.95	Mozzarella & Ricotta Artisan Cheese Making Kit
+11	12.72	Elki's Gourmet Smoky Garlic Mozzarella Specialty Dip, 10 Ounce
+12	5.99	Mozzarella by Zerto - Pound Cut - Whole Milk (15.5 ounce) by igourmet
+13	27.55	Sargento Classic Old Style Shredded Mozzarella Cheese, 3 Ounce -- 12 per case.
+14	29.99	Shredded Mozzarella Cheese - 5 Lbs. Real Dairy Product.
+15	26.95	Smoked Mozzarella Cheese 3 lb.
+16	83.05	Sargento 2 Percent Mozzarella Slice Cheese, 18 Ounce -- 20 per case.
+17	115.0	Mozzarella Di Bufala D.O.C. - 6.6 lb
+18	5.75	Red Apple Smoked Cheese Smoked Mozzarella, 8 oz
+19	31.49	Goat Milk Mozzarella Cheese - Four 8 oz. Packages
+20	7.7	Smoked Mozzarella - 1 ball
+21	9.95	Smoked Mozzarella Cheese
+22	38.85	Soya Kaas Fat Free Mozzarella Style Soy Cheese, 12 Ounce -- 6 per case.
+23	14.18	Poore Brothers Tgif Mozzarella Stick, 2.25-Ounces (Pack of 6)
+26	46.35	Russos Gluten Free Gourmet Mozzarella Stick, 12 Ounce -- 6 per case.
+27	24.99	Buffalo Mozzarella 2/8oz
+28	71.15	Health Is Wealth Mozzarella Stick, 8 Ounce -- 12 per case.
+29	39.99	BelGioioso Fresh Mozzarella Logs 3/16 Oz
+30	11.36	Teese - Vegan Mozzarella Cheese, 10 Oz
+31	11.18	321 Kitchen 3-2-1 All-In-One Pizza, 11.36 Ounce
+32	34.95	Queso Oaxaca Deshebrado Los Altos (Shredded Mozzarella Cheese) 5 Lb
+33	87.05	Land O Lakes Shredded Low Moisture Part Skim Mozzarella Cheese, 5 Pound -- 4 per case.
+34	189.99	Freeze Dried Mozzarella Cheese - 6 Can Case - 10.5 Pounds
+35	34.95	Deluxe Cheese Making Kit for making gouda, monterey jack, mozzarella & ricotta cheeses
+36	75.84	Italian Buffalo Milk Cheese, Mozzarella - Approx. 7 oz each (Pack of 12)
+37	15.99	Bertagni Buffalo Mozzarella Cheese Ravioli 2 boxes / 8.8oz each
+38	15.72	Smoked Mozzarella, 8 oz. (2 pack)
+39	75.99	BelGioioso Fresh Mozzarella Logs 8/16 Oz
+40	59.99	Big C: Battered Thick Cut Mozzarella Sticks 7 Lb.
+41	69.96	Mozzarella Di Bufala - 6 x 200 grams
+43	12.69	Cheez-It Mozzarella Cheese Baked Snack Crackers, 13.7 Ounce Box (Pack of 2)
+44	29.95	Artisan Cheese Making Kit
+45	32.19	CRYSTAL FARMS CHEESE MOZZARELLA SHREDDED 8 OZ BAG PACK OF 3
+46	130.55	Rich Products Farm Rich Cheese Mozzarella Stick, 3 Pound -- 8 per case.
+47	397.3	WhiteWave Horizon Organic Mozzarella Cheese Stick, 1 Ounce - 6 per pack -- 12 packs per case.
+49	38.85	Soya Kaas Mozzarella Style Soy Cheese, 12 Ounce -- 6 per case.
+50	24.95	Oaxaca El Mexicano Mexican Mozzarella Cheese TriPack
+51	31.99	Campania di Felix Mozzarella di Bufala
+52	7.99	Red Apple Smoked Cheese - Mozzarella (8 ounce)
+53	35.45	Tgi Fridays Mozzarella Sticks with Marinara Sauce Appetizer, 11 Ounce -- 8 per case.
+54	59.99	Big C: Italian Breaded Mozzarella Sticks 7 Lb.
+55	137.95	McCain Anchor Italian Breaded Mozzarella Cheese Stick - Appetizer, 4 Pound -- 6 per case.
+56	4.19	Hipp Organic Spaghetti with Tomatoes & Mozzarella 7mth+ (190g)
+57	8.49	Smoked String Cheese (2 Pack)
+58	52.55	Lisanatti Mozzarella Style Almond Shred Cheese, 8 Ounce -- 12 per case.
+59	100.45	Sargento Low Moisture Part Skim Shredded Mozzarella, 5 Pound -- 6 per case.
+60	80.35	McCain Golden Crisp Breaded Mini Mozzarella Sticks, 2 Pound -- 6 per case.
+61	92.25	McCain Anchor Battered Mozzarella Cheese Stick - Appetizer, 2.5 Pound -- 6 per case.
+62	84.55	Sorrento Low Moisture Whole Milk Shredded Mozzarella, 5 Pound -- 6 per case.
+63	58.65	BelGioioso Sliced Fresh Mozzarella Cheese Log, 16 Ounce -- 8 per case.
+64	6.09	Haolam Shredded Natural Part-Skim Mozzarella 16 oz
+65	66.15	McCain Golden Crisp Breaded Mozzarella Cheese Stick - Appetizer, 2 Pound -- 6 per case.
+66	12.99	Mozzarella di Bufala by Pomella (7 ounce)
+67	37.88	Cheez-It, Baked Snack Crackers, 5 Flavor VARIETY PACK: 1 box of HOT & SPICY, 1 box of PEPPER JACK, 1 box of FOUR CHEESE, 1 box of MOZZARELLA, 1 box of PROVOLONE. 12.4 oz boxes. (5 PACK)
+68	37.99	Teese - Vegan Mozzarella Cheese, 10 Oz (Pack of 6)
+69	84.14	GO Veggie! Rice Lactose Free Shreds Cheese Alternative, Mozzarella Cheese Flavor, 8 oz
+70	19.97	Cheez-it Baked Snack Crackers, Creamy & Mild Mozzarella 12.4 Oz ( Pack of 4)
+71	25.75	Nestle Lean Pockets Meatball with Mozzarella Stuffed Sandwich, 9 Ounce -- 8 per case.
+72	32.4	Heath Express Low Carb Pizza - Pepperoni and Mozzarella (Pack of 6)
+73	69.45	Rich Products Breaded Mozzarella Stick, 1.5 Pound -- 8 per case.
+74	73.95	Windsor Freds for Starters Battered Cheese Mozzarella Stick, 2 Pound -- 6 per case.
+75	112.5	Gourmet Foods Gift Baskets, Thanks Basket, Convey Your Gratitude with This Beautiful Decorative Arrangement. Filled with a Gourmet Collection of Asiago Cheese Spread, Sea Salt & Olive Oil Crackers, Mozzarella Cheese Swirls, Red Thread Candy & Confection Blue Raspberry Candies, Chocolate Peanut Butter Maltballs, Monica's Brownie Cookies, English Breakfast Tea, Almond Tea Cookies, Cocoa Dusted Chocolate Truffles and a Fresh Baked Thank You Cookie. Gift Size: 17" X 8" X 11"
+76	49.95	TGI Friday Mozzarella Sticks (Pack of 12)
+77	61.45	Sargento Sliced Mozzarella Cheese, 19.8 Ounce -- 12 per case.
+78	64.45	McCain Golden Crisp Breaded Ovenable Mozzarella Stick - Appetizer, 2 Pound -- 6 per case.
+79	46.85	Millers Shredded Mozzarella Cheese, 8 Ounce -- 12 per case.
+80	49.42	Mozzarella Ciliegine - 2 X 3 Lb Tub
+81	9.99	Hi-Temp Mozzarella Cheese, 1 lb.
+82	9.5	The Laughing Cow Creamy Mozzarella with Sun-Dried Tomato & Basil (Pack of 2) 8 Wedges per Pack
+83	7.99	Kettle Chips - Seasonal Edition Mozzarella & Pesto (150g)
+85	17.0	Mozzarella and Ricotta Cheese Making Kit
+86	58.15	Whitaker Breaded Mozzarella Pizza Burger, 4 Ounce -- 40 per case.
+87	29.95	Queso Oaxaca En Bola Los Altos (String Mozzarella Cheese Wheel) 3 Lb
+89	9.14	Hipp Tomato & Mozzarella Pasta 250g
+90	12.99	Queso Oaxaca (8 ounce)
+91	63.35	Horizon Organic Mozzarella String Cheese, 6 Ounce -- 12 per case.
+92	69.99	Mt. Sterling: Mozzarella Goat Cheese 8 Oz (6 Pack)
+93	12.5	Danisco TA61, 50 DCU (For making semi-hard and hard cheese such as Emmental, Swiss, Asiago, Italian, Parmesan, Quark, Sour Cream, Romano, Provolone, Mozzarella and Emmental)
+94	70.33	Teese - Vegan Mozzarella Cheese, 10 Oz (Pack of 12)
+95	69.99	Esposito's Finest Quality Sausage - ITALIAN SAUSAGE with BROCCOLI RABE AND MOZZARELLA 4 24oz Packages (Net Wt. 6lbs.)
+96	23.95	BelGioioso Bocconcini Fresh Mozzarella Cheese, 7 Ounce Cup -- 6 per case.
+97	40.99	Antipasto Kabob with Fresh Mozzarella - Gourmet Frozen Appetizers (25 Piece Tray)
+98	49.99	Daiya Mozzarella Style Shreds, 5 Pound -- 1 each.
+99	33.25	Lunchable Pepperoni Mozzarella Entree, 2.25 Ounce -- 16 per case.

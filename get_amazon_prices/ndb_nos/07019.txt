@@ -1,0 +1,89 @@
+1	16.39	Goya Chorizos 8 Count 14 Ozs
+2	10.98	Mild Palacios Chorizo 7.9oz
+3	9.48	'Oreados' Mini-Chorizo 4 Pack
+4	13.55	Chorizo Superior - Cantimpalo Style
+5	9.99	Chorizo Autentico by Palacios. Imported from Spain. 7.9 oz
+6	9.99	Quijote Chorizos Caseros 4 PK
+7	43.75	5-Pack - Mild Palacios Chorizo
+9	7.19	Palacios Hot Chorizo from Spain (1/2 lb sausage)
+10	12.95	El Mexicano Pork Chorizo - Pack of 3
+11	2.98	Goya Foods Chorizos Sausage, 3.5-Ounce
+12	5.19	Chorizos Palacios. Imported from Spain. 4 pack. 6.5 oz
+13	9.98	Goya Chorizos 2PK
+14	17.95	Quijote Cantimpalo Chorizo Superior, (1.1lb, 1.5 inches thick and one foot long)
+15	12.97	A.C. Legg INC Fresh Chorizo Sausage Seasoning
+16	26.99	Bolner's Fiesta Extra Fancy Salt Free Chorizo Mix, 16 Oz.
+17	9.95	Teeny Tiny Spice Co. of Vermont Organic Tolucan Chorizo Spice
+18	10.89	Palacios Artisan Slicing Chorizo (7.9 oz/ 240 g)
+19	46.95	Chorizo Autentico by Palacios. Imported from Spain. 7.9 oz Pack of 6
+20	6.49	Chorizo by Palacios - Hot (7.9 ounce)
+21	53.99	Chorizo Autentico HOT by Palacios. Imported from Spain. 7.9 oz Pack of 6
+22	16.99	Chorizo Goya 8 pack. Total 14 oz FREE tapa clay casserole included.
+23	30.68	Hormel, Spam, Chorizo Flavored, 12oz Can (Pack of 6)
+24	5.65	Chistorra Cooking and Breakfast Sausage
+25	17.99	Salchichon Iberico by Fermin (7.05 ounce)
+26	12.95	El Mexicano Beef Chorizo De Res - Pack of 3
+27	14.99	Chorizo Rioja (4.5oz)
+28	8.78	Eldon's Sausage and Jerky Supply Chorizo Seasoning, 0.475 Pound
+29	6.89	Serpis - Green Olives Stuffed with Spicy Chorizo, (2)- 8.29 oz. Jars
+30	15.99	Daniele Twin Stick Chorizo Chub
+31	26.59	Chorizos Quijote. 4 chorizos per pack. 5.5 oz 4 packs Total 16 chorizos
+32	29.99	Palacios Chorizos Imported from Spain. Packof 4 chorizos. Total weight 31.75 onces
+33	20.95	La Tienda Peregrino Chorizo Pamplona (1.3 lb/500 grams)
+34	12.95	Spanish Saffron Tin (2 gram)
+35	73.99	Chorizos Goya. 7 vacuum pack with 8 chorizos each. Total 56 chorizos, 6.12 pounds
+36	14.99	Columbus - Chorizo Casero, (2) - 10 oz. Sticks
+37	7.79	Eldon's Sausage and Jerky Supply Chorizo Seasoning, 3.25 Ounce
+38	8.86	Heinz Cream of Tomato Soup with Spanish Chorizo
+39	5.89	Cantimpalo Chorizo. Pre-sliced. 3 oz each. Pack of 2
+40	6.69	Chistorra chorizos by Quijote. 7 oz pack. vacuum packed
+41	6.99	Chorizo Goya (1 Pack) 4 Chorizos 7.0oz
+42	34.95	Carmen & Lola Chorizo Cantimpalo Style Sausage (2.2 Lbs)
+43	7.49	Ortiz Bonito Del Norte - White Tuna in Olive Oil, 3.95 Ounce Tin
+45	20.0	Spanish Chorizos
+46	49.99	Daniele: Sliced Chorizo 3/1 Lb. Packs (Gluten Free)
+47	37.87	Spanish Chorizos sampler gift bag. Variety of 5 brands
+48	19.99	Serpis - Green Olives Stuffed with Spanish Chorizo, 8.29 oz. Pack of 3
+50	8.45	Chiquilin Smoked Paprika Tin 2.64oz
+51	33.89	Quijote Chorizos Caseros (2 lbs)
+52	5.99	Chorizo Goya 2 pack. 3.5 oz with FREE tapa clay caserole.
+53	44.99	Pork King: Fresh Chorizo 5 Lb.
+54	29.99	Chorizos Imported from Spain. Packof 4 chorizos. 31.75 onces total
+55	19.99	Quijote - Chorizo Sarta, (2) - 8 oz. Pkgs.
+56	7.59	Chorizos Quijote. 4 pack. 5.5 oz
+57	19.99	Spam with Chorizo Seasoning 12 oz
+59	19.99	Chorizo Goya 2 packs of 4 chorizos each 15 oz total. FREE tapa clay caserole included.
+60	9.97	Chorizos Quijote. 2 chorizos per pack. 3 packs, 3 oz. Total 6 chorizos
+61	9.99	Chorizo Superior Quijote. 11.50 oz.
+62	10.99	Up North Chorizo Hunter Sausage 8 oz. Pkg.
+63	34.4	La Preferida Refried Beans Chorizo, 16-Ounce (Pack of 12)
+64	29.99	Chorizo Sausage - Pack of 8 (2 pound)
+65	49.95	Campofrio Espanol Chorizo (2.5 lb/1.2 kg)
+66	19.97	Goya Refried Beans Chorizo 16 Oz
+67	7.49	Columbus Salame Company Chorizo Casero 10 Ounce Stick
+68	8.75	Turkey Chicken Chorizo
+70	22.85	Palacios - Mild Spanish Chorizo, 2 - 7.9 oz. Packages
+72	66.74	Eldon's Sausage and Jerky Supply Bag Chorizo Seasoning, 7 Pound
+73	54.99	Chorizo Sarta by Quijote. 8 oz vac pack. Free recipes. Pack of 6
+74	19.76	Palacios - Hot Spanish Chorizo, 2 - 7.9 oz. Packages
+75	6.39	Chorizos El Mino . 4 Pack 7 oz
+77	29.48	Fermin Salchichon Iberico Dry Cured Iberico Sausage, 7 oz
+78	5.89	Cantimpalo Chorizo HOT. Pre-sliced. 3 oz each. pack of 2
+80	13.99	Serpis - Green Olives Stuffed with Spanish Chorizo, (2)- 8.29 oz. Jars
+81	49.99	Botto's Chorizo Sausage 40 Oz. (2 Pack)
+82	49.99	Chorizo Superior Quijote. 16 oz Oz. 4 Pack
+83	28.3	Chorizos El Mino . 4 chorizos per pack 7 oz. Total 16 Chorizos
+85	45.95	Goya Refried Beans Chorizo, 16-Ounce Cans (Pack of 12)
+86	4.99	Daniele Local Uncured Sliced Chorizo
+87	15.49	Chorizo Fresh Sausage Seasoning 7.5 Oz. Bag Seasons 12.5 Lbs. #885
+88	24.99	Chorizos Quijote. 16 Chorizos pack. 26.4 oz
+89	9.95	Tampico Chorizo Mix / Sazonador para Chorizo, 3oz. (Pack of 2)
+90	9.99	Dry Cured Chorizo by Les Trois Petits Cochons (8 ounce)
+92	8.48	Chorizo Autentico HOT by Palacios. Imported from Spain. 7.9 oz
+93	26.45	Chorizos Quijote.12 delicious chorizos plus FREE 9" clay cooking pot.
+94	13.59	El Ebro Chorizos En Manteca/in Lard 7.2oz Each Can 2Pack
+95	4.99	Sauce Goddess Latin Heat SPICE Rub, 1.75-Ounce Containers (Pack of 3)
+96	69.99	Paella Gift Kit (56 ounce)
+97	6.99	Pork Italian Sausage - Hot - Sold by the Pound
+98	50.0	Chorizo and Fig "Salami" Box
+99	16.99	Melissa's Soyrizo, 3 Packages (12 oz)

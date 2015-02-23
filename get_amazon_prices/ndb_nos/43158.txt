@@ -1,0 +1,91 @@
+0	14.99	3 Pack 1/4 Grain Saccharin Tablets
+1	19.99	3 pack 1/2 grain 1000 saccharin tablets
+2	22.18	3 pack 1 grain 500 saccharin tablets
+3	6.41	Necta Sweet Saccharin Sugar Substitute 1.0 Grain Tablets - 500 Each
+4	23.99	Necta Sweet Saccharin Tablets, 1 Grain, 1000 Tablet Bottle (Pack of 2)
+6	7.34	Necta Sweet Saccharin Sugar Substitute 0.5 Grain Tablets - 1000 Each
+7	5.69	Necta Sweet Saccharin Sugar Substitute 0.25 Grain Tablets - 1000 Each
+8	11.32	N'Joy Zero Calorie Sweetener, Pink Saccharin, 14.1 Ounce
+10	5.49	Sweet N Low Zero Calorie, 8 Ounce Bottle
+11	47.95	Reese Saccharine Tablets, 1000-Count (Pack of 6)
+12	16.61	Necta Sweet Saccharin Tablets, 1/4 Grain, 1000 Tablet Bottle (Pack of 4)
+13	24.49	Necta Sweet Saccharin Tablets, 1/2 Grain, 1000 Tablet Bottle (Pack of 4)
+14	7.99	EZ-Sweetz Sodium Saccharin (Single Pack 1.42oz - Liquid Sweetener 600 Servings/Bottle)
+15	14.79	Necta Sweet Saccharin Tablets, 1/2 Grain, 1000 Tablet Bottle (Pack of 2)
+16	1.99	Hermesetas Original 300 Tablets
+17	5.31	Necta Sweet Saccharin Sugar Substitute 0.25 Grain Tablets - 500 Each
+18	9.37	Necta Sweet Saccharin Tablets, 1/4 Grain, 1000 Tablet Bottle (Pack of 2)
+19	30.53	Necta Sweet Sugar Substitute Tablets, 1/4 Grain, 500-Count Bottles (Pack of 12)
+20	43.99	Necta Sweet Saccharin Tablets, 1 Grain, 1000 Tablet Bottle (Pack of 4)
+21	54.99	Necta Sweet Saccharin Tablets, 1 Grain, 1000 Tablet Bottle (Pack of 6)
+22	69.99	Necta Sweet Saccharin Tablets, 1 Grain, 1000 Tablet Bottle (Pack of 8)
+23	5.49	Equal Saccharin 0 Calorie Sweetener, 100-count
+24	18.62	Necta Sweet Saccharin Tablets, 1/2 Grain, 1000 Tablet Bottle (Pack of 3)
+25	42.08	Necta Sweet Saccharin Tablets, 1/4 Grain, 1000 Tablet Bottle (Pack of 12)
+27	7.76	o Sweet N Low o - Saccharin, 400 Packets per Box
+28	30.24	N'Joy Zero Calorie Sweetener, Pink Saccharin, 2000 Count
+29	87.99	Necta Sweet Saccharin Tablets, 1 Grain, 1000 Tablet Bottle (Pack of 10)
+30	23.5	Necta Sweet Saccharin Tablets, 1/4 Grain, 1000 Tablet Bottle (Pack of 6)
+31	31.99	Equal Sweetener, Saccharin, Pink Packets 100 ct (Pack of 12)
+32	29.17	N'Joy Zero Calorie Sweetener, Pink Saccharin, 4.7 Ounce (Pack of 12)
+33	33.19	Necta Sweet Saccharin Tablets, 1/2 Grain, 1000 Tablet Bottle (Pack of 6)
+34	59.5	Necta Sweet Saccharin Tablets, 1/2 Grain, 1000 Tablet Bottle (Pack of 12)
+35	29.35	Necta Sweet Saccharin Tablets, 1/4 Grain, 1000 Tablet Bottle (Pack of 8)
+36	36.89	N'Joy Zero Calorie Sweetener, Pink Saccharin, 2000 Count
+37	45.06	Necta Sweet Saccharin Tablets, 1/2 Grain, 1000 Tablet Bottle (Pack of 8)
+38	8.37	Sweet N' Low Artificial Sweetener, Saccharin, 1-Gram Packets, 400/Box OSX50150
+39	51.06	Necta Sweet Saccharin Tablets, 1/2 Grain, 1000 Tablet Bottle (Pack of 10)
+40	36.28	Necta Sweet Saccharin Tablets, 1/4 Grain, 1000 Tablet Bottle (Pack of 10)
+41	109.99	Necta Sweet Saccharin Tablets, 1 Grain, 1000 Tablet Bottle (Pack of 12)
+42	6.99	Cafe Delight Sugar Substitute, Saccharin, Comparable to Sweet'n Low - 250 Packets
+43	13.25	Zero Calorie Sweetener Sampler Pack: Equal Original Aspartame, Original Sucralose (Splenda TM Style) & Saccharin (Sweet n Low TM Style) 1000 packets total!
+45	15.88	Smucker`s. Sugar Substitute, 400 Packets/Box (50150)
+46	9.89	Hermesetas Mini Sweeteners Original 1200 Tablets
+49	11.82	Wisdom Natural Brands - Yerbamate Royale Instant, 2.82 oz powder
+50	42.05	Njoy Pink Saccharin Stik Sugar Substitute, 1 Gram -- 2000 per case.
+51	27.05	Njoy Saccharin Sugar Substitute, 1 Gram -- 2000 per case.
+52	41.77	Necta Sweet Saccharin Tablets, 1/2 Grain, 1000 Tablet Bottle (Pack of 9)
+53	69.62	Necta Sweet Saccharin Tablets, 1/2 Grain, 1000 Tablet Bottle (Pack of 15)
+54	28.4	Wgmns Sugar Substitute with Saccharin, 3.52 Oz. (Pack of 4)
+55	28.95	Wegmans Sugar Substitute with Saccharin, 8.81 Oz. (Pack of 2)
+56	56.26	Equal Saccharin Sweetener Pink Packs 100 CT (Pack of 24)
+57	34.88	Dr Brown's - Soda Diet Black Cherry 6Pk (Pack of 4)
+58	21.95	Sweet Mate Zero Calorie Sweetener, 100 Packets (Pack of 6)
+59	7.99	Natvia 100% Natural Sweetener, Canister, 7 Ounce
+60	22.91	Sweet & Low Sugar Substitute (Pack Of 1500) Pack Of 1500 Pcs
+61	9.98	Sweet Mate Sweetener Zero Calories (100 Pcs)
+62	17.99	MighTeaFlow Sugar free Green Tea Lozenges with Xylitol
+63	6.2	Eda's Sugar Free Hard Candy, Tropical Mix, 16 oz
+64	9.97	Eda's Sugar Free Sorbitol PINA COLADA Hard Candy, 1lb
+65	20.35	Li Hing Mui Plum Powder 24 Ounce Jar 1.5 Pounds
+66	7.99	Eda's Sugar Free Root Beer Hard Candy, individually wrapped, OU Parve, Uses Sorbitol, Low Sodium, 1LB
+68	5.85	Necta Sweet Sugar Substitute Tablets 500TAB
+69	7.85	Sugar Substitue, 400 Packets/Box
+70	9.97	Eda's Sugar Free Banana Hard Candy, Individually Wrapped, Ou Parve, Uses Sorbitol, Low Sodium 1lb
+71	23.58	DiabetiSweet Sugar Substitute, Original, 16-Ounce Boxes (Pack of 3)
+72	7.99	Eda's Blueberry Sugar Free Sorbitol Hard Candy, 1lb
+74	36.27	Josephs Lite Sugar Free Cookies, Chocolate Chip, 6 Ounce (Pack of 15)
+75	7.95	Eda's Sugar Free Sorbitol Black Licorice Hard Candy, 1lb
+76	7.99	Eda's Sugar Free Sorbitol GREEN APPLE Hard Candy, 1lb
+77	35.99	Natvia 100% Natural Sweetener (80 X 2g Sticks) - 4 Pack
+78	119.65	Stevia White Powder .9 oz. ( Multi-Pack)
+79	21.99	Impact Energy Gum "Shock"
+80	32.66	Necta Sweet, 1/4Gr 500'S Sugar Sub Tab, 500-Each (12 Pack)
+81	9.97	Eda's Sugar Free Watermelon Hard Candy, Individually Wrapped, Ou Parve, Uses Sorbitol, Low Sodium 1lb
+82	30.39	Equal Artificial Sweetener Tablets - 100 Each (Pack of 12)
+83	7.95	Sugarine 200 Tablets
+84	25.29	Sweet One Sweet One, 50 Count (Pack of 12)
+85	28.09	Sweet & Low sugar substitute (Case of 1500)
+86	28.95	Wgmns Sweetener with Aspartame, 7.5 Oz, (Pack of 2)
+87	20.92	Eda's Sugar Free Sorbitol BLACK LICORICE Hard Candy, 5lb
+88	9.51	Joseph's Lite Cookies Sugar Free Oatmeal Cookies, 11 oz bags
+89	6.49	Eda's Sugar Free Hard Candy, Cotton Candy, 1 Pound
+90	6.06	Natra Taste Sugar Substitutes - 100 Packets
+91	20.92	Eda's Sugar Free Sorbitol GREEN APPLE Hard Candy, 5lb
+92	20.92	Eda's Carnival Mix Sugar Free Sorbitol Hard Candy, 5lb
+93	20.92	Eda's Sugar Free Banana Hard Candy, Individually Wrapped, Ou Parve, Uses Sorbitol, Low Sodium 5lb
+94	8.67	Sweet 'N Low w/Saccharine , 400 ct
+96	8.35	Eda's Sugar Free Intense Marshmallow Flavored Hard Candy, ONE POUND, individually wrapped, OU Parve, Uses Sorbitol, Low Sodium
+97	7.99	Eda's Carnival Mix Sugar Free Sorbitol Hard Candy, 1lb
+98	10.99	TheraBreath Fresh Breath Xylitol Chewing Gum, Icy Fresh 12 ea (Pack of 2)
+99	20.92	Eda's Sugar Free Root Beer Hard Candy, individually wrapped, OU Parve, Uses Sorbitol, Low Sodium, 5LB

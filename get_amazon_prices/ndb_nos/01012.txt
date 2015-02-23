@@ -1,0 +1,108 @@
+0	7.24	Mrs Bridges Orange Curd, 12-Ounce
+1	9.0	Natural Cheese Curd
+2	7.6	Mrs Bridges Lime Curd, 12 Ounce
+3	30.99	L'Epicurien Gift Set: Lemon Curd, Raspberry Curd, Pistachio Curd
+4	9.75	Tiptree Lemon Curd by Wilkin and Sons 312g
+5	8.95	Elizabethan Pantry Raspberry Curd
+6	28.98	Dickinson's Creme Curd Coconut -- 9.5 oz
+7	6.54	Sticky Fingers Bakeries All Natural Orange Curd -- 8.2 oz
+8	17.85	Zuming Marinated Dried Bean Curd, 7 Ounce (Pack of 6)
+9	10.36	Tiptree Lemon Curd 2 Pack
+10	4.93	Trader Joe's Imported English Authentic Lemon Curd Great on Breakfast Goods, As a Dessert Topping, As a Filling for Tarts ,Pastries Etc.
+12	10.12	Wangzhihe Fermented Traditional Bean Curd 250g (Pack of 1)
+13	19.56	Dickinson's, Lemon Curd, 10oz Jar (Pack of 3)
+14	12.99	Stonewall Kitchen Key Lime Curd
+15	38.99	Tiptree Lemon Curd, 12-Ounce Jars (Pack of 6)
+16	21.89	Sticky Fingers All Natural Cranberry Orange Curd (Pack of 2)
+17	28.0	Curd Cutter
+19	23.5	Trader Joe's Lemon Curd (Pack of 2)
+0	7.24	Mrs Bridges Orange Curd, 12-Ounce
+1	9.0	Natural Cheese Curd
+2	7.6	Mrs Bridges Lime Curd, 12 Ounce
+3	30.99	L'Epicurien Gift Set: Lemon Curd, Raspberry Curd, Pistachio Curd
+4	9.75	Tiptree Lemon Curd by Wilkin and Sons 312g
+5	8.95	Elizabethan Pantry Raspberry Curd
+6	28.98	Dickinson's Creme Curd Coconut -- 9.5 oz
+7	6.54	Sticky Fingers Bakeries All Natural Orange Curd -- 8.2 oz
+8	17.85	Zuming Marinated Dried Bean Curd, 7 Ounce (Pack of 6)
+9	10.36	Tiptree Lemon Curd 2 Pack
+10	4.93	Trader Joe's Imported English Authentic Lemon Curd Great on Breakfast Goods, As a Dessert Topping, As a Filling for Tarts ,Pastries Etc.
+12	10.12	Wangzhihe Fermented Traditional Bean Curd 250g (Pack of 1)
+13	19.56	Dickinson's, Lemon Curd, 10oz Jar (Pack of 3)
+14	12.99	Stonewall Kitchen Key Lime Curd
+15	38.99	Tiptree Lemon Curd, 12-Ounce Jars (Pack of 6)
+16	21.89	Sticky Fingers All Natural Cranberry Orange Curd (Pack of 2)
+17	28.0	Curd Cutter
+19	23.5	Trader Joe's Lemon Curd (Pack of 2)
+20	22.35	Zuming Spicy Dried Bean Curd, 3.5 Ounce (Pack of 6)
+23	29.99	Wisconsin Cheese Curds and Sausage Box
+24	8.94	Cheddar Cheese Curds 1 LB.
+25	7.69	Muenster Cheese Curds 1 LB.
+26	24.78	Wangzhihe Fermented Traditional Bean Curd 250g (Pack of 4)
+27	12.95	Hime Seasoned Fried Bean Curd (Inarizushi-No-Moto)
+28	6.96	Passion Fruit Curd
+30	26.94	Dickinson's Curd, Coconut, 9.50-Ounce (Pack of 6)
+31	14.98	Hogan's Lemon Curd, 11 Ounce
+32	16.99	MacKays Lemon Curd
+33	14.99	Wangzhihe Fermented Traditional Bean Curd 250g (Pack of 2)
+34	7.69	Sticky Fingers Lemon Curd 8.2oz
+35	12.0	Wisconsin's Cheese Curds Trio 3/5oz
+36	9.95	Elizabethan Pantry Lemon Curd 11 oz. Jar
+37	13.0	Thursday Cottage Lime Curd 11 Oz (Pack of 2)
+38	68.99	Wisconsin Cheese Curd Sampler (5.25lbs)
+39	4.95	Ellsworth Cheddar Cheese Curds
+40	14.99	Ellsworth Cooperative Creamery Ranch Cheddar Cheese Curds
+41	45.95	Dickinson Lemon Curd (6x10oz )
+42	5.99	Lemon Curd by Grant's of Scotland (12 ounce)
+43	24.99	Mackays Lemon Curd -- 12 oz
+44	11.59	Sticky Fingers All Natural Cranberry Orange Curd - 8.2 Ounces
+46	7.35	Poutine Gravy a La King By St. Hubert | Comes with a LaPatate's Poutine Army Sticker| One of Canada's Top Poutine Sauce Brands Delivered to Your Doorstep | Yield up to Three Poutines Per Pouch
+47	12.91	Dried Bean Curd Sheet - 5.3oz (Pack of 3)
+48	6.96	Pineapple Curd
+49	22.15	Dickinson's Curd, Banana, 9.50-Ounce (Pack of 6)
+50	25.99	Wisconsin White Cheddar Cheese Curds 1.5lbs
+51	31.49	Dickinson's Lemon Curd, 10-Ounce (Pack of 6)
+52	9.99	Shii Fure Dried Bean Curd-black Pepper Flavor -3pk
+53	22.5	Luckycat Chinese Delicious Food Zhouheiya Bean Curd Bean Curd Cake 150g*3packs
+54	7.19	Poutine Gravy By Club House | One of Canada's Top Retail Poutine Sauce Brands Delivered to Your Doorstep | Yield up to Three Poutines Per Pouch
+55	34.49	Hime Seasoned Fried Bean Curd (Inarizushi-No-Moto) (Pack of 4)
+56	29.36	Robertsons, Lemon Curd, 11.3-Ounce (6 Pack)
+57	12.72	Dried Beancurd Sheets (Tofu Skin / Fu Zhu) - 6oz (Pack of 3)
+58	109.39	Wisconsin Deluxe Cheese Curd Football Game Day Sampler (8.25 Lbs)
+59	13.35	Deep-fried Cheese Curd Batter Mix
+60	26.94	Dickinson's Curd, Vanilla, 9.50-Ounce (Pack of 6)
+62	6.5	Natural Cheese Curds
+63	14.98	Hwang Ryh Shiang Chili Bean Curd with Sesame Oil 300g (PACK OF 2)
+64	44.99	Ultimate Cheese Curd Box
+65	8.95	Elizabethan Pantry Key Lime Curd
+66	21.75	Cedar Grove Squeaks Fresh Cheddar Cheese Curds Gift Pack (3 9-ounce bags)
+67	4.3	Dried Bean Curd Sheet - 5.3oz (Pack of 1)
+68	6.5	Natural Cheese Curds
+69	27.29	McKay's Lemon Curd, 12-Ounce (Pack of 6)
+70	64.16	Roland Tofu Bean Curd in Water, 19-Ounce (Pack of 24)
+71	14.25	Captain Rodney's Private Reserve Key Lime Curd 14.0 Oz
+72	25.99	Wisconsin Dill Garlic Cheese Curds 1.5lbs
+73	4.39	Gale's Lemon Curd (410g)
+74	8.67	Beancurd With Red Date - Fermented
+75	57.08	Inarizushi No Moto (Fried Soy Beans Curd Seasoned with Soy Sauce) -10oz (Pack of 6)
+76	21.75	Cedar Grove Squeaks Fresh Original White Cheddar Cheese Curds, Three 9-ounce Bags
+77	29.99	Island Preserve Lilikoi Butter (Passion Fruit Curd) (Made in Hawaii)
+78	6.96	Uncle Roys Best Ever Tangy Lime Curd 205g Jar
+79	16.65	Fermented Chili Bean Curd (Chunk) with Sesame Oil 10.5z
+80	21.89	Sticky Fingers All Natural Orange Curd (Pack of 2)
+81	18.47	Zuming Special Shanghai Style Bean Curd, 7 Ounce (Pack of 6)
+82	23.99	Dried Beancurd Stick (Tofu Skin / Fu Zhu) - 6oz (Pack of 3)
+84	31.0	Dickinson's Creme Vanilla Curd -- 9.5 oz
+85	49.38	Mrs. Bridges Curd, Mini Lemon, 1.5 Ounce (Pack of 36)
+86	150.0	Elite Wisconsin Cheddar Cheese, Cheese Curds and Pit Smoked Sausage Gift Box
+87	24.99	Inarizushi No Moto (Seasoned Fried Bean Curd) - 10oz (Pack of 3)
+88	15.96	Mango Lime Ginger Jam - L'Epicurien - 11.6 oz jar
+89	14.9	Thursday Cottage Raspberry Curd
+90	109.39	Wisconsin Deluxe Cheese Curd Sampler (8.25lbs)
+91	15.96	Lemon Curd - All Natural French Recipe - L'Epicurien 11.6 oz
+92	6.96	Uncle Roys Best Ever Grapefruit Curd 205g Jar
+93	25.99	Wisconsin Shallot Black Pepper Cheese Curds 1.5lbs
+95	7.99	Tiptree Lemon Curd (312g)
+97	15.0	Rose & Ivy Linda's Lemon Curd, 8.0 Ounce
+98	26.97	Heirloom Fruit Curd Paw Paw (Pack of 3)
+99	13.99	Black Curd Paste Fruit Roll (Pack of 3)

@@ -1,0 +1,65 @@
+4	74.95	Premium Angus Beef - Top Sirloins (6,8) - Chicago Steak Company - PSC151 6 6OZ
+10	11.99	Omaha Steaks 1 (24 oz. tray) Beef Sirloin Stew
+13	99.0	Organic Steak Combo Pack - 100% Certified Organic Grass-Fed Beef Tenderloin, Flank, and Sirloin, Steaks; 100% Certified Organic Grass-Fed Ground Beef
+15	39.99	Omaha Steaks Lean Top Sirloin Special
+16	179.95	Black Angus Steak Sampler - 8 Cuts / 16 Burger Patties - Filet, Ribeye, Sirloins, Beef, Flat Iron, Marinated Chicken - Chicago Steak Company
+17	49.99	Wagyu Kobe Beef Sirloin Steak - 4 (8 Oz.) Portions - By Rastelli Direct
+19	159.95	Black Angus (8) Steak Combination - Chicago's Finest Filet Mignon, Boneless Strip, Sirloin, Ribeye - Chicago Steak Company
+20	49.99	Sirloin Steaks - 6 (6 Oz.) Portions - By Rastelli Direct
+21	55.49	Wagyu Kobe Beef Sirloin Steak - 6 (6 Oz.) Portions - By Rastelli Direct
+22	8.56	Va-Va Peppers with Cheese, 550 Gram
+23	92.0	10-8oz Elk Top Sirloin Steaks
+24	38.81	Australian Wagyu Beef Top Sirloin Center Cut Steaks, MS7 - 2 pieces, 10 oz ea
+25	82.99	Omaha Steaks 1 (2 lb.) Top Sirloin Roast
+26	84.95	Surf & Turf - 2 (8oz) Top Sirloins & 2 (6oz) Cold Water Lobster Tails - Chicago Steak Company - PSCS01 2PK Tops
+27	21.95	Braswells Savory Sirloin Steak Sauce, 9.5 Ounce -- 6 per case.
+28	21.49	Sirloin Steaks - 2 (6 Oz.) Portions - By Rastelli Direct
+29	299.95	Classic Prime Steak Assortment - USDA Prime Filet, Sirloin, Strip, Ribeye, Beef Burgers & Seasoning - Chicago Steak Company
+30	248.0	Kobe Wagyu Beef Top Sirloin - 8 x 8 oz. Steaks (Only $9.95 2nd Day Shipping!)
+31	99.95	USDA Prime - 6 (6oz) Top Sirloins Steak Delivered
+32	64.99	Omaha Steaks 6 (8 oz.) Mediterranean Sirloin Skewers
+33	39.49	Organic Grass Fed Beef Sirloin Steaks, 4 (6 Oz.) Portions, By. Rastelli Direct
+36	6.99	Teriyaki Beef Jerky 3.75 bag by Dad's Jerky is made from 100% sirloin beef steak. The thick strips are marinated in a sweet, rice wine (Sake) and brown sugar sauce. See all of Dad's Jerky Products
+37	11.6	8 oz. Angus Top Sirloin Steak
+38	22.99	Wagyu Kobe Beef Sirloin Steak - 2 (6 Oz.) Portions - By Rastelli Direct
+39	165.0	Organic Steak Value Pack - 100% Certified Organic Grass-Fed Strip, Sirloin, Ribeye, and Skirt Steaks; 100% Certified Organic Grass-Fed Ground Beef
+40	17.83	Campbell's Chunky Sirloin Burger & Steak and Potato Soup Variety 18.8 Oz. - 6 Pack
+41	29.98	Dale's Steak Seasoning 64 Oz. Family Size (1/2 Gallon) - Gluten Free Steak Marinade
+42	124.95	Premium Angus Beef - Top Sirloins (6,8) - Chicago Steak Company - PSC151 8 10OZ
+44	224.05	Sirloin Center Cut Bison Premium 8oz Steaks (Case of 18) SHIPS FREE!
+46	79.99	Omaha Steaks 12 (5 oz.) Bacon-Wrapped Top Sirloins
+50	49.99	Omaha Steaks The Complete Treat
+52	89.95	Premium Angus Beef - 6 (8oz) Top Sirloins - Chicago Steak Company - PSC151 6 8OZ
+53	12.75	Organic Top Sirloin Steak - One 8 oz. Organic Grass-Fed Steak
+54	74.95	USDA Prime - Top Sirloin (4,6,8) - Chicago Steak Company - VFSP151 4 8OZ
+56	79.99	Omaha Steaks The Fantastic Feast
+57	171.0	Omaha Steaks 12 (6 oz.) Bacon-Wrapped Top Sirloins
+58	35.99	Top Sirloin Steak 6 Oz. (4)
+60	31.05	Australian Wagyu Beef Top Sirloin Center Cut Steaks, MS7 - 2 pieces, 8 oz ea
+61	14.5	10 oz. Angus Top Sirloin Steak
+62	110.0	Organic Top Sirloin Steak Package - Ten 8 oz. Organic Grass-Fed Steaks
+63	89.99	Creekstone Farms Master Chef Choice Cowboy Ribeye and Top Sirloin Package
+64	69.99	Omaha Steaks The Ideal Gift Collection
+65	94.95	Premium Angus Beef - Porterhouse (2,4,6,8) - Chicago Steak Company - PSC155 2 20OZ
+66	145.0	Organic Steak & Chicken Combo Pack - 100% Certified Organic Grass-Fed Beef Tenderloin, Sirloin, and Strip Steaks; 100% Certified Organic Grass-Fed Ground Beef and Chicken Breasts
+67	49.99	6 (6oz.) Grass Fed Sirloin Steaks
+68	29.97	Texas Roadhouse Restaurant Sampler (Variety Pack of 3 with 1 each of Roadhouse Gold Steak Sauce, Sirloin Seasoning & Rib Seasoning)
+69	94.95	Premium Angus Beef - 6 (6oz) Baseball Cut Sirloins - Chicago Steak Company - PSC177 6 6OZ
+70	6.99	Teriyaki Jerky 3.75oz bag made by Dad's Jerky is made from 100% USDA sirloin beef steak marinated in super rich teryaki sauce. See all of Dad's Jerky Products
+72	62.99	Omaha Steaks 4 (10 oz.) Private Reserve Top Sirloins
+73	42.29	Campbell's Chunky Grilled Sirloin Steak with Hearty Vegetables Soup 18.8 oz (Pack of 12)
+76	54.99	Omaha Steaks Steaks n' Burgers
+77	99.99	10 Premium Marinated Bison Steaks - 10% Off, Ships FREE!
+78	114.95	Wagyu Boneless Strips (2,4) - Chicago Steak Company - WAG152 2 8OZ
+79	84.95	10-8oz Buffalo 1" New York Strip Steaks
+80	90.56	Australian Wagyu Beef Sirloin Flap Meat, MS3 - 2 pieces, 3 lbs ea
+81	79.99	Omaha Steaks The Grilling Bonanza
+82	144.95	Wagyu Boneless Strips (2,4) - Chicago Steak Company - WAG152 2 12OZ
+84	14.95	Oakridge BBQ Santa Maria Steak Seasoning - 5 oz
+85	66.99	Omaha Steaks The Family Value Combo
+86	11.0	Urban Accents Chicago Steak & Chop 3.1oz
+89	79.95	10-8oz Buffalo Top Sirloin Steaks
+92	29.99	Omaha Steaks 4 (4.5 oz.) Chicken Fried Steaks
+95	173.0	Kobe Wagyu Beef Top Sirloin - 4 x 8 oz. Steaks (Only $9.95 2nd Day Shipping!)
+97	3.63	Campbell's Chunky Grilled Sirloin Steak with Hearty Vegetables Soup 18.8 oz
+98	246.5	Sirloin Bison 8 oz. Steak USDA Inspected (Case of 20) SHIPS FREE!

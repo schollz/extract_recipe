@@ -1,0 +1,91 @@
+0	5.49	Kikkoman Soy Sauce, 64-Ounce Bottle (Pack of 1)
+1	14.36	Kikkoman Lite Soy Sauce, 64-Ounce Bottle (Pack of 1)
+2	9.34	Kikkoman Soy Sauce (10 oz.)
+3	11.99	Kikkoman Soy Sauce, 33.8 oz
+4	13.22	Kikkoman Soy Sauce, 1-Gallon Can
+5	10.51	Bluegrass Soy Sauce
+6	15.45	Lee Kum Kee Premium Dark Soy Sauce - 16.9 fl. oz.
+7	9.55	Kikkoman Light Soy Sauce, 10 Ounce
+8	5.99	Kikkoman Soy Sauce in Dispenser 5 fl oz
+9	8.95	Kikkoman Soy Sauce Less Sodium 10-oz
+10	15.95	Kishibori Shoyu (Pure Artisan Soy Sauce)
+11	4.99	Lee Kum Kee Premium Soy Sauce - 16.9 fl. oz.
+12	29.95	San-J Tamari Gluten Free Soy Sauce, Non GMO Black Label, 64 Ounce
+13	29.55	Kikkoman Soy Sauce, 33.8-Ounce (Pack of 5)
+14	13.0	Pearl River Bridge Superior Dark Soy Sauce, Mushroom, 60 Ounce
+15	9.99	Pearl River Bridge Superior Light Soy Sauce
+16	1.25	Aloha Shoyu Soy Sauce
+17	17.07	Kikkoman Soy Sauce, 1.25 qt
+18	18.22	Lee Kum Kee Premium Soy Sauce, 16.9-Ounce Bottle (Pack of 2)
+19	15.56	Lee Kum Kee Premium Dark Soy Sauce, 16.9-Ounce Bottle (Pack of 2)
+20	12.55	San-J Tamari Gluten Free Soy Sauce
+21	17.13	Pearl River Bridge Superior Soy Sauce, Light, 60 Ounce
+22	4.36	Kikkoman Organic Naturally Brewed Soy Sauce, 10 Ounce
+23	21.29	Takumi White Shoyu Japanese White Soy Sauce 375 ml (12 oz.)
+24	2.0	Glass Tabasco Soy Sauce, 5 Ounce
+25	5.99	Little Soya Gluten Free Less Sodium Soy Sauce
+26	9.23	La Choy Soy Sauce 15 oz
+27	9.5	San-J Organic Wheat Free Tamari Soy Sauce -- 10 fl oz
+29	12.06	Ohsawa Organic Nama Shoyu Unpasteurized Soy Sauce - 10oz
+30	8.16	Yamasa Soy Sauce
+31	15.17	Mr. Yoshida's Gourmet Sauce-86 oz
+32	15.5	Pearl River Bridge Superior Dark Soy Sauce, 16.9-Ounce Glass Bottles (Pack of 2)
+33	19.19	Kimlan Soy Sauce - 20 oz.
+34	8.94	Kikkoman Less Sodium Soy Sauce Dispenser - 5 oz.
+35	18.13	Kikkoman Soy Sauce, 64 Ounce
+36	23.94	Takumi Sashimi Tamari Shoyu Premium Soy Sauce 12 Oz.
+37	19.0	Kikkoman Maroyaka Soy Sauce, 33.8-Ounce (Pack of 2)
+38	11.5	Kikkoman Soy Sauce Dispenser, 5-Ounce Bottle (Pack of 4)
+39	9.16	Tamari Soy Sauce, Wheat Free, Organic, 10 oz
+40	34.88	Bundle of 3 - Bourbon Barrel Sauces - Bluegrass Soy Sauce, Aged Worcestershire Sauce and Kentuckyaki
+41	15.95	Aloha Shoyu Soy Sauce (Pack of 2)
+42	37.59	Kishibori Shoyu - Barrel Aged 1 Year - 1 bottle - 24 fl oz
+43	14.99	Golden Mountain Seasoning Sauce, 20 Ounce
+44	2.68	Kikkoman All-Purpose Seasoning Naturally Brewed Soy Sauce, 10 Ounce
+45	13.26	Koon Chun Double Black Soy Sauce
+46	7.5	50 Packages SOY Sauce
+47	16.56	Little Soya Gluten Free Less Sodium Soy Sauce (3-pack)
+49	31.44	Kikkoman Marudaizu Soy Sauce, 33.8-Ounce Bottles (Pack of 3)
+50	19.0	Kikkoman Soy Sauce Gluten-Free 8.5 oz. (Pack of 4)
+51	10.01	Yamasa - Less Salt Soy Sauce (5 Fl. Oz.)
+52	17.27	Kikkoman Soy Sauce Packets, 200-count
+54	9.37	Glass San-J Tamari Gluten Free White Label Sauce, 10 Ounce
+55	11.95	200 Packets Soy Sauce-SHIP WITHIN 24HRS!
+56	10.9	Kecap Manis (Sweet Soy Sauce) - 600 ml(20.2-Ounce)by ABC.
+58	20.5	Koon Chun Thick Soy Sauce, 16-Ounce Glass Jars (Pack of 3)
+59	11.99	Soy Vay Marinade and Sauce Hoisin Garlic -- 22 oz
+60	72.0	Bluegrass Soy Sauce, 32 Fl. Oz.
+61	19.79	Kikkoman Sushi & Sashimi Soy Sauce, 10-Ounce Bottle (Pack of 3)
+62	15.95	Aloha Shoyu - Lower Salt, 24-Ounce Bottle (Pack of 2)
+65	8.26	Aloha Shoyu 24z
+66	13.37	Pearl River Bridge Mushroom Flavored Superior Dark Soy Sauce
+67	6.17	Wanjashan Soy Sauce, 10 Ounce
+68	8.5	Kikkoman Soy Sauce Dispenser - 5 oz.
+69	23.75	San-J Tamari Premium Soy Sauce, 10-Ounce Bottles (Pack of 6)
+70	17.4	Kikkoman Soy Sauce, 10-Ounce Bottle (Pack of 4)
+71	15.0	Kikkoman All Purpose Less Sodium Soy Sauce 1.25 qt.
+72	10.95	Aloha Low Sodium Shoyu 24 Oz.
+73	18.46	Kikkoman Less Sodium Soy Sauce Packets, 0.2-Ounce, 200-Count
+74	23.56	Kikkoman Milder Soy Sauce, 33.8-Ounce (Pack of 2)
+75	33.23	ABC Bali's Sweet Soy Sauce in Plastic Jug, 145 Ounce
+77	19.5	ABC Indonesian Sweet Soy Sauce, 21.1-Ounce Bottle (Pack of 2)
+78	12.41	Lee Kum Kee Seasoned Soy Sauce for Seafood
+79	11.5	Kentuckyaki (Kentucky Style Teriyaki Sauce) (12 ounce)
+80	118.2	Eden Foods Organic Tamari Soy Sauce -- 20 fl oz
+81	11.93	Premium Guk-ganjang, Soy Sauce for Soup (25.3 Fl Oz) By Sempio
+82	26.26	Lee Kum Kee, Soy Sauce Table Top, 5.1-Ounce (6 Pack)
+83	16.69	Pearl River Bridge Superior Light Soy Sauce, 16.9-Ounce Bottle (Pack of 2)
+84	7.36	Koon Chun Thin Soy Sauce
+85	9.56	Japanese Temoku Porcelain Soy Sauce Dispenser 8oz YSS1
+86	3.49	Kikkoman Soy Sauce In Dispenser, 5 Ounce
+87	17.45	Lee Kum Kee Lkk Seasoned Soy Sauce for Seafood, 64 Ounce
+90	14.9	Mushroom Soy Sauce
+91	9.95	Datu Puti Vinegar and Soy Sauce
+92	25.33	Kikkoman Less Sodium Soy Sauce Dispenser, 5-Ounce Glass Bottle (Pack of 4)
+93	24.71	Kikkoman Soy Sauce Packets, 500-count
+94	41.27	San-J Tamari Gluten Free Soy Sauce -- 20 fl oz
+95	47.77	Lee Kum Kee Lkk Premium Soy Sauce, 16.9 Ounce (pack Of 12)
+96	11.49	Maggi Seasoning in Bottle (202 ml)
+97	29.99	Raw Organic Nama Shoyu-32 ozs.
+98	5.39	San J Soybean Tamari
+99	17.18	Weichuan China Soy Sauce, Light, 67.64 Ounce

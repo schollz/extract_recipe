@@ -1,0 +1,75 @@
+1	3.89	Vital Wheat Gluten 10 oz Box
+2	14.99	Vital Wheat Gluten - 3.5 Pound Can
+3	11.16	Bob's Red Mill - Vital Wheat Gluten Flour - 22 oz.
+4	18.29	Hodgson Mill Vital Wheat Gluten with Vitamin C, 6.5-Ounce Boxes (Pack of 8)
+5	10.49	Vital Gluten Flour, 1 lb.
+6	6.88	Hodgson Mill Vital Wheat Gluten w/ Vitamin C, 6.5 oz
+7	116.99	Vital Wheat Gluten - 50 Pound Bag
+9	24.99	Vital Wheat Gluten, 5 lbs
+10	17.99	Dough Conditioner - 4 Pound Can
+11	46.68	Arrowhead Mills Vital Wheat Gluten, 10 Ounce (Pack of 12)
+12	10.94	Vital Wheat Gluten, 15 Oz Sealed Can
+13	10.99	King Arthur Flour Multipurpose Flour, Gluten Free, 24-ounces
+14	15.64	Vital Wheat Gluten, (some call it Gluten Flour), 5 lbs (five pounds), All natural, Non-GMO, BULK.
+15	10.99	Arrowhead Mills Vital Gluten, Wheat, 10 Ounce
+17	20.34	Kinnikinnick Foods KinniKritters Animal Cookies, Gluten Free, Wheat Free, Dairy Free, 8-Ounce Box (Pack of 6)
+19	7.69	Saf Instant Yeast, 1 Pound Pouch
+20	15.13	Crunchmaster Multi-Grain Crackers, Gluten Free, 20 oz.
+21	10.93	Premium Gold All-Purpose Flour, Flax and Whole Grain, 2 Pound
+23	20.76	Bob's Red Mill Bread Mix Whole Grain Gluten Free, 20-Ounce (Pack of 4)
+24	6.45	Arrowhead Mills Organic Gluten Free Pancake & Baking Mix, 26 Ounce
+26	7.49	Pamela's Products Wheat-Free & Gluten-Free, Amazing Bread Mix, 19-Ounce Package
+27	18.99	Kind Healthy Grains Granola Bars, Super Variety 3-pack (Each Flavor 1.2 Oz X 5 Count Box) -Peanut Butter Dark Chocolate + Vanilla Blueberry + Oats & Honey Coconut
+29	12.54	Bisquick Pancake and Baking Mix, Gluten-Free, 16-oz. Boxes (Count of 3)
+32	20.58	Sam Mills Pasta D'Oro Gluten Free Fusilli, 1-Pound (Pack of 6)
+34	23.95	Pamela's Products Amazing Wheat Free & Gluten-free Bread Mix, 4-Pound Bag
+35	9.5	San-J Organic Wheat Free Tamari Soy Sauce -- 10 fl oz
+36	19.57	Gillian Bread Crumbs Wheat Free Gluten Free Dairy Free, 12-Ounce (Pack of 4)
+37	21.97	Krusteaz Certified Gluten Free All Purpose Flour - Replaces Wheat Flour: Cup For Cup - In A Resealable 5 Lb. Bag
+39	16.72	Bob's Red Mill Gluten-Free Homemade Wonderful Bread Mix, 16-Ounce Packages (Pack of 4)
+40	18.99	Pastariso Multi-Pack Sampler, 6.0-Pounds
+41	36.55	Great River Organic Milling, Organic Whole Grains Hard Red Spring Wheat, 25-Pound Package
+42	13.97	Trader Joe's Gluten Free and Wheat Free Rolled Oats
+43	13.94	Udi's  Gluten  Free  Whole  Grain Seeded Dinner Rolls, 6 Rolls Per Pack
+44	8.5	Palmetto Farms Yellow Corn Meal Flour - Stone Ground - Non-GMO - Naturally Gluten Free, Produced in a Wheat Free Facility
+45	7.99	WOW Baking- Peanut Butter Cookies, All Natural, Wheat & Gluten Free, 12 oz tub
+46	26.29	King Soba Gluten Free & Organic 100% Buckwheat Pasta Noodles (6 Packs) 8.8oz - 3 Servings Per Pack
+47	19.69	Absolutely Gluten Free Toasted Onion Flatbread, 5.29-Ounce (Pack of 3)
+50	12.99	HEARTLAND GLUTEN FREE, WHEAT FREE FUSILLI 12 oz (Pack of 3)
+51	33.59	Schar Gluten Free Multigrain Ciabatta Rolls, 7 Ounce (pack of 6)
+53	17.99	Kind Healthy Grains Granola Bars, Super Variety 3-pack (Each Flavor 1.2 Oz X 5 Count Box) -Maple Pumpkin Seeds with Sea Salt + Vanilla Blueberry + Dark Chocolate Chunk
+54	9.16	Tamari Soy Sauce, Wheat Free, Organic, 10 oz
+55	6.49	Egg Dairy Gluten Free Vegan New Grains Whole Grain Sandwich Bread
+57	23.01	Bob's Red Mill  Gluten Free Pizza Crust Mix, 16-Ounce Bags (Pack of 4)
+60	49.99	Bob's Red Mill Organic Grain Quinoa, 26-Ounce Packages (Pack of 4)
+61	67.39	Kellogg's Rice Krispies Gluten Free Cereal Whole Grain Brown Rice Boxes 12 OZ (Pack of 8)
+62	11.95	Bob's Red Mill 1 to 1 Baking Flour Gluten Free -- 22 oz
+63	24.88	Three Bakers Gluten Free Herb Seasoned Whole Grain Cubed Stuffing 2pack 12oz Each
+64	11.0	New Grains Gluten Egg Dairy Free English Muffins (2 packages - 4 count each)
+65	7.99	Vital Wheat Gluten, 1 lb (one pound), All Natural, Non-GMO, BULK.
+67	29.95	San-J Tamari Gluten Free Soy Sauce, Non GMO Black Label, 64 Ounce
+69	15.95	Paleo Pizza Crust Mix (Grain-free, Gluten-free), Fast & Easy, 2 Packs
+70	17.44	Sesmark Parmesan Herb Ancient Grains All Natural Snack Crackers, 3.5 Ounce Boxes (Pack of 6)
+71	6.99	WOW Baking- Oregon Oatmeal Cookies, All Natural, Wheat & Gluten Free, 12 oz tub
+73	15.75	Crunchmaster Multi-Grain Crackers , 20 Ounce
+74	14.59	Three Bakers Herb Seasoned Whole Grain Cubed Stuffing Gluten Free -- 12 oz
+76	18.97	Hol-Grain Wheat & Gluten Free Chicken Coating Mix (Pack of 2) 7 oz Shakers
+77	9.99	Vital Wheat Gluten, (some call it Gluten Flour), 2 lbs (two pounds), All Natural, Non-GMO, BULK.
+78	80.99	Vital Wheat Gluten - 6 Can Case - 21 Pounds
+79	7.99	Oberlander TM Wheat Gluten Free and Dairy Free Black and White Cookies Kosher for Passover 10 OZ
+80	13.59	General Mills, Chex Oatmeal, Apple Cinnamon, Gluten Free, 6 Count, 9.54oz Box (Pack of 2)
+81	3.74	Ancient Harvest Wheat Free Spaghetti -- 8 oz
+84	13.9	New Grains Gluten Free White Sandwich Bread, (2 loaves, 32 oz each)
+85	19.0	Kikkoman Soy Sauce Gluten-Free 8.5 oz. (Pack of 4)
+86	18.0	Gluten Free Buttermilk Pancake Mixes (4-13oz Bags)
+87	43.95	Nature's Path Organic Mesa Sunrise Cereal, 26.4-Ounce Bags (Pack of 6)
+88	23.35	Bob's Red Mill, Whole Grain Brown Rice Flour, 24 oz Packages (680 g) (Pack of 4)
+89	4.29	Schar Gluten-Free Wheat-Free Penne Pasta -- 12 oz
+90	15.35	Bob's Red Mill - Gluten Free Teff Flour - 24 oz.
+92	15.6	Bobs Red Mill Pizza Crust Mix Gluten Free (2x16 Oz)
+93	11.99	Paleo Pizza Crust Mix - 12 oz
+94	35.85	Mestemacher Three Grain Bread, 17.6-Ounce Packages (Pack of 12)
+96	19.67	Bob's Red Mill Gluten-Free Cinnamon Raisin Bread Mix, 22-Ounce Units (Pack of 4)
+97	36.3	Van's Natural Foods - Chocolate Chip Gluten Free Snack Bars (Whole Grain, Fiber & Nutrient-Rich), Get SIX Boxes and SAVE, Each Box has 5 Bars, which are 1.2 Oz (Pack of 6)
+98	29.97	San J Organic Wheat Free Tamari Soy Sauce Gluten Free Non-GMO Gold Label Travel Packs, 200-Count Packages
+99	23.89	MANINIS Ancient Grains Gluten Free Multi-Purpose Flour Mix (5lb bag)

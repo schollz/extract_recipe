@@ -1,0 +1,93 @@
+0	4.0	Dry Sage Leaves (Salvia Officinalis)
+1	5.88	Alvita Sage Tea, Organic, 24 Count
+2	4.5	Sage Leaves (Salvia officinalis) 3oz loose herbs by Smallflower
+3	7.99	Sage Leaf Albanian Rubbed - Salvia Officinalis 0.25 Oz Pack of 4
+4	12.99	Sage Leaf Whole
+5	13.15	Sage Leaf 1 oz - Salvia officinalis
+6	32.99	Sage Salvia officinalis Earl Grey Tea Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+7	12.43	Organic Sage Leaf Rubbed
+8	22.5	Sage Salvia officinalis Rooibos Tea Blend - Natural - Free Infuser - Makes 30+ Cups
+9	24.99	Sage Salvia officinalis Earl Grey Tea Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+10	29.99	Sage Salvia officinalis Rooibos Tea Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+11	21.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+12	22.5	Sage Salvia officinalis Rooibos Tea Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+13	22.5	Sage Salvia officinalis Rooibos Tea Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+14	3.75	Sage - 0.7oz Organic Seasoning (Salvia officinalis)
+15	24.99	Sage Salvia officinalis Earl Grey Tea Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+16	22.5	Sage Salvia officinalis Rooibos Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+17	22.5	Sage Salvia officinalis Green Tea Blend - Natural - Free Infuser - Makes 30+ Cups
+18	21.95	Sage Salvia officinalis Lapsang Souchong Blend - Natural - Free Infuser - Makes 30+ Cups
+19	14.99	Sage Herbal Coffee Salvia Officinalis 100% Caffeine Free - 50g
+20	29.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - Natural - Free Infuser - Makes 60+ Cups
+21	22.5	Sage Salvia officinalis Rooibos Tea Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+22	19.99	Sage Herbal Coffee Salvia Officinalis 100% Caffeine Free - 100g
+23	22.5	Sage Salvia officinalis Green Tea Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+24	29.99	Sage Salvia officinalis Rooibos Tea Blend - Natural - Free Infuser - Makes 60+ Cups
+25	22.5	Sage Salvia officinalis Green Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+26	29.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+27	21.95	Sage Salvia officinalis Phulbari Assam Blend - Natural - Free Infuser - Makes 30+ Cups
+28	21.95	Sage Salvia officinalis Phulbari Assam Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+29	21.95	Sage Salvia officinalis Lapsang Souchong Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+30	29.99	Sage Salvia officinalis Rooibos Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+31	22.5	Sage Salvia officinalis Green Tea Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+32	21.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+33	22.5	Sage Salvia officinalis Green Tea Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+34	29.95	Sage Salvia officinalis Lapsang Souchong Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+35	29.99	Sage Salvia officinalis Green Tea Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+36	32.99	Sage Salvia officinalis Earl Grey Tea Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+37	29.99	Sage Salvia officinalis Green Tea Blend - Natural - Free Infuser - Makes 60+ Cups
+38	29.99	Sage Salvia officinalis Green Tea Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+39	29.95	Sage Salvia officinalis Lapsang Souchong Blend - Natural - Free Infuser - Makes 60+ Cups
+40	21.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+41	29.99	Sage Salvia officinalis Green Tea Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+42	29.95	Sage Salvia officinalis Phulbari Assam Blend - Natural - Free Infuser - Makes 60+ Cups
+43	21.95	Sage Salvia officinalis Phulbari Assam Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+44	29.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+45	24.99	Sage Salvia officinalis Earl Grey Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+46	29.95	Sage Salvia officinalis Phulbari Assam Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+47	21.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - Natural - Free Infuser - Makes 30+ Cups
+48	32.99	Sage Salvia officinalis Earl Grey Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+49	24.99	Sage Salvia officinalis Earl Grey Tea Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+50	21.95	Sage Salvia officinalis Lapsang Souchong Blend - With A Hint Of Mint - Free Infuser - Makes 30+ Cups
+51	29.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+52	29.95	Sage Salvia officinalis Phulbari Assam Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+53	21.95	Sage Salvia officinalis Phulbari Assam Blend - With A Hint Of Mango - Free Infuser - Makes 30+ Cups
+54	21.95	Sage Salvia officinalis Phulbari Assam Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+55	29.95	Sage Salvia officinalis Lapsang Souchong Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+56	29.99	Sage Salvia officinalis Rooibos Tea Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+57	29.95	Sage Salvia officinalis Phulbari Assam Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+58	29.95	Sage Salvia officinalis Lapsang Souchong Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+59	29.95	Sage Salvia officinalis Phulbari Assam Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+60	21.95	Sage Salvia officinalis Lapsang Souchong Blend - With A Hint Of Orange - Free Infuser - Makes 30+ Cups
+61	29.99	Sage Salvia officinalis Green Tea Blend - With A Hint Of Lemon - Free Infuser - Makes 60+ Cups
+62	21.95	Sage Salvia officinalis Lapsang Souchong Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+63	32.99	Sage Salvia officinalis Earl Grey Tea Blend - Natural - Free Infuser - Makes 60+ Cups
+64	24.99	Sage Salvia officinalis Earl Grey Tea Blend - Natural - Free Infuser - Makes 30+ Cups
+65	29.99	Sage Salvia officinalis Rooibos Tea Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+66	21.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - With A Hint Of Lemon - Free Infuser - Makes 30+ Cups
+67	29.95	Sage Salvia officinalis Pure Himalayan Darjeeling Blend - With A Hint Of Mango - Free Infuser - Makes 60+ Cups
+68	29.95	Sage Salvia officinalis Lapsang Souchong Blend - With A Hint Of Orange - Free Infuser - Makes 60+ Cups
+69	32.99	Sage Salvia officinalis Earl Grey Tea Blend - With A Hint Of Mint - Free Infuser - Makes 60+ Cups
+70	27.97	Sage Leaf Rubbed
+71	5.58	Traditional Medicinals Organic Tea, Herbal Cool Stage, 16 Count
+72	5.24	ALVITA Sage Leaf Tea Bag - Organic-SAGE-24 ct
+75	4.0	McFadden Farm Organic Sage Herbs
+76	13.14	Simply Organic Sage Leaf Ground Certified Organic, 0.21-Ounce Containers (Pack of 6)
+77	14.0	Sage Leaf Powder
+78	19.34	Svelte Organic Protein Shake, Banana Creme, 11 Fluid Ounce
+81	12.99	Jason Winter Tribalene - 100 Ct
+83	4.99	Nature's Mojo Sage Leaf Powder Shaker 50 Grams
+84	8.86	Nature's Mojo Sage Leaf Powder 100G
+85	13.49	Nature's Mojo Sage Leaf Powder 1lb
+86	13.12	Frontier Bulk Sage Leaf Crushed, Dalmatian (Prime #1 Grade), 1 lb. package
+87	4.2	Organic Sage Dalmation Rubbed Jar 1.06 Oz - Starwest Botanicals
+90	3.17	Sage Leaf C/S Organic - 4 oz
+91	8.25	Lorann Sage 100% Pure Essential Oil Natural Aromatherapy 1/3 Fl. Oz.
+92	12.0	Lorann Sage Natural 100% Pure Essential Oil Aromatherapy 1 Fl. Oz.
+93	30.99	Traditional Medicinals Organic Cooling Sage Women's Teas Helps Relieve Menopausal Hot Flashes 16 ea Pack Of 3
+94	14.98	Alvita Tea Bag - Organic, Sage Leaf 24 ea
+95	15.99	Salvia - Sage Herbal Tea 3 Pack
+96	14.76	Frontier Bulk Sage Leaf Powder, 1 lb. package
+97	21.32	Frontier Bulk Sage Leaf Rubbed, ORGANIC, 1 lb. package
+98	9.82	Aura Cacia Sage, Essential Oil, 1/2 oz. bottle
+99	13.94	Frontier Bulk Sage Leaf Rubbed, 1 lb. bag - Single Item

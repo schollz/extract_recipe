@@ -1,0 +1,78 @@
+0	9.81	Jansal Valley White Hominy, 16 Ounce
+1	8.95	Juanita's White Hominy, 29 oz.
+2	5.95	White Corn Hominy
+3	14.18	Juanita's Mexican Style White Hominy, #10 can
+4	37.34	Bush's Best White Hominy, 15.5-Ounce (Pack of 12)
+5	38.27	Bush's Best Hominy, Golden 15.5 oz (Pack of 12)
+6	23.08	Los Chileros White Corn Posole, 5 Pound
+7	16.35	Allen's White Hominy, 15.5000-Ounce (Pack of 12)
+8	29.99	Bush's Best, White Hominy, 15.5oz Can (Pack of 6)
+9	7.95	Goya dry golden hominy corn 14 oz
+10	29.99	Bush's Best, Golden Hominy, 14.5oz Can (Pack of 6)
+11	5.45	Los Chileros Posole, Blue Corn, 12 Ounce
+12	11.99	Inca's Food Mote Pelado - White Hominy 15oz (425g Single Bag) - Product of Peru
+13	14.9	Hominy Grits, White, 10 Lb Bag
+14	9.99	Teasdale White Hominy
+15	41.8	Allen's Golden Hominy, 15.5000-Ounce (Pack of 12)
+16	29.28	Golden Hominy, 15.5 ounce -- 12 per case
+17	35.47	Juanitas Hominy, 29-ounces (Pack of12)
+18	2.99	Bob's Red Mill Corn Grits White 24 ozs
+19	26.35	Giant White Corn, 8 Lb Bag
+20	8.99	BINESHII PREMIUM YELLOW HOMINY
+21	12.97	Juanita's White Hominy, 108 Ounce
+22	24.1	Juanita's Mexican Style Hominy - 29 oz. (Pack of 3)
+23	19.99	Goya dry golden hominy corn 14 oz (Pack of 3)
+24	8.99	White Hominy
+25	8.97	Juanita's Mexican Style Hominy in 25 Oz Can - Maiz Estilo Mexicano
+26	4.5	Yellow Hominy Corn 32oz
+27	5.95	Inca's Food Mote Pelado - White Hominy from Peru (15 oz/425 gr)
+28	14.0	Greenway stone-ground non-gmo (coarse) CORN GRITS 100% organically grown - 3.5 lb. bag
+29	27.12	Goya White Hominy 29 Oz (Pack of 4)
+30	45.95	Goya White Hominy (Pack of 11)
+31	16.95	Quaker, Quick Enriched White Hominy Grits, 5 Minute Recipe, 24oz Container (Pack of 3)
+32	65.78	HOMINY WHITE , 6 x 105 OZ
+33	34.5	Hominy Grits, White, 25 Lb Bag
+34	34.75	Bushs Best White Hominy - no. 10 can, 6 cans per case
+35	72.83	Juanitas Organic Pozole - Pork and Hominy Soup, 29.5 Ounce -- 12 per case.
+36	2.57	Mountain Delight Mazamorra Antioquena Mix 12oz
+37	4.99	Yellow Eye Beans, 1 lb.
+38	35.0	Juanita's Mexican Style White Hominy, #10 Can - Pack of 2
+39	14.0	4lbs Frozen Posole (Uncooked Hominy)
+40	51.75	Juanita's MEXICAN STYLE HOMINY 105oz (3 Pack)
+41	6.95	Juanita's Menudo Without Hominy - 29.5 oz.
+42	53.16	Goya White Hominy - 29 oz. can, 12 cans per case
+44	81.45	Alpine Alpne Ok Hominy Grits 40.00 OZ(Pack of 12)
+45	3.77	Mountain Delight Mazamorra Hominy Corn 20.5gr
+46	20.52	Allen's Golden Hominy (12x15.5Oz )
+47	57.35	Allen's Naturally, Golden Hominy, Can, 12/15.5 Oz
+48	68.75	Juanita's MEXICAN STYLE HOMINY 105oz (4 Pack)
+49	72.83	Juanita's Menudo Without Hominy, 25.0 Ounces (Pack of 12)
+50	25.53	Juanita's Chicken Pozole (Chicken & Hominy Soup), 29.5 oz. (Pack of 2)
+51	96.34	Lapref: Hominy, White, 108 OZ
+52	62.06	La Preferida Hominy #10 Can, 108-Ounce (Pack of 6)
+53	61.39	Goya Dry Hominy
+54	44.18	Juanitas Mexican Style  Hominy, 105-ounces (Pack of 6)
+55	66.92	La Preferida White Hominy 29 oz
+56	53.75	La Preferida Hominy Mexican Style, 29-Ounce (Pack of 12)
+58	42.39	La Preferida White Hominy, 29-Ounce (Pack of 12)
+59	29.78	Juanita's Pozole, Pork & Hominy Soup 25 Oz (Pack of 3)
+60	57.78	Bush's Best White Hominy (Case of 12)
+61	63.02	Bush's White Hominy 15.5 OZ (Pack of 24)
+62	61.81	White Hominy
+63	52.7	Always Save White Hominy 15.50 Oz
+65	52.7	Always Save Golden Hominy 15.50 Oz
+66	47.26	Teasdale Mex Hominy Wht (12x29OZ )
+67	57.35	Bean Golden Hominy (Pack of 12)
+68	4.79	Ivory Lentils, 1 lb.
+69	5.44	Garbanzo Beans, 1 lb.
+70	6.95	Juanitas Pozole 29.5 oz
+71	60.36	Quaker Old Fashioned Grits 24 oz (Pack of 12)
+72	2.75	Whole Green Peas, 1 lb.
+73	2.79	Green Split Peas, 1 lb.
+74	4.19	Canary Beans, 1 lb.
+75	32.5	Central Market Spicy Hatch Pozole 16 Oz (Pack of 3)
+76	20.75	Quaker Quick Grits - 5 Lb. Bag
+77	29.95	Quaker Quick Grits - 3/5 lb. bags
+78	9.95	Aunt Jemima Quick Grits Net Wt. 36.8 Oz
+79	49.99	Juanitas Pozole, 29.5-Ounce Unit (Pack of 6)
+80	28.82	La Costena Soup, Menudo, 29.50-Ounce (Pack of 4)

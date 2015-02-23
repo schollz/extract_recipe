@@ -1,0 +1,87 @@
+0	13.95	Idahoan Buttery homestyle flavored mashed potatoes, 3 Pound
+1	13.21	Idahoan Real Mashed Gable Carton, Premium, 52 Ounce
+3	0.98	Idahoan Mashed Potatoes, Butter & Herb, 4 Oz
+5	19.47	Idahoan Honest Earth Creamy Mash, 5.6 Pound
+6	17.98	Idahoan Mashed Potatoes Variety Bundle, 4 oz (Pack of 6) includes 1-Package of Butter & Herb Mashed Potatoes + Bacon & Cheddar Chipotle Mashed Potatoes + Four Cheese Mashed Potatoes + Buttery Golden Selects Mashed Potatoes + Italian Romano White Cheese + Roasted Garlic Mashed Potatoes
+7	11.2	Idahoan Honest Earth Flavored Mashed Potatoes, Roasted Garlic, 3.5 Ounce (Pack of 8)
+8	7.98	Hormel Microwavable Compleats Beef Steak Tips with Mashed Potatoes & Gravy 10 oz
+10	16.98	SCS Idahoan(r) Real Premium Mashed Potatoes - 3.25 Lbs.
+11	15.54	Edward & Sons Organic Mashed Potatoes, Roasted Garlic, 3.5-Ounce Boxes (Pack of 6)
+12	13.22	Idahoan Honest Earth Flavored Mashed Potatoes, Buttery Homestyle, 3.4 Ounce (Pack of 8)
+13	16.62	Idahoan Mashed Potatoes, Loaded Baked Potato, 4-Ounce Package (Pack of 12)
+14	13.0	Idahoan Mashed Potatoes, Buttery Homestyle, 4-Ounce Package (Pack of 12)
+15	14.2	Idahoan Original Mashed Potatoes, 2 Ounce (Pack of 18)
+16	16.23	Potato Pearls Excel Mashed Potatoes - 3.37 lb.
+18	22.97	Hungry Jack Potato Hungry Jack Mashed Potatoes, 15.3-Ounce (Pack of 6)
+19	6.99	Betty Crocker Mashed Potato Homestyle - Sweet Potato - 5.6 oz
+20	49.96	Backpacker's Pantry Mashed Potatoes and Gravy with Beef, 36.1 Ounce
+21	17.1	Idahoan Applewood Bacon Mashed Potatoes, 4 Ounce (Pack of 12)
+22	26.31	Idahoan Baby Reds Flavored Mashed Potatoes (10 Pack)
+23	31.99	Pillsbury Idaho Mashed Potatoes, 13.75-Ounce (Pack of 6)
+24	7.94	One 16 oz Bob's Red Mill Potato Flakes
+27	5.49	Hungry Jack Mashed Potatoes, 15.3 oz
+28	6.1	Idahoan Buttery Homestyle Mashed Potatoes - 4 oz
+29	70.49	Potato Pearls Excel Gold Mashed Potato, 31.9 Ounce -- 8 per case.
+30	30.15	Backpacker's Pantry Garlic Herb Mashed Potatoes, 29.6 Ounce
+31	27.97	Hormel Microwavable Compleats Roast Beef & Gravy with Mashed Potatoes 10 oz (Pack of 6)
+32	5.23	LC Foods Mashed Potato Mix Low Carb, Gluten Free, Wheat Free, No Sugar, All Natural, Diabetic Friendly (6 oz)
+34	29.79	Idahoan Flavored Mashed Potatoes (12 Pouches) Variety Pack
+35	24.44	Idahoan Roasted Garlic Mashed Potatoes 4 oz (Pack of 12)
+36	12.99	Betty Crocker Potato Buds Mashed Potatoes Gluten Free (2 pack - 28oz each box)
+37	26.84	Idahoan Butter & Herb Flavored Mashed Potatoes (12 Pack)
+38	8.77	Idahoan Four Cheese Mashed Potatoes 4 Oz. (3 Pack)
+39	10.99	Premium Potato Flakes, Original, Hoosier Hill Farm 1 lb. Bag
+40	9.29	Betty Crocker Sweet Potato Homemade Taste 5.6 Oz (Pack of 3)
+41	43.7	Backpacker's Pantry Chicken, Dressing, Potatoes and Stuffing, 33.6 Ounce
+42	8.47	Mountain House, Grilled Chicken Breast
+43	6.87	Idahoan Original Mashed Potatoes 26.2 oz
+44	8.95	Hormel Microwavable Compleats Roast Beef & Gravy with Mashed Potatoes 10 oz
+45	5.97	Hungry Jack Mashed Potatoes 15.3 oz
+46	10.99	Idahoan Buttery Homestyle Mashed Potatoes - 8 Pouches
+47	7.77	Idahoan Baby Reds Flavored Mashed Potatoes - 2 of 4 Oz.
+48	26.55	Idahoan Mashed Potatoes, Four Cheese, 4-Ounce Package (Pack of 12)
+49	9.3	Betty Crocker Scalloped Potatoes - 4.7 oz - 3 pk
+50	13.5	Hungry Jack Easy Mash'd Premium Homestyle Mashed Potatoes (Pack of 4)
+51	20.07	Betty Crocker Homestyle Creamy Butter Mashed Potatoes - 3.3 oz - 6 pk
+52	7.95	Idahoan, Applewood Smoked Bacon Flavored Mashed Potatoes - 2 of 4 oz Pouch
+53	29.95	Idahoan Mashed Potatoes, Butter and Herb, 4 Ounce (Pack of 12)
+54	60.45	True Instant Mashed Potatoes no.10 Can, 6 Cans Per Case, 5.44 Pound
+55	23.47	Idahoan Instant Mashed Potatoes, 4.09 Ounce (Pack of 10)
+56	8.59	Instant Potato Flakes - 1.5 Pound Can
+57	25.4	Idahoan Mashed Potatoes Microwavable Four Cheese, 1.5 OZ (Pack of 12)
+58	39.2	Backpacker's Pantry Bacon Cheddar Mashed Potatoes, 36 Ounce
+59	7.29	Garlic Red Skinned Mashed Potatoes
+60	30.39	Idahoan Mashed Potatoes, Roasted Garlic, 4-Ounce Package (Pack of 12)
+61	36.17	Osem Heat & Serve, Mashed Potatoes (Kosher for Passover), 4.6-Ounce Packages (Pack of 12)
+62	11.48	Betty Crocker Real Mashed Potatoes 6 Pack Value Box Assortment
+63	5.28	Idahoan Original Mashed Potatoes 13.75
+64	1.47	Idahoan Romano Cheese Flavored Mashed Potatoes, 4oz
+65	10.6	Idahoan Bacon & Cheddar Chipotle Flavored Mashed Potatoes (3) 4oz Packets
+66	19.55	Idahoan Microwavable ROASTED GARLIC MASHED POTATOES 1.5oz (12 Cups)
+67	4.99	Idahoan Four Cheese Mashed Potatoes 4 oz
+68	11.24	Organic Mashed Potatoes, Homestyle 3 Pack (3.5 Oz Ea)
+69	31.53	Hormel Chicken Breast & Gravy with Mashed Potatoes, 10-Ounce Microwavable Bowls (Pack of 6)
+71	24.61	Bob's Red Mill Potato Flakes, 16-Ounce (Pack of 4)
+72	66.99	Instant Potato Flakes - 40 Pound Bag
+73	10.99	Organic Mashed Potatoes, Roasted Garlic 3 Pack (3.5 Oz Ea)
+77	44.79	Idahoan Mashed Potatoes Microwavable Buttery Homestyle 1.5 OZ (Pack of 24)
+78	34.97	Betty Crocker Creamy Butter Mashed Potatoes (Case of 12)
+79	24.24	Idahoan Four Cheese Mashed Potatoes 4 oz (Pack of 12)
+80	1.68	Idahoan Baby Reds Flavored Mashed Potatoes (4 Oz Package)
+81	18.89	Idahoan Buttery Golden Selects Flavored Mashed Potatoes (10 Pack)
+82	57.35	Basic American Foods Potato Pearls Excel Redskin Mashed Potato, 32.6 Ounce -- 8 per case.
+83	28.95	Williams- Sonoma Mashed Potato Seasoning[Parmesan, Garlic, Herbs] 2.3 oz
+85	6.71	Idahoan Butter & Herb Mashed Potatoes 4 oz
+86	26.79	Idahoan Loaded Baked Potatoe Microwaveable Cups, Flavored Mashed Potatoes, 1.5 oz. (pack of 12)
+87	16.48	Idahoan(r) Real Premium Mashed Potatoes - 3.25 Lbs.
+88	4.55	Idahoan Loaded Baked Flavored Mashed Potatoes 4 oz
+90	50.42	Idaho Spuds Mashed Potatoes, 12 - 13.3-Ounce Boxes
+91	6.98	Hungry Jack Instant Mashed Potatoes 26.7 oz
+92	17.27	Idahoan Mashed Potatoes Variety Bundle, 4 oz (Pack of 6) includes 1-Package of Butter & Herb Mashed Potatoes + Bacon & Cheddar Chipotle Mashed Potatoes + Four Cheese Mashed Potatoes + Loaded Baked Mashed Potatoes + Baby Reds + Roasted Garlic Mashed Potatoes
+93	19.99	Betty Crocker Creamy Butter and Roasted Garlic Mash Potatoes Variety - Pack of 6
+94	18.89	Idahoan Italian Romano White Cheese Mashed Potatoes (12 Pack)
+95	16.98	Truffled Mashed Potatoes
+96	24.99	Chef's Quality: Mashed Potatoes Complete Instant 5.43 Lb.
+97	29.89	Idahoan Mashed Potatoes, 2-Ounce Bags (Pack of 24)
+98	10.19	Idahoan, Applewood Smoked Bacon Flavored Mashed Potatoes, 4oz Pouch (Pack of 3)
+99	12.46	Gerber Graduates Lil Meals Mashed Potatoes with Vegetables and Cheese, 6 Ounce Packages, 6 Count

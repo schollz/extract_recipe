@@ -1,0 +1,84 @@
+0	13.95	Premium Tonic Water Sample Pack - Set of 6
+1	17.99	The London Chocolate Company Gin and Tonic White Chocolate Truffles 4.2oz/120g
+2	14.0	Gin-Gins Original Chewy Ginger Candy 4.5 oz (Pack of 3)
+4	14.0	Ginger People Gin Gins Variety, Spicy Apple, Hot Coffee, Peanut and Original, 1lb Bag
+6	10.43	Gin Gins Spicy Apple Chewy Ginger Candy 3 Oz Bag Ginger Chews (Pack of 3)
+8	7.05	The Ginger People Gin Gins Ginger Spice Drops, 3.5 Ounce
+9	48.47	The Ginger People Gin Gins Super Strength Ginger Caramel Candy, 11-Pound Bag
+10	27.5	The Ginger People Gin Gins Original Chewy Ginger Candy, 3 lb Bag in a Gift Box
+12	15.0	The Ginger People Gin Gins Original Chewy Ginger Candy, 1 lb Bag in a Gift Box
+14	23.08	Gin Gins Super Strength Caramel Ginger Candy, 2lb Bulk Bag
+15	5.49	Ginger People - Gin Gins Double Strength Ginger Hard Candy - 3 oz.
+16	5.09	Ginger People Gin Gins Hard Candy Bag
+17	8.5	The Ginger People Gin Gins Original Chewy Ginger Candy 3 Oz (pack of 2)
+18	22.5	YaY! It's Raining Chewy Ginger People Candy! 2 Pounds of Chewy Gin Gins: Original, Peanut, Hot Coffee, and Spicy Apple Flavors in a Gift Box
+19	16.95	Gin Gins Double Strength Hard Ginger Candy 6PK
+20	54.46	The Ginger People Gin Gins Hard Candy, 3-Ounce Bags (Pack of 24)
+21	28.13	The Ginger People Gin Gins BOOST Ultra Strength Ginger Candy, 1.1-Ounce Boxes (Pack of 24)
+22	14.01	The Ginger People Gin Gins Chewy Ginger Candy 4-Flavor Variety: One 3 oz Bag Each of Original, Peanut, Hot Coffee, and Spicy Apple in a Gift Box
+23	51.11	The Ginger People Gin Gins Hard Candy, 11-Pound Bag
+24	25.0	Ginger People Gin Gins Variety, Spicy Apple, Hot Coffee, Peanut and Original, 2lb Bag
+25	9.95	Ginger People Gin Gins Boost Ultra Strength Ginger Candy - 4.5 oz.
+26	42.52	The Ginger People Gin Gins BOOST Super Strength Ginger Candy, 4.5-Ounce Boxes (Pack of 12)
+27	54.99	Still Spirits Dry Gin Essence (Pack of 10)
+28	22.5	The Ginger People Gin Gins Hot Coffee Chewy Ginger Candy, 2 lb Bag in a Gift Box
+29	15.0	The Ginger People Gin Gins Spicy Apple Chewy Ginger Candy, 1 lb Bag in a Gift Box
+30	20.01	The Ginger People Gin Gins Super Strength Ginger Caramel Candy, 2 lb Bag in a Gift Box
+31	5.59	Ginger People Original Ginger Chews 3oz Bag
+32	14.95	Monin Elderflower Syrup 750ml Bottle
+33	15.0	The Ginger People Gin Gins Super Strength Ginger Caramel Candy, 1 lb Bag in a Gift Box
+35	15.0	The Ginger People Gin Gins Hot Coffee Chewy Ginger Candy, 1 lb Bag in a Gift Box
+36	22.5	The Ginger People Gin Gins Power Pack: One 2 lb Assorted Bag of Original Chewy Ginger Candy, Double Strength Hard Ginger Candy, and Super Strength Ginger Caramel Candy in a Gift Box
+37	55.15	Gin Gins(r) Original Chewy Ginger Candy Box 4.5oz (Pack of 12)
+38	19.39	Gin Gins Crystallized Ginger Candy Bag 6pk
+39	23.76	Gin Gins Ginger Spice Drops 6 Pack (6 Bags Ea)
+41	25.0	The Ginger People Gin Gins Spicy Apple Chewy Ginger Candy, 2 lb Bag in a Gift Box
+42	12.0	Gin Gins Double Strength Hard Ginger Candy Box 3 Pack (4.5 Oz Ea)
+43	2.74	Gin Gins Chewy Ginger Candy Spicy Apple 3 Ounces
+45	77.51	Gin Gins Original Chewy Ginger Candies 11 Pounds
+46	11.49	White Whale The Filthy Liar Bold Gin Cocktail Mixer - 8 oz
+47	15.17	Glass Fever-Tree Drink Gift Pack
+48	5.95	Ginger People Gin Gins Ginger Caramel Candy -- 3 oz
+49	15.0	The Ginger People Gin Gins Double Strength Hard Ginger Candy, 1 lb Bag in a Gift Box
+50	29.99	The Ginger People Gin Gins Chewy Ginger Candy Travel Pack, Original, 1.6 Ounce (Pack of 12)
+51	28.29	The Ginger People Gin Gins Chewy Ginger Candy, Travel Pack, 1.6 oz, 24 ct
+52	62.49	Gin Gins Super Strength Ginger Caramel Candies (11 Lb)
+53	15.0	The Ginger People Gin Gins Chewy Ginger Candy 4-Flavor Variety: One 1 lb Assorted Bag of Original, Peanut, Hot Coffee, and Spicy Apple in a Gift Box
+54	2.39	Gin Gins Peanut Chewy Ginger Candy By The Ginger People
+55	50.0	Gin Gins Variety Ginger Chews (Original, Apple, Coffee, & Peanut) 5lb Bag
+56	43.24	The Gin Gins Peanut Chewy Ginger Candy , 3-Ounce Bags (Pack of 24)
+57	2.39	Ginger People Gin Gins Ginger Caramel Candy -- 3 oz by Ginger People BEAUTY
+58	39.59	Prestat London Gin Truffles (200g)
+59	9.99	Cacao Sampaka Milk Chocolate Gin and Tonic
+60	13.5	Fee Brothers Gin Barrel-Aged Orange Bitters 5oz
+63	5.95	Maggie Gin's Sweet & Sour Sauce
+64	15.0	Organic Diced Crystallized Ginger, 16 Ounce
+65	17.5	The Ginger People Gin Gins Power Pack: Two 3 oz Bags Each of Double Strength Hard Ginger Candy and Super Strength Ginger Caramel Candy in a Gift Box
+66	12.01	The Ginger People Gin Gins Spicy Apple Chewy Ginger Candy, 3 oz Bags in a Gift Box (Pack of 3)
+67	14.0	Sliced Crystallized Ginger from Fiji, 16 Ounce
+68	16.99	Gin Gins Original Chewy Ginger Candy 6 Pack (3 Oz Ea)
+71	5.95	Maggie Gin's Stir Fry Sauce
+72	22.6	Ginger People Gin Gins Double Strength Gluten Free Ginger Candy, 3 Oz (Pack of 4)
+73	4.5	Ginger People Gin Gins Chewy Ginger Candy Original -- 3 oz
+74	54.39	The Ginger People Gin Gins BOOST Ultra Strength Ginger Candy, 3-Ounce Bags (Pack of 24)
+75	22.4	Gin Extract, Natural Flavor Blend - 4 Ounce Bottle
+76	11.42	Faeries Finest Juniper Berries, 3.20 Ounce
+77	15.0	The Ginger People Gin Gins Power Pack: One 3 oz Bag Each of Original Chewy Ginger Candy, Double Strength Hard Ginger Candy, and Super Strength Ginger Caramel Candy in a Gift Box
+79	14.0	Diced Crystallized Ginger From Fiji, 16 Ounce
+80	5.25	The Ginger People Peanut Ginger Chews 3-Ounce Bag
+81	83.49	Ginger People Gin Gins Ginger Candy , 11 pound -- 1 each
+84	22.95	The Mini Asian Gourmet Gift Box
+85	48.97	The Ginger People Spicy Apple Ginger Chews, 3-Ounce Bags (Pack of 24)
+86	15.0	The Ginger People Gin Gins Super Strength Ginger Caramel Candy, 3 oz Bags in a Gift Box (Pack of 3)
+87	4.45	Juniper Berries-4oz-Bulk Juniper Spice Gin Flavoring Spice
+88	15.0	The Ginger People Gin Gins Hot Coffee Chewy Ginger Candy, 3 oz Bags in a Gift Box (Pack of 3)
+89	42.52	The Ginger People Gin Gins Hard Candy, 4.5-Ounce Boxes (Pack of 12)
+90	12.99	The Ginger People Ginger Chews Original Chewy Ginger Candy 5 oz (141g) Bag
+91	59.09	Soda Gin Rtbr 0 Cal Btl 4/12 FO (Pack of 6)
+93	8.34	Mrs Bridges Preserve with Sloe Gin, Blackcurrant, 12 Ounce
+94	14.0	Chimes Organic Crystallized Ginger, 1 Pound (16 Oz Bulk)
+95	3.59	Fever Tree Elderflower Tonic Water - 16.9 oz
+96	25.0	The Ginger People Gin Gins Double Strength Hard Ginger Candy, 2 lb Bag in a Gift Box
+97	174.72	The Ginger People Gin Gins Hard Candy, 3-Ounce Bags ( Value Bulk Multi-pack)
+98	262.08	The Ginger People Gin Gins Hard Candy, 3-Ounce Bags ( Value Bulk Multi-pack)
+99	58.91	Ginger People Gin-Gins Hard Candy - 3 Oz - (Pack of 24)

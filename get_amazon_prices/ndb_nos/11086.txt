@@ -1,0 +1,78 @@
+0	12.89	Eclectic Institution Beet Juice 90 Caps
+1	9.06	Organic Beet Root Powder 4 Oz.
+2	22.73	Frontier Natural Products Organic Beet Powder -- 16 oz
+5	26.3	Beaver Kosher Beet Horseradish, 4-ounce Jars (Case of 12)
+7	38.75	Pure Clean Powder Nitrate-Rich Beet Juice Powder 30-Beet Bulk
+8	6.79	Othentic All Natural Organic Pickled Baby Beets, 10.5 oz
+9	38.44	Amazing Grass Green Superfood, Original - 60 srvgs
+11	18.0	Uji Macha Green Tea sweetened (Beet Suger)
+13	9.99	Preservation and Co. Balsamic Beet Slices Mild Pickled Red Beets 16 Oz. Jar
+16	56.95	ReZealiant Living Feast (300g powder)
+17	20.06	Eden Foods 100% Organic Whole Grain Vegetable Shells 12 oz. (Pack of 6)
+18	5.5	Beet - Apple Crackers with Orange and Dill
+19	34.92	Zipfizz Healthy Energy Drink Mix, Berry, 20-Tubes
+21	48.68	Micro Greens - Bull's Blood - 4 x 4 oz
+22	48.68	Micro Greens - Merlot Mix - 4 x 4 oz
+23	60.59	Tiny Vegetables - Beet - 4 x 50 Count
+24	77.43	Micro Greens - Bull's Blood - 4 x 8 oz
+26	17.0	Libby's Gourmet Gold & White Whole Kernel Corn, 15 Ounce Cans (Pack of 12)
+27	54.99	Amazing Grass - Berry Green SuperFood Powder - 60 Servings
+28	37.19	Libby's Gourmet Whole Green Beans, 14.5-Ounce Cans (Pack of 12)
+29	39.95	Orgran Sweet Vanilla Bean Meal Replacement Nutritional Shake, 11 Ounce - 12 per pack -- 1 each.
+31	16.47	Mahamosa Nature Blend Tea 4 oz, Loose Leaf Herbal Herb Tea Blend (with beet root, apple pieces, hibiscus blossoms, ginger pieces, orange peels, lemon grass, licorice roots, ginseng root, safflowers, peppermint, rosemary leaves)with
+32	6.92	Faeries Finest Chervil, 0.80 Ounce
+33	51.49	Orgran Iced Cafe Mocha Meal Replacement Nutritional Shake, 11 Ounce - 12 per pack -- 1 each.
+34	71.37	Knudsen Organic Low Sodium Very Veggie Juice, 32 Ounce -- 12 per case.
+36	8.99	Organic Supreme Greens 4 oz
+37	196.62	SunSpire Milk Chocolate SunDrops, 25 Pound Box
+38	26.51	Frontier Natural Products BG13139 Frontier Beet Powder - 1x1LB
+39	32.24	Zipfizz Healthy Energy Mix, Tubes, Pink Lemonade 20 ea
+40	65.95	ReZealiant Living Feast Turbo Charged 300g
+41	39.95	Lawrys Mexican Rice Seasoning Mix - 11 oz. package, 6 per case
+43	29.45	Mamma Chia Squeeze Vitality Snack, Strawberry Banana, 3.5 Ounce (Pack of 8)
+44	23.56	Madre Labs, CocoCardio, 225 g (7.93 oz)
+45	77.43	Micro Greens - Merlot Mix - 4 x 8 oz
+46	2.99	Claeys Root Beer and Wild Cherry Set (1 - 6oz Bag of Each)
+47	44.95	Orgran Vanilla Bean Meal Replacement Nutritional Shake, 11 Ounce -- 12 per case.
+48	22.55	Eden Organic Small Vegetable Shells, 60% Whole Grain, 12-Ounce Boxes (Pack of 6)
+49	7.22	Purely American Saratoga Springs Rainbow Pasta Salad, 10 Ounce
+52	6.25	Purely American Lights of Chesapeake Pasta Salad Mix, 10 Ounce
+53	7.35	Organic Amaranth Grain 1 lb by OliveNation
+54	43.95	Torino Designer Pasta Rainbow Farfalline, 8.8-Ounces Boxes (Pack of 4)
+56	7.25	Mild Pickled Beets (16 oz Jar)
+57	6.62	Purely American Lights of Lake Michigan Pasta Salad, 11 Ounce
+58	26.24	Frontier Bulk Beet Powder, ORGANIC, 1 lb. package
+59	15.0	the girl & the fig Pickling Spices Trio
+60	19.99	Eden Foods Vegetable Alphabets (3x16 oz.)
+62	59.9	Progresso Soup GARDEN VEGETABLE Vegetable Classics 18.5oz (18 Cans)
+63	14.55	Eden Foods, Organic Pasta, Vegetable Alphabets, 16 oz
+64	32.54	Eden Organic Kamut Vegetable Spirals, 12-Ounce Packages (Pack of 6)
+65	9.69	Garlic Gold Classic Balsamic Vinaigrette -- 8.44 fl oz
+66	40.99	Libby's Gourmet Baby Whole Carrots, 14.5-Ounce Cans (Pack of 12)
+67	18.8	Ager Sugar Ginger Jelly [Kanten Jelly] Kyoto Sewwt
+68	49.0	Torino Designer Pasta Farfalla Primavera, 8.8-Ounce Bags (Pack of 8)
+69	6.95	Cherry Blossom Green Tea
+70	25.74	Libby's Gourmet Whole Green Beans, 14.5-ounce Cans (Pack of 6)
+71	28.71	Libby's Gourmet Whole Green Beans, 14.5-ounce Cans (Pack of 8)
+73	39.99	Vitacost - Earth Blends Beet Juice Powder - Vegan and Non-GMO -- 5.3 oz (150 g)
+74	14.11	Eden Foods Vegetable Alphabets (3X16 Oz.)
+75	31.45	Faeries Finest Chervil, 0.40 Ounce (Pack of 12)
+76	72.99	Celifibr Gluten Free Vegetable Medley Soup Cubes (24x2oz)
+77	41.72	Very Veggie Organic Juice 8 Ounce
+79	13.99	Nakano Original Seasoned Rice Vinegar -- 12 fl oz
+80	28.65	Organic Amaranth Grain 5 lbs by OliveNation
+81	28.94	Eden Foods Organic Vegetable Ribbons Pasta -- 8 oz
+82	12.95	Organic Amaranth Grain 2 lbs by OliveNation
+83	18.8	Japanese-style Strawberry Butter Cream Sand Cake From Kyoto
+84	32.91	Eden Foods, Organic Pasta, 16 oz (453 g)Alphabets, 16 oz. (453 g) (6 X 16 oz.)
+85	70.05	Beer Nuts Bar Mix, 3.25 Ounce -- 48 per case.
+86	49.99	Nutrition53 Lean1 Shake - Chocolate - 1.3 lbs
+87	41.99	Eden Organic Small Vegetable Shells 60% Whole Grain 12-Ounce Boxes - (Pack of 6)
+88	27.25	Eden Foods Whole Kamut Spirals ( 6x12 OZ)
+89	12.35	Eden Foods Organic Pasta Small Vegetable Shells -- 12 oz
+90	4.35	Organic Amaranth Grain 8 oz by OliveNation
+92	21.9	Progresso Soup GARDEN VEGETABLE Vegetable Classics 18.5oz (5 Cans)
+93	50.17	Living Wellbeing Super Blend 50g
+95	13.9	Progresso Soup GARDEN VEGETABLE Vegetable Classics 18.5oz (3 Cans)
+96	21.99	Rainbow Light Protein Energizer - Chocolate - 11 oz
+97	20.82	Albanese Gummi Bears, 12 Flavor 9 Oz. Case Of 6

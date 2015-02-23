@@ -1,0 +1,80 @@
+3	47.5	Red Bull Energy Drink 8.4-Ounce (Pack of 24)
+4	10.15	Pussy Natural Energy Drink (250ml - Pack of 4)
+5	45.96	Red Bull Red Edition, 8.4 oz Cans - 4 Count (Pack of 6)
+6	36.0	Red Bull Editions, Variety 12 pack, 8.4 oz. cans
+7	44.99	Red Bull 24pack 8.4oz Sugarfree Energy Drink & 8GB Blue Text USB SurfDrive
+8	52.0	Red Bull Red Edition, 8.4 oz  Cans (Pack of 24)
+9	24.99	Red Bull LIMITED SUMMER EDITION Energy Drink - 12-Ounce Cans - 2-Count - Tropical Fruit Flavor
+10	5.0	Red Bull Theoplex-l Energy Drink 100ml.
+11	52.0	Red Bull Blue Edition, 8.4 oz Cans (Pack of 24)
+12	44.99	Red Bull 24pack 8.4oz Original Energy Drink & 8GB Yellow Plaid USB SnowDrive
+13	5.0	Thai Red Bull Krating Daeng Original Energy Drink 150ml
+15	44.87	Red Bull Sugar Free, 8.4-Ounce Cans (Pack of 24)
+16	33.56	Energy Drink Red Bull or Kratingdaeng From Thailand Original 150ml. Pack of 6
+17	24.0	Red Bull The Blue Edition Energy Drink - 4 CT
+18	7.26	Blood Energy Potion
+19	340.99	Red Bull Energy Drink, 8.4 oz, 24-count (Pack of 8)
+21	24.0	Red Bull The Red Edition Energy Drink - 4 CT
+24	48.87	Red Bull Energy Drink, Sugar Free, 8.4 oz, 24 ct
+25	14.25	Red Bull Energy Drink, 8.4 Oz, 4-count
+26	22.9	8 Pack - Red Bull Energy Drink - 12oz.
+27	17.64	Starbucks Refreshers Variety Pack, 12 Ounce Slim Cans, 12 Pack
+29	180.0	Red Bull Energy Drink 48/12 oz - TJ95
+30	42.95	20 Pack - Red Bull Energy Drink - The Silver Edition - 8.4oz.
+32	12.0	Red Bull Total Zero Energy Drink, 8.4 oz, 4pk(Case of 2)
+33	106.25	Red Bull Energy Drink - 24/8.3 Oz. - Case Pack of 2
+34	30.0	Krating Daeng 10-pack Original Red Bull Product of Thailand
+35	25.49	Red Bull Sugar Free Energy Drink, 33.6 fl oz(Case of 2)
+36	35.28	Monster Energy Drink, Absolutely Zero, 16 Ounce (Pack of 24)
+37	21.42	Red Bull (Pack of 6)
+38	30.0	Red Bull Total Zero Energy Drink 8.4 Fl Oz 4 Ct (Pack of 2)
+42	50.0	RED BULL SUGARFREE 8.3 OZ / 24PK
+43	8.99	Red Bull Energy Drink (473ml)
+44	7.19	Red Bull Energy Drink (355ml)
+45	24.95	9 Pack - Red Bull Energy Drink - Sugar Free - 12oz.
+46	29.99	Red Bull the Silver Edition Energy Drink, 2.50 Pound (Pack of 6)
+47	85.73	Red Bull The Blue Edition Energy Drink, 8.4 fl oz, 4 pack (Case of 9)
+48	4.18	Fizz Saver Refrigerator 2-Liter Soft Drink Dispenser
+49	6.88	Cocaine Mild Flavor Energy Drink Can 8.4 oz. - Same Caffeine
+51	25.0	Thai Red Bull Krating Daeng Original Energy Drink 150ml (Pack of 6)
+53	53.95	16 Pack - Red Bull Energy Drink - 12oz.
+54	53.99	Red Bull The Blue Edition Energy Drink 12 x 250ml
+55	180.0	Red Bull Energy Drink, 8.4-Ounce Cans 24pk (4 Pack)
+56	15.99	Hansen's Natural Energy, Original, 8.3 Ounce Cans (Pack of 12)
+57	24.68	Sugar Free Red Bull ( Pack of 6)
+58	25.95	8 Pack - Red Bull Energy Drink - Sugar Free - 12oz.
+60	107.99	Red Bull Sugar Free Energy 24/8.3 OZ - CASE PACK OF 2
+62	95.68	Red Bull Energy Drink, Sugarfree, 8.4 Ounce Can, Pack of 48
+63	78.95	30 Pack - Red Bull Energy Drink - The Silver Edition - 8.4oz.
+64	85.73	Red Bull Sugar Free Energy Drink, 4 Pack (Case of 9)
+65	37.0	9 Pack - Red Bull Energy Drink - 12oz.
+66	5.39	Red Bull Energy Drink Sugar Free (250ml)
+67	64.5	Red Bull: W/ Taurine Energy Drink, 12 Ct(Case of 2)
+69	85.73	Red Bull The Red Edition Energy Drink, 8.4 fl oz, 4 pack (Case of 9)
+70	34.19	Red Bull Energy Drink Sugar Free (8x250ml)
+71	39.99	Red Bull The Blue Edition Energy Drink, 8.4 fl oz, 4 pack(Case of 2)
+72	39.99	Red Bull The Silver Edition  Energy Drink, 8.4 fl oz, 4 pack(Case of 2)
+74	5.39	Red Bull Energy Silver Edition (250ml)
+75	15.47	Red Bull Sugar Free, 8.4 oz, (4 cans)
+76	149.99	Red Bull, Special Red Edition, 48 Cans With Each 0.25 Litre From Austria, Original Red Bull With Cranberry Taste
+77	32.9	8 Pack - Red Bull Energy Drink - Sugar Free- 16oz.
+78	37.2	Red Bull: Sugar Free Energy Drink, 12 Fl Oz(Case of 2)
+81	71.52	Red Bull Energy Drink,  12 ct,  8.4 oz
+82	149.99	Red Bull, Special Silver Edition, 48 Cans With Each 0.25 Litre From Austria, Original Red Bull With Citrus Taste
+83	75.68	Red Bull Energy Drink
+84	25.99	Lotta Bull Red Dirt Championship BBQ Seasoning & Rub 12-oz
+85	149.99	Red Bull, Special Blue Edition, 48 Cans With Each 0.25 Litre From Austria, Original Red Bull With Blueberry Taste
+86	9.23	Thai Red Bull Krating Dang Original Energy Drink 150ml
+87	5.0	Red Bull (Kratingdaeng) Energy Original Drink 150ml.
+88	28.84	Red Bull Energy Drink, 12 fl oz(Pack of 4)
+89	28.84	Red Bull Sugar Free Energy Drink With Taurine, 12 fl oz(Pack of 4)
+90	28.0	MILITARY ENERGY GUM (MEG) - Military Spec Formula - Used in Military Rations - ARCTIC MINT - TRAY (24 packs - 5pcs/pk) 100mg caffeine/pc
+91	5.0	Energy Drink Red Bull or Kratingdaeng From Thailand Original 150ml.
+92	49.9	30 Pack - Red Bull Sugar Free Energy Drink - 8.4oz.
+93	32.68	Red Bull Energy Drink, Sugar Free 8.4 Fl Oz (Pack of 2)
+94	40.5	Lactacyd Intimate Cleansing Fresh Radience (150ml.)
+95	39.99	Red Bull The Red Edition Energy Drink, 8.4 fl oz, 4 pack(Case of 2)
+96	21.0	Red Bull: "Daniel Ricciardo" Energy Drink * 8.45 Fluid Ounce (250ml) Cans (Pack of 4) * [ Italian Import ]
+97	5.39	Red Bull Energy Red Edition (250ml)
+98	17.99	Red Bull Energy Blue Edition (4x250ml)
+99	126.99	Red Bull Energy Drink, 12-Ounce Cans (Pack of 24) by Red Bull [Foods]

@@ -1,0 +1,79 @@
+1	20.0	Virgil's Cream Soda - 24 per pack
+2	19.99	A&W Vanilla Creme Soda, 12 oz Can (Pack of 24)
+3	11.45	A&W Cream Soda 12oz Cans (Pack of 24)
+4	9.79	WBC/Goose Island Craft Soda Vanilla Cream, 12 Ounce (Pack of 4)
+7	9.99	Virgil's Cream Soda - 4 per pack (Pack of 2)
+8	14.48	Dad's Old Fashioned Cream Soda 1 Liter (2 Pack)
+9	35.99	Virgil's Sampler Case of 24-12 ounce bottles - Six 4 packs: Root Beer, Cream Soda, Black Cherry Cream Soda, Real Cola, Orange Cream Soda and Dr. Better
+10	56.5	IBC Cream Soda 6 ct - 4 Pack
+11	32.53	Dr. Brown's Cream Soda (Case of 24) - 12 Oz Cans
+12	4.56	Cream Soda
+14	10.94	A&W Cream Soda
+15	34.1	Dr. Brown Soda Cream Soda Diet 6 pack, 12-ounces (Pack of4)
+17	24.99	Homebrew Cream (Soda) Concentrated Extract, 2-Ounce Boxes (Pack of 3)
+18	20.47	Hansen's Cherry Vanilla Creme Soda, 12 Ounce Cans (Pack of 24)
+19	44.99	Sprecher CREAM SODA -  "From the Cream City of Wisconsin", 16-Ounce Glass Bottle (Pack of 12)
+20	18.99	Big Red Cream Soda - 12/12 oz
+21	7.5	Barq's Red Creme Soda 12 (12oz) Cans
+24	34.99	A&W Old Fashioned Ice Cream Root Beer Float Soda Set for the Holidays
+25	22.03	Hansen's Diet Cherry Vanilla Creme Soda, 12 Ounce Cans (Pack of 24)
+26	30.94	Henry Weinhard's Gourmet Vanilla Cream Soda (12 pack)
+27	6.0	Dum Dum Pops 1 lb tub Cream Soda
+28	39.99	7-UP A&W Diet Cream Soda Soft Drink, 12-Ounce (Pack of 24)
+29	28.0	Thomas Kemper Vanilla Cream Soda, 6pk
+30	10.15	WBC/Goose Island Craft Soda Orange Cream, 12 Ounce (Pack of 4)
+31	49.0	Virgil's Cream Soda - 24 per pack (Pack of 2)
+33	26.66	Canfield's Soda Chocolate Fudge Diet,  6-Count(Pack of 4)
+34	24.99	Virgil's Black Cherry Cream Soda ( 6X4/12 Oz)
+35	12.04	Jelly Belly Shimmer Pearlescent Jewel Off White Cream Soda Jelly Beans 1LB Bag
+38	17.0	DRY Soda Discovery Pack, 12 Ounce Cans (Variety Pack of 12)
+40	5.0	Virgil's Rootbeer - 4 per pack (Pack of 3)
+42	8.0	Gnome Soda Extracts, Old Fashioned Vanilla Cream Soda
+43	19.0	Soda Fountain Malted Milk Powder 2.5 Lb. (Single) - Malt Powder for Ice Cream and Baking - Made in Wisconsin
+44	25.45	Dr. Brown's Cream Soda, 33.8000-ounces (Pack of 12)
+45	23.66	Jones Soda Candy Orange & Cream Carbonated Candy, 0.89-Ounce Tins (Pack of 12)
+46	66.62	Jelly Belly Jelly Bean, Jewel Cream Soda, 10 Pound
+47	23.99	Sprecher Cream Soda 16Oz 4 Pack
+48	10.59	Zevia Zero Calorie Soda - Cream - 12 oz - 6 pk
+49	10.95	Old-Fashioned Cream Soda -Soda Mix
+50	30.25	Jones Cream Soda, 12 Ounce - 4 per pack -- 6 packs per case.
+51	10.95	Orange Cream Soda - Soda Mix
+52	25.99	7 UP A&W Cream Soda Soft Drink, 20-Ounce (Pack of 24)
+53	7.79	Jelly Belly A&W(r) Cream Soda Jelly Beans 1LB (Pound Bags)
+54	19.5	Stewart's Fountain Classics Soda, Orange 'N Cream , 12 Fl. Oz, (Pack of 6)
+55	32.99	Sioux City CREAM SODA -  "The creamy taste of the Wild West", 12-Ounce Glass Bottle (Pack of 12)
+57	17.99	Virgil's Black Cherry Cream Soda - 4 per pack
+58	27.47	Stewart's Fountain Orange 'N Cream Classics Soda (Pack of 2)
+59	12.99	Hoosier Hill Farm Double Active Baking Powder Aluminum Free 2 lb
+61	89.38	Frostie Blue Cream Soda, 12 Fl Oz Glass Bottle (Pack of 24)
+62	43.0	Jelly Belly Shimmer Pearlescent Jewel Off White Cream Soda Jelly Beans 5LB Bag
+63	11.35	Waist Watcher Soda, Diet, Vanilla Cream , 144 Fl. Oz, (Pack of 2)
+64	20.67	DaVinci Gourmet Classic Syrup, Irish Cream, 25.4-Ounce Bottles (Pack of 3)
+65	60.0	Stewart's Fountain Classics Soda, Diet, Orange 'N Cream , 48 Fl. Oz, (Pack of 3)
+66	8.99	A&W Cream Soda Jelly Belly - 16 oz
+67	49.99	Frostie BLUE CREAM SODA -  "The Blue Is Good For You", 12-Ounce Glass Bottle (Pack of 12)
+68	5.63	Disney&copy; Frozen Jelly Bean 1 oz Bag - 3 Pack
+69	36.99	Big Red Cream Soda 2 12pk
+70	28.99	Virgil's Soda Cream Orange 4Pk 48 FO (Pack of 6)
+71	5.99	UCC Mango Cream Soda 16.5 oz
+72	23.05	Dr Brown Cream Diet Soda, 12 Ounce - 6 per pack -- 4 packs per case.
+73	42.0	Soda Shaq Orange Cream Soda 23 Oz (24 Pack)
+74	49.99	Sioux City ORANGE CREAM SODA - "Like a Wild West Creamsicle", 12-Ounce Glass Bottle (Pack of 12)
+75	29.99	DAD'S BLUE CREAM SODA - 12 Ounce bottles - (Pack of 6)
+76	31.99	Jones Cream Soda (6 bottles)
+77	48.4	Virgils Soda Cream Zero 4Pk 48 Fo (Pack of 6)
+78	30.02	A&W Diet Cream Soda 12 Oz (Pack of 12)
+79	32.99	Dad's CREAM SODA LONGNECKS - "You've had the red; now try the brown!", 12-Ounce Glass Bottle (Pack of 12)
+81	29.99	Flying Cauldron Butterscotch Beer - (12 Pack)
+82	46.48	(Retro) Frostie Blue Cream made with Real Cane Sugar 12 pack
+83	18.6	Foxon Park, Cream Soda, 12 oz. Bottle (Case of 12)
+84	42.0	Soda Shaq Blueberry Cream Soda 23 Oz (24 Pack)
+85	29.99	Canada Dry Vanilla Cream Soda 20 Oz (12 Pack)
+86	28.99	Fitz's CREAM SODA OF St. LOUIS MISSOURI - "It's creamy under the friendship arch", 12-Ounce Glass Bottle (Pack of 12)
+87	15.99	Cicero Beverage Company Candied Bacon Cream Soda
+90	21.87	7 UP A&W Cream Soda Soft Drink, 67.63-Ounce (Pack of 8)
+91	32.99	Henry Weinhard's BLACK CHERRY CREAM SODA  -  Henry makes better soda than beer, 12-Ounce Glass Bottle (Pack of 12)
+92	42.0	Soda Shaq Strawberry Cream Soda 23 Oz (24 Pack)
+95	22.69	Big Red Cream Soda 12 - 12 oz Cans
+97	24.0	Virgil's Black Cherry Cream Soda - 4 per pack (Pack of 2)
+98	26.39	Zevia All Natural Cream Soda, 16 Ounce -- 12 per case.

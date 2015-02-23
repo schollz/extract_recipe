@@ -1,0 +1,74 @@
+0	13.17	Bob's Red Mill Semolina Pasta Flour, 24-Ounce (Pack of 4)
+1	5.59	Spicy World Semolina, 2 Pound Bag
+2	9.75	Caputo Semola Di Grano Duro Rimaninata Semolina Flour 1 kg Bag
+3	7.28	Melissa Fine Semolina
+4	7.47	Melissa Coarse Semolina
+6	14.99	Molino Antimo Semolina Semola Flour (2 bags)
+8	28.74	Hodgson Mill Semolina Pasta Flour, 2-Pounds (Pack of 6)
+9	25.0	Spicy World Semolina, 2-Pound Bags (Pack of 6)
+11	3.99	Organic Semolina Uvelka 700 G
+12	13.89	Bob's Red Mill Semolina Pasta Flour, 24 oz, 2 pk
+13	23.39	Bob's Red Mill Flour Semolina, 24-ounces (Pack of4)
+14	2.99	Antimo Caputo Italian Superfine "00" Farina Flour 2.2 lb Bag
+15	69.99	Semolina Flour - 50 Pound Bag
+16	11.0	General Mills Semolina flour #1 Enriched - 7 lbs - 112 Ounces
+17	21.8	Bob's Red Mill Semolina Flour, 24 oz
+18	3.99	Semolina Pasta Flour, 1 lb.
+19	7.95	Misko Coarse Semolina
+20	18.1	Semolina Flour, 10 Lb Bag
+21	4.03	Semolina - 1 resealable bag, 1 lb
+22	5.99	Semolina, Fine ground, 3lb
+23	3.59	Whitworths Semolina (500g)
+24	40.53	Hodgson Mill Pasta Flour Golden Semolina and Extra Fancy Durum -- 2 lbs
+26	52.45	General Mills Gold Medal Semolina Flour, 50 Pound
+27	8.25	Helios Fine Semolina
+28	8.25	Helios Coarse Semolina Net Wt 500g/17.6 oz/1.1 lb
+29	39.05	Antimo Caputo Chef's Flour, 2.2 Pound (Pack of 10)
+30	7.19	Antimo Caputo 00 Pizzeria Flour (Blue) 5 Lb Repack
+31	6.99	Sinangil Turkish Semolina Irmik 500gr 1.1lbs
+33	12.79	Bellino - Italian Durum Wheat Semolina, (3)- 17.6 oz. Pkgs.
+35	12.99	Holle Organic Baby Porridges - Semolina Porridge - Single Carton, 250g
+36	26.49	Molino Antimo Caputo '00' Flour + Semola Flour (4 bags)
+37	21.87	Ziyad, Wheat Semolina, 16-Ounce (6 Pack)
+38	19.49	Baroody Fine Semolina Coarse Flour # 3, 2lb (32 Oz)
+40	8.49	Semolina Fine (Misko) 400g - New soft pack
+41	8.25	Misko Fine Semolina
+42	6.99	Organic Suji (Semolina) - 2lbs
+44	7.48	Coarse Semolina From Greece - 400g (14 Oz)
+45	8.0	Knorr SL Semolina Dumpling Soup ( Griesskloeschen Suppe ) -1 pc
+46	31.72	Hodgson Mill Golden Semolina and Extra Fancy Durum Pasta Flour 2 lb - Pack of 6
+47	7.99	Moretti Semolina Flour 500 grams
+48	14.5	Uncle Ben's International Grains Couscous, 5 Pound
+49	17.14	Tomasello Anelletti Durum Wheat Semolina Pasta, 16 oz (Pack of 4)
+51	25.59	Natural Value Organic Spaghetti, Durum Wheat Semolina Pasta, 10 Pound
+52	61.78	Monasteri Semolina, Fine, 17 Ounce (Pack of 20)
+53	64.3	Bobs Red Mill, Flour Pasta Semolina, 25 LB
+54	4.69	Bobovita Instant Semolina with Strawberry ,Bananas and Peach for Babies (180g/6.35oz)
+57	13.75	Manna Coarse Semolina(xondro) 500gr
+58	8.49	Semolina Coarse (Misko) 400g - New soft pack
+61	31.33	Natural Value Organic Bowties (Farfalle), Durum Wheat Semolina Pasta, 10 Pound
+64	14.99	Couscous, Semolina, 5 Pounds (Five lbs), USDA Certified Organic, Grown in the USA, Non-GMO, BULK.
+66	65.28	Bob's Red Mill Flour Semolina, 24-ounces (Pack of4) ( Value Bulk Multi-pack)
+67	13.75	Manna Fine Semolina(psilo) 500gr
+69	30.99	Natural Value Organic Angel Hair, Durum Wheat Semolina Pasta, 10 Pound
+70	16.0	Tre Mulini: "Mezze Penne Rigate" Durum Wheat Semolina Pasta * 17.6 Ounce (500gr) Packages (Pack of 4) * [ Italian Import ]
+71	28.64	Hodgson Mill Semolina Veggie Rotini, 16-Ounce (Pack of 12)
+72	30.99	Natural Value Organic Small Elbows, Durum Wheat Semolina Pasta, 10 Pound
+73	25.63	Natural Value Organic Rotelli (Large Rotini), Durum Wheat Semolina Pasta, 10 Pound
+74	30.99	Natural Value Organic Sea Shells, Durum Wheat Semolina Pasta, 10 Pound
+75	29.77	Natural Value Organic Penne Rigate, Durum Wheat Semolina Pasta, 10 Pound
+76	44.53	Bioitalia Durum Wheat Semolina Pasta, Spaghetti, 17.6 Ounce (Pack of 24)
+77	34.99	Ambrosia Semolina 6 x 400gm
+78	7.99	Jansal Valley Semolina Flour, 16 Ounce
+79	23.99	Bob's Red Mill Semolina Pasta Flour (4x24 Oz)
+80	28.43	Molino Antimo Caputo '00' Flour + Semola Flour (3+1 bags)
+82	45.58	Giustos BG13554 Giustos Semolina Flour - 1x25LB
+83	34.99	Couscous, Semolina, 15 Pounds (Fifteen lbs), USDA Certified Organic, Grown in the USA, Non-GMO, BULK.
+84	78.49	Bob's Red Mill Flour Semolina, 24-ounces (Pack of4) ( Value Bulk Multi-pack)
+85	5.75	Semolina Flour* - 1.75 Lb
+86	9.17	Swad Semolina - 2lbs
+87	31.25	Durum Semolina
+88	33.0	Semolina Flour* - 25 Lb Bag Each
+89	7.48	Fine Semolina From Greece - 400g (14 Oz)
+91	8.99	Couscous, Semolina, Whole Grain, 2 Pounds (Two lbs), Grown in the USA, USDA Certified Organic, Non-GMO, BULK.
+94	3.94	Maggi Guten Appetit Semolina Dumplings Soup ( 1 Pc )

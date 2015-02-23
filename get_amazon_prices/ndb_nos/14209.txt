@@ -1,0 +1,47 @@
+5	19.49	Signature 100% Colombian Coffee Supermo Bean Drak Roast-Fine Grind, 3 Pound
+7	16.49	2 (Two) Cans of Cafe Du Monde
+13	12.49	Peet's Ground Coffee, Major Dickason's, 12-Ounce
+14	19.95	Coffee-Bitch-Slap-Extra Strong & Extra Smooth High Caffeine Coffee, Whole Bean
+15	67.88	Koffee Kult Coffee Beans Dark Roasted - Highest Quality Delicious Organic Sourced Fair Trade - Whole Bean Coffee - Fresh Gourmet Aromatic Artisan Blend - 2 Lb Bag
+16	19.99	Tim Hortons Ground Coffee, Premium Blend, 32.8 Ounce
+18	19.95	Intelligentsia Coffee Black Cat- Regular, Whole Bean Blend
+20	9.79	Kahlua Gourmet Ground Coffee, Original, 12 Ounce
+26	27.99	Dunkin' Donuts Original Blend Coffee 40oz
+27	50.81	Folgers Classic Roast Coffee, 33.9 oz., 6 Count
+28	13.11	Eight O'Clock The Original Ground Coffee, Original, 36-Ounce
+30	14.95	Sampler of Flavors
+33	12.87	Eight O'Clock The Original Whole Bean Coffee, 36-Ounce
+34	10.99	Kicking Horse Coffee Kick Ass Ground Coffee, 10 Ounce
+37	24.47	Flavored Coffee Variety Sampler Pack for Keurig K-Cup Brewers, 40 Count
+38	3.98	Maxwell House Ground Coffee, Original Roast, 11.5 Ounce
+40	19.99	Death Wish Coffee, The World's Strongest Coffee, Fair Trade, Organic, Whole Bean, 16 Ounce Bag
+41	17.43	Eight O'Clock Coffee, Original Whole Bean, 42-Ounce Package
+43	22.03	Bold Coffee Variety Sampler Pack for Keurig K-Cup Brewers, 30 Count
+44	15.99	Death Wish Coffee Single Serve Capsules for Keurig K-Cup Brewers, 10 Count 0.42oz
+45	12.99	Starbucks Coffee House Blend, Ground, 12 oz
+46	23.2	Hawaiian Gold Kona Coffee - 2 Lb Bag
+47	19.97	Two Volcanoes Whole Bean Coffee - Delicious Flavor From Organic Coffee Beans. Great for Espresso. Single-Origin, Exclusive Medium Roast From San Marcos, Guatemala. Cultivated, Processed & Packed in Origin to Guarantee Freshness & Best Possible Flavor. 16 Ounce Bag
+51	4.98	Eight O'Clock Caramel Macchiato Ground Coffee, 11 Ounce
+53	15.99	Valhalla Java Ground Coffee by Death Wish Coffee Company, Fair Trade and Organic 12 ounce bag
+55	36.65	50-count TOP BRAND COFFEE K-Cup Variety Sampler Pack, Single-Serve Cups for Keurig Brewers
+56	16.5	Dunkin Donuts K-Cups Original Flavor - Box of 12 Kcups for use in Keurig Coffee Brewers 5.1oz
+57	3.98	Melitta Coffee, Classic Blend Ground, Medium Roast, 11-Ounce
+58	15.31	Maxwell House Original Roast Ground Coffee 42.5 Ounce Value Container
+59	29.88	Eight O'Clock The Original Ground Coffee, 12-Ounce Bag (Pack of 6)
+60	18.11	Eight O'Clock Colombian Peaks Whole Bean Coffee, 40-Ounce Package
+62	85.45	5 Box of Organo Gold Gourmet Black Coffee 100% Certified Ganoderma Extract Sealed
+64	12.99	Cafe Don Pablo Gourmet Coffee Signature Blend - Medium-Dark Roast - Whole Bean - 2 Lb Bag
+67	7.96	Melitta Coffee, Classic Blend Ground, Medium Roast, 22-Ounce
+68	9.49	Cafe Du Monde Coffee and Chickory, 15 Ounce
+76	9.06	Kona Hawaiian Gold  Kona Coffee, Gourmet Blend Ground Coffee, 10 Ounce
+77	14.94	Eight O'Clock Hazelnut Whole Bean Coffee, 33-Ounce Bag
+82	13.75	Folgers Coffee Classic Roast 33.9 Oz.
+89	13.99	Trader Joe's Joyous Joe Ground Coffee Sampler - A Festive Assortment of Flavored and Spiced Coffees
+90	12.96	The Coffee Bean & Tea Leaf, Hand-Roasted French Roast Ground Coffee, 12-Ounce Bags (Pack of 2)
+91	59.95	The Grand Sampler
+92	9.99	Kicking Horse Coffee Three Sisters Coffee, Medium Roast, 10 Ounce
+93	17.9	Cafe Britt Tarrazu Montecielo Ground Coffee, 12-Ounce Bags (Pack of 2)
+95	15.99	Valhalla Java Whole Bean Coffee by Death Wish Coffee Company, Fair Trade and Organic 12 ounce
+97	27.97	Jacobs Kronung Coffee, 17.6-Ounce Vacuum Packs (Pack of 3)
+98	11.88	Christopher Bean Coffee Roubiax, 12 Ounce
+99	19.9	Cafe Britt Costa Rica Organic Shade Grown Ground Coffee, 12-Ounce Bags (Pack of 2)

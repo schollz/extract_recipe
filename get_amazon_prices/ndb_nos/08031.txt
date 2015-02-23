@@ -1,0 +1,98 @@
+0	3.68	Kellogg's Frosted Mini Wheats Original, 24 Ounce Box
+1	14.72	Kellogg's Frosted Mini Wheats Bite Size Maple Brown Sugar 21-ounce (Pack of 4)
+2	21.17	Kellogg's Frosted Mini Wheats Big Bite Cereal 18-ounce (Pack of 4)
+3	3.12	Frosted Mini Wheat's Touch of Fruit Raisin Cereal, 15 Ounce
+4	14.72	Kellogg's Frosted Mini Wheats Bite Size Strawberry Delight 21-ounce (Pack of 4)
+5	31.99	Kellogg's Frosted Mini Wheats Bite Size Blueberry Muffin 15.5-ounce (Pack of 4)
+6	21.75	Frosted Mini-Wheats Bite-Size Cereal, 18-Ounce Boxes (Pack of 4)
+7	16.07	Kelloggs Frosted Whole Grain Mini Wheats, 70-Ounce
+8	17.98	Kellogg's, Frosted Mini Wheats, Touch of Fruit in the Middle, Raspberry, 15oz Box (Pack of 2)
+9	14.94	Kelloggs Frosted Mini-Wheats Touch of Fruit in the Middle Raspberry Cereal, 15 oz
+10	32.99	Kellogg's, Frosted Mini Wheats, Touch of Fruit in the Middle, Raspberry, 15oz Box (Pack of 4)
+11	20.74	Kellogg's, Frosted Mini Wheats, Chocolate, Little Bites Cereal, 15.2oz Box (Pack of 4)
+12	25.0	Kellogg's Frosted Mini-Wheats Little Bites Original Cereal, 15.2-Ounce (Pack of 4)
+13	7.99	Kellogg's Frosted Mini Wheats Chocolate Little Bites Cereal 15.2 oz
+14	17.82	Kelloggs Frosted Mini-Wheats, Bite-Size Cereal, 58.8-Ounce Box
+16	18.43	Kellogg's Breakfast Cereal, Frosted Mini Wheats, Single-Serve, 6 Cups/Box
+17	15.93	Kellogg's Frosted Mini-Wheats - 2 Bags - 58.8 Oz
+18	16.78	Kellogg's Frosted Mini-Wheats Little Bites Chocolate Cereal, 15.8-Ounce (Pack of 4)
+19	12.99	Kellogg's Frosted Mini-wheats Blueberry Whole Grain Cereal, 21 Oz
+20	26.51	Kellogg's, Frosted Mini Wheat's, Touch of Fruit Cereal, Raisin, 15oz Box (Pack of 4)
+21	21.05	Kellogg's, Frosted Mini Wheats, Little Bites, Original, 15.2oz Box (Pack of 4)
+23	14.85	Breakfast Cereal, Frosted Mini Wheats, Single-Serve, 6/Box
+24	7.95	KELLOGG'S FROSTED MINI WHEATS TOUCH OF FRUIT RASPBERRY 15 OZ
+25	9.98	KELLOGGS CEREAL IN CUP FROSTED MINI WHEATS 2.5 oz Each ( 6 in a Pack )
+26	53.05	CEREAL, WHEAT FROSTED MINI CHOCOLATE BOWL LITTLE BITES TFF, Package of 96
+27	19.99	Kellogg's Frosted Mini-Wheat's Strawberry Delight Cereal, 16.3-Ounce Boxes (Pack of 3)
+28	12.69	Kellogg's Frosted Mini Wheats Little Bites Cereal-Chocolate-15.2 oz
+29	29.95	Kellogg's Frosted Mini Wheats Bite Size Blueberry Muffin Cereal 21-ounce (Pack of 4)
+30	999.5	Kellogg's Frosted Mini Wheats Strawberry Delight, 15.5 oz, 2 pk
+31	124.7	Kellogg's Frosted Mini Wheats Touch Of Fruit In The Middle Raspberry Cereal 15 OZ (Pack of 20)
+32	159.99	Kellogg's Original Frosted Mini Wheats Cereal, 36 Oz
+33	57.0	Kelloggs(r) Chocolate Frosted Mini-wheat Bowl (96 Pack)
+34	115.79	Kellogg's Frosted Mini Wheats Maple & Brown Sugar Cereal 16 oz (Pack of 12)
+35	22.99	Kellogg's Frosted Mini-Wheats Bite-Size Cereal: Maple Brown Sugar, Chocolate & Original (Pack of 3)
+36	36.99	Kellogg's Frosted Mini-Wheats Maple and Brown Sugar Cereal, 16.5-Ounce Boxes (Pack of 4)
+37	16.95	Kellogg's Frosted Mini Wheats Bite Size Strawberry Delight 15.5 Ounce (Pack of 2)
+38	4.78	Kellogg's Frosted Mini Wheats Maple & Brown Sugar Bite Size Cereal 15.5 oz
+39	10.93	Kelloggs Frosted Mini-Wheats, Bite-Size Cereal, 58.8-Ounce Box
+40	49.24	Kelloggs Cereal in Cup Frosted Mini Wheats -18 Pcs of 2.5 Oz TJ15
+41	86.52	Kellogg's Frosted Mini Wheats Strawberry Delight Bite Size Cereal 15.5 oz (Pack of 12)
+42	31.0	Frosted Mini-Wheats Little Bites, Chocolate Cereal, 14.5-Ounce Boxes (Pack of 5)
+43	6.49	Kellogg's Frosted Mini Wheats Bite Size Cereal-24 oz
+44	79.95	Kelloggs Bite Size Mini-Wheats Unfrosted (Box) (70 Pieces) [Misc.]
+45	26.0	Frosted Mini-Wheats Bite-Size Cereal, Strawberry Delight, 16.3-Ounce Boxes (Pack of 3)
+46	31.34	Kellogg's Frosted Mini Wheats Bite Size Blueberry Muffin 15.5-ounce (Pack of 4) by Kellogg's [Foods]
+47	42.99	Kellogg's Frosted Mini-Wheats Strawberry Delight Cereal, 16.3 oz (Pack of 6)
+48	17.49	Kellogg's, Frosted Mini Wheats, Little Bites, Original, 15.2oz Box (Pack of 2)
+49	12.18	Frosted Mini Wheats, 18 Oz (Pack of 2)
+50	26.69	Frosted Mini-Wheats Blueberry Muffin Cereal, 16-Ounce Boxes (Pack of 4)
+51	85.05	Kelloggs Frosted Mini Wheats Cereal, 18 Ounce -- 16 per case.
+52	48.13	Kellogg's Pop-tarts Mini Crisps Frosted Strawberry Tasty Baked Bites, 0.49 Oz, 12... ( Total of 4 Packs)
+53	94.99	Kelloggs Frosted Mini-Wheats Cereal (Bowl) Case Pack 96
+54	5.45	Kellogg's Frosted Mini Wheats Maple & Brown Sugar Cereal 16 oz
+55	70.16	Kelloggs Frosted Mini-Wheats Cereal (Box) Case Pack 70
+56	20.34	Kellogg's Frosted Mini Wheats Blueberry Muffin Bite Size Cereal 16 oz
+57	13.69	SCS Kellogg's(r) Frosted Mini-wheats(r) - 58.8 Oz.
+58	75.43	Kellogg's Frosted Mini Wheats Original Little Bites Cereal 15.2 oz (Pack of 10)
+59	31.89	Frosted Mini-Wheats Bite-Size Cereal, Maple & Brown Sugar, 16.5-Ounce Boxes (Pack of 3)
+60	94.99	Kelloggs Frosted Mini-Wheats Cereal (Bowl) (96 Pieces) [Misc.]
+61	7.45	Kellogg's Frosted Chocolate Mini Wheats Little Bites Cereal 16 oz
+62	94.99	Kelloggs Frosted Mini-Wheats Cereal (bowl) (Pack Of 96)
+63	86.52	Kellogg's Frosted Mini Wheats Maple & Brown Sugar Bite Size Cereal 15.5 oz (Pack of 12)
+64	44.93	Kellogg's Cereal Family Variety Pack, Single Serve Bowls, (Pack of 96)
+65	29.99	Kellogg's Frosted Mini Wheats Bite Size Strawberry Delight 21-ounce (Pack of 4) by Kellogg's [Foods]
+66	45.85	Kellogg's, Frosted Mini Wheats, Strawberry Delight, Bite Size Cereal, 15.5oz Box (Pack of 4)
+67	44.93	Kellogg's Cereal Favorites Variety Pack, Single Serve Bowls (Pack of 96)
+68	50.34	Kellogg's Variety Pack 30 Individual Boxes -Apple Jacks, Corn Pops, Mini Wheats, Rice Krispies, Froot Loops Frosted Flakes- 30 pack of .95 oz
+69	49.28	Kellogg's Pop-tarts Mini Crisps Frosted Blueberry Tasty Baked Bites, 0.49 Oz, 12 ( Total of 4 Packs)
+70	26.5	Kellogg's Favorite Variety Pack Cereal Bowls - Raisin Bran Crunch, Apple Jacks, Corn Pops, Krave Chocolate, Frosted Flakes, Frosted Mini-Wheats (Bite Size), Froot Loops & Cocoa Krispies (8 Pack)
+71	62.91	Kellogg's Cereal Cup Assortment Pack - Wellness (6 Flavors),Pack of 60
+72	98.97	Kellogg's Boot Size Frosted Minii Wheat - 16 Pack
+73	10.5	Kellogg's Frosted Mini Wheats Brown Sugar, 15.5 oz
+74	23.95	Kellogg's, Frosted Mini Wheats, Original Value Size, 24oz Box (Pack of 3)
+75	89.75	Kelloggs Mini-Wheats Frosted Cereals, 18 Ounce -- 16 per case.
+76	18.4	Kellogg's Cereal Jumbo Variety Pack, 31.37 oz, 30 Pack
+77	184.5	Kelloggs Frosted Mini-Wheats Cereal (Bowl) [96 Pieces] *** Product Description: Kelloggs Frosted Mini-Wheats Cereal (Bowl) 1 Oz Bowl. ***
+78	22.85	Kellogg's Bite Size Original Frosted Mini Wheats 2 35 oz. Bags
+79	64.99	Kellogg's Frosted Mini Wheats Chocolate Little Bites Cereal 15.2 oz (Pack of 10)
+80	46.07	Kellogg's - 3 Pack - Breakfast Cereal Frosted Mini Wheats Single-Serve 6/Box "Product Category: Breakroom And Janitorial/Beverages & Snack Foods"
+81	36.85	Kelloggs Cereal in Cup Frosted Mini Wheats 12 Ct - Tj
+82	168.69	Kelloggs(R) Chocolate Frosted Mini-Wheat (Bowl) Case Pack 96
+83	7.7	KELLOGGS CEREAL FROSTED MINI WHEATS ORIGINAL 12 OZ
+84	16.99	Kellogg's - Breakfast Cereal, Frosted Mini Wheats, Single-Serve, 6/Box 42799 (DMi BX
+85	57.59	Kellogg's Frosted Mini-Wheats Maple & Brown Sugar Cereal, 16.5 oz (Pack of 6)
+86	184.5	Kelloggs(R) Chocolate Frosted Mini-Wheat (Bowl) [96 Pieces] *** Product Description: Kelloggs(R) Chocolate Frosted Mini-Wheat (Bowl). 1 Oz Lightly Sweetened Whole Grain Mini Cereal In Individual Serving Size Bowl. A Convenient Travel Size For On ***
+87	179.7	Kelloggs Frosted Mini-Wheats Cereal (Box) [70 Pieces] *** Product Description: Kelloggs Frosted Mini-Wheats Cereal (Box) 1.31 Oz, Individual Box. ***
+88	16.15	Kellogg's Jumbo Assortment Pack, 32.73-Ounce Box
+89	57.12	Kellogg's Cereal Favorites Variety Pack, 1.5 to 2.8-Ounce Single Serve Cups (Pack of 60)
+90	11.94	Kellogg's Mini Wheats Origanal Creal 70oz
+91	49.9	Kellogg's Frosted Mini-Wheats Bite Size Cereal 2.5 OZ (Pack of 24)
+92	19.99	Kellogg's Cereal 30 Individual Box Variety Pack 32.73 Total Ounces - Value Box
+93	81.98	KelloggsTM Frosted Mini Wheats Bite Size Cereal; 18 Oz., 6/pk
+94	73.98	KelloggsTM Bite Size Cereal/Frosted Mini Wheats In A Cup; 2.5 oz., 6/pk
+95	8.99	Frosted Mini Wheats Frosted Mini-Wheats Bite Size Lightly Sweetened Whole Grain Cereal 18 Ounces
+96	16.0	Frosted Mini Wheats Frosted Mini-wheats Bite Size Lightly Sweetened Whole Grain Cereal 18 Ounces
+97	25.34	Mini Wheat's Cereal in a Cup - 2 oz. Cup - 12 ct.
+98	12.09	Kellogg's Mini Wheats Origanal Creal 70oz
+99	59.95	Kellogg's Cereal Variety Pack, Single Serve Boxes (Pack of 72)

@@ -1,0 +1,94 @@
+0	11.99	Amoretti Premium Syrup, Creme De Menthe, 25.4 Ounce
+1	4.19	Reese Syrup, Cream De Menthe, 8-Ounce
+3	6.27	Chef-O-Van Natural Flavoring Extracts, Creme De Menthe, 2 Ounce
+4	14.95	Torani Creme De Menthe Syrup 750mL
+6	5.0	Wilton Candy Flavoring Set
+7	9.0	Andes Creme de Menthe Chocolate Mint Baking Chips 10oz - 2 Unit Pack
+8	14.95	Torani Creme De Menthe Syrup (1 Single 750 ml bottle)
+9	9.95	Lorann Hard Candy Flavoring Oil Creme De Menthe Flavor 1 Ounce
+10	11.9	Creme De Menthe Extract, Natural Flavor Blend - 4 Ounce Bottle
+11	19.07	Andes Creme de Menthe Large Mints 72 Piece Box
+12	7.97	Amoretti Extract, Creme de Menthe, 2 Ounce
+13	22.47	Hershey's Bliss, Milk Chocolate with Creme de Menthe Center, 8.8-Ounce Bags (Pack of 4)
+14	3.94	LorAnn Oils Creme De Menthe Flavor 1 dram
+15	26.96	Andes Creme De Menthe Thins, 4.67-Ounce (Pack of 12)
+16	19.35	Andes Creme de Menthe Thins 240 Piece Jar
+17	6.7	Andes Indulgence Creme de Menthe Mints, 8 oz
+18	10.69	Hershey's Bliss Creme De Menthe Bag, 8.8 oz, 2 pk
+19	12.99	Andes Cr?me De Menthe Baking Chips, 10-Ounce Bags (Pack of 6)
+20	20.77	Andes Thins Creme de Menthe 240 count Tub
+21	29.8	Torani Syrup, Creme De Menthe, 25.4-Ounce PET Bottles (Pack of 3)
+22	6.29	Hershey's Bliss Creme De Menthe Bag - 8.8 oz
+23	12.99	Andes Creme De Menthe Thins, 4.67-ounce (Pack of 3)28 Pieces Each Pack
+24	4.95	OliveNation Creme de Menthe Flavor 4 oz.
+25	12.04	Da Vinci SUGAR FREE Creme de Menthe Syrup with Splenda, 750mL
+26	13.89	DaVinci Gourmet Creme de Menthe Sugar Free Syrup 25.4 FL OZ.
+27	16.75	Andes Creme De Menthe Thins, 4.67-ounce -28 Pieces Each Pack (Pack 4)
+28	19.87	Andes, Creme De Menthe Thins Candy, 8.5oz Bag (Pack of 4)
+29	3.49	Andes Creme De Menthe Thins Holiday Box
+30	17.5	Andes Creme De Menthe Thins, 2 Pounds of Green Foil-wrapped Chocolates in a Gift Box
+31	18.5	Torani Creme De Menthe Syrup
+33	77.55	Andes Creme De Menthe Green Foil Wrapped Thins - 20 lb. box, 1 per case
+34	8.2	Da Vinci Creme De Menthe Syrup 750 ml Bottle
+35	9.95	Lorann Oils Creme De Menthe 1 Ounce Flavoring
+36	5.25	Andes Creme De Menthe Thins - 28 CT
+37	16.59	Andes Creme De Menthe Thins, 120 Count Thins
+38	27.0	Andes Creme De Menthe Thins, 240-Count Thins
+39	4.99	LorAnn Creme de Menthe Flavor
+40	4.25	Cool Creme de Menthe Chocolate Oil, 1 oz.
+41	14.03	Amoretti Natural Artisan Flavor Creme De Menthe, 5.58 Fluid Ounce
+42	46.38	Reese Creme De Menthe Syrup, 8 Ounce -- 12 per case.
+43	22.9	Ande's Creme De Menthe 240-Piece Tub
+44	12.01	Andes Creme De Menthe Thins, 84 Individually Wrapped Chocolates in a Gift Box
+45	7.55	OliveNation Creme de Menthe Flavor 8 oz.
+46	20.45	Reese Creme De Menthe Syrup, 8 Ounce -- 6 per case.
+47	12.49	Sweet Wise Creme De Menthe, Natural Flavor 2 Oz
+48	6.95	King's Cupboard Creme de Menthe Chocolate Sauce
+49	30.28	Andes Creme De Menthe Thins 240 Counts Net Wt 40 Oz. TJ10
+50	9.98	Andes' Creme De Menthe Baking Chips
+52	19.48	Andes Creme de Menthe Baking Chips + Andes Peppermint Crunch Baking Chips
+53	55.94	Andes Creme De Menthe Thins: 8 - 28 Pieces - Tg
+54	3.79	Creme De Menthe Soft Creme Filling
+55	12.95	OliveNation Creme de Menthe Flavor 16 oz.
+56	105.7	Reese Creme De Menthe Syrup 8 OZ (Pack of 24)
+57	22.94	Andes Creme De Menthe Thins, 4.67 Ounce (Pack of 6)
+58	6.99	Creme de Menthe Essence
+60	54.95	Set of 6 Liquor Extracts (amaretto, creme de menthe, butter rum, Grand Marnie...
+61	17.5	Andes Creme De Menthe Thins, 2 Pounds of Gold Foil-wrapped Chocolates in a Gift Box
+62	2.95	Creme de Menthe Salt Water Taffy - 1/2 lb
+63	68.29	Andes Creme de Menthe Indulgence Candy 9.5 oz (Pack of 12)
+64	9.95	Creme de Menthe Candies
+65	2.95	Creme de Menthe Salt Water Taffy
+66	31.64	Tj10 Andes Creme De Menthe Thins Naturally and Artificially Flavored Peanut Free Gluten Free - 240 Counts Net Wt 40 Oz (2.5 Lbs) Jar
+67	7.5	Andes Baking Chips 10 oz
+68	19.9	Andes Cream De Mint, Display Jar, 240 count
+69	8.44	Andes Candy Creme de Menthe, 4.67 oz
+70	30.99	Andes Creme De Menthe Thins: 12 Packs of 3 Oz - Dts
+71	17.99	St Patricks Day Gourmet Handcrafted Marshmallows (12) Chocolate Chip Creme De Menthe Adult Dessert AMAZING Chocolate Dipped Marshmallows "Fuzzy Ducks"
+72	47.86	Creme de Menthe Flavor Paste - 2.20 lbs
+73	16.99	Flavored Chocolate Spoons Trio (10) Creme De Menthe, Hazelnut, Cinnamon on Fine Silver Cutlery
+74	31.71	Torani(r) Creme De Menthe Syrup PET
+75	77.55	Andes Creme De Menthe Gold Foil Wrapped Thins - 20 lb. box, 1 per case
+76	24.99	Andes Creme de Menthe Thins, 2lb Bulk Gift Box
+77	85.15	Reese Creme De Menthe Syrup 8 OZ (Pack of 18)
+78	8.77	Creme De Menthe Extract, Natural Flavor Blend - 2 Ounce Bottle
+79	20.85	OliveNation Creme de Menthe Flavor 32 oz.
+80	17.5	Creme de Menthe Salt Water Taffy - 5 lbs
+81	6.95	Creme De Menthe Flavoring Oil 1 oz
+82	49.95	Creme de Menthe Flavoring Oil Extracts by LorAnn Oils (16oz) for Baking, Cosmetics, and E-liquid: Hard Candy, Cakes, Gummies, Chocolate, Marshmallows, Caramels, Fudges, Taffies, Ice Cream, E-Cigarettes/Vape Juice, and more
+83	16.74	Creme De Menthe Extract, Natural Flavor Blend - 8oz
+84	71.45	OliveNation Creme de Menthe Flavor 128 oz. (gallon)
+85	17.5	Creme de Menthe Salt Water Taffy
+87	34.99	Empress Creme De Menthe Chocolates, 6-Ounce Gift Boxes (Pack of 3)
+88	69.92	Andes Creme De Menthe Thins 4.67 OZ (Pack of 24)
+89	381.89	Cool Creme de Menthe Flavoring Oil Extracts by LorAnn Oils (1 gallon) for Baking, Cosmetics, and E-liquid: Hard Candy, Cakes, Gummies, Chocolate, Marshmallows, Caramels, Fudges, Taffies, Ice Cream, E-Cigarettes/Vape Juice, and more
+90	34.79	Andes Creme de Menthe Chocolate Baking Chips 10 Oz (Pack of 6)
+91	20.1	ANDES CREME DE MENTHE THINS CHANGEMAKER 8 oz Each ( 240 in a Pack )
+92	47.48	Creme De Menthe Flavoring Oil 16 oz
+93	40.34	Creme De Menthe Extract, Natural Flavor Blend - 1 Quart
+94	107.83	Creme De Menthe Extract, Natural Flavor Blend - 1 Gallon
+95	90.0	Cool Creme de Menthe Flavoring Oil Extracts by LorAnn Oils (16oz) for Baking, Cosmetics, and E-liquid: Hard Candy, Cakes, Gummies, Chocolate, Marshmallows, Caramels, Fudges, Taffies, Ice Cream, E-Cigarettes/Vape Juice, and more
+96	4.75	Creme De Menthe Flavoring Oil .5 oz
+97	5.21	Candy & Baking Flavoring .125Oz Bottle 2/Pkg-Creme De Menthe
+98	40.5	Torani Syrup, Creme De Menthe, 25.4-Ounce Bottle (Pack of 3)
+99	71.4	Torani Coffee Syrup, Creme De Menthe 25.35 Z

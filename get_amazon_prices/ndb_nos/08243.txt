@@ -1,0 +1,85 @@
+1	16.99	Kelloggs Crunchy Nut Clusters Honey Nut 700g
+2	47.68	Cheerios Honey Nut Cheerios Medley Crunch, 13.1 Ounce (Pack of 12)
+4	14.99	Trader Joe's Honey Nut O's Toasted Whole Grain Oats Cereal, 13.5 oz Box (Pack of 2)
+5	15.2	True North 100% Natural Clusters, Almond, Pecan, Cashews, 24 Ounce
+6	19.26	Signature's Cashew Cluster with Almonds and Pumpkin seeds, 32 Ounce
+7	28.99	Planters Honey Roasted Peanuts, 52-Ounce Canister (Pack of 2)
+10	14.64	KIND GRAINS OATS & HONEY CLUSTERS 11 OUNCES 6 COUNT
+12	73.8	Kashi Honey Almond Flax GOLEAN Crunch Cereal, 14 oz
+13	4.99	5-pack Lowell Sesakiss Sesame & Honey Cluster Vanilla 5x30g/5x1.1oz
+14	12.99	General Mills, Honey Nut Cheerios, Medley Crunch Cereal, 13.1oz Box (Pack of 2)
+15	24.95	General Mills, Honey Nut Cheerios, Medley Crunch Cereal, 13.1oz Box (Pack of 4)
+16	6.69	Honey Nut Cheerios, 17 oz
+17	27.5	Walters Homemade Honey Macadamia Nougat, 4-Ounce Packages (Pack of 4)
+18	4.99	5-pack Lowell Sesakiss Sesame & Honey Cluster Coconut 5x30g/5x1.1oz
+19	5.99	5-pack Lowell Sesakiss Sesame & Honey Cluster Wildberry 5x35g/5x1.2oz
+20	4.99	5-pack Lowell Sesakiss Sesame & Honey Cluster Orange 5x30g/5x1.1oz
+21	6.99	Post Honey Bunches Of Oats with Vanilla Bunches & Multigrain Flakes Cereal 18 oz
+22	11.99	Ferrara - Italian Chocolate Torrone (Almond Honey Nougat Candy), (6)- 2 oz. Bars
+23	7.99	Daelia's Honey Nougat - Almond (3.53 ounce)
+24	27.5	Walters Homemade Honey Cranberry & Almond Nougat, 4-Ounce Packages (Pack of 4)
+25	6.49	Honey Bunches of Oats Cereal with Almonds-14.5 oz
+26	43.36	Malt-O-Meal Oat Blenders with Honey and Almonds, 13.5 Ounce (Pack of 12)
+28	27.5	Walters Ginger & Almond Handmade Honey Nougat Bar 4 Ounce. A 4 Pack
+29	21.99	Walters Ginger & Almond 55 Gram Handmade Honey Nougat Bar 6 Pack
+30	39.35	Familia Swiss Crunch Muesli, Clusters with Strawberries & Raspberries, 12-Ounce Bags (Pack of 6)
+31	21.99	Enjoy Life Vanilla Honey Graham Crunchy Cookie, 0.9 oz, 24 ct
+32	11.13	Ferrara Traditional Italian Torrone 7.62 oz (180g) 18 pieces
+33	4.99	5-pack Wedel Aha Sesame with Wheat Syrup and Honey 5x27g/5x0.96oz
+34	11.26	General Mills Cereals Chex Honey Nut Gluten Free Granola Mix Pouch, 11 Ounce
+35	18.97	Planters Honey Roasted Peanuts - 52oz Can
+36	13.81	Kellogg's Crunchy Nut Chocolate Clusters 450g
+37	12.99	Ferrara - Italian Pistachio Torrone (Almond Honey Nougat Candy), (2)- 4.23 oz. Boxes
+38	15.99	Ferrara - Italian Almond Torrone (Almond Honey Nougat Candy), (6)- 2 oz. Bars
+39	49.51	Kind Healthy Grains Oats and Honey Clusters with Toasted Coconut - 11 oz - Case of 6
+41	49.51	Kind Healthy Grains Oats And Honey Clusters With Toasted Coconut - 11 Oz - Case Of 6
+42	7.95	Mom's Best Natural Honey Nut Toasty O's, 20 oz
+43	70.18	Sesame Honey Crunch: 20LB
+45	22.0	Ferrara - Italian Pistachio Torrone (Pistachio Honey Nougat Candy), (6)- 2 oz. Bars
+47	21.99	Walters Homemade Honey Macadamia Nougat, 2-Ounce Packages (Pack of 6)
+48	7.99	Daelia's Honey Nougat - Hazelnut (3.53 ounce)
+49	49.51	Kind Cluster, Oat & Honey with Coconut 11 oz. (Pack of 6)
+50	39.9	Fiber One Chewy Bars, Oats and Peanut Butter, 10-Count Boxes (Pack of 4)
+51	7.5	Cracker Jack'D Hearty Snack Mix, PB and Chocolate, 3 Ounce (Pack of 6)
+52	16.49	Ferrara - Italian Torrone 18 pc. (Almond Honey Nougat Candy), (Pack of 2)- 7.62 oz. Boxes
+53	26.08	Big Hunk Singles, 2-Ounce (Pack of 24)
+55	11.49	La Florentine - Italian Torrone Assortment, (2)- 7.62 oz. (18pc) Boxes
+56	15.85	Paleokrunch Cereal Apple Pie Grainless Granola, 7.5 oz
+58	71.95	General Mills Assorted Cereal in a Cup - Goodness Pack, 2.18 Ounce -- 60 per case.
+59	21.99	Walters Homemade Honey Almond Nougat, 2-Ounce Packages (Pack of 6)
+60	13.79	Kellogg's Crunchy Nut Bites 400G
+61	12.99	Ferrara - Italian Torrone (Almond Honey Nougat Candy), (2)- 4.23 oz. Boxes
+62	477.25	The Holiday VIP Deluxe Gourmet Food Gift Basket - Size Large - Includes Meat, Cheese, Crackers, Chocolate, Nuts, Caviar, Coffee, Cookies, Smoked Salmon and Much More
+63	39.99	Organic Simple Bites 20 OZ. (4 Pack)
+64	6.99	Sperlari Classic Hazelnut Torrone - 8.8 Ounces
+65	17.5	Almond Nougat Caffe Sicilia - Sicily
+67	97.32	Kind Healthy Grains Oats & Honey Toasted Coconut 11oz (pack of 6) ( Value Bulk Multi-pack)
+68	24.99	Emerald Breakfast On The Go, Smores Nut Blend, 5 Pouches Per Box (Pack of 4)
+69	12.5	Annabelle's Big Hunk Minis, 0.425 oz Bars in Gift Box (Pack of 20)
+70	21.99	Walters Homemade Honey Cranberry & Almond Nougat, 2-Ounce Packages (Pack of 6)
+71	39.95	Planters Nutrition Sustaining Energy Mix Honey Nut: 12 - 1.66 Oz - Tj
+72	13.49	Hacizade Turkish Delight Finest Cooked Almond Pieces with Honey, 13.22 oz
+73	33.49	Nassau Candy Milk Chocolate Peanut Clusters, 5 Pound
+74	18.75	Chocome Callebaut White Chocolate, Roasted Honey Peanut, Pecan and Pistachio From Bronte, 3.5 Ounce
+75	28.64	Nassau Candy Dark Chocolate Peanut Clusters, 5 Pound
+76	16.5	Hazelnut and Almond Soft Torrone by Antica Torroneria Piemontese
+77	12.0	Jordans Country Crisp Honey Nut 500g - Premium Knusper MA1/4sli
+78	35.0	Pangburn's Millionaire Candy in Heart Shaped Collector's Tin
+79	11.77	General Mills Cereals Chex Mixed Berry Almond Gluten Free Granola Mix Pouch, 11 Ounce
+82	7.99	Lundberg Organic Brown Rice Syrup-21 Oz
+83	41.09	Familia Swiss Crunch Museli, Multigrain Flakes & Clusters with Sunflower & Pumpkin Seeds, 12-Ounce Bags (Pack of 6)
+84	18.97	Honey Bunches of Oats with Almonds Cereal, 48-Ounce Boxes (Pack of 2)
+85	52.99	Cracker Jack Hearty Mix PB & Chocolate
+86	267.19	Kind Healthy Grains Oats & Honey Toasted Coconut 11oz ( Value Bulk Multi-pack)
+87	4.95	Sperlari Classic Almond Torrone | 150gr
+88	9.0	Bellino Soft Torrone 6.35 oz (180g) 18 pieces
+89	15.99	Sperlari - Torrone Classico Alla Mondorla, (2)- 5.12 oz. Bars
+90	32.96	Charbert Et Guillot Provence Nougat 1 Lb in Gift Box
+91	4.99	5-pack Lowell Sesakiss Sesame with Wheat Syrup and Honey 5x30g/5x1.1oz
+92	49.54	Emerald Breakfast on the Go! Breakfast Nut, Blend and Granola Mix, 7.5 Ounce (Pack of 8)
+93	27.0	Pistachio Nougat Caffe Sicilia - Sicily
+94	7.98	EMERALD NUTS MIXED & GRANOLA TRAIL MIX BREAKFAST ON THE GO NUT BLEND 5 INDIVIDUAL PACKS PER BOX
+95	62.9	Coconut Cranberry Cashew Quinoa Clusters 4 Ounces (Case of 12)
+96	14.99	La Florentine - Traditional Italian Torrone [SOFT], (2)- 5.3 oz. Bars
+97	22.0	Ferrara Almond Honey Nougat Torrone 4.23 Oz - Pack of 4
+98	29.95	Aquilotto Torrone with Toasted Hazelnut Chocolate and Honey 2 Pack -18 Pc Assortment Box

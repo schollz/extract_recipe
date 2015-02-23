@@ -1,0 +1,84 @@
+0	37.0	Whole Goose Foie Gras Entier (goose liver)
+2	80.0	Foie Gras Grade A, Fresh, 1.2 - 1.6 LBS
+3	32.0	Whole Duck Foie Gras Entier (duck liver)
+5	24.5	4 Gourmet Pates & Rillettes From France Combo
+6	35.0	Goose Liver Block with Truffle, 150g (5.3oz)
+8	23.99	Pate De Foie (Pack of 3)
+9	26.0	Goose Foie Gras Terrine (pate) 220g (7.76oz)
+10	28.0	Duck Foie Gras / Bloc de Foie Gras de Canard
+12	89.98	American Whole Duck Foie Gras, Grade A - Approx. 1.8 lbs
+13	44.15	Foie Gras, Fresh Sliced, 6 x 2 oz
+14	26.99	Rougie Mousse of Duck Foie Gras with 2% Truffles - 11.2 oz
+16	9.99	Rougie Duck Rillettes made according to the Perigord tradition (Southwest France) 2.8oz
+19	4.99	Foie Gras Bubble Gum
+21	27.03	Duck Foie Gras Mousse with Port Wine Pate - All Natural
+22	33.0	Whole Goose Foie Gras Entier with Fine Spices (Goose Liver)
+23	25.0	Block of Goose Foie Gras (Goose Liver) 130g
+24	21.99	Mousse Royal of Duck Foie Gras w/ Truffles, 4.9oz. Rougie
+25	67.2	Rougie: Foie Gras Torchon with Port Wine 8.8 Oz
+26	23.99	Rougie Mousse of Duck Foie Gras - 11.2 oz
+27	1262.6	Fresh White Truffles 6 Ounce
+28	25.0	Duck Foie Gras Parfait
+29	57.99	Rougie Mousse of Goose Liver, 11.2-Ounce Tubes (Pack of 2)
+30	24.0	Premium Quality Duck Foie Gras 100g
+31	10.95	Henaff Pork Rillettes by Henaff (France)
+32	60.0	Rougie Flash Frozen Duck Foie Gras Deveined in Tray - Approx. 1 lb
+33	22.45	French Goose Fat La belle Chaurienne-Graisse D'Oie La Belle Chaurienn
+34	91.14	Whole Lobe of Fresh Duck Foie Gras - Deveined - Flash Frozen- Grade A
+36	39.8	French Duck Confit La Belle Chaurienne-Confit De Canard - 44,09 Oz
+37	21.99	Mousse Royal of Duck Foie Gras w/ Ice Cider, 4.9oz. Rougie
+38	22.95	Minced Black Truffle 1.74 Ozs
+40	12.99	Rougie - Duck Rillettes from Perigord (Canada) 2.8oz
+41	16.1	All Natural Boar Sausages with Apple and Cranberries 4 links 1 lb
+42	92.16	Canadian Whole Duck Foie Gras, Grade B - Approx. 1.8 lbs
+43	11.47	Officer Smoked Cod Liver - Foie de Morue Fume 4.26 oz
+44	146.05	Whole Lobe of Duck Foie Gras, Grade a - Flash-frozen
+45	147.15	Rougie IQF Duck Foie Gras Twenty Slices in Bag - Approx. 2 lbs
+46	149.99	Roland: Duck Foie Gras with Port Wine 11.25 Oz (6 Pack)
+47	24.95	Sells, Pate Liver, 4.25 OZ (Pack of 6)
+48	9.95	Yuzu Kosho Red - 2 oz
+49	27.89	Fresh Duck Foie Gras - Sliced, Flash-frozen
+51	19.99	Mousse Royal of Duck Foie Gras, 4.9oz Rougie
+52	64.85	Foie Gras Grade B, Fresh, .9-1.45 LBS
+54	46.46	Roland Giant Escargot Snails, 7.75-Ounce Cans (Pack of 12)
+55	31.99	Mousse of Duck Foie Gras 11.28 oz
+56	4.0	Henaff Pork Liver Pate by Henaff (France)
+57	63.98	Rougie Whole Duck Foie Gras in Aspic with Armagnac Brandy in Mason Jar from France - 6.34 oz
+58	79.64	Duck Foie Gras - Micuit / Ready to Eat, En Torchon
+59	22.99	Season Black Capelin Caviar from Iceland, 3.5-Ounce Glass Jars (Pack of 4)
+60	14.99	Giovanni's Goose Pate with Port Wine (3x95g/3x3.4oz)pack of 3
+61	185.6	Rougie Block of Duck Foie Gras in Terrine Container - 2.2 lbs
+62	146.79	Rougie Flash Frozen Duck Foie Gras Grade A in Vacuum Pack - Approx. 1.4 lbs
+63	58.0	Duck Leg Confit - 6 pieces
+64	10.99	Podravka Jetrena Pasteta 3.5 Oz Liver Pate (Pack of 2)
+65	135.95	Rougie: Foie Gras Torchon with Port Wine 0.9 -1.3 Lb
+66	84.4	Canadian Whole Duck Foie Gras, Grade A - Approx. 1.1 lbs
+67	234.58	Bloc of Fattened Duck Liver | Bloc de Foie Gras de Canard by Les Trois Petits Cochons 6 x 6.5 oz cas
+68	97.98	Canadian Whole Duck Foie Gras, Grade B - Approx. 1.1 lbs
+69	135.7	Whole Duck Foie Gras Torchon Style with Port Wine - 0.9-1.3 Lb/408-590 Gr, Rougie/marky's Canada.
+70	199.99	French Treasures Chest (10.7 pound)
+71	27.48	Profi Pate Village, 4.6-Ounce (Pack of 12)
+72	12.88	Henaff Pork Pate de Campagne by Henaff (France)
+73	94.99	Block of Duck Foie Gras Micuit with Port Wine - Ready to Serve 17.6 Oz. Rougie
+74	199.99	Roland: Duck Foie Gras with Truffles 11.25 Oz (6 Pack)
+75	59.99	Rougie Mousse of Goose Liver with 2% Truffles, 11.2-Ounce Tubes (Pack of 2)
+76	39.99	Rougie France (Round Tin) Mousse Of Fully-cooked Liver Foie Gras, 11.2000-Ounce Cans by Rougie
+77	4.19	St. Dalfour Luscious Figs, 7 oz
+78	49.99	Roland: Duck Foie Gras with Port Wine 11.25 Oz (2 Pack)
+80	52.59	LaBelle Farm's Foie Gras, Butter, Cubed Pieces, 1 Lb Bags
+81	11.79	Garlic Sausage - 1 pack - .75 lbs
+82	54.36	Foie Gras Terrine with Sauternes Wine, 6.5 oz.
+83	10.5	Spanish Almond Flour - Fine - 8 oz Bag
+84	511.2	Roland Rouleau Puree of Duck Foie Gras with Truffles, 11.3-Ounce Can
+85	89.99	Meat Lovers Ultimate Gourmet Gourmand Gift Basket
+86	7.99	Rougie Perigord Terrine with 20% Duck Foe Gras, 2.8 oz
+87	179.99	Les Trois Petits Cochons Premier Gift Basket (7.29 pound)
+88	226.0	Gourmet Cooking Gift Basket
+89	24.5	Lucien Georgelin Onion Confit - x 2 jars
+90	189.2	Foie Gras Raw, Premium Grade A, 3-each /1.25 & Up
+91	149.21	Whole Lobe of Duck Foie Gras - Grade A "Grande Cuisine" - Flash Frozen - 1 lobe - 1.1 - 1.4 lbs
+92	27.95	Billot Helix Escargot Meat 28 oz Can (72 Snails)
+93	96.6	Fresh Moulard Duck Legs & Thighs - 5 lbs (6 Pieces)
+94	7.25	Harissa Paste - 1 tube, 5.3 oz
+96	8.99	Italian Foie Gras Knife with Rosewood Handle
+97	15.95	Farmer John Liverwurst 8 Oz. Chub (Pack of 6)

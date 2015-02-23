@@ -1,0 +1,77 @@
+0	36.0	Nibbler Crate by Wisconsin Cheese Mart
+1	8.0	Wisconsin Cheese Variety Blocks 28oz
+2	18.95	Tillamook Medium Cheddar Cheese
+3	50.22	igourmet's Favorites - 4 Cheese Sampler (30 ounce) by igourmet
+4	44.99	French Cheeses for the Connoisseur Assortment (30.5 ounce)
+5	18.95	Wisconsin Variety Cheese Wheel, 2- 1 Lb Wheels
+6	12.99	Cheddar Cheese Powder by Hoosier Hill Farm, 1 lb
+7	31.66	Perfect Partners Cheese for Beer Pairing Box, 24 Ounce
+8	24.09	Babybel Cheese Semisoft Mini Original 28 Ct-21 Oz
+9	11.99	Extra-Sharp New York Cheddar Cheese
+10	8.99	Cheese Wax 1 lb - Red
+12	36.99	Irish Cheese Assortment (30 ounce) by igourmet
+13	37.86	California Delicious Gourmet Cheeseboard Gift
+14	21.95	The Swiss Colony Cheese Bars with Slicer, 5-Piece Gift Box
+15	32.36	Perfect Partners Cheese for White Wine Pairing Box, 24 Ounce
+16	46.99	Wisconsin Cheeseman Cheese Crate Gift Assortment
+18	13.99	Gourmet Wisconsin Meat and Cheese Gift Basket
+19	32.99	British Cheese Assortment (30 ounce)
+20	14.99	Hoosier Hill Farm White Cheddar Cheese Powder 1 lb
+22	9.5	Parmigiano Reggiano - 1 Pound
+23	10.9	Hickory Farms Hickory Holiday Favorites, 10.15 Ounces, Sausage, Cheese & Crackers
+24	21.37	Wine.com Savory Snacking Gift Basket
+26	29.99	Igourmet Cheddars of the World Assortment, 2-Pound
+28	51.17	Organic Valley Organic Mild White Cheddar Cheese, 5 Pound -- 1 each.
+29	14.08	Laughing Cow, Original Creamy Swiss, Cheese Spread. 6oz Round (Pack of 4)
+30	7.88	Tillamook Special Reserve Extra Sharp Cheddar (7.5 ounce) by igourmet
+31	134.0	One Case of Bega Cheese - 36 cans
+35	12.99	Hoosier Hill Farm Cheddar Cheez Powder, 1 lb
+36	37.94	Spanish Cheese Assortment 2 Pound Hand Cut Imported from Spain
+37	10.2	Manchego - Pound Cut (1 pound)
+38	11.13	Cheddar Cheese Powder, 1 lb.
+39	41.55	Igourmet Italian Cheese Sampler, 2-Pound
+41	29.55	Perfect Partners Cheese for Red Wine Pairing Box, 24 Ounce
+42	84.18	Gift Basket Village The Midwesterner Cheese and Sausage Gift Basket, Medium
+44	36.99	Great Arrivals Gourmet Cheese Gift, Board Treats
+45	22.0	Hickory Farms Smoked Cheddar Blend Cheese 10 Ounces (Pack of 3)
+46	26.98	French Cheese Sampler, Assortment - 1.9 lbs
+47	16.19	Wine.com Something Sweet & Savory Snack Gift Basket
+50	14.99	Blue Cheese Powder by Hoosier Hill Farm 1 lb
+51	17.55	Cheez-It Crackers, Original, 1.5-Ounce Packages (Pack of 36)
+53	29.99	Wine.com A Cut Above Gift Box
+54	29.99	Hickory Farms 4-Piece Farmhouse Sampler Gift Pack 12.1 oz
+55	14.99	Austin Cheese Crackers with Cheddar Cheese - 45 ct.
+56	2.88	Cheez-It Crackers, Provolone, 12.4 Ounce
+57	12.95	Heart of Wisconsin Cheese & Sausage Variety Pack, perfect for Father's Day
+59	38.99	Hickory Farms Holiday Gift Set-Farmhouse Hickory Favorites Summer Sausage, Golden Toasted Crackers, and Smooth and Sharp Cheese Set! Net wt. 10.9 oz
+60	16.62	Gerber Graduates Pasta Pick-Ups Ravioli, Cheese, 8 Count
+64	6.99	American Processed Cheese Slices
+65	24.95	Hunters Reserve Wild Game Cheese Spread Variety Gift Box
+66	19.0	Roaring Brook Dairy Mozzarella Cheesemaking Kit
+67	8.0	Deli Direct Cheese Blocks Set
+68	45.05	California Delicious Gourmet Meat and Cheese Gift Basket
+69	29.0	Cheddar Ascent Gift Basket by Wisconsin Cheese Mart
+70	3.44	Too Good Gourmet Savory Cheese Crisps, Traditional, 7 Ounce
+71	32.2	Spanish Cheese Assortment (30 ounce) by igourmet
+72	20.43	Kraft-Macaroni & Cheese ,12/7.25 oz. boxes
+73	38.0	Five Pound Cheddar Wheel by Wisconsin Cheese Mart
+76	31.99	Igourmet Oktoberfest Cheese Assortment, 2-Pound
+77	17.51	Grana Padano, Aged Over 18 months - 1 Pound
+78	5.98	Andrew and Everett Grated Parmesan Cheese, 7 Ounce Bottle
+79	29.99	Hickory Farms Supreme Sausage Collection, 1.07 lbs, Sausage, Cheese & Crackers
+81	10.54	Velveeta ORIGINAL Pasteurized Cheese Loaf 32oz
+82	23.95	Tillamook Vintage Extra-Sharp Cheddar Cheese 2lb.
+83	34.99	Four Continents of Cheese in Gift Box (30 ounce)
+84	6.04	Old Fashioned Cheese Bacon De Lish Cheese Spread, 8 Ounce
+85	38.0	Cheddar Flight Gift Crate by Wisconsin Cheese Mart
+86	18.1	Ritz Handi Snacks Crackers 'n Cheese Dip - 30 SNACK PACKS of 0.95 oz
+88	10.5	Manchego Cheese (1 lb)
+90	10.79	Laughing Cow Spreadable Cheese Wedges Light, 8 pieces
+91	21.48	Annie's Homegrowns Variety Macaroni and Cheese, 12-count,  4.5 Pound
+92	15.92	Ritz Crackers, American Cheese Dip Variety Pack, 15.23 Ounce Box (Pack of 4)
+93	57.16	Kerrygold Aged Cheddar With Irish Whiskey Cheese, 7 Ounce (Pack of 6)
+94	5.5	Old Fashioned Cheese Nacho Squeeze Cheese, 11.5 Ounce
+95	58.65	Easy Cheese, American, 8 Ounce Can (Pack of 12)
+96	5.88	Old Fashioned Cheese Jalapeno Cheese Dip, 15 Ounce
+97	33.33	Jack Link's Combo Pack All American Beef & Cheese, 1.2-Ounce Packages (Pack of 32)
+98	57.94	California Delicious Meat and Cheese Gift Crate

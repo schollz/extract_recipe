@@ -1,0 +1,79 @@
+1	11.5	Ben's Sugar Shack, Pint of Grade A Dark Amber Pure Maple Syrup Award Winning, 16 Fl Ounce
+3	17.99	Ben's Sugar Shack, Grade A Dark Amber, of Pure Maple Syrup Award Winning, 1 Quart (946 ml)
+6	11.99	Ben's Sugar Shack, Sampler Set of Pure Maple Syrup, Four 1.7 oz. bottles
+7	9.99	Butternut Mountain Farm 100% Pure Vermont Organic Maple Syrup, 12 Ounce
+9	22.53	Hidden Springs Maple Vermont Maple Syrup, Quart Premium Grade B, 32 Ounce
+10	16.99	Stonewall Kitchen Maine Maple Syrup
+12	7.4	Ben's Sugar Shack, 1/2 Pint Grade A Dark Pure Maple Syrup
+13	28.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade B, Jug Half Gallon (64oz)
+14	20.14	Maple Syrup Powder - 1 lb,(Frontier)
+15	20.96	Signature 100% Maple Syrup Dark Amber, 33. 8 Fl OZ
+16	37.18	Hidden Springs Maple Vermont Maple Syrup, Half Gallon Grade A Dark Amber White Label, 64 Ounce
+17	16.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade A Dark, Jug 1 Quart (32oz)
+18	11.99	Amoretti Premium Syrup, Maple, 25.4 Ounce
+19	40.7	Hidden Springs Maple Vermont Maple Syrup, Half Gallon Grade A Medium Organic, 64 Ounce
+21	19.99	Jed's Vermont Maple Syrup - Maple Leaf Bottle (8.45 Oz) Certified Organic
+22	13.38	Hidden Springs Maple Pint Organic Vermont Premium B Syrup, 16 Ounce
+23	9.99	Maple Grove Farms Vermont Sugar Free Syrup, 24 Ounce
+24	17.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade B, Vermont Tin 1 Quart 4 fl. oz. (36oz)
+26	13.14	Ben's Sugar Shack, Glass Gallione, 8.5 oz
+27	128.47	Reese Maple Syrup, Pure, 8 Ounce
+28	2.99	Log Cabin Original Syrup, 24 Ounce
+29	23.46	Hidden Springs Maple Vermont Maple Syrup, Quart Premium Grade B Organic, 32 Ounce
+30	22.51	Vermont Maid Syrup, 24-Ounce (Pack of 3)
+31	36.69	Hidden Springs Maple Vermont Maple Syrup, Half Gallon Premium Grade B White Label, 64 Ounce
+32	22.19	NOW Foods Maple Syrup, Grade A Medium Amber, Certified Organic, 32 ounce Jug.
+34	21.95	Ain't Ya Mama's 100% Pure Organic Vermont Maple Syrup, Dark Robust (formerly 'Grade B'), 32-Ounce
+35	38.03	Hidden Springs Maple Half Gallon Vermont Fancy Syrup, White Label, 64 Ounce
+39	23.7	Kirkland Signature 100 Percent Maple Syrup, Dark Amber, 33.8 Fluid Ounce
+40	19.8	Mrs. Butterworth's original syrup, Thick-n-Rich!,64 fl oz Jug,pack of 2
+41	13.08	Hidden Springs Maple Vermont Maple Syrup, Pint Premium Grade B, 16 Ounce
+42	7.57	Joseph's Sugar Free Maple Flavor Syrup, 12oz
+43	30.11	McLure's Pure Maple Syrup, 64 Ounce
+45	13.08	Hidden Springs Maple Vermont Maple Syrup, Pint Fancy Grade, 16 Ounce
+46	28.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade B, Tin Half Gallon (64oz)
+47	16.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade B, Jug 1 Quart (32oz)
+48	13.95	Butternut Mountain Farms Maple Syrup Grading Sampler
+49	14.47	100% Pure Yacon Syrup  Certified Natural Fat Burning Sweetener  Best Alternative to Sugar and Maple Syrup  Yacon Syrup is a Low Calorie, Low GI, Delicious Sweet Tasting Sugar Substitute and Metabolism Booster  FULLY GUARANTEED
+50	23.22	Kraft Maple Pancake Syrup, 1.4-Ounce Cups (Pack of 120)
+52	12.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade A Dark, Log Cabin Tin Pint (16.9oz)
+53	32.99	Shady Maple Farms Organic Maple Syrup, Grade B, 32-Ounce Jug
+55	14.55	Maple Grove Maple Syrup, Og, Gr A, Glass, 8.50-Ounce
+56	41.25	Hidden Springs Maple Vermont Maple Syrup, Half Gallon Grade A Dark Organic, 64 Ounce
+58	21.82	Kirkland Signature Maple Syrup 33.8 fl.oz.
+59	28.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade A Medium, Jug Half Gallon (64oz)
+60	9.99	Jed's Pure Vermont Maple Syrup Certified Organic - Maple Leaf Grade A - 1.4 oz.
+61	22.85	Hidden Springs Maple Vermont Maple Syrup, Quart Fancy Grade, 32 Ounce
+62	18.99	Cleary's Pure Quebec Maple Syrup (250 ml)
+63	18.99	Maple Grove Farms Pure Maple Syrup 12.5 fl. oz.
+64	3.69	Walden Farms Syrup, Blueberry, 12 Ounce
+65	19.99	Infused Vermont Maple Syrup - Bourbon By Jed
+66	19.99	Jed's Vermont Maple Syrup - Moose Engraved Bottle Certified Organic - 8.45 oz
+67	15.9	Maple Hard Candies - 1 lb. Bag
+68	10.97	Maple Syrup Tree Tapping Harvest Kit
+69	12.95	Aunt Jemima Original Syrup 64 Ounce Mega Value Size Bottle
+70	28.38	Maple Grove Farms Dark Amber Syrup, Pure Maple, 32 Ounce
+72	9.45	Aunt Jemima Original Pancake Syrup 24 oz
+73	10.46	Butternut Mountain Farm Pure Maple Sugar Candy, 4 Ounce Box
+74	16.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade A Medium, Jug 1 Quart (32oz)
+75	3.89	Walden Farms - Calorie Free Pancake Syrup - 12 oz.
+76	5.95	Organic Crown Maple Syrup - Medium Amber 1.7 Fl-oz
+77	29.79	Trader Joes 100% Pure Maple Syrup
+78	27.64	Family Heritage Organic Vermont Maple Syrup, Grade B, 32oz Jug
+79	55.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade B, Jug 1 Gallon (128oz)
+80	23.46	Hidden Springs Maple Vermont Maple Syrup, Quart Grade A Medium Organic, 32 Ounce
+81	5.61	Maple Grove Farms Blended Candy, Fancies and Leaf, 2.5 Ounce
+82	12.0	Maple Syrup, Sugar Free - Blackberry Patch 12 fl. Oz Bottle - Authentic Maple Flavor, Old Fashioned Style Syrup for Pancakes, Waffles and French Toast, Thick and Sweet - Low Calorie to Keep the waist line thin through the holidays!
+83	17.28	Great Lakes 100% Pure Michigan Maple Syrup, 16 Ounce
+84	22.79	Kirkland Signature Maple Syrup 33.8 oz
+86	13.05	Smucker's Sugar Free Breakfast Syrup, 14.5 Oz (Pack of 2)
+87	5.91	Hungry Jack Honey Maple Syrup 24 oz
+89	9.49	Jed's Pure Vermont Maple Syrup Certified Organic - Ginger Bread Man - 1.7 oz.
+90	9.29	Log Cabin No High Fructose Corn Syrup, Original, 12 Ounce
+92	23.46	Hidden Springs Maple Vermont Maple Syrup, Quart Grade A Dark Organic, 32 Ounce
+93	27.81	Stonewall Kitchen Maine Maple Syrup, 16 Ounce
+94	26.99	Pure Maple Sugar Candy, 8-ounce gift box
+95	10.0	Ferguson Farms 100% Pure Vermont Maple Syrup, Grade A Dark, Jug 1 Pint (16oz)
+96	9.99	Butternut Mountain Farm 100% Pure Vermont Maple Syrup, 12 Ounce
+97	26.54	Butternut Mountain Farm Vermont Maple Syrup, Grade A Dark Amber, 1-Quart Jug
+99	39.99	Mansfield Maple- Half Gallon Pure Vermont Maple Syrup Grade A Dark Robust (Vermont Grade B)- 64oz Glass Bottle

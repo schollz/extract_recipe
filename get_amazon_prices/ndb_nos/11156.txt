@@ -1,0 +1,86 @@
+0	9.95	Harmony House Foods, Dried Chives, Chopped, 2 Ounce Quart Size Jar
+1	10.26	Mother Earth Products Dried Chives, Green Onions, 1 Full Quart
+2	9.18	Tone's Chopped Chives - 1.12oz shaker
+4	11.87	Whole Spice Chives Cut and Sifted, 4 Ounce
+5	3.99	Frontier Natural Products Chives Freeze-Dried, 0.14-Ounce
+6	30.0	Frontier Chives, Dehydrated, C/s, 16 Ounce Bag
+7	2.62	Faeries Finest Chives, 0.60 Ounce
+8	10.25	Jansal Valley Chives, 2 Ounce
+9	4.89	Simply Organic Dill Weed Cut & Sifted Certified Organic, 0.81-Ounce Container
+10	22.42	Whole Spice Chives  C/S, 1 Pound
+11	10.62	Marshalls Creek Spices Chives Seasoning, 1 Ounce
+12	7.75	Ajika Organic Chives, 0.3-Ounce
+14	15.25	Marshalls Creek Spices X-Large Size Chives Spices, 2 Ounces
+15	30.91	McCormick Chives, Freeze Dried, 1.35-Ounce Units (Pack of 3)
+17	10.01	Litehouse Freeze Dried Chives (7 gms) 1 Bottle
+18	11.47	Marshalls Creek Spices Chives Seasoning Refill, 1 Ounce
+19	20.26	Tone's Chopped Chives - 1.12 oz. shaker (2 Pack)
+20	14.99	1.35oz McCormick Freeze Dried Chives, Pack of 1
+21	16.0	Lance: Captain's Wafers Crackers Cream Cheese & Chives (3 Boxes)
+23	16.49	Gustus Vitae Gourmet Seasoning, Taste of Bordeaux, 16 Ounce
+24	19.09	Lance Captain's Wafers Crackers Cream Cheese & Chives - 3 Boxes of 8 Individual Packs
+25	16.84	Litehouse Freeze Dried Chives (.25 oz Jars) 2 Pack
+27	30.62	Betty Crocker Potatoes, Sour Cream & Chives 4.8 oz (Pack of 12)
+28	24.97	Tones Chopped Chives 1.12 Oz Shaker & Minced Onion 15 Oz Shaker
+29	37.72	Chives Cut & Sifted Organic - 1/2 lb,(Frontier)
+30	37.72	Chives Cut & Sifted Organic - 1/2 lb,(Frontier)
+32	8.29	Walkers Doritos Cool Sour Cream & Chives Dip (300g)
+33	28.33	Annie's Naturals Dressing, V/F, Lmn and Chives, 8-Ounce (Pack of 6)
+34	39.36	Frontier Bulk Chive Flakes, 1 lb. bag - Single Item
+35	32.79	Pasta Roni Sour Cream & Chive Linguine Mix, 4.9-Ounce Boxes (Pack of 12)
+36	12.06	Smoked Paprika, Garlic, Chili and Chives
+37	6.5	Lance Captain's Wafers Crackers Cream Cheese & Chives - One Box of 8 Individual Packs
+38	8.25	Walkers Crisps 6 Pack (Sour Cream and Chive)
+39	39.04	Penn State - Pretzels - Sour Cream & Chive - 175g (Case of 12)
+40	7.99	Frontier Natural Products Co-op Chives Freeze-Dried C/S
+41	6.95	Badia Chives 0.25 oz(Pack of 2)
+43	4.49	100% Certified Organic Chives 0.2 oz (5.7 grams) Flakes
+45	10.99	Sour Cream and Chives Powder, 8 oz.
+46	3.25	Chives Chopped 0.3 oz.
+47	43.62	Annie's Naturals Dressing Lemon and Chive 8 OZ(Pack of 12)
+48	21.09	Spice Islands Chives, Snipped Freeze Dried, .1-Ounce (Pack of 3)
+49	17.36	Faeries Finest Fine Herbes, 1.20 Ounce
+50	17.5	cruncha ma-me All Natural Freeze-Dried Edamame Veggie Snacks 5-Flavor Variety: One 0.7 oz Packet Each of Sea Salt & Black Pepper cruncha ma-me, Jalapeno cruncha ma-me, Onion & Chive cruncha ma-me, Lightly Seasoned cruncha ma-me, and Naked cruncha ma-me in a Gift Box
+51	39.95	Lance Cream Cheese and Chives Captain Wafer 120ct
+52	45.69	Gourmet Village Onion Chive Dip Mix
+53	42.38	Real McCoy's Rice Chips Worchester and Chives Gluten Free, 6-Ounce (Pack of 12)
+55	25.68	Country Collection Spuds ' Chives Potato Soup, 11-Ounce. Bags (Pack of 4)
+56	9.13	Stonewall Kitchen Sour Cream and Chive Potato Sticks, 5 Ounce Carton
+57	14.94	Eda-Zen Toasta ma-me Toasted Edamame Onion and Chive -- 3.5 oz
+58	5.79	Penn State Pretzels - Sour Cream & Chive (175g)
+59	13.99	Hoosier Hill Farm Sour Cream and Chives Powder 1 lb
+61	40.27	Gourmet Village Dip Mix Onion Chive -- 0.6 oz
+62	8.4	Annie's Naturals Dressing Lemon and Chive 8 OZ
+63	38.45	Spice Hunter Chives, Freeze Dried California 0.13 oz (Pack Of 6)
+65	4.98	Celebration Herbals Organic Chives Freeze Dried -- 3 g
+66	37.75	Pasta Sour Cream & Chive 4.9OZ (Pack of 12)
+67	14.99	Mrs. Miller's Amish Homemade Caramelized Onion & Chive Jam 8 oz/226g - Pack of 2 (Boxed)
+68	49.95	POPCORN SEASONING SOUR CREAM & CHIVES #2351 4 LB JAR LB
+69	11.99	XL Size Marshalls Creek Spices Chives 2 oz
+70	7.71	Roland Quinoa, Onion and Chive, 5.46 Ounce
+71	12.95	Caramelized Onion & Chive Jam (Amish Made) ~ 2 / 8 Oz. Jars
+72	17.51	Puget Vinaigrette with Chives and Shallots from France - 10.48 oz
+73	2.19	Lake Valley Seed - Organic Chives Seeds - 750 mg.
+74	15.99	McCormick, Perfect Pinch, Bacon and Chive Seasoning, 2.25oz Bottle (Pack of 3)
+75	45.22	Chives - Dehydrated, Cut and Sifted, 1 lbs
+76	6.81	Lance Captains Wafers Cream Cheese and Chives (2pk)
+77	10.99	Premium Potato Flakes, Sour Cream & Chives flavor, Hoosier Hill Farm 1 lb. Jar
+78	9.92	Terrapin Ridge Farms Dip, Bacon and Chive, 8.5 Ounce
+79	33.34	Lance Captain's Wafers Crackers Cream Cheese & Chives -Six Boxes of 8 Individual Packs
+80	21.59	Nabisco Brown Rice Triscuit Thin Crisps Sour Cream & Chive Crackers, 7.6oz Box (Pack of 3)
+81	6.75	Sour Cream & Chives (2 oz Bag)
+83	24.0	Iveta Gourmet Biscuit Mix, Chili Chive, 7.7-Ounce Units (Pack of 4)
+84	29.0	Durkee Chives Chopped And Freeze Dried, 1-Ounce Containers (Pack of 3)
+85	5.99	Watkins All Natural Spice, Chopped Chives, 0.12 Ounce
+86	11.96	Lance Captain's Wafers Cream Cheese & Chives Crackers (40 ct.)
+87	17.0	Chives Chopped - 1/2 lb
+88	29.49	Chive Powder 2.2 lbs (1 kg)
+89	14.99	Concord Foods, Roasted Potato Bacon & Chive Seasoning Mix, 1.25oz Packet (Pack of 6)
+91	22.45	Boursin Shallot and Chive (3 pack)
+92	20.0	Chive Infused Laconiko Extra Virgin Olive Oil 375ml
+93	38.39	Tone's Chopped Chives - 1.12 oz. shaker (4 Pack)
+94	15.0	cruncha ma-me All Natural Freeze-Dried Edamame Veggie Snacks 3-Flavor Variety: One 0.7 oz Packet Each of Sea Salt & Black Pepper cruncha ma-me, Jalapeno cruncha ma-me, and Onion & Chive cruncha ma-me in a Gift Box
+96	7.99	TSM Chives, Air Dried, 2 oz.
+97	9.28	Mrs. Miller's Onion & Chive Jelly, 8-ounces
+98	23.45	Badia Chives Dehydrated, 1 Ounce (Pack of 6)
+99	14.95	Roasted Garlic, Dried Tomato and Chive Instant Veggie Burger Mix

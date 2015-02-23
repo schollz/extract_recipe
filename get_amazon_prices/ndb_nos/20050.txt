@@ -1,0 +1,75 @@
+1	26.93	Botan Calrose Rice, 15-Pound
+2	13.39	Sushi Rice Japanese style - 5 lb
+3	31.6	Kokuho Rose Rice, 15-Pound
+4	19.99	Botan Musenmai Calrose Rice, 5-Pound Bags (Pack of 4)
+5	28.22	CJ Cooked White Rice, 7.4-Ounce Containers (Pack of 12)
+6	7.44	NISHIKI Premium Musenmai Rice, 2-Pound (Pack of 3)
+7	34.92	Dynasty Jasmine Rice, 20-Pound
+8	8.4	Riceland extra long grain rice, 25-lb. bag
+9	27.62	Nishiki Premium Brown Rice, 15-Pounds Bag
+11	37.31	Tamanishiki Super Premium Short Grain Rice, 15-Pound
+12	13.12	Botan Calrose Rice (5#)
+14	13.91	Botan Calrose Rice Extra Fancy
+15	18.72	Botan Musenmai Calrose Rice, 20-Pound Bag
+16	18.15	BOTAN Musenmai Calrose Rice, 10-Pound
+17	11.96	Dynasty Jasmine Rice
+20	18.99	Tamaki Gold - Signature Quality California Koshihikari Short Grain Rice (5 lb Bag)
+21	35.0	Kokuho Rose Brown Rice - 20lb Bag
+22	10.3	RiceSelect Royal Blend, Texmati White, Brown, Wild, and Red Rice, 21 Ounce Jar
+23	11.92	Rice Krispies Toasted Rice Cereal, 18-Ounce Boxes (Pack of 4)
+24	14.16	Nishiki Premium Sushi Rice 5 LB
+28	24.99	Tilda Basmati Rice, 11-Pound Bag
+29	15.5	Thai Sticky Rice (Sweet Rice) 5 Lbs
+31	15.0	Uncle Ben's Original Converted Enriched Parboiled Long Grain Rice 5 lbs
+32	37.46	Nozomi Super Premium Short Grain Rice, 15-Pound
+33	25.0	Kokuho Calrose Rice Yellow, 15 Pound
+40	12.54	Minute Instant Enriched Long Grain White Rice, 72oz
+41	6.73	Carolina Enriched Rice Long Grain 5 lbs
+43	5.38	Lundberg Organic Wild Rice, 8 Ounce
+44	22.14	Lundberg Jubilee, Gourmet Blend of Whole Grain Brown Rice, 16-Ounce Units (Pack of 6)
+45	16.99	Koshihikari Premium Sprouted Brown Gaba Rice, 2.2-Pound Pouches (Pack of 2)
+46	45.36	Sempio Medium Grain Rice, Calrose, 40 Pound
+47	16.09	Nishiki Steamed White Rice, 7.4-Ounce (Pack of 6)
+48	7.79	Earths Best - Organic - Rice Cereal - 8 Oz 2 Pack
+49	24.95	Uncle Ben's Original Long Grain Rice 12 lb. bag
+50	20.25	Uncle Ben's Ready Rice 6 Pouch Value Assortment Box , 6 x 8.8 oz (250 g) NET WT 3.3 lb
+51	16.95	Tamanishiki Super Premium Rice, 4.4-Pounds
+52	15.93	NISHIKI Premium Brown Rice, 5-Pound
+53	8.5	Palmetto Farms White Aromatic Basmati Rice
+54	21.92	Roland Brown Basmati Rice, 11-Pounds Bag
+55	26.4	GoGo Rice White Rice Bowl, Organic, Microwaveable, 7.4 Ounce Bowls (Pack of 12)
+57	17.88	Lundberg Organic California Jasmine Rice, Brown, 16 Ounce (Pack of 6)
+58	74.99	Emergency Food Supply - White Rice - 112 servings
+59	31.4	Minute Ready to Serve Long Grain White Rice 2 - 4.4 oz cups (Pack of 8)
+60	44.89	Royal Basmati Rice 20-Pound Bag
+62	15.99	Mahatama, Basmati Rice, 2lb Bag
+64	18.94	Molinella Italian Arborio Rice, 1-Pound Boxes (Pack of 6)
+65	11.04	Nishiki Cooked Brown Rice, 7.4-Ounces (Pack of 6)
+66	14.95	Dynasty Jasmine Rice, 5 Lb
+67	15.95	Dynasty Jasmine Brown Rice, 5-Pound
+69	17.89	Kellogg's Rice Krispies Treats Original Crispy Marshmallow Squares .78 oz Bars - 54 Bars
+70	24.95	Royal Basmati Rice in Plastic Bag, 10 Pound
+73	11.5	Golden Star Prime Grade Hom Mali Jasmine Rice 2 LB.
+76	5.78	Earth's Best Certified Organic Whole Grain Rice Cereal -- 8 oz Each / Pack of 2
+77	20.0	Goya Jasmine Rice, 5 Pound
+78	17.15	Seeds of Change Microwavable Quinoa and Brown Rice with Garlic, 8.5-Ounce (Pack of 4)
+79	54.69	Lundberg Eco-Farmed California White Basmati Rice, 25-Pound
+80	11.33	Bergin Nut Company Wild Rice, 16 Ounce Bags
+81	14.99	Seeds of Change Quinoa and Brown Rice, 8.5 oz./6pack
+82	21.08	Gourmet House Wild Rice, 16-Ounce (Pack of 4)
+83	22.95	ZATARAIN'S Reduced Sodium Red Beans and Rice, 8-Ounce (Pack of 6)
+84	37.89	Royal Basmati Rice, 15-Pound Bag
+85	14.48	Trader Joe's Organic Brown Basmati Rice
+87	31.2	Nature's Path Organic Rice Puffs Cereal, 6-Ounce Bags (Pack of 12)
+88	8.5	Palmetto Farms Brown Aromatic Basmati Rice
+89	9.26	Three Ladies Spring Roll Rice Paper Wrappers (Round 22cm 3pks)
+90	24.35	Tamanishiki Super Premium Rice, 4.4-Pound (Pack of 2)
+91	71.7	Lundberg Organic California White Jasmine Rice, 25-Pound
+92	21.13	Bob's Red Mill Rice Basmati Brown, 27-Ounce (Pack of 4)
+93	12.0	Rice-A-Roni Broccoli Au Gratin, 6.5-Ounce Boxes (Pack of 12)
+94	26.21	Tamaki Haiga - Shortgrain Rice
+95	10.33	Shirakiku - Instant Cooked Rice 3 Pk.
+96	14.95	Authentic Foods Superfine White Rice Flour - 3lb
+97	12.63	Botan Calrose Brown Rice (5#)
+98	11.76	Marukan Seasoned Gourmet Rice Vinegar
+99	19.96	Bob's Red Mill Rice Wild/Brown Mix, 27-Ounce (Pack of 4)

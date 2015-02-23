@@ -1,0 +1,70 @@
+1	21.0	Libby's Canned Pumpkin, 106 Ounce
+2	10.89	Libby's 100% Pure Pumpkin 3 PK 29oz. Cans
+3	5.4	CB's Nuts Organic Pumpkin Seeds, 4 Ounce
+4	23.19	Organic Whole Food Pumpkin Powder by Activz,285G (10.1oz)
+5	2.98	Kashi TLC Crunchy Granola Bar, Pumpkin Spice Flax, 6 - 2 bar pouches, Net Wt. 8.4 Ounce
+6	7.0	Libby's 100% Pure Pumpkin 15 oz
+7	47.32	Nummy Tum Tum Pure Pumpkin For Pets, 15-Ounce Cans (Pack of 12)
+9	6.0	Jif Whips Whipped Peanut Butter & Pumpkin Pie Spice :: Limited Edition 15 oz
+10	7.59	Sconza Pumpkin Pie Almonds, 24 Ounce
+11	28.09	Nummy Tum Tum Pure Sweet Potato for Pets, 15-Ounce Cans (Pack of 12)
+13	12.49	Trader Joes Pumpkin Spice Chai Tea Latte Mix
+14	6.49	Quaker Pumpkin Spice Instant Oatmeal ~ Limited Edition 8 Count Box - 1 Box
+15	4.89	Nestle Toll House Pumpkin Spice Chips
+16	4.5	Celestial Seasonings Sweet Harvest Pumpkin Black Tea, 20-Tea Bags, 2.3oz.
+17	8.59	Kellogg's Pop-Tarts - Pumpkin Pie (Limited Edition) - 12 Toaster Pastries, 21.1-oz. Box
+18	2.59	Twinings Chai Tea, Pumpkin Spice, 20 Count
+19	8.09	Pumpkin Spice M&Ms Chocolate Candies 9.9 oz. Bag (2 Pack)
+20	12.49	Trader Joes Pumpkin Spice Chai Tea Latte Mix
+21	12.69	Nuts N More Pumpkin Peanut Butter, 16 Ounce
+24	9.37	Krusteaz Pumpkin Spice Pancake Mix
+25	14.15	Nestle Coffee Mate Pumpkin Spice Creamer 15-oz Coffeemate Non Dairy Creamer (Pack of 2)
+26	12.5	Starbucks VIA(r), Ready Brew, Pumpkin Spice Latte
+27	16.49	20-count - Limited Edition Fall Flavors Coffee Variety Pack for Keurig(r) K-cup(r) Brewers - Featuring Pumpkin Spice Blend, Vanilla Velvet, Raspberry Truffle, Butter Toffee Tsunami, Spiced Apple Cider, Cinnamon Roll, Pumpkin Pie, Caramel Apple Cider, Caramel Creme and Pumpkin Spice Cappuccino.
+28	6.0	Hershey's Kisses, Pumpkin Spice, 10-Ounce
+30	28.39	Libby's 100% Pure Pumpkin, 15-Ounce (Pack of 8)
+31	16.99	Cafe Escapes Pumpkin Spice K-Cups, 16 Count
+32	5.25	Ghirardelli Pumpkin Spice Caramel Chocolate Squares 10.64 Oz
+34	15.3	Trader Joes This Pumpkin Walks Into a Bar 6- 1.3oz bars
+35	11.95	Pumpkin Pretzels...14 Oz. Bag
+36	46.99	Green Mountain Coffee Fair Trade Pumpkin Spice K-Cups 80 Count Value Box
+39	9.99	Trader Joes Pumpkin Butter
+41	32.89	David Seeds Pumpkin Seeds, 5.0 Ounce (Pack of 12)
+43	8.99	Trader Joe's Dark Chocolate Pumpkin Spice Salted Caramels - 6.2oz Box
+44	10.4	Nestle Japanese Kit Kat Pumpukin Pudding Flavor (13 bar)
+45	18.99	Farmers Market Pumpkin Puree 100% Organic 3x15oz
+47	4.44	M&M's Pumpkin Spice Flavored Chocolate Candies, 9.90 oz. bag (Pack of 4)
+48	8.68	Torani Pumpkin Pie Sauce, 16.5 oz Squeeze Bottle
+52	17.52	Bob's Red Mill Pumpkin Seeds, 24 oz
+53	16.5	Nature's Path Organic Flax Plus Pumpkin Granola Cereal, 11.5-Ounce Boxes (Pack of 6)
+54	14.99	Limited Edition Pumpkin Spice Oreos and Pumpkin Spice M&Ms
+56	12.54	Green Mountain Coffee K-Cup 18 pk Pumpkin Spice
+57	19.05	Pumpkin Spice Almonds - 2 Pack
+58	19.97	Libby's, 100% Pure Pumpkin, 15oz Can (Pack of 6)
+59	7.94	Grove Square Pumpkin Spice Cappuccino, 12 Single Serve Cups
+61	14.55	Trader Joe's Organic Frosted Toaster Pastries Pumpkin (2 Pack)
+63	38.78	Pacific Natural Foods Organic Pumpkin Puree, 16 Ounce (Pack of 12)
+65	22.74	Doctor Kracker Flatbread, Pumpkin Cheddar, 7-ounces (Pack of6)
+66	7.29	Tazo Chai Pumpkin Spice :: Box of 20 Teabags
+69	9.99	Coffee-Mate Powder, Pumpkin Spice, 15 oz
+70	26.34	Nature's Path Organic Granola Bars, Pumpkin-n-Spice, Flax Plus, 1.2 Ounce,  6-Count Boxes (Pack of 6)
+71	18.49	Trident Layers Pumpkin Spice Limited Edition Sugar Free Gum, 12 Packs (14 piece pkgs.)
+75	41.83	Nature's Path Organic  Flax Plus, Pumpkin Granola Cereal, 26.4-Ounce Bags (Pack of 6)
+76	23.47	Torani Pumpkin Pie Sauce(64 Fl Oz)
+77	13.73	Krusteaz Pumpkin Spice Baking Mix 3 Pack 45oz
+78	13.9	Jif Whips Whipped Peanut Butter & Pumpkin Pie Spice (2 Pack)
+80	56.38	Bob's Red Mill Pumpkin Seeds, Raw, 24-Ounce Packages (Pack of 4)
+84	20.99	Bark Thins Snacking Dark Chocolate Pumpkin Seed with Sea Salt, 17 Ounce
+86	4.95	Hershey's Kisses with Pumpkin Spice Flavored Milk Chocolate Candy, 10-Ounce Bag (Pack of 2)
+88	10.99	Hershey's Kisses, Pumpkin Spice, 10-Ounce (Pack of 4)
+89	10.99	Roasted Salted Pepitas (No Shell Pumpkin Seeds) 1 Pound Bag - Oh! Nuts
+90	39.57	Pillsbury Pumpkin Quick Bread, 14-Ounce Boxes (Pack of 12)
+91	14.8	Torani(r) Pumpkin Pie Syrup Sugar Free
+92	15.89	Pumpkin Seeds Roasted Unsalted, 2 Lbs
+93	10.12	Brittle Me This, Caramel Corn+Cranberries+Pumpkin Seeds (20 oz.)
+94	11.9	Go Raw Live Pumpkin Bar, 10 - 13 gram Bars
+95	20.9	Pumpkin Seed Powder (Grown in Oregon USA) Organic
+96	5.69	Plum Organics Mighty Puff'ems Cheesy Pumpkin Sage, 1.5 oz
+97	13.99	Indian Pumpkin Seeds Salted, 5/16 oz, 36 count
+98	14.29	Tazo Chai Pumpkin Spice :: Box of 20 Teabags (2 Pack)
+99	7.33	Trader Joe's Pumpkin Bread & Muffin Mix

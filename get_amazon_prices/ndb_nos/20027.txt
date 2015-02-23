@@ -1,0 +1,80 @@
+0	6.99	Argo 100% Pure Corn Starch, 16 Oz
+2	9.0	ARGO Cornstarch - 35oz
+3	1.39	100% Pure Corn Starch (16 oz, 454 g)
+4	2.19	Corn Starch, 1 lb.
+5	5.99	Clabber Girl 100% Pure Corn Starch - 6.5 oz
+6	3.9	Argo Corn Starch - 16 oz
+8	3.19	Rapunzel Organic Corn Starch, 8 oz
+9	20.53	Bob's Red Mill Corn Starch, 22-Ounce (Pack of 4)
+10	7.49	Argo 100% Pure Corn Starch, 16 Ounce
+11	26.15	Rapunzel Pure Organic Corn Starch, 8-Ounce Boxes (Pack of 6)
+12	11.49	Argo Corn Starch 16 Ounce Box Pack of 3
+13	53.99	Corn Starch - 50 Pound Bag
+14	17.18	Let's Do...Organic Organic Cornstarch, 6-Ounce Boxes (Pack of 6)
+15	9.43	Clabber Girl Corn Starch 2 Pack of 6.5oz (13oz total)
+16	23.97	Argo 100% Pure Corn Starch - 16 oz (6 pack)
+17	7.77	Rumford Naturals Corn Starch, 12 oz
+18	26.97	ARGO Cornstarch - 35oz - CASE PACK OF 4
+19	18.99	ARM & HAMMER Baking Soda - 13.5 lb. bag
+20	8.48	Argo 100% Pure Corn Starch 16oz
+21	15.1	Bob's Red Mill Corn Starch - 22 oz - 3 pk
+22	6.16	Maizena Corn Starch, 14.10 oz.
+23	18.29	MILLIARD 100% Pure Food Grade Citric Acid, 5lb.
+25	2.56	One 24 oz (1 lb 8 oz) 680 g Bob's Red Mill, Potato Starch Unmodified, Gluten Free
+26	8.89	Argo Corn Starch - 16 oz. (pack of 2) 100% PURE Gluten Free
+28	32.84	Argo 100% Pure Corn Starch 16 oz (Pack of 12)
+29	33.69	Cream Corn Starch, 16 Ounce (Pack of 12)
+30	9.5	Corn Starch - 16.01oz (Pack of 3)
+31	19.59	Spicy World Citric Acid, 5-Pound
+32	10.26	Cornaby's Ultra Gel - Instant, Gluten-Free, non-GMO Food Thickener for Cooking and Canning, 16-Ounces
+33	6.3	Hol Grain Rice Starch, 6 Ounce
+34	4.07	Rumford Corn Starch ( 1x12 OZ)
+35	27.59	Rumford Naturals Corn Starch, 12-Ounces (Pack of 6)
+36	80.0	Clabber Girl Corn Starch, 21 Pound
+39	12.34	Frontier Natural Products Organic Cornstarch -- 16 oz
+41	11.99	Clabber Girl, Corn Starch, 12oz Canister (Pack of 3)
+42	2.89	Let's Do - Organic Cornstarch - 6 oz.
+43	15.23	Authentic Foods Arrowroot Flour, 2.5 lbs
+44	16.27	4mular Pure-Cote Corn Starch Modified, 24 Ounce
+45	13.95	Dixie Carb Counters Chocolate Orange Ginger Muffin Mix
+46	18.99	High Protein Pancake Mix Made by ProCakes
+47	9.99	Corn Starch 2.5 Lb Pack
+48	14.89	Authentic Foods Potato Starch - 3 lb
+51	6.48	Organic Corn Starch - 5.3oz
+52	17.98	Tasty Bite Bombay Potatoes Heat & Eat Entree, 10 Ounce Pouches (Pack of 6)
+53	4.59	Bob's Red Mill Corn Starch - 22 oz
+54	80.49	Argo 100% Pure Corn Starch 16 OZ (Pack of 24)
+55	9.67	Instant Clear Jel, 1 lb.
+56	12.59	Gefen Corn Starch, 16 Ounce
+57	5.99	Pelagomas Corn Starch Mexican Candy Gummies Pineapple/Pina 72 pcs Gomitas Jovy
+58	14.95	Corn Starch 5 Lb Pack
+59	67.26	Cream Corn Starch 16OZ (Pack of 24)
+60	89.25	Organic Corn Starch - 6.6lbs Bag
+61	7.25	Tapioca Starch / Flour
+62	10.99	Hoosier Hill Farm Premium Arrowroot Powder, 1 Lb.
+63	13.9	Maizena - Amido de Milho (Corn Starch) (Pack of 2)
+65	26.67	Hodgson Mill Pure Corn Starch, 16-ounces (Pack of12)
+67	36.44	Rapunzel: Organic Corn Starch (6 X 8 Oz)
+68	1.89	Corn Starch-Gussnel 7.1oz
+69	50.42	Maizena Corn Starch, Regular/Unflavored, 14.1Ounce Boxes (Pack of 24)
+70	19.99	Ultra-tex Value Pack (Ultra-tex 3 + Ultra-tex 4 + Ultra-tex 8) - 150g/6oz
+71	6.95	Arrowroot Powder 4 Ounces (1/4 Pound)
+72	5.99	Pelagomas Corn Starch Mexican Candy Gummies Mango Flavor 72 pcs MANGO Gomitas Jovy
+73	9.95	Hodgson Mill Pure Corn Starch, 16-ounces (Pack of 3)
+74	36.29	Ener-G Foods Corn Loaf, 8-Ounce Packages (Pack of 6)
+75	44.58	DDI 1186694 Corn Starch 16 Ounce Case Of 12
+76	41.9	Rumford Corn Starch 12 OZ (Pack of 9)
+77	40.49	Argo Starch 16oz Red Box 12 count
+78	13.67	4mular Corn Maltodextrin Food Additives, 21 Ounce
+79	28.99	Murad Pure Skin Clarifying Dietary Supplement, Tablets, 120 tablets
+85	25.97	Brussel's CT9005CE Chinese Elm Bonsai
+87	35.0	Wholesome Sweeteners Fair Trade Organic Powdered Sugar, 16-Ounce Pouches (Pack of 6)
+88	8.37	Rumford Corn Starch (1x12 OZ) ( Multi-Pack)
+89	2.29	Corn Flour, 7oz
+90	15.2	Gustaf's Sour Apple Laces, 2-Pound Bags (Pack of 2)
+91	24.99	Gold Medal Corn Muffin Mix, 5-Pound
+93	19.44	Gustaf's Grape Laces, 2-Pound Bags (Pack of 2)
+94	46.24	MANISCHEWITZ Potato Starch Canister, 16-Ounce (Pack of 4)
+95	140.99	Hi-Maize Resistant Starch - 50 Pound Bag
+96	16.56	Haribo Gummi Candy, Pink Grapefruit, 5-Pound Bag
+98	5.99	Jake & Amos Pickled Sweet Baby Corn - 16 Ounce

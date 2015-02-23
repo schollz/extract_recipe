@@ -1,0 +1,84 @@
+0	4.69	Simply Organic Curry Powder Certified Organic, 3-Ounce Bottle
+1	11.23	McCormick Curry Powder, 16-Ounce
+3	8.05	CHIEF (Indian Head) Curry Powder, 8.1 oz
+4	8.28	Marshalls Creek Spices Curry Powder Seasoning, Indian- 12 Ounce
+5	13.75	Starwest Botanicals Organic Curry Powder, 1-pound Bag
+6	6.28	S&B Curry Powder, Oriental, 3 oz (85 g)
+7	7.59	Rajah Madras Curry Powder (Mild) - 3.5oz
+8	16.15	Blue Mountain Jamaican Curry Powder Hot -22oz
+9	7.75	Madras Curry Powder (SunBrand) 4oz (113g)
+11	17.07	Badia Spices inc Curry Powder, 16-Ounce (Pack of 3)
+14	17.0	Blue Mountain Jamaican Curry Powder Mild -22oz
+16	16.59	Madras Curry Powder (SunBrand) 16oz (454g)
+17	25.97	Lalah's Heated Indian Curry Powder 3 Lb Large
+18	12.2	Lalah's Madras Curry Powder-1lb
+19	5.4	Blue Mountain Country Curry, 6-Ounce
+20	7.49	Rajah Madras Curry Powder (Hot) - 3.5oz
+21	15.5	S&B Oriental Curry Powder (Pack of 3)
+22	11.28	S&B Curry Powder, Oriental, 3 oz (85 g) (Pack of 2)
+23	15.4	CHIEF CURRY POWDER 500G, 17.5 OZ MADE IN TRINIDAD & TOBAGO
+24	10.99	Ship Madras Curry Powder 250g
+25	9.95	Teeny Tiny Spice Co. of Vermont Organic British Curry, Flavor of the Empire, Medium, 2.8 Oz
+26	15.99	Rani Curry Powder Hot 16Oz
+27	9.99	Jiva USDA Organic Curry Powder Mild 1 Pound Jar
+28	9.8	Chief Curry Powder - 3oz - 3 PACK
+29	31.75	Sun Brand Madras Curry Powder, 4-Ounce Tins (Pack of 12)
+30	16.0	Ship Madras Curry Powder 500g
+31	5.88	Spicy World Madras Curry Powder, 7 Ounce Pouch
+34	4.09	Frontier Organic Seasoning, Balti Curry, 1.8 Ounce
+35	13.95	Real Jamaican Curry Powder, 8oz
+36	17.0	Thai Green Curry Powder - Simply A Premium Quality Blend By Leena Spices(r)- Money Back Guarantee - Free Ebook With 70 Garam Masala Recipes - Blend Of 14 Premium Herbs And Spices- Green Thai Curry Mix Recipe At The Back Of Packet - A Great Addition To Thai Kitchen Grocery - Use Just Two Teaspoons - Makes Many Dishes - 50g / 1.76oz.
+37	7.99	Rajah Curry Powder Medium 100g Box
+38	4.99	Madras Curry Powder - Sun Brand
+39	8.5	CHIEF HOT & SPICY CURRY POWDER, 3OZ, 85G, DUCK AND GOAT BLEND MADE IN TRINIDAD & TOBAGO
+40	24.42	Simply Organic Curry Powder Certified Organic, 3-Ounce Bottles  (Pack of 3)
+41	7.99	Rani Curry Powder Hot 3oz
+42	5.99	Bolst's Curry Powder Hot 3.5oz
+43	4.79	Simply Organic Ginger Root Ground Certified Organic, 1.64-Ounce Container
+44	20.87	Jamaican Choice Jamaican Curry Powder 22 Oz - HOT
+45	19.97	Flavor Of The Earth Organic Turmeric (Curcumin) Powder 1lb - Ultra Pure Freshly Ground and Immediately Packed in our Re-sealable Flavor Pouch
+46	13.49	Frontier Herb Curry Powder (1X1lb)
+48	6.22	S&B Golden Curry Sauce Mix, Mild, 8.4-Ounce
+49	16.8	Sun Brand Madras Curry Powder, 1 Pound
+50	24.82	Spice Islands Curry Powder, 2-Ounce (Pack of 3)
+51	9.95	Teeny Tiny Spice Co of Vermont Organic Penang Curry, 2.8 Oz
+52	12.54	Spice Appeal Hot Madras Curry, 16 Ounce
+53	43.35	Sun Brand Madras Curry Powder, 16 Ounce Cans (Pack of 4)
+54	2.99	Curry Powder (Castella) 7oz
+56	15.73	Sharwoods Hot Curry Powder 102g
+57	26.99	Indian Spice Set: Kashmiri Chili Pepper Powder, Amchur Powder (Mango), Garam Masala & Sweet Curry Powder [Fast Shipping]
+58	7.99	Rani Curry Powder Mild 3oz
+59	6.38	S&B Golden Curry Sauce Mix, Medium Hot, 8.4-Ounce
+60	6.6	S&B Oriental Curry Powder
+61	17.99	Bolst's Curry Powder Hot 14.99 oz (425g)
+62	27.36	Sharwood's Curry Powder Hot -- 3.6 oz
+63	17.99	Bolst's Curry Powder Mild 14.99oz (425g)
+64	2.49	Blue Mountain Country Curry, 2-Ounce
+65	4.48	Badia Curry Powder 7 OZ
+66	7.09	Simply Organic Garam Masala, 3 Ounce
+67	6.22	S&B Golden Curry Sauce Mix, Hot, 8.4-Ounce
+69	12.58	Frontier Natural Products - Curry Powder Organic - 1 lb.
+70	8.28	Marshalls Creek Spices Garam Masala Blend, 10 Ounce
+71	6.99	Yeo Malaysian Curry Powder (Poudre De Curry) - 1.76oz (3 packs)
+72	24.0	Ship Madras Curry Powder 1 Pound (500g) (Pack of 2) - 2 Lbs Total
+73	17.45	Sun Brand Madras Curry Powder (4 oz Tins) 2 Pack
+74	9.95	Teeny Tiny Spice Co of Vermont Organic West African Curry, 2.8 Oz
+75	16.03	Marshalls Creek Spices X-Large Size Indian Curry Powder, No Salt, 20 Ounce
+76	10.95	Ship Madras Curry Powder In Tin 250g (8.8oz)
+78	11.3	Faeries Finest Blend, Yellow Curry, 4.60 Ounce
+79	4.59	Simply Organic Cumin Seed Ground Certified Organic, 2.31-Ounce Container
+80	27.77	Badia Curry Powder, 7-Ounce (Pack of 6)
+81	18.99	Sharwood's Mild Curry Powder, 3.6 oz (102g), Pack of 2
+83	4.39	Simply Organic Chili Powder Certified Organic, 2.89-Ounce Container
+84	11.25	Madras Curry Powder with New Gulf Recipes 250 Gr
+87	6.98	Laxmi Curry Powder 200g
+89	7.86	Deep Curry Powder (Hot) 7 Oz
+90	76.62	S & B Curry Powder, 14.1-Ounce Tins (Pack of 4)
+91	7.99	Rajah Curry Powder HOT - Imported From South Africa
+92	12.25	Curry Powder, Mild-1Lb-Freshly Blended Family Friendly Classic Indian Spice
+93	7.99	Rajah Curry Powder MILD & SPICY - Imported From South Africa
+94	17.07	Jamaican Choice Jamaican Curry Powder 22 Oz
+95	19.99	Sun Brand Madras Curry Powder, 4 oz (3 Pack)
+97	39.0	Spice Appeal Curry Powder, 80-Ounce Jar
+98	26.95	McCormick Gourmet Collection Hot Madras Curry Powder - 3 Pack
+99	8.0	Organic Red Chili Powder Hot

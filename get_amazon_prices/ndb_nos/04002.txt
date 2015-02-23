@@ -1,0 +1,91 @@
+0	12.0	Organic Lard (1 Pack)
+1	17.95	Pure Leaf Lard, 16 oz
+2	9.99	Armour Lard, 16 oz  (1 LB)
+3	15.5	Pure Pork Lard, Free Range & Pasture Raised, 14oz
+4	14.98	Snow Cap Lard - 16oz. each (Quantity of 6)
+5	17.82	Goya Manteca Lard, 2.5 Pound
+6	18.98	Armour, Lard 4 Lb
+7	23.09	Armour: Lard, 64 Oz
+8	16.45	Beef Tallow, Grass-Fed, Kettle Rendered and Fine Filtered, 14oz
+11	12.95	Pure Lard
+13	63.6	Armour Lard 1 Lb
+14	21.75	Lundy's Refined Lard
+15	28.49	Pasture Raised Lard 28oz
+16	91.96	Armour Star Lard, 25-Pound
+17	14.48	Armour Lard, 16-oz. tub (Pack of 3)
+18	16.98	Armour Lard (Pack of 2)
+19	22.48	Armour Lard 16oz Box (Pack of 3)
+20	18.65	Goya Manteca Lard, 4 Pound
+21	7.49	Canadian Tenderflake Pure Bakers Lard
+22	27.38	Snow Cap Lard - 4lb. Tub (Quantity of 2)
+23	34.99	Fatworks Pastured Lard & Tallow Combo Pack - 14 oz Each
+24	69.99	Hatfield Lard 38.5 Lb.
+26	21.0	Bacon Grease 3-Pack 11 oz each by HOT BELLY USDA/FDA approved NEW ALUMINUM SEAL TOP used on the PALEO DIET FREE PDF COOKBOOK with each order
+27	54.94	Traditional Fat Combination Pack - Pastured Lard, Tallow & Ghee
+29	5.69	Nutiva Red Palm Shortening Organic Superfood, 15 oz.
+30	26.8	Snow Cap Lard - 16oz. each (Quantity of 10)
+31	22.45	French Goose Fat La belle Chaurienne-Graisse D'Oie La Belle Chaurienn
+32	7.96	Purity Farm Organic Ghee, Clarified Butter, 13-Ounce
+33	7.0	Canasta Uncooked Flour Tortillas, Original Lard Base (2 Packs, 1 Dozen Per Pack)
+34	45.25	Caul Fat Pork - 10 Lb Case Frozen
+35	87.99	Armour Star Lard, 4-Pound (Pack of 3)
+36	21.9	Spectrum Organic All Vegetable Shortening 24 Oz - 2 Pack
+37	105.3	Armour, Lard Pail, 4 LB (Pack of 12)
+38	27.6	Armour Lard 48oz Box (Pack of 3) (3lb)
+39	53.99	Armour Lard, Lard and Hydrogenated Lard: 2 Packs of 64 Oz - Jvs
+40	27.99	Caputo's Housemade Bauernspeck
+41	6.45	Chorizos in lard El Ebro 7.2 oz
+43	88.75	John Morrell Snow Cap Lard, 1 Pound -- 48 per case.
+44	34.95	Butcher Boy 76 Degree Coconut Oil 1 Gallon
+45	12.99	MARUTAI Kurume Tonkotsu Instant Noodle Soup Ramen Non-fried For 2 servings
+46	13.59	El Ebro Chorizos En Manteca/in Lard 7.2oz Each Can 2Pack
+48	47.73	Armour Star Lard, 8-Pound
+49	76.38	Armour BG10301 Armour Lard Tubs - 12x2.5LB
+50	81.11	Armour Lard, Pail, 2.50 LB (Pack of 12)
+51	59.0	American Kobe-shi (Wagyu Beef Tallow) 4lbs.
+52	44.0	Gibble's(r) Home Style Potato Chips (8-8 oz bags)
+53	47.37	Chorizos in lard El Ebro 7.2 oz cans . 6 pack
+54	38.0	Lard
+55	572.76	Armour Star Lard, 8 Pound (Pack of 12)
+56	99.03	Lard Star Tubs 16 OZ (Pack of 24)
+57	52.6	FatWorks Pure Pork Lard, Free Range & Pasture Raised, 14oz - 3 Pack
+58	23.0	Chef's Quality Clear Liquid Shortening, 35 Pound
+59	40.55	Sara Lee Chef Pierre Unbaked Lard Shortening Pie Shell, 9 inch -- 20 per case.
+60	60.59	Armour Lard 1 lb - Pack of 24
+61	27.0	Gibble's(r) Home Style Potato Chips (4-8 oz bags)
+62	31.5	Canasta Uncooked Flour Tortillas, Original Lard Base (10 Packs, 1 Dozen Per Pack)
+64	99.58	Armour Lard, Pail, 8-Pound (Pack of 4)
+65	93.67	La Preferida Lard (and Hydrogenated Lard), 40-Ounce (Pack of 12)
+66	73.17	Armour, Lard Carton, 1 LB (Pack of 24)
+67	138.9	La Preferida Lard (and Hydrogenated Lard), 64-Ounce (Pack of 12)
+68	79.08	Armour Lard Tubs (12x2.5LB )
+69	64.15	Armour BG10302 Armour Lard - 1x25LB
+70	61.11	Armour BG10303 Armour Lard Tubs - 24x1LB
+71	20.0	ARMOUR LARD, 16 oz Box (Pack of 4)
+72	121.54	Behrens Lard Can 19.375" H 18.75 Qt. Tin
+73	37.05	Sara Lee Chef Pierre Unbaked Lard Shortening Pie Shell, 10 inch -- 20 per case.
+74	89.36	Armour Lard Tubs (24x1LB )
+75	143.19	Armour Star Lard, 8 Pound (Pack of 3)
+76	50.45	John Morrell Snow Cap Lard, 25 Pound -- 1 each.
+77	13.86	Goya Manteca Lard, 2.5 Pound Home Grocery Product
+78	286.38	Armour Star Lard, 8 Pound (Pack of 6)
+79	95.46	Armour Star Lard, 8 Pound (Pack of 2)
+80	115.86	Armour BG10299 Armour Lard Pail - 12x4LB
+81	18.95	Butcher Boy Coconut Oil - 30 Ounce - 100% Pure Refined - 76 Degree
+82	26.99	60 - 3/4 Oz. Bags of Grandma UTZ Potato Chips
+83	11.95	Future Essentials Canned Shortening Powder
+84	16.0	Il Buon Pane: Breadcrumbs Type "0" + 2 Azure Bormioli Rocco "Fido" Jars * 17.6 Ounce (500gr) Packages (Pack of 2) * [ Italian Import ]
+85	60.0	Gibble's(r) Home Style Potato Chips (12-8 oz bags)
+86	25.0	Chef's Quality Creamy Fry oil Superior Liquid, 35 Pound
+87	29.95	Traditional Fat Combination Pack - Grass Fed Tallow & Ghee
+88	34.75	LB Jamison's Regular Soup Base, Ham Flavored, 16-Ounce Jars (Pack of 6)
+89	7.5	Tohato - Caramel Corn 3.45 OZ
+90	52.0	Gibble's(r) Home Style Potato Chips (8-14 bags)
+91	21.99	Bolner's Fiesta Extra Fancy Tamale Seasoning Kit With Corn Husks Bundle - Seasons 4# Meat And Masa: (1) Tamale Masa Seasoning, (1) Tamale Meat Seasoning, and (1) Leaf By Leaf Corn Shucks, 2.5-6 Oz. Ea.
+92	44.0	Gibble's(r) RED HOTS Potato Chips (8-8oz bags)
+93	27.0	Gibble's(r) RED HOTS Potato Chips (4-8oz bags)
+94	39.99	Grandma Utz's BIG BAG Handcooked Potato Chips 4 Pack/15 oz Each
+95	29.39	Mission Burrito Flour Tortillas Large 8 per pkg. (Pack of 6)
+96	31.29	Soybean/ Soy Bean Shortening 100% Pure Organic 128 Oz / 7 Lb / One Gallon
+98	5.74	Mission<< White Corn Tortillas - 100 ct.
+99	62.72	La Preferida Black Beans, 108-Ounce (Pack of 6)

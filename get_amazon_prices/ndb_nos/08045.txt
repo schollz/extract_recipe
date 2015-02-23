@@ -1,0 +1,91 @@
+1	15.0	General Mills Cheerios, Honey Nut 2 Bags, 55 Ounce
+2	12.24	Honey Nut Cheerios Cereal Cup, 1.8 Ounce (Pack of 12 )
+3	17.4	Cheerios Honey Nut Cereal, 12.25-Ounce Boxes (Pack of 3)
+4	5.25	Honey Nut Cheerios Cereal 12.25 oz
+5	35.54	Honey Nut Cheerios Cereal, 21.6 Ounce (Pack of 3)
+6	47.68	Cheerios Honey Nut Cheerios Medley Crunch, 13.1 Ounce (Pack of 12)
+7	12.96	Honey Nut Cheerios 12.25oz - 2 Boxes
+8	12.92	Honey Nut Cheerios Cereal, 26.6 Oz
+10	59.99	Honey Nut Cheerios Cereal, 17 Ounce (Pack of 14)
+11	3.68	Kellogg's Frosted Mini Wheats Original, 24 Ounce Box
+12	12.95	Honey Nut Cheerios Breakfast Cereal, 1.8 oz Serving Size Cups, 6/Box (GMCSN13898)
+13	18.93	General Mills Cheerios, Honey Nut 2 Bags, 55 Ounce
+14	10.59	Honey Nut Cheerios Cereal 21.6 oz
+15	34.0	Cheerios Honey Nut , Milk 'n Cereal Bars, 6-Count Boxes (Pack of 10)
+16	59.95	General Mills Honey Nut Cheerios Cereal, Bowl Pak, 1 Ounce -- 96 per case.
+17	9.0	Honey Nut Cheerios Cereal 17 oz
+18	43.95	General Mills Honey Nut Cheerios Cereal, Single Pack, 0.81 Ounce -- 70 per case.
+21	12.99	General Mills, Honey Nut Cheerios, Medley Crunch Cereal, 13.1oz Box (Pack of 2)
+23	17.49	AVTSN13898 - Honey Nut Cheerios Cereal
+24	15.6	Raisin Bran Crunch Cereal, 2.8-Ounce Cups (Pack of 12)
+25	20.94	SCS Honey Nut Cheerios - 27.5 Oz. Boxes - 2 Pk.
+26	16.99	Honey Nut Cheerios Cereal Single-Serve 1.8 oz Cup 6/Pack
+28	8.5	General Mills? Honey Nut Cheerios Milk n Cereal Bar(Pack of 12)
+29	23.9	Cheerios Cereal, Honey Nut, 17 oz, (pack of 3)
+30	31.95	General Mills Honey Nut Cheerios: 12 Packs of 1.8 Oz
+31	10.5	General Mills Cereal Honey Nut Cheerios - Box 12.25oz
+32	25.3	General Mills, Honey Nut Cheerios, Medley Crunch Cereal, 13.1oz Box (Pack of 4)
+34	22.71	Honey Nut Cheerios Cereal, Single-Serve 1.8 oz Cup, 6/Pack
+35	12.0	General Mills, Honey Nut Cheerios, Milk 'n Cereal Bars, 6-Count, 8.5oz Box (Pack of 4)
+36	31.95	General Mills Cheerios & Honey NUT Cheerios: 6 Packs Each
+37	9.99	Honey Nut Cheerios Cereal-In-A-Cup
+38	13.03	* Honey Nut Cheerios Cereal, Single-Serve 1.8 oz Cup, 6/Pack
+39	7.0	Honey Nut Cheerios
+40	8.99	General Mills Honey Nut Cheerios Sweetened Whole Grain Oat Cereal 12.25 Ounces
+41	20.44	General Mills Honey Nut Chex, 40 Ounce
+42	24.95	Cheerios Honey Nut, 12.25-Ounce Boxes (Pack of 4)
+43	14.99	Trader Joe's Honey Nut O's Toasted Whole Grain Oats Cereal, 13.5 oz Box (Pack of 2)
+44	14.5	Honey Nut Cheerios, 12.25 Oz. Box (Pack of 2)
+45	16.99	Cheerios Family Size Cereal, 21 oz
+46	33.38	KITAVTSN13898NLE101243 - Value Kit - General Mills Honey Nut Cheerios Cereal (AVTSN13898) and Nestle Bottled Spring Water (NLE101243)
+47	13.03	** Honey Nut Cheerios Cereal, Single-Serve 1.8 oz Cup, 6/Pack
+48	75.83	General Mills Honey Nut Cheerios Cereal Bar Case Pack 36
+49	31.28	KITAVTSN13898LIP291 - Value Kit - General Mills Honey Nut Cheerios Cereal (AVTSN13898) and Lipton Tea Bags (LIP291)
+50	13.03	* Honey Nut Cheerios Cereal, Single-Serve 1.8 oz Cup, 6/Pack
+51	41.73	General Mills Milk 'n Cereal Bars Honey Nut Cheerios, 6 Bars per 8.5-oz. Box (Pack of 6 Boxes)
+52	38.99	Cheerios Variety 4 Pack Fun Pack: Honey Nut Cheerios, Protein Cheerios, Frosted Cheerios and Peanut Butter Cheerios
+53	79.99	General Mills Honey Nut Cheerios Breakfast Cereal, 1.8 Oz Serving Size Cups, 6/box/10pk - 60 Pcs
+54	20.1	General Mills Milk 'n Cereal Bars, Honey Nut Cheerios, 8.5 oz, (pack of 3)
+55	13.74	Honey Nut Bee Cheerios Cereal General Mills Breakfast Pal
+56	36.85	General Mills Cereal in Cup Honey Nut Cheerios 12/1.8 Oz - Tj
+57	95.23	General Milk 'n Cereal Bars Honey Nut Cheerios 8.5 OZ (Pack of 20)
+58	11.58	General Mills Products - General Mills - Honey Nut Cheerios Cereal, Single-Serve 1.83 oz Cup, 6/Pack - Sold As 1 Pack - Six individual serving cups per pack.
+59	8.62	Honey Nut Cheerios Twin Pack - 3 lb. 1 oz. box
+60	54.99	Honey Nut Cheerios, 25.25-Ounce Boxes (Pack of 6)
+61	59.07	Case of General Mills Honey Nut Cheerios Milk 'n Cereal Bars (10 Total)
+62	36.99	Honey Nut Cheerios Cereal Cups, 1.8-Ounce Packages (Pack of 24)
+63	53.93	General Mills Honey Nut Cheerios Cereal in a Cup - 2 oz. Cup - 24 ct.
+64	65.0	General Mills Honey Nut Cheerios Milk 'n Cereal Bars (Case Count: 10 per case) (Case Contains: 60 Bars) (Item Size: 6 Bars)
+65	26.01	Honey Nut Cheerios and Cheerios Cereal Cups (24 cups total)
+66	58.19	General Mills Honey Nut Cheerios Cereal, 12.25 Ounce -- 12 per case.
+67	7.99	General Mills - Honey Nut Cheerios Cereal, Single-Serve 1.8 oz Cup, 6/Pack - Sold As 1 Pack - Six individual serving cups per pack.
+68	5.59	Cheerios Honey Nut Medley Crunch Cheerios, 13.1 oz
+69	28.92	General Mills : Honey Nut Cheerios Cereal, Single-Serve 1.8oz Cup, Six per Pack -:- Sold as 2 Packs of - 6 - / - Total of 12 Each
+70	19.99	General Mills Cheerios Honey Nut Cereal, 12.25 oz (Pack of 6)
+71	5.6	GENERAL MILLS CEREAL CHEERIOS 8.9 OZ BOX
+72	13.65	Cheerios Honey Nut Cereal, 49 oz
+73	17.47	Advantus Honey Nut Cheerios Cereal-In-A-Cup
+74	44.75	Malt O Meal Honey Nut Scooters Case Pack 16
+75	26.55	SCS General Mills Honey Nut Cheerios Cereal in a Cup - 2 Oz. Cup - 12 Ct.
+76	24.0	General Mills Honey Nut Cheerios 21.6 Oz Box, 2 Pack
+77	184.5	General Mills Honey Nut Cheerios Cereal Bowl [96 Pieces] *** Product Description: General Mills Honey Nut Cheerios Cereal Bowl. 1 Oz Individual Bowl. ***
+78	14.16	Advantus SN13898, Advantus Honey Nut Cheerios Cereal-In-A-Cup, AVTSN13898, AVT SN13898
+79	9.98	GENERAL MILLS CEREAL HONEY NUT CHEERIOS - Cup 1.8 oz Each ( 6 in a Pack )
+80	64.47	Cheerios Honey Nut Cereal in a Cup, 1.8 Ounce -- 10 per case.
+81	36.85	General Mills Cereal Honey Nut Cheerios - Box 12.25 Oz 4 Pack - Tj
+82	39.17	General Mills Honey Nut Cheerios Cereal in a Cup - 2 Oz. Cup - 12 Ct. - SCS
+83	13.03	-- Honey Nut Cheerios Cereal, Single-Serve 1.8 oz Cup, 6/Pack
+85	33.2	General Mills Honey Nut Cheerios Cereal in a Cup - 2 oz. Cup - 12 ct.
+86	17.99	Honey Nut Cheerios 12.25 oz. (Pack of 3)
+87	42.04	General Mills - 2 Pack - Honey Nut Cheerios Cereal Single-Serve 1.8Oz Cup 6/Pack "Product Category: Breakroom And Janitorial/Beverages & Snack Foods"
+88	83.7	General Mills Honey Nut Cheerios Cereal Bar [36 Pieces] *** Product Description: 1.4 Oz Travel Size Cereal Bar In Individually Sealed Package. The Nutrition Of A Bowl Of Cereal With Milk. Filling Made With Real Milk. Ingredients: Cereal [Whole Gr ***
+89	31.55	General Mills Cheerios Honey Nut Cereal, 17 oz (Pack of 6)
+90	13.03	** Honey Nut Cheerios Cereal, Single-Serve 1.8 oz Cup, 6/Pack **
+91	55.95	General Mills Honey Nut Cheerios 12 Count
+92	33.99	CHEERIOS HONEY NUT CEREAL.12.25 OUNCE BOXES (Pack of 4)
+93	64.95	General Mills Cereal Honey Nut Cheerios - Box 12.25oz (Pack of 9)
+94	20.35	General Mills - Honey Nut Cheerios Cereal, Single-Serve 1.8oz Cup, 6/Pack SN13898 (DMi PK
+95	117.33	General Mills Honey Nut Cheerios Cereal Box (Pack Of 70)
+96	143.66	General Mills Honey Nut Cheerios Medley Crunch 13.1 OZ (Pack of 24)
+97	47.89	General Mills, Honey Nut Cheerios, 17oz Box (Pack of 7)
+98	13.03	** Honey Nut Cheerios Cereal, Single-Serve 1.8 oz Cup, 6/Pack **

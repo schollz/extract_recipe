@@ -1,0 +1,88 @@
+0	8.2	Maker's Mark Makers Mark Bourbon Gourmet 15 OZ
+1	54.95	ABSOLUT Rockstar Edition Vodka limited Rock case LITER
+2	35.42	Anthon Berg Dark Chocolate Liqueurs with Original Spirits - 64 pcs. Gift Box (2.2 lbs)
+3	8.99	Fazer Liqueur Fills Vodka (From Finland)
+4	32.38	Fifty Shades of Grey Mixed Pack, 2 x 750 mL
+5	54.99	Still Spirits Vodka Essence (Pack of 10)
+6	49.89	'Like a Kid in a Candy Store' Care Package
+7	8.86	Tennessee Whiskey Jack Daniel's 151 Proof BBQ, 16oz.
+8	6.99	Liquor Quik Vodka Pure Professional Turbo Yeast
+9	8.49	Skinny Mojito
+10	13.95	Fazer Liqueur Fills- Cranberry, Lemon and Original Vodka Flavored Chocolates from Finland, 150g, 5.3 oz
+11	12.95	Karl Fazer Liqueur Fills Chocolate Vodka
+12	4.86	Southern Whiskey (Southern Comfort)
+13	6.79	Carl Brandt Vodka Filled Chocolate Beans (200 g)
+14	45.5	ONEHOPE California Reds II Mixed Pack, 3 x 750 ml
+15	13.29	Liqueur Fills Vodka by Fazer (5.3 ounce)
+16	7.95	Bertolli Vodka Sauce, 24 Ounce
+17	16.99	Moyishi Modern 3D Crystal Skull Pirate Shot Glass Drink Cocktail Beer Cup, Set Of 4
+18	7.49	Butlers Jameson Irish Whiskey Chocolate Truffles 4.41 oz
+20	28.57	Scarpetta Tuscan Vodka Sauce, 19.8-Ounce Jar (Pack of 4)
+21	6.09	Victoria Vodka Sauce, 25 Ounce
+22	16.99	Very Special Chocolates Liquor Filled Chocolates Christmas Holiday Gift Box 40 Count
+23	6.99	The Original Prestige Currant Vodka Essence
+25	17.25	Downey's Original Lemon Vodka Cake, 16 Ounce Box
+26	35.0	Java Ice Vodka Coffee Cocktail Organic Slush/Slushy Mix in a Bag-Two 10-OZ Pouches- Chocolate Sugar Rimmer & Zipzicles (r) The Ultimate Adult Slushie Kit Gourmet Gift Basket for the Coffee Lover-Valentines Day Gift- Made in the USA
+27	8.49	Skinny Blackberry Margarita
+28	12.99	Laroshell Vodka Cherry Pralinen 150g
+29	50.82	Sable And Rosenfeld Tipsy Vodka Jalapeno Olives
+30	8.99	San Marzano Sugo di Pomidoro Creamy Vodka Sauce 26 oz.
+31	29.91	Cucina Antica La Vodka, 16-Ounce Jars (Pack of 6)
+32	47.52	Gia Russa Pasta Sauce Alla Vodka 24 oz. (Pack of 6)
+33	36.7	Anthon Berg Liqueur Bottles - Counter Disp (Pack of 36)
+34	6.5	Peppermint Flavored Candy Cane Edible Shot Glass 1 Count
+35	32.24	Emeril's Pasta Sauce, Vodka, 25-Ounce Jars (Pack of 6)
+36	53.32	Sauce Vodka Vegan -Pack of 6
+37	56.32	Rao's Homemade Vodka Sauce, 24-Ounce (Pack of 4)
+38	27.0	Bertollil Vodka Sauce, 24 Oz Jar (Pack of 4)
+39	29.08	Monte Bene La Vodka, 2.25 Pound (Pack of 6)
+41	15.99	Panda VODKA Liqueur Filled Chocolates 350 g
+42	9.39	Rao's Specialty Food Vodka Sauce, 24 oz
+43	17.99	Carl Brandt - Vodka Chocolates Bean Gift Box - 200g/7.0 Oz (Pack of 2)
+44	8.0	Wheat Vodka Yeast W/ag
+45	46.09	Victoria The Original Vodka Sauce, 25-Ounce (Pack of 6)
+47	22.99	Lemon Vodka Limoncello Dessert Liqueur Cake 14 Oz
+48	9.85	Still Spirits Vodka Distiller's Yeast 15% ABV
+49	42.65	Newmans Own Vodka Pasta Sauce, 24 Ounce -- 12 per case.
+51	110.79	Rao's Homemade All Natural Vodka Sauce 24 OZ (Pack of 2)
+52	55.94	Cucina Antica La Vodka, 25-Ounce Jars (Pack of 6)
+53	62.06	Patsy's Sauce, Vodka 24 oz. (Pack of 6)
+54	24.02	Emerils Vodka Pasta Sauce (6x25 Oz)
+55	8.16	Mario Batali Pasta Sauce - Alla Vodka - 24 oz
+56	8.99	Il Mulino New York Vodka Pasta Sauce 24 oz.
+59	58.71	Victoria Vegan Vodka Sauce, 18-Ounce (Pack of 6)
+60	58.71	Victoria Vegan Vodka Sauce, 18-Ounce (Pack of 6)
+62	8.99	Mia's Kitchen Vodka Pasta Sauce 25.5oz Jar
+63	4.49	Candy Cane Vodka Enhancer
+64	9.99	Vodka Triple Pure 14% Liquor Quik Distiller's Yeast
+65	12.51	Italian Rose Red Sauce, Ala Vodka, 16 Ounce
+66	1.99	Gia Russa Alla Vodka Pasta Sauce
+67	19.99	El Guapo Tex-Mex Bitters - grapefruit, lime, culantro, cumin, jalapeno flavors
+68	64.77	Victoria Vegan Vodka Sauce, 25 Ounce
+69	341.0	Silver Plated Caviar and Vodka Server (Free Standard Shipping!)
+71	4.49	Pumpkin Pie Vodka Enhancer
+72	10.0	Trader Joe's Giotto's Organic Vodka Sauce (25 oz)
+73	10.18	Emeril 25-oz. Vodka Pasta Sauce
+74	4.99	Don Pomodoro Vodka Sauce 12.3 oz
+75	18.38	Mr. & Mrs. T Bloody Mary Mix, 5.5-Ounce (Pack of 24)
+76	26.64	Bove's Vodka Pasta Sauce 26.0 OZ (Pack of 2)
+77	133.78	Victoria Vegan Vodka Sauce, 25 Ounce -- 12 per case.
+78	21.99	Very Special Chocolates 12 Count Liquor Filled Chocolates, 12 Count Box
+80	9.63	Lucini Vodka Sauce, 19.6-Ounce
+81	27.93	Romanoff Caviar Vodka Red Lumpfish Caviar, 2-Ounce Jars (Pack of 4)
+83	14.95	Bisongrass Vodka Chocolate, 8 Bottle Box, 100g/3.5oz. (Single)
+84	71.24	Patsys, Sauce Vodka, 24-Ounce (6 Pack)
+86	60.36	Lucini Rustic Vodka Tomato Sauce, 25.5 Ounce -- 6 per case.
+87	6.49	Liquor Filled Candies (cedrinca) 125g - 4.40 oz bag new pack size FREE S/H!
+88	33.85	Boves Vodka Pasta Sauce, 24 Ounce -- 6 per case.
+89	22.11	Scrappy's Bitters Exotic Gift Box
+90	6.99	Liquor Filled Candies (cedrinca) 125g new pack size
+91	11.99	Hoboken Farms Big Boss Vodka Sauce (25 oz)
+92	53.76	DeLallo Pomodoro Fresco Sauce, Creamy Vodka, 25.25 Ounce (Pack of 6)
+93	4.83	Classico Vodka Sauce 24 oz
+94	37.02	Paesana All Natural Vodka Sauce, 25 Ounce -- 6 per case.
+95	8.0	15.5 oz. Vodka Sauce
+96	7.99	Klass LISTO Drink Mix, WATERMELON, 14.1-Ounce
+97	48.95	Rustica Pasta Gift Basket with Artichoke and Vodka Sauce
+98	25.0	Pink & Black
+99	79.92	Prego Creamy Vodka Sauce (Case of 12)

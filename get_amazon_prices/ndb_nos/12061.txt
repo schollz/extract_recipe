@@ -1,0 +1,55 @@
+0	23.89	Signature Almonds, Whole suppreme, 3 Pound
+3	4.49	Wonderful Almonds, 7 Ounce
+4	24.98	Blue Diamond Smokehouse Almonds 38oz tub
+7	6.83	Whole Almonds, 1lb.
+9	19.99	Almonds Whole Natural 2lb (32 Ounces)
+10	14.99	Bergin Nut Company Almonds, Raw Almonds, 16 Ounce Bag
+11	48.99	Blanched Almond Meal Flour, 5 lbs.
+13	9.62	Jansal Valley Raw Sliced Almonds, 1 Pound
+14	20.46	MARIANI Sliced Premium Almonds All Natural - 32 Oz
+15	25.0	Zinke Orchards Creamy Almond Butter(3Pack) 16oz Jars
+16	14.97	Trader Joe's Dry Roasted & Unsalted Almonds
+18	24.46	Trader Joe's Dry Roasted and Unsalted Almonds - 1lb (2 - Pack)
+19	24.58	Kirkland Signature Supreme Whole Almonds 3 Lbs.
+20	24.69	Madi K's Whole Natural Almonds, 1-Ounce Bags (Pack of 48)
+21	7.48	Raw Natural Almonds - 1 lb. Bags
+24	3.24	Blue Diamond Almonds, Smokehouse, 6 Oz
+25	5.59	Simply Organic Almond Extract, Certified Organic, 4-Ounce Container
+29	38.15	Blue Diamond Almonds - BOLD VARIETY FLAVORS - Jalapeno Smokehouse, Lime 'n Chili, Wasabi & Soy Sauce (Box of 36 / 1.5-Ounce Bags)
+31	6.98	Jif Almond Butter, Crunchy, 12 Ounce
+33	28.49	Unsalted Dry Roasted Almonds (4 Pound Bag)
+34	31.49	Natural Raw Almonds (4 Pound Bag)
+35	20.3	Spicy World Almonds Whole, 2 Pound Pouch
+40	14.77	Blue Diamond Almonds Wasabi & Soy Sauce, Value Pack, 16-Ounce Bag
+42	38.99	Blue Diamond Almonds Whole Natural, 16-Ounce Bags (Pack of 3)
+43	16.58	Blue Diamond Almonds, Lightly Salted-Low Sodium, 16-Ounce
+44	29.99	Almond Roca 42oz Canister
+46	13.99	Trader Joe's Just Almond Meal (1 lb)
+47	3.49	Bear Naked Granola, Honey Almond Protein, 11.2 oz
+49	14.99	Roasted California Almonds (1 Pound Bag) (Unsalted)
+50	13.15	Blue Diamond Coffee Almonds Mocha Flavored, 10 Oz.
+51	3.28	Watkins All Natural Pure Extract, Almond, 2 Ounce
+52	17.73	Blue Diamond Almonds, Wasabi and Soy, 1.5-Ounce Packages (Pack of 12)
+53	28.5	Kirkland Dry Roasted Almonds Net wt 1.13kg(2.5 lb)
+54	19.99	Kirkland Marcona Almonds, Roasted and Seasoned with Sea Salt, 17.63 Ounce
+55	15.25	Almond Flour - Fine - 1 bag, 1 lb
+56	16.99	Hershey's Golden Almond Chocolate Bar Gift Box, 5-Count, 2.8-Ounce Bars
+62	49.24	Honeyville Blanched Almond Flour Super Fine Grind Gluten Free Cholesterol Free 3lbs
+63	5.94	100 Calorie Pack Dark Chocolate Cocoa Roast Almonds, .63oz Packs, 7/Box
+65	5.81	Holiday Hershey's Milk Chocolate Almond Clusters Collection, 5-Ounce Pouch
+66	15.87	Blue Diamond Natural Oven Roasted Almonds Dark Chocolate Flavor (1) 16 OZ Bag
+68	23.29	Bergin Nut Company Almond Tamari, 16-Ounce Bags (Pack of 2)
+70	27.03	Barney Butter All Natural Almond Butter Variety Pack of 3
+72	15.87	Blue Diamond Natural Oven Roasted Almonds Dark Chocolate Flavor (1) 16 OZ Bag
+74	21.18	Wonderful Almond Roasted & Salted, 40 Oz (2.5 Lbs)
+77	6.44	Blue Diamond Whole Natural Almonds 6 oz
+80	21.99	Blue Diamond, Naturals, Whole Almonds, 32oz Bag
+84	21.49	Signature's Milk Chocolate, Almonds, 48 Ounce
+88	7.59	Sconza Pumpkin Pie Almonds, 24 Ounce
+89	25.13	Blue Diamond Almonds BOLD Variety Pack of 4 x 6oz Cans Lime 'n Chili, Habanero BBQ, Jalapeno Smokehouse, Wasabi & Soy Sauce
+90	59.9	Raw Almonds from California - 10 (1 Lb) Resealable Packages
+91	7.48	Blue Diamond Almonds, Honey Dijon, 6-Ounce
+92	13.98	Justins Almond Butter Squeeze Packet, Classic, 1.15 Ounce (Pack of 10)
+93	10.95	Dark Chocolate Almonds 1 Lb (453g)
+94	7.8	Equal Exchange Organic Natural Almonds, 8 Ounce
+96	29.76	Spicy World Almonds Whole, 14-Ounce Pouches (Pack of 4)

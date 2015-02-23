@@ -1,0 +1,92 @@
+0	3.46	Bavarian Wine Sauerkraut
+1	20.0	Eden Foods Organic Sauerkraut Glass (3x32 OZ)
+3	22.0	Hengstenberg Champagne Sauerkraut, 14.1-Ounce Tins (Pack of 6)
+4	19.36	Frank's Sauerkraut Sngl 1.5 OZ (Pack of 18)
+5	2.48	Del Monte Sauerkraut 14.5 oz
+6	82.45	Bubbies Of San Francisco Sauerkraut, 25 Ounce -- 12 per case.
+7	50.09	Hengstenberg Sauerkraut, Bavarian Style, 24 Ounce (Pack of 12)
+8	4.99	Kuhne or Gundelsheim Barrel Sauerkraut, 28.5oz (810g)
+10	20.99	GOLD MINE ORGANIC RAW SAUERKRAUT 34 OZ
+11	7.5	Organic Raw Sauerkraut, "Dill E Gent" Variety, 16 Oz Glass Jar
+12	7.5	Organic Raw Sauerkraut, "Lil Kim Chee" Variety, 16 Oz Glass Jar
+13	7.5	Beet Apple Sauerkraut, Raw, Fermented, Probiotic, Organic, 16 Oz
+14	5.89	Biotta Sauerkraut Juice 16.9 fl oz Liquid
+15	14.99	Organic Purple Sauerkraut 7oz (Probiotic Live Ferment)
+16	7.5	Organic Raw Sauerkraut, "Beat Kraut" Variety, 16 Oz Glass Jar
+17	64.99	GOLD MINE ORGANIC RAW SAUERKRAUT 1 GAL
+19	13.99	French Sauerkraut by Andre Laurent - Gourmet Style (17.8 ounce)
+20	6.94	B&GA(r) Sauerkraut - 1 gallon jar
+21	16.5	Del Monte Sauerkraut 14.5 oz. (3-Pack)
+22	10.45	Organic Raw Sauerkraut, "Velvet Sea" Variety, 16 Oz Glass Jar
+23	2.99	Sauerkraut Juice 32 fl oz
+24	20.99	GOLD MINE ORGANIC RAW GARLIC KRAUT 34 OZ
+25	13.99	French Sauerkraut by Andre Laurent - Coastal (17.8 ounce)
+27	4.99	Sauerkraut 32 fl oz
+28	46.52	B & G Sauerkraut, 27 Ounce (Pack of 24)
+29	24.95	Organic Raw Sauerkraut, "Beat Kraut" Variety, 16 Oz Glass Jar, 3-pack
+30	6.99	Mild German Wine Sauerkraut (Hengst.) 28.6oz (810g)
+31	92.7	Eden Foods 100% Organic Sauerkraut, Glass Jar 32 oz. (Pack of 12)
+32	24.07	Libby's Bavarian Style Sauerkraut 14.5oz Can (Pack of 6)
+33	7.5	Organic Raw Sauerkraut, "Basil Garlic" Variety, 16 Oz Glass Jar
+34	6.99	French Sauerkraut by Andre Laurent - Traditional (17.8 ounce)
+35	7.5	Organic Raw Sauerkraut, "Korean Kim Chi" Variety, 16 Oz Glass Jar
+36	28.95	Organic Raw Sauerkraut, "Velvet Sea" Variety, 16 Oz Glass Jar, 3-pack
+37	19.82	Del Monte Sauerkraut 8 Oz (Pack of 6)
+38	37.04	Franks Kraut Juice, 14-ounces (Pack of12)
+39	55.94	Franks Bavarian Sauerkraut, 14-Ounce (Pack of 24)
+40	38.15	Biotta Naturals Sauerkraut Juice, 16.9 Ounce -- 6 per case.
+41	7.5	Saueruben (Traditional German Sauerkraut with Turnips), Raw, Fermented, Probiotic, Organic, 16 Oz
+42	38.05	Othenitc Organic Sauerkraut, 23.98 Ounce -- 6 per case.
+43	2.99	Sauerkraut (Cracovia) 860g
+44	2.77	Mildessa Saurkraut - 14.1oz [Pack of 1]
+45	6.49	Brooklyn Brine Whiskey Barrel Sauerkraut - 16 oz - Aged In Oak Whiskey Barrels
+46	24.95	Organic Raw Sauerkraut, "Korean Kim Chi" Variety, 16 Oz Glass Jar, 3-pack
+47	24.95	Organic Raw Sauerkraut, "Dill E Gent" Variety, 16 Oz Glass Jar, 3-pack
+48	49.26	Biotta Sauerkraut Juice (6x16.9Oz)
+49	77.01	Franks, Sauerkraut Shrdd Glass, 32 OZ (Pack of 12)
+50	57.67	Sauerkraut (Pack Of 12)
+51	47.52	Othentic All Natural Organic Sauerkraut, 23.98 oz
+52	64.11	Agrosik Sauerkraut 32 Ounce 12 Per Case.
+53	24.95	Organic Raw Sauerkraut, "Love Kraut" Variety, 16 Oz Glass Jar, 3-pack
+54	40.47	Gundelsheim Kiihne Barrel Sauerkraut -- 28.5 oz
+55	10.99	Biona Organic Sauerkraut 680g
+56	31.25	Schwartz Refrigerated Unpasteurized Sauerkraut - 2 gallon pail, 1 pail per case
+57	7.5	Organic Raw Sauerkraut, "Veda Kraut" Variety, 16 Oz Glass Jar
+58	34.75	Vlassic Old Fashioned Sauerkraut - 32 oz. jar, 12 jars per case
+59	58.65	Eden Foods Organic Sauerkraut Glass ( 12x32 OZ)
+60	24.95	Organic Raw Sauerkraut, "Lil Kim Chee" Variety, 16 Oz Glass Jar, 3-pack
+61	28.95	Organic Raw Sauerkraut, "I-Boost" Variety, 16 Oz Glass Jar, 3-pack
+62	24.95	Organic Raw Sauerkraut, "Basil Garlic" Variety, 16 Oz Glass Jar, 3-pack
+63	4.25	Squeezable Bavaraian Style Sauerkraut From Sconnie Foods - Wisconsin-made Sauerkraut in a Convenient Squeeze Bottle - With Caraway Seeds
+64	41.89	Silver Floss Barrel Cured Sauerkraut 14.4 oz Can (Pack of 12)
+65	43.47	Gundelsheim Barrel Sauerkraut, 28.5 Ounce -- 6 per case.
+66	45.45	Wildbrine Curry and Cauliflower Sauerkraut Salad, 18 Ounce -- 6 per case.
+67	16.99	Sauerkraut 3 jars: Jake and Amos
+68	30.89	Othentic, Sauerkraut, 30.34 OZ (Pack of 6)
+69	7.99	Whiskey Barrel Sauerkraut by Brooklyn Brine (16 ounce)
+71	27.99	B & G Sauerkraut 2/99 Oz Cans
+72	3.29	Sauerkraut 16 fl oz
+73	24.33	Del Monte, Sauerkraut, 14.5oz Can (Pack of 6)
+75	62.33	Biotta, Juice Sauerkraut, 16.9-Fluid Ounce (6 Pack)
+76	9.66	Instant Noodles (Artificial Beef with Sauerkraut Flavor) - 4.20oz [Pack of 6]
+77	5.99	Rotkohl Red Cabbage 32 fl oz
+78	43.92	Andre Laurent Traditional French Sauerkraut, 17.8 Ounce -- 6 per case.
+80	10.45	Organic Raw Sauerkraut, "I-boost" Variety, 16 Oz Glass Jar
+81	5.99	Mild Fiesta Mix 32 fl oz
+82	7.5	Organic Raw Sauerkraut, "Love Kraut" Variety, 16 Oz Glass Jar
+83	3.49	Sauerkraut - Cabbage in White Wine (Vecses) 810g
+85	45.77	Franks Kraut Can, 8-Ounce (Pack of 24)
+86	45.45	Wildbrine Dill and Garlic Sauerkraut Salad, 18 Ounce -- 6 per case.
+87	35.0	Raw Rutes - Sauerkraut Starter Kit
+88	18.5	Chow Chow Sweet & Hot - MeadowCroft Farm Nanny's Sweet & Hot Chow Chow 2 Pack All Natural
+89	79.99	Biotta: Sauerkraut Juice 17 Oz (12 Pack)
+90	13.88	B&G Old Fashioned Barrel Sauerkraut 1 Gallon (2 Pack)
+91	19.5	Sauerkraut Bavarian Banana Peppers - MeadowCroft Kraut Stuffed Banana Peppers-2 PACK- All Natural Banana Peppers Stuffed with Sauerkraut
+92	45.45	Wildbrine Arame and Ginger Sauerkraut Salad, 18 Ounce -- 6 per case.
+93	29.99	Sabrett Sauerkraut 32 Oz. (4 Pack)
+94	58.82	Kuhne Barrel Sauerkraut, 28 Ounce -- 6 per case.
+95	19.5	Jake & Amos Old Fashioned Sauerkraut, Pint (Pack of 2)
+96	26.75	S&W Sauerkraut Traditional Homestyle 14 Oz (Pack of 6)
+97	18.98	Wgmns Food You Feel Good About Sauerkraut, 14.4 Oz. (Pack of 8)
+98	4.25	Sconnie Foods Squeezable Sauerkraut - A Convenient, No Mess Sauerkraut - Made in Wisconsin
+99	24.95	Organic Raw Sauerkraut, "Veda Kraut" Variety, 16 Oz Glass Jar, 3-pack

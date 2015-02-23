@@ -1,0 +1,83 @@
+0	15.5	Guarana Soft Drink - Refrigerante Guarana - Antarctica - 11.83FL.
+1	24.95	Ramune Japanese Soft Drink Mix Variety 6 Flavors 6 Bottles
+3	45.19	Kool-Aid Aguas Frescas Mandarina-Tangerine Unsweetened Soft Drink Mix, 0.16 Ounce Packets (Pack of 192)
+4	7.61	Ramune Japanese Soft Drink Original Flavor
+5	4.99	Ramune Japanese Soft Drink Raspberry Flavor
+6	9.97	SQUIRT Thirst Quencher Soft Drink Mix 6 Sticks In Each Box (4 Pack)... iwgl
+7	3.99	Party Fridge Fizz Saver Soda Dispenser Coke Drinking Device Soft Drink Dispenser - Red
+8	4.49	True Lemon Lemonade Drink Mix, 10 Count
+9	38.95	Wyler's Light Sugar Free Drink Mix, Iced Tea With Peach, 1.35-Ounce (Pack of 12)
+10	2.45	Ramune Carbonated Soft Drink (Original Flavor) - 6.76fl Oz (Pack of 1)
+11	39.95	Kool-Aid Singles(for 16.9-Ounce Bottles) Orange, 12-Count Packets (Pack of 6)
+13	4.18	Fizz Saver Refrigerator 2-Liter Soft Drink Dispenser
+15	45.83	Kool-Aid Twists Soarin' Strawberry Lemonade Unsweetened Soft Drink Mix, 0.19 Ounce Packets (Pack of 192)
+16	5.2	True Orange Stick Pack, Mango, 10 Count
+18	29.99	Wyler's Light Soft Drink Mix, Grape, 1.16-Ounce (Pack of 6)
+19	8.99	Wyler's Assorted Flavors Soft Drink Mix Sugar Free (12 Pack)...GL
+20	24.99	Calpico Concentrate Bottle - 15.90fl Oz (Pack of 3)
+21	7.79	Crystal Light On The Go Drink Mix, Variety Pack, 44 Count
+22	20.99	Wyler's Light Soft Drink Mix, Cool Raspberry, 1.16-ounce Canister (Pack of 3)
+23	19.99	Wyler's Light Soft Drink Mix, Cool Raspberry, 1.16-Ounce Canister (Pack of 6)
+24	9.0	Fanta Orange, 24 ct, 7.5 FL OZ Mini-Can
+25	21.97	Hawaiian Punch Soft Drink Mix Combo.. 3 Berry Blue Typhoon, 3 Lemon Berry Squeeze, 3 Lemon Lime Splash, 3 Wild Purple Smash.. (12 Pack).. HPVagr
+26	37.37	Tab Soda, 12 oz Can (Pack of 24)
+28	39.95	Wyler's Light Sugar Free Low Calorie Soft Drink Cool Raspberry 1.57 OZ (Pack of 18)
+30	5.5	Calpico Soft Drink, Strawberry, 16.9 Ounce
+31	8.83	Calpis Calpico Water , Original Flavor Non-Carbonated Soft Drink , 0.5 Liter SMALL (1 Bottle)
+32	9.45	KLASS Mango Instant Drink Mix 14.1 oz
+33	16.29	Wyler's Soft Drink Mix Lemonade .23 OZ (Pack of 48)
+34	5.39	Solo Original Lemon Soft Drink (375ml)
+35	10.0	Diet Pepsi, 7.5 Fl Oz Mini Cans, 24 Pack
+36	17.95	Wyler's Light Soft Drink Mix, Pink Lemonade, 3.13-Ounce Canister (Pack of 6)
+37	15.26	Ramune Carbonated Soft Drink (Strawberry Flavor) - 6.76fl oz [Pack of 6]
+39	21.99	Hawaiian Punch FRUIT JUICY RED Natural Flavors Soft Drink Mix Sugar Free 8 Sticks In Each Box (12 Pack)...GL
+40	22.84	Wyler's Light ICED TEA with PEACH Natural Flavors Soft Drink Mix Sugar Free 8 Sticks In Each Box (12 Pack)...GL
+41	42.6	Ramune MELON SOFT DRINK FROM JAPAN , 6.76-Ounce Glass Bottle (Pack of 12)
+42	5.99	Hata Ramune Soda Raspberry
+43	8.7	Jarritos Tamarindo Soft Drink, 12.5 oz.
+44	16.26	AriZona Sugar Free Lemonade, 1.4-Ounce Boxes (Pack of 6)
+45	8.44	Hawaiian Punch Singles To Go Lemon Berry Squeeze Sugar Free Drink Mix- 8 CT
+46	9.98	Diet Snapple PEACH TEA Soft Drink Mix 6 Sticks In Each Box (2 Pack)... iwgl
+48	19.95	Hunger Control (3pck) Variety Pack - 100% Natural, LIQUID Garcinia Cambogia for Appetite Control - No Pills to Swallow - Easy Absorption - 3 Delicious flavors to try - liquid drink mix, makes 72 servings - Sugar-Free, Calorie-Free - Real Fruit Flavors. **Family Business, Happiness Guaranteed**
+49	2.99	Wyler's Assorted Flavors - Soft Drink Mix, 12 pack,(Wyler's)
+50	23.55	SQUIRT Thirst Quencher Soft Drink Mix 6 Sticks In Each Box (12 Pack)... GL
+51	4.99	Party Fizz Saver Soda Dispenser Drinking Dispense Gadget Use W/2 Liter Bottle
+53	9.59	Tizer (4x330ml)
+54	22.93	Hansen's Kiwi Strawberry Soda, 12 Ounce Cans (Pack of 24)
+56	8.69	Wyler's Light Soft Drink Mix - Iced Tea with Raspberry
+57	11.19	Kool-aid Orange Unsweetened Soft Drink Mix 0.15-ounce Envelopes (Pack of 48)
+58	34.67	Kool-Aid Drink Mix, Sugar Sweetened Ice Blue Raspberry Lemonade Soft Drink Mix, 20-Ounce Containers (Pack of 6)
+59	22.79	UCC Mango Cream Soda Japanese Soft Drink (2 Pack)
+60	25.52	Wyler's Light Soft Drink Mix, Fruit Punch, 2.01-Ounce (Pack of 6)
+61	19.95	Stur - Variety Pack (5pck) - ALL-NATURAL Stevia Water Enhancer ......makes 100 8oz. servings - drink mix. Non-GMO, natural fruit flavor, natural stevia leaf extract, sugar-free, calorie-free, preservative-free, 100% Vitamin C, liquid stevia drops. **Family Business, Happiness Guaranteed**
+62	22.94	Diet SNAPPLE GREEN TEA Soft Drink Mix 6 Sticks In Each Box (12 Pack) GL
+63	15.0	Sidral Mundet Green Apple Drink Glass Bottle 12 oz
+64	7.63	Ramune Carbonated Soft Drink (Melon Flavor) - 6.76fl oz [Pack of 3]
+65	1.1	Pepsi Wild Cherry Soda, 12 oz Can (Pack of 24)
+67	8.56	Diet SNAPPLE HALF n HALF Soft Drink Mix 6 Sticks In Each Box (4 Pack) ...amtc
+68	3.44	Ramune (Carbonated Soft Drink) - 6.76fl oz [pack of 3]
+69	21.16	Calpico Original Soft Drink in Can, 11.3-Ounce (Pack of 8)
+70	21.99	Hawaiian Punch Soft Drink Mix Combo.. 6 Berry Blue Typhoon, 6 Wild Purple Smash.. (12 Pack).. HPVagr
+71	32.5	Ramune Japanese Marble Soft Drink Mix Variety 8 Flavors 8 Bottles
+72	1.88	VITAZEST TRIAL PACK - 5 Drink Mix Packets ALL flavors (Sugar Free & Vitamin enriched & Diabetic Friendly)
+73	29.99	Limca (Indian Soft Drink CAN) 300ml (6 pack)
+74	5.17	Wyler's Light Lemonade - Low Calorie Soft Drink, 1.57 oz,(Wyler's Light)
+75	32.99	Red Cola Revolution Soda Soft Drink, 12 Bottles, 16.5-Pound
+76	24.2	Calpico Mini Original Soft Drink, 3-Fluid Ounce (Pack of 5)
+77	6.99	Senorial Sangria Soft Drink, 1.5 liter
+78	9.8	Kool-Aid Twists Soft Drink Mix - Strawberry Kiwi Unsweetened, Kosher, Caffeine Free, 0.17 oz/envelope (Pack of 15)
+79	1.95	Kool-Aid Twists Soft Drink Mix - Ice Blue Raspberry Lemonade Unsweetened, Caffeine Free, 0.22 oz/envelope (Pack of 15)
+80	6.95	CRUSH Pineapple Sugar Free Natural Flavors Soft Drink Mix 6 Packets In Each Box (2 Pack)... mtc
+81	7.7	Crystal Light On The Go Wild Strawberry Energy Drink Mix- 10 CT
+82	37.49	Frostie, Soda Diet Root Beer 6-4Pk, 48 FO (Pack of 6)
+83	9.0	Sprite, 24 ct, 7.5 FL OZ Mini-Can
+85	26.95	CRUSH Grape Sugar Free Natural Flavors Soft Drink Mix 6 Packets In Each Box (12 Pack)... GL
+86	36.95	Yoo-Hoo CHOCOLATE Flavor Soft Drink Mix 6 Sticks In Each Box (12 Pack) GL
+88	41.88	Wyler's Light Sugar Free Drink Mix, Sunsplash Orange, 3.0-Ounce (Pack of 12)
+90	47.99	7 UP Sun Drop Diet Soda Soft Drink, 67.63-Ounce (Pack of 8)
+91	16.99	Ferrara Pan Candy Lemonhead Singles To Go Drink Mix (4 Box Set)
+94	19.99	12.6oz OWL Soothing Brew Instant Ginger Drink, 20 Sticks (One Bag)
+95	19.95	Loganberry Drink Syrup Concentrate - 1 Gallon
+96	11.35	Waist Watcher Soda, Diet, Vanilla Cream , 144 Fl. Oz, (Pack of 2)
+97	23.99	Kool-Aid Twists Blastin' Berry Cherry Unsweetened Soft Drink Mix, 0.17-Ounce Envelopes (Pack of 48)
+99	18.04	Wyler's Light Sugar Free Low Calorie Soft Drink Iced Tea with Peach 3 PACKETS (Pack of 6)

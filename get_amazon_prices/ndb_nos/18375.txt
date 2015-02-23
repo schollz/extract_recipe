@@ -1,0 +1,93 @@
+0	7.69	Saf Instant Yeast, 1 Pound Pouch
+1	9.87	Red Star Active Dry Yeast, 2 Pound Pouch
+2	8.9	One 8 oz Bob's Red Mill Active Dry Yeast Gluten Free
+3	12.48	Fleischmann's Instant Yeast - 2 pack/each 16 oz. bags
+4	7.69	LeSaffre Saf-Instant Yeast, Gold, 1 Pound
+5	8.43	Fleischmann's Instant Dry Yeast 1lb bag
+6	10.99	LeSaffre Saf-Instant Yeast, Red, 2 Pound
+7	10.25	Red Star Bread Machine Yeast, 4oz Jar
+8	5.29	1 pack 3 pc Fleischmann's Rapidrise Highly Active Yeast
+9	6.2	Red Star Champagne Yeast (10 Packs) Dried Yeast
+10	12.19	Distiller's Yeast (DADY) (1 lb. bulk pack)
+12	9.5	Fleischmann's Yeast, ActiveDry 4 oz Jar
+13	18.79	Saf Instant Yeast, 1-Pound Pouches (Pack of 4)
+14	9.88	Fermax Yeast Nutrient 1lb
+15	17.38	Red Star Active Dry Yeast, 2-Pound Pouches (Pack of 2)
+16	9.32	Red Star Active Dry Yeast Baking Powder 4 oz
+17	5.99	Fleischmann's Yeast for Bread Machines, 4-ounce Jars (Pack of 1)
+18	8.84	Yeast, Fleischmann's, 1 lb (pound) Dry, Instant (no proofing needed!), Fast Acting! Fast Rising! Vacuum Packed. Packed and Shipped Bulk by Mulberry Lane Farm, FAST SHIP!
+19	13.29	Hodgson Mill Active Dry Yeast, 0.31 Ounce (Pack of 48)
+20	9.78	Fleischmann's Rapid Rise Yeast
+21	8.23	10 Packs of Lalvin Dried Wine Yeast EC 1118
+22	13.95	Fleischmann's Instant Yeast - 2/16 oz. bags
+23	11.89	Bob's Red Mill Large Flake Yeast, 8 oz
+24	18.02	Red Star Quick Rise Yeast, For use in your oven or bread machine, 2012 Chef's Best Taste Award, 4 oz Jar (Pack of 2)
+27	7.63	Wine Yeast (10 Packs) Montrachet Red Star for Wine Making
+28	18.69	Fleischmann's Yeast, Active, Dry, 0.75-Ounce Packet (Pack of 9)
+29	12.13	Distiller Yeast
+30	13.99	saf-instant Gold Instant Yeast, 1 Pound (Pack of 2)
+31	16.12	Red Star Dry Yeast 3 pack, Gluten Free, 0.75-Ounce (Pack of 9)
+32	19.99	Brewer's Yeast Flakes 12.35 oz Pwdr
+33	11.72	Brewers Yeast, 1 lb.
+34	8.39	Alcotec 48-hour Turbo Yeast, 135 grams
+35	38.32	Bob's Red Mill Active Dry Yeast, 8-Ounce Packages (Pack of 8)
+36	8.17	Alcotec 24-hour Turbo Yeast, 205 grams
+37	17.99	Hoosier Hill Farm Nutritional Yeast Flakes, 1 lb.
+38	26.47	Dry Active Distiller's Yeast, 2 pack
+39	37.16	Bob's Red Mill T6635 Large Flake Yeast, 8-Ounce Packages (Pack of 4)
+40	12.49	Fleischmann's Yeast Pizza, 0.25-Ounce Pouches 3 Count (Pack of 5)
+41	6.96	Cote des Blancs Wine Yeast - 10 Packs
+43	16.92	Alcotec 48-hour Turbo Yeast, 135 grams (Pack of 2)
+44	9.17	ICV D-47 Lalvin Wine Yeast (10 Packs)
+45	2.95	Fleischmann's Yeast Yeast - Rapid Rise Highly Active 3 Ct Packet
+46	7.0	Liquor Quik Vodka Pure Professional Turbo Yeast
+47	9.76	Fleischmann's Yeast 16 Oz., (Pack of 1)
+48	6.0	Safale US-05 Dry Yeast - 11.5g
+49	4.95	SAF Perfect Rise Instant Yeast-12 pack (7 Gram)
+50	4.89	Moonshine Distiller 48-Hour Turbo Yeast
+52	7.48	Pasteur Red Dried Wine Yeast (10 Packets)
+53	9.16	10 packs of KIV-1116 Lalvin Yeast for Winemaking
+54	8.49	Still Spirits Still Spirits "Classic" Turbo Yeast, 6.17 oz
+55	12.95	Lallemand Instaferm Instant Dry Yeast Leavening Agent, Red, 1 Pound
+56	27.0	Fleischmann's RapidRise Yeast, 3-Count Envelopes (Pack of 9)
+57	4.49	Coopers Ale Yeast - 7g
+58	4.98	Danstar Nottingham Ale Dry Yeast - 11g
+59	18.45	Red Star Active Dry Yeast, 4-Ounce Jars (Pack of 3)
+60	6.6	Yeast Nutrient - 2 oz.
+61	10.66	BREWERS YEAST PURE 2# 90105
+62	8.22	Premier Cuvee (10 Packs) Wine Yeast
+63	8.29	Red Star Nutritional Yeast - VSF Mini Flake -- 5 oz Each
+64	7.9	Bioreal Organic Yeast Packets - 9 g (Pack of 10)
+65	5.0	Platinum Superior Baking Yeast - 3 CT
+66	12.99	King Arthur Flour Red Star Active Dry Yeast
+67	5.1	Red Star Montrachet
+68	27.79	Fleischmann's Yeast for Bread Machines, 4-Ounce Jars (Pack of 3)
+69	11.45	Paneangeli Mastro Fornaio Yeast For Pizza 3 Envelopes / 9 packets
+70	10.19	Bob's Red Mill Active Dry Yeast, 8 oz, 2 pk
+71	15.56	Red Yeast Rice
+72	27.34	Seitenbacher Active Dry Yeast, 0.70-Ounce Packages (Pack of 16)
+73	19.59	Alcobase Extreme 23% Turbo Yeast 16.4 oz.
+74	8.59	Lalvin Wine Yeast 71B 1122 Yeast 10 Packs (Strange Brew Home-Brew)
+75	12.0	Kal Nutritional Yeast Flakes -- 12 oz
+76	12.99	Lesaffre Red Star Bakers Active Dry Yeast 1 lb. Vacuum Pack
+78	11.17	Spring Valley Brewers Yeast
+79	6.91	Yeast Energizer - 1 oz.
+80	9.99	Yeast Nutrient 1 Lb.
+81	11.0	Turbo Pure X-Press 18% Distillers Yeast
+82	18.0	Yeast Energizer - 1 lb.
+83	8.0	Liquor Quik Rum Turbo Pure Professional Rum Yeast
+84	24.97	Red Star Bread Machine Yeast, 4-Ounce Jars (Pack of 3)
+85	17.01	SAF Perfect Rise Gourmet Yeast, 0.75-Ounce (Pack of 9)
+86	0.11	Lalvin EC-1118 Champagne
+87	16.99	MILLIARD Nutritional Yeast Flakes - 16oz.
+88	12.49	Fleischmann's Yeast Active Dry, 0.75-Ounce Pouches (Pack of 5)
+89	9.11	Red Star Quick Rise Yeast, 3/4-Ounce (Pack of 9)
+90	32.99	Homemade Pizza & Bread Bundle: Premium Instant Yeast and Liquid Soy Lecithin to Make 44 Batches of Bread, Pizza, Cinnamon Rolls, etc.
+91	6.49	Safale Ale S-04 Whitbread Strain (11.5 grams)
+92	11.65	Superyeast
+94	9.99	Bourgovin RC-212 (10 Packs) Wine Yeast
+95	25.36	Alcotec 48 Hour Turbo Yeast, 135g (4 Packs)
+96	3.86	Red Star Pasteur Champagne
+97	9.99	From The Fields Organic Nutritional Yeast Flakes, 5.5 Ounce
+98	1.0	Lallemand BRY-97 American West Coast Ale Yeast
+99	2.99	Bellarise (Red) Instant Dry Yeast

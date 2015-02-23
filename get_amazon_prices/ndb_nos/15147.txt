@@ -1,0 +1,85 @@
+0	137.9	Live New England Lobster, 4-6 lb avg , 10 lb case, approximately 2 Lobsters
+1	88.0	Get Maine Lobster - Maine Lobster Tails (Pack of 10)
+2	39.95	Maine Lobster Meat
+4	99.95	1 and 1/8 lb Live Maine Lobster -- Pack of 4
+5	123.92	Live New England Lobster 1.25 lb avg , 10 lb case, approximately 8 Lobsters
+6	59.0	Frozen Maine Lobster Meat
+7	89.99	"LOBSTER FEST" Lobster Sampler (4 LBS of LOBSTER)
+8	6.0	Lay Chips Potato Sheets. Lobster Hot Plate 29 G.
+9	44.24	Sea Best NY Strip Steak and Warm Water Lobster Surf and Turf, 30 Ounce
+10	39.49	Lobster Tails, Cold Water, By Rastelli Direct
+11	122.57	Charleston Seafood Frozen Lobster Tails, 32-Ounce Box
+13	14.99	Lobster Cup - 11oz.
+14	49.99	Sweet Langostino Lobster Meat (2 POUNDS)
+15	159.95	Maine Lobsterman's Catch
+16	60.0	lobster claw and knuckle meat, cooked, product of canada, 2 LBS, frozen
+17	11.99	Red Lobster Cheddar Bay Biscuit Mix - Net Wt 34.08 oz(2lb 2.08 oz)(966g)
+18	65.79	Live Lobster, 2 lbs. Each
+19	62.95	Port Clyde Lobster Mac & Cheese Casserole
+20	87.95	Downeast Lobster Rolls
+21	199.0	Get Maine Lobster - Jumbo Lobster Tails (Pack of 10)
+22	13.58	Red Lobster, Cheddar Bay Biscuit Mix, 11.36oz Box (Pack of 3)
+23	23.5	Bookbinders (Old Original) Lobster Bisque, 10.5-Ounce (Pack of 6)
+24	25.0	Fresh LIVE Cocktail Oysters in the Shell
+25	32.5	Bar Harbor All Natural Maine Whole Lobster Meat, 6.5-Ounce Cans (Pack of 2)
+26	99.0	Boston Bob's Live Lobster
+27	10.92	Gummy Lobsters - 5lb Factory Sealed Bag
+29	7.85	Best Lay's Chips Potato Sheets Lobster Hot Plate Flavor 55 G. Product of Thailand
+31	94.99	Sweet Langostino Lobster Meat (5 Pounds)
+33	97.95	Lemon Butter Tails
+34	19.99	Lobster Creature Cup - 15oz.
+35	69.0	Two Canadian Nova Scotia 12-14 Ounce Cold Water Lobster Tails
+36	149.0	2 Australian Lobster Tails (16-20 oz each)
+37	79.95	Heart-Topped Lobster Pot Pies, Four Pies
+38	19.49	(Pack of 4) Red Lobster Cheddar Bay Biscuit Mix 11.36 oz Box
+39	99.95	Surf & Turf - 2 (6oz) Filet Mignons and 2 (6oz) Cold Water Lobster Tails Steak Delivered
+41	44.31	Chincoteague Seafood Lobster Bisque, 15-Ounce Cans (Pack of 12)
+42	97.95	Maine Clambake
+43	6.01	Red Lobster Signature Seafood Seasoning
+44	14.95	SCS Red Lobster Cheddar Bay Biscuit Mix - 34.08 Oz.
+45	16.0	Groix & Nature Lobster Oil 3.38 Fl Oz / 100 Ml
+46	23.95	Red Lobster, Cheddar Bay Biscuit Mix, 3- 11.36 Oz. boxes Bundled with 3 Bonuses to make these biscuits super easy to make!
+47	27.1	Nongshim Bowl Instant Noodle Soup Assorted Bundle 6 Flavors: Shin Bowl + Lobster + Spicy Shrimp + Spicy Kimchi + Spicy Chicken + Hot & Spicy (12-pack)
+48	21.99	Omaha Steaks 2 (16 oz. pkgs.) Lobster Bisque
+49	6.49	Red Lobster Cheddar Bay Biscuit Mix (1-11.36oz Box)
+50	26.88	Red Lobster Cheddar Bay Biscuit Mix, 11.36-Ounce Boxes (Pack of 12)
+51	85.0	Raw Frozen Maine Lobster Tails
+52	39.95	Port Clyde Lobster Mac & Cheese
+53	99.0	LOBSTER CLAWS X -JUMBO (5 LBS)
+54	79.99	FRESH DUNGENESS CRAB MEAT (2 POUNDS)
+55	39.99	Omaha Steaks 4 (16 oz. pkgs.) Lobster Bisque
+56	84.95	Lobster Risotto Dinner for Two
+57	7.64	Cape Cod All Natural Lobster Bisque, 15 Ounce
+59	10.5	1 Lb Gummy Lobsters
+60	8.57	Red Lobster, Signature Seafood Seasoning, 5oz Bottle (Pack of 2)
+61	10.5	Red Lobster, Cheddar Bay Biscuit Mix , 11.36oz Box (2 Pack)
+62	11.99	Red Lobster Cheddar Bay Biscuit Mix, 45.44 Ounce
+65	115.95	Port Clyde Lobster Mac & Cheese Casserole, Five Pounds
+68	11.99	Lobster Base (Pack of 2)
+69	19.99	Red Lobster Signature Seafood Seasoning 5oz Bottle (Pack of 3)
+71	142.95	Gold Award Sampler
+72	27.48	Muscongus Bay Lobster Smack
+73	142.2	Live New England Lobster, 2-3 lb avg , 10 lb case, Avg 3-4 Lobsters
+75	159.0	Get Maine Lobster - Jumbo Lobster Tails (Pack of 6)
+76	146.33	4 Live Maine Lobsters, 1.25 lbs. A Piece
+78	19.99	RED LOBSTER Cheddar Bay Biscuit Mix 30 Biscuits - 34.08oz (2-Pack)
+79	19.95	Red Lobster Cheddar Bay Biscuit Mix, 3 Pk Bundle with Baking Sheet Included
+81	102.53	Lobster Gram LBMT2 2 LBS OF MAINE LOBSTER MEAT
+82	6.49	Red Lobster Cheddar Bay Biscuit Mix
+83	52.32	Chincoteague Seafood Lobster Bisque, 3 Pound 3 ounce
+84	65.95	Port Clyde Lobster Mac & Cheese, Four Servings
+85	124.11	Lobster Gram LLGR2 LOTSA LOBSTA TAIL GRAM DINNER FOR 2
+86	3.5	Gummi Lobsters
+87	102.95	Clam Chowder & Lobster Rolls
+88	7.35	Best Lay's Chips Potato Sheets Lobster Hot Plate Flavor 55 G./1 Bag
+89	149.99	"LOBSTER FEST" Lobster Sampler (8 LBS of LOBSTER)
+90	38.49	Minor's Lobster Base - 1 lb. Cup
+91	16.26	Sea Best Signature Lobster Cakes, 8 Ounce
+92	4.83	Bowl Noodle Soup (Spicy Lobster Flavor) - 3.03oz [Pack of 3]
+93	59.95	Ocean Wave of Lobster, Crab, and Clam | Gourmet Gift Basket of Seafood Favorites
+94	2.2	Lobster Pop
+95	34.97	Pacific Northwest Gourmet Foods, Creamy Lobster Bisque Mix (3 Pack)
+96	6.5	Bar Harbor New England Style Lobster Bisque 10.5 oz
+97	31.14	Nong Shim Bowl Noodle, Spicy Lobster, 3.03-Ounce Bowls (Pack of 12)
+98	133.42	Lobster Gram MSGR2H MAINE SHORE CLAMBAKE GRAM DINNER FOR TWO WITH 1.5 LB LOBSTERS
+99	100.0	American Kobe Beef & Maine Lobster Tail Combo Dinner for Two

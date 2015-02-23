@@ -1,0 +1,91 @@
+1	96.55	Charleston Seafood Oysters, 20-Pound Box
+2	25.0	Fresh LIVE Cocktail Oysters in the Shell
+3	32.71	Crown Prince Natural Smoked Oysters in Pure Olive Oil, 3-Ounce Cans (Pack of 9)
+4	23.34	Roland Petite Smoked Oysters, 3-Ounce Cans (Pack of 10)
+6	26.52	Brunswick Smoked Oysters, 3-Ounce Tins (Pack of 12)
+7	26.98	Roland Whole Oysters, 8-Ounce Cans (Pack of 6)
+10	9.9	New England Original Westminster Bakeries Oyster and Soup Crackers
+11	17.07	Mushroom House Dried Oyster Mushrooms, 1 Pound
+12	15.99	Roland Medium Smoked Oysters, 3-Ounce Cans (Pack of 5)
+13	32.52	O.T.C. Oyster & Soup Crackers, 24-Ounce Packages (Pack of 6)
+14	32.67	Nabisco, Premium Soup & Oyster Crackers, 9oz Bag (Pack of 6)
+16	31.31	Reese Medium Smoked Oysters, 3.7-Ounce, 10-Count Cans
+17	9.2	Thai Oyster Sauce Maekrua Brand - 11 oz bottle x 2
+19	29.99	Bookbinders Oyster Stew, 10.5-Ounce (Pack of 6)
+20	25.0	Wok Mei Gluten Free Sauce 3-Flavor Variety: One 8 oz Jar Each of Oyster Sauce, Hoisin Sauce, and Plum Sauce in a Gift Box
+21	31.67	Westminster Bakers All Natural Crackers, Oyster, 0.5 Ounce (Pack of 150)
+22	9.17	Lee Kum Kee Panda Brand Oyster Sauce (18 oz.)
+23	14.99	Skyline Chili Oyster Crackers 6oz Box (Pack of 3)
+24	4.28	Bumble Bee, Oysters Fancy Whole Premium Select, 8 oz
+25	17.5	Wok Mei Gluten Free Oyster Sauce, 8 oz Jars in a Gift Box (Pack of 2)
+26	20.13	Roland Smoked Oysters, 3-Ounce Cans (Pack of 10)
+27	29.95	Wok Mei All Natural Oyster Sauce, 64oz Jar
+28	35.84	O.T.C. Oyster & Soup Crackers, 10-Ounce Boxes (Pack of 12)
+29	46.98	Sunny Sea Smoked Oysters in Oil, 3 Ounce Cans (Pack of 24)
+31	31.99	Crown Prince Mildly Spiced Smoked Oysters with Red Chili Pepper 3oz Can (Pack of 6)
+32	23.99	New England Original Westminster Bakeries Oyster & Soup Crackers (3 Pack)
+33	35.94	Crown Prince Fancy Whole Oysters in Cottonseed Oil 3.75 Oz (Pack of 6)
+34	13.49	Crown Prince Smoked Oysters in Pure Olive Oil -- 3 Oz Each / Pack of 2
+35	34.17	Westminster Bakers All Natural Crackers, Oyster, 8 Ounce (Pack of 12)
+36	12.95	O.T.C. (Oyster) Crackers - 2 Lbs
+37	24.79	Wok Mei Variety Set of 3 - Oyster, Hoisin and Plum Sauce - 8oz Jars
+38	23.59	Panda Sauce Oyster Flavored Sauce - 18oz [Pack of 3]
+39	19.23	Mushroom House Dried King Oyster Mushrooms, 1 Pound
+40	52.6	Panda Oyster Flavored Sauce, 5 Pound (Pack of 6)
+41	30.0	Premium Soup & Oyster Crackers, 9 Ounce Bag (Pack of 12)
+42	34.68	OTC Oyster Crackers with Cracked Pepper, 10-Ounce Boxes (Pack of 12)
+43	18.51	Lee Kum Kee Premium Oyster Flavored Sauce, 5 Pound
+44	16.97	Lee Kum Kee Lkk Panda Brand Green Label Oyster Flavored Sauce, 5 Pound
+45	43.35	Sunny Sea Smoked Oysters in Teriyaki Sauce, 3 Ounce Cans (Pack of 24)
+46	23.55	Kikkoman Green Label Oyster Sauce, 12.4 Ounce (Pack of 3)
+47	15.01	Wok Mei Gluten Free Sauce 2-Flavor Variety: One 8 oz Jar Each of Oyster Sauce and Plum Sauce in a Gift Box
+48	10.99	Olde Cape Cod Oyster Cracker Multi Pack 7.5 oz
+49	13.97	Vancamp's Fancy Smoked Oysters in Oil - 3 Oz. Per Can - 3 Can Pack
+50	22.85	Vegetarian Mushroom Oyster Sauce, 10 fl. oz. 2-pack
+51	20.01	Chicken of the Sea, Oysters, Whole, 8oz Can (Pack of 6)
+52	26.24	Reese Colossal Smoked Oysters, 3.7-Ounce Cans (Pack of 10)
+53	23.16	Dynasty Sauce Oyster
+54	34.25	Wye River Wholesale Soup, Oyster Stew, 15-Ounce (Pack of 6)
+55	27.48	Lee Kum Kee Lkk Panda Brand Oyster Flavored Sauce, 9 Ounce (Pack of 12)
+56	5.94	Fancy Whole Smoked Oysters
+57	23.58	Dunecraft Grow Your Own Oyster Mushroom
+58	108.23	Lee Kum Kee Panda Brand Oyster Sauce, 32 Ounce
+59	45.5	Crown Prince Natural, Naturally Smoked Oysters with Red Chili Peppers, Mildly Spiced, 3 oz Pack Of 12
+60	33.19	House of Tsang Oyster Sauce, 12.4 Ounce -- 6 per case.
+61	11.49	Crown Prince Natural Smoked Oysters In Pure Olive Oil - 3 oz - 3 pk
+62	23.92	Lee Kum Kee Panda Oyster Sauce, 5 Pound
+63	10.99	365 Everyday Value Oyster Crackers
+64	13.74	Lee Kum Kee Oyster Sauce-8.3%
+65	40.45	Westminster Cracker Company Crackers, Oyster, Trans Ff, 8 Ounce (Pack of 12)
+66	20.48	Vegetarian Mushroom Oyster Sauce, 35fl oz
+67	33.79	Crackers, Oyster, Old Fash, .5 oz (pack of 150 )
+68	89.0	Crown Prince Natural Smoked Oysters in Pure Olive Oil, 3-Ounce Cans (Pack of 24)
+69	11.35	JES Oyster Flavor Stir-fry Sauce, 13.6-Ounce Bottle (Pack of 3)
+70	21.99	Try Me, Sauce Oyster & Shrimp, 5-Ounce (6 Pack)
+71	13.15	Oyster Mushrooms, 1 Lb Bag
+72	15.0	King Oyster (Pleurotus Eryngii) Live Mushroom Spawn
+73	100.69	Havista Dried Mushrooms, King Oyster, 5-Pound
+74	9.93	Bumble Bee - Premium Select Fancy Smoked Oysters - 3.75 Oz.
+76	21.99	Roland Belgian Cut Salsify, 14.11-Ounce Cans (Pack of 6)
+77	24.89	Geisha Smoked Oysters 3.75 oz (Pack of 6)
+78	10.5	Megachef Premium Oyster Sauce 240 G, 7.7 Oz
+79	39.99	Crown Prince Smoked Oysters in Cottonseed Oil, 3.75-Ounce Cans (Pack of 9)
+80	9.27	Kikkoman Sauce Oyster Green 12.4 OZ
+81	11.44	Lee Kum Kee - Premium Oyster Sauce 18 Oz.
+82	15.9	Napoleon LARGE SMOKED OYSTERS 3.66oz (3 Pack)
+84	18.38	Yankee Traders Brand New England Oyster Crackers, 2 Pound
+85	59.95	Bumble Bee Smoked Oysters - 18 Pack
+86	65.56	Mushroom House Dried King Oyster Mushrooms, 3-Pound
+87	4.15	Ginger Powder 4oz - Market Fresh
+88	36.96	Kikkoman Oyster Sauce 5 lbs (2 Pack)
+89	14.55	Lee Kum Kee Panda Brand Oyster Sauce (18 oz.) (Pack of 2)
+90	69.79	Reese Colossal Smoked Oysters 3.7 OZ (Pack of 20)
+91	4.0	Casson's Oyster Knife Pearl Black Handle
+92	24.0	Nabisco(r) New England Oyster Crackers (Case of 150)
+93	128.43	Smoked Oysters Pacific 2.5 OZ (Pack of 12)
+94	53.95	Keebler Cracker Oyster Pckt .5Z, 300Pc
+95	60.34	Crown Prince Smkd Oysters in Olive Oil, 3-ounce (Pack of 18)
+96	14.95	Pearl Oyster Mushroom Growing Spawn Plugs 40 count
+97	35.0	Oysters (Two dozen pack)
+98	33.6	India Tree Oyster Pearl Dragees, Size 5, 16 oz
+99	33.5	Reese Petite Smoked Oysters, 3.7-Ounce, 10-Count Cans

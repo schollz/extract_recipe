@@ -1,0 +1,90 @@
+0	15.99	Dried Persimmon Fruit 1 Pound Bag - Oh! Nuts
+2	10.49	Trader Joe's Dried Fruit Unsweetened & Unsulfured California Persimmons
+3	6.8	Hankook Tea Tisane, Persimmon Leaf, 32 Count
+4	19.99	Dried Persimmon Slices 1 Pound Bag - 100% Organic
+6	12.5	La Vigne Organics Frozen Fuyu Persimmon Puree - 2 Lbs. (908G)
+7	11.69	Hankook Tea Persimmon Leaf Tisane, 10 Count
+9	59.99	Dried Persimmon Fruit 5 Pound Bag - Oh! Nuts
+10	12.25	Dried Sliced Persimmon 8 oz by OliveNation
+11	19.99	Certified Organic Dried Persimmon Slices 1 Pound Bag by Green Bulk
+12	27.95	Dried Persimmons
+13	39.95	Korean Organic Premium Top Grade Mountain 1.8 Ounce Persimmon Loose Leaf Herbal Tea: Good for Eye Health
+14	23.99	Dried Persimmon Slices, 8 oz.
+15	33.25	La Vigne Organics , Dried, Sliced Fuyu Persimmons - Bulk - 2.5 Lb. Bag
+16	17.85	Hankook Tea Persimmon Leaf Tisane, 0.71 Ounce
+17	2.99	Persimmon Leaves Tea 20 Tea bags
+18	11.16	[HEALTH TEA] Korea Food Persimmon Leaf Tea 1.0g X 40 Tea Bags gamipca gamip
+19	17.8	Japanese Traditional Kanten Agar Sweet Jelly Candy Yokan with Grain of Dried Persimmon
+20	10.99	4 Boxes X 23g. of Lakerol Classic Licorice Persimon Stevia Original Swedish Sugar Free Liquorice Pastilles Candy Sweets Lozenges Drops Dragge
+22	27.54	Kwong Sang Persimmon Tea, 2.5-Ounce Canisters (Pack of 8)
+23	27.86	Natural Persimmon Leaf Tea Beauty Tea Weight Loss Chinese Herbal Tea 250g
+24	91.95	Dried Sliced Persimmon 5 lbs by OliveNation
+25	9.95	Dr Miller's Holy Tea - 1 Week Supply
+27	12.99	1.41oz ABC Tea Persimmon Leaves Tea, Pack of 1
+28	9.55	Fruit Blends Shampoo - Persimmon + Rose 12 fl oz Liquid
+29	20.85	Dried Sliced Persimmon 16 oz by OliveNation
+30	16.5	La Vigne Organics Kumquat/Persimmon Blend Fruit Leather- .675 Oz. (19G)- By The Dozen
+31	29.5	Organic Dried Persimmons, 2 Ounces (6 Packs)
+32	9.99	Scrumptious Pantry Heriloom Hot Sauce American Persimmon -- 5 fl oz
+33	11.99	Butterscotch 2.5oz - White Loose Leaf Tea
+34	5.25	La Vigne Organics , Dried, Sliced Fuyu Persimmons - 4 Oz.(112G)
+35	13.99	Gunpowder - Loose Leaf Green Tea 3oz
+37	11.99	Peach Apple Crsip - Loose Leaf Black Tea 2oz
+38	8.99	White Guava - Loose Leaf White Tea 1oz
+39	11.99	Coconut Chocolate - Loose Leaf Pu Erh Tea 2oz
+40	21.99	Periwinkle 5oz - Black Loose Leaf Tea
+41	5.99	3 Stars - Ling Zhi Reishi Persimmon Hypertensive Tea - 30 Tea Bags
+43	9.99	Rooibos Vanilla Chai - Loose Leaf Chai Tea 3oz
+44	58.96	Woodstock Farms Persimmons, Fuyu 5 LB
+45	9.99	Rooibos Chai - Loose Leaf Chai Tea 2oz
+46	1.6	La Vigne Organics Kumquat/Persimmon Blend Fruit Leather- .675 Oz. (19G)- Individually
+47	35.0	White Loose Leaf Tea Gift Set
+48	23.99	Honeysuckle - Loose Leaf Pu Erh Tea 5oz
+49	15.5	Persimmon Fruit-1Lb-Sliced Dried Persimmon Fruit
+50	1.6	La Vigne Organics Persimmon Fruit Leather- .675 Oz. (19G) - Individually
+51	16.5	La Vigne Organics Persimmon Fruit Leather- .675 Oz. (19G) - By The Dozen
+52	8.99	Thai Chai 2oz - Black and Chai Loose Leaf Tea
+53	9.99	Chocolate Banana - Loose Leaf Rooibos Tea 2oz
+54	9.99	Lotus - Loose Leaf Green Tea 2oz
+55	9.99	Silver Needle - White Loose Leaf Tea 1oz
+56	40.0	Green Loose Leaf Tea Gift Set
+57	25.99	Gunpowder - Loose Leaf Green Tea 6oz
+58	8.99	Ginger Ginseng 2oz - Herbal Loose Leaf Tea
+59	24.99	Silver Needle - Loose Leaf White Tea 3oz
+60	9.99	Lychee Burst - Loose Leaf Black Tea 2oz
+61	9.99	Ruby Orange - Loose Leaf Rooibos Tea 2oz
+62	9.99	Detox Blend 2.5oz - Herbal Loose Leaf Tea
+63	8.99	Rooibos - Loose Leaf Rooibos Tea 2oz
+65	40.0	Rooibos Loose Leaf Tea Gift Set
+66	11.85	Hankook Tea Persimmon Leaf Tisane, 12 Count (Pack of 12)
+67	7.99	Mint Medley 1oz - Herbal Loose Leaf Tea
+68	7.99	White Peach - Loose Leaf White Tea 1oz
+69	9.99	Wellness Blend 2oz - Herbal Loose Leaf Tea
+70	16.99	Lychee Burst - Loose Leaf Black Tea 4.5oz
+71	8.99	Sencha - Loose Leaf Green Tea 2oz
+72	40.0	Herbal Loose Leaf Tea Gift Set
+73	24.99	Immortal Nectar - Loose Leaf Pu Erh Tea 4.5oz
+74	20.99	Biodynamic Darjeeling Loose Leaf Black Tea- 4 oz
+75	9.99	Green Caramel - Loose Leaf Green Tea 2oz
+77	9.99	Periwinkle 2oz - Black Loose Leaf Tea
+78	14.99	Genmaicha - Loose Leaf Green Tea 3oz
+79	15.99	Sugimotoya Okonomi Yokan - Tranditional Japanese Sweet Bean Paste Jelly Cookie Cakes - 5 Flavors (Matcha, Persimmon, Read Bean, Salty, Cream) - 12.1 Oz -- New Arrival!
+80	9.99	Rock Sugar (1 lb)
+81	9.99	Hibiscus Rose 2oz - Herbal Loose Leaf Tea
+82	31.85	Scrumptious Pantry Heirloom American Persimmon Hot Sauce, 5 Fluid Ounce -- 6 per case.
+83	10.99	English Breakfast - Loose Leaf Black Tea 2.5oz
+84	39.99	Persimmon Chrysanthemum Tea Herb Tea Regulate High and Low Blood Pressure
+85	289.99	Roland: Persimmon Tea 2.5 Oz (96 Pack)
+86	42.99	Persimmon Chrysanthemum Tea Herb Tea Regulate High and Low Blood Pressure Teabags
+87	19.95	Persimmon - Colored Cocoa Butter
+88	14.95	Persimmon Leaves Tea - 1.2g X 25 Tea Bags
+89	39.99	Persimmon Chrysanthemum Tea Herb Tea Substitute Tea
+90	8.99	Lapsang Souchong 2oz - Black Loose Leaf Tea
+91	17.95	Oroblanco (5 lbs)
+93	74.95	Fancy Fresh Fruit Gift Box 16 lbs.
+94	9.99	Banana Coconut 1.5oz - Loose Leaf Herbal Tea
+95	17.99	Detox Blend 5.5oz - Herbal Loose Leaf Tea
+96	15.99	Hibiscus Rose 5oz - Herbal Loose Leaf Tea
+97	9.99	Peach Picnic - Loose Leaf Rooibos Tea 2oz
+98	18.99	Banana Coconut 3.5oz - Loose Leaf Herbal Tea
+99	16.99	Jasmine Pearls Loose Leaf Green Tea - 3oz

@@ -1,0 +1,91 @@
+1	19.04	Santa Fe Bean Co., Instant Fat Free Vegetarian Refried Beans, 7.25-Ounce Pack (Pack of 8)
+2	6.96	Refried Beans Regular by Rosarita, 16 oz
+3	19.04	Santa Fe Bean Co., Instant Fat Free Black Refried Beans, 7.25-Ounce Pack (Pack of 8)
+6	10.99	Mexicali Rose Instant Mexican Refried Beans
+7	20.98	Santa Fe Bean Company Variety Pack, 3.78 Pounds Total, (Pack of 8)
+8	14.95	Old El Paso Refried Beans, Traditional 16 Oz (Pack of 6)
+9	22.44	La Preferida Beans Refried Organic, 15-Ounce (Pack of 12)
+10	9.99	Cookquik Dehydrated Refried Pinto Smooth - 30 Oz. Bag
+11	17.99	Refried Bean Flakes - 1.75 Pound Can
+13	29.52	Santa Fe Instant Fat Free Vegetarian Refried Beans 7.25 Oz (Pack of 4)
+14	28.0	Casa Fiesta Refried Beans, 16 Ounce (Pack of 12)
+15	26.6	Ortega Refried Beans, 16 Ounce (Pack of 12)
+16	24.74	Isadora Original Refried Beans, 15.2-Ounce (Pack of 8)
+17	33.28	Amy's Organic Refried Beans, 15.4-Ounce Cans (Pack of 12)
+18	32.5	Pacific Foods Organic Refried Pinto Beans Vegetarian, 13.6 Ounce (Pack of 12)
+19	28.99	Taste Adventure Pinto Refried Beans, 8.75-Ounce Box (Pack of 6)
+20	44.99	Cookquik Dehydrated Refried Pinto Smooth - 30 oz. bag, 6 bags per case
+21	26.11	Rosarita Low Fat Refried Black Beans, 16 Ounce (Pack of 12)
+22	25.69	Isadora Tex-Mex Refried Beans, 15.2-Ounce (Pack of 8)
+23	4.95	Mexicali Rose Low Fat Free Refried Pinto Beans Instant
+24	14.89	La Costena Beans, Pinto, 20.5 Ounce (Pack of 12)
+25	21.76	Santiago Vegetarian Refried Beans with Whole Beans, 27.09 Ounce
+26	59.99	Refried Bean Flakes - 6 Can Case - 10.5 Pounds
+27	67.93	Fantastic World Foods: Instant Refried Beans, 7 oz (12 pack)
+28	32.71	Goya Traditional Refried Pinto Beans - 16 oz. can, 12 cans per case
+29	7.99	Old El Paso Fat Free Refried Beans 16 oz
+30	29.25	Isadora Black Refried Beans, 15.2-Ounce (Pack of 8)
+31	39.55	Santiago Whole Vegetarian Refried Beans - 29.77 oz. pouch, 6 pouches per case
+32	13.24	Isadora Refried Beans Original Recipe ~ 15.2 oz pouch ~ pack of 4
+33	28.94	Santa Fe Instant Southwestern Style Refried Beans 7.25 Oz (Pack of 4)
+34	32.24	Pacific Foods Organic Refried Black Beans with Chiles, 13.6 Ounce (Pack of 12)
+35	36.88	Pacific Foods Organic Refried Pinto Beans, 13.6 Ounce (Pack of 12)
+36	2.85	Old El Paso Traditional Refried Beans 16 oz
+37	42.99	Rosarita Refried Beans, 16-Ounce Cans (Pack of 24)
+38	26.91	Gebhardt Style Refried Beans, Mexican, 12 Count (Pack of 12)
+39	2.94	Pacific Natural Foods - Organic Refried Pinto Beans - 13.6 oz.
+40	29.16	La Costena Beans, Black, 20.5 Ounce (Pack of 12)
+41	27.86	Taste Adventure Black Bean Instant Refried Beans, 8.75-Ounce Boxes (Pack of 6)
+42	21.66	Santa Fe Instant Fat Free Black Refried Beans 7.25 Oz (Pack of 3)
+45	31.85	Rosarita Traditional Refried Beans, No Fat: 8 Cans of 16 Oz
+46	12.98	OldElPaso Refried Beans, Large, 6 Pound
+47	22.11	Isadora Low Fat Refried Beans, 15.2-Ounce (Pack of 8)
+48	19.99	La Preferida Refried Beans Fat Free, 16-Ounce (Pack of 12)
+49	20.15	La Costena Refried Pinto Beans, 14.1 Ounce (Pack of 12)
+50	17.85	La Costena Refried Pinto Beans, 20.5 Ounce (Pack of 12)
+51	28.65	La Preferida Refried Beans Rancheros, 16-Ounce (Pack of 12)
+53	4.95	Taco Bell ORIGINAL REFRIED BEANS 16oz (2 Pack)
+54	20.99	Rosarita Vegetarian Refried Beans (3 pack) 3- 16 oz cans for a total of 48 oz
+55	35.0	Trinidad Cookquik Dehydrated Refried Pinto Smooth 30-Ounce Packages (Pack of 3)
+56	54.45	Fantastic Foods Refried Pinto Beans (1x3-3.3 LB.)
+57	10.89	Ducal Black Refried Beans 14.1 Oz
+58	43.95	Santiago Season Vegetarian Refried Beans with Whole Bean - 28.1 oz. pouch, 6 pouches per case
+59	47.63	Amy's Light in Sodium Organic Refried Black Beans, 15.4-Ounce Cans (Pack of 12)
+60	37.55	Santiago Smooth Refried Beans - 29.77 oz. pouch, 6 pouches per case
+61	27.68	La Preferida Refried Black Beans Chipotle, 16-Ounce (Pack of 12)
+62	22.63	Bush's Best, Refried Beans, Traditional, 16oz Can (Pack of 6)
+63	96.61	Ducal, Bean Refried Black, 15 OZ (Pack of 24)
+65	41.32	Amy's Organic Refried Black Beans, 15.4-Ounce Cans (Pack of 12)
+66	38.3	Eden Organic Refried Pinto Beans, 16-Ounce Cans (Pack of 12)
+67	2.99	Natura's Doy Pack Red Beans 8 oz - Frijoles Rojos Volteados
+68	39.89	Taco Bell Fat Free Refried Beans, 16-Ounce Cans (Pack of 12)
+69	43.25	Sun Vista Pinto Beans, Refried, 16 Ounce (Pack of 12)
+70	32.95	Better Bean Uncanny Refried Black Beans, 14 Ounce -- 8 per case.
+71	17.16	Bob's Red Mill Beans Pinto, 27-Ounce (Pack of 4)
+72	19.12	Santa Fe Bean Company Pinto Beans, 8-Ounce Pouches (Pack of 8)
+73	5.99	Ducal Refried Black Beans 14.1 oz Frijoles Negros Volteados
+74	29.95	Goya Rancheros Refried Pinto Beans 16 Oz (Pack of 6)
+75	38.45	Santiago Whole Refried Beans - 29.77 oz. pouch, 6 pouches per case
+76	11.6	Taco Bell ORIGINAL REFRIED BEANS 16oz (6 Pack)
+77	51.15	Fantastic Foods Instant Refried Pinto Bean , 3.3 pound -- 3 per case
+78	27.6	La Preferida Refried Black Beans Fat Free, 16-Ounce (Pack of 12)
+79	45.95	Goya Refried Beans Chorizo, 16-Ounce Cans (Pack of 12)
+80	46.52	BEARITOS Refried Beans, Organic Vegetarian, Traditional, 16-Ounce Cans  (Pack of 12)
+81	13.71	Santa Fe Instant Southwestern Style Refried Beans 7.25 Oz (Pack of 1)
+82	11.95	Ducal Refried Red Beans, 15oz - 2 Pack
+83	33.15	Eden Organic Refried Black Beans, 16-Ounce Cans (Pack of 12)
+84	22.89	Rosarita Premium Seasoned Whole Black Beans, 15 Ounce (Pack of 12)
+85	17.96	Bob's Red Mill Beans Black Turtle, 26-Ounce (Pack of 4)
+86	2.59	Amy's Kitchen Vegetarian Organic Refried Traditional Beans
+87	29.99	Little Bear Bearitos Refried Black Beans -- 16 oz Each / Pack of 4
+88	50.1	El Rio Beans Refried, 16-Ounce (Pack of 12)
+89	2.94	Pacific Natural Foods - Organic Refried Black Beans with Green Chiles - 13.6 oz.
+90	37.27	Eden Organic Refried Kidney Beans, 15-Ounce Cans (Pack of 12)
+91	35.36	La Preferida Beans Refried Black Organic, 15-Ounce (Pack of 12)
+92	10.99	Eden Organic Refried Pinto Beans, Lightly Salted, 16 oz, (pack of 3)
+93	29.69	Kuner's Southwestern Refried Black Beans 15.5 OZ(Pack of 12)
+94	27.6	La Costena Refried Black Beans, 20.5 Ounce (Pack of 12)
+95	55.2	Ducal Refried Black Beans
+96	9.99	La Costena Refried Pinto Beans 1.8 Lb
+98	3.16	Eden Foods Organic Refried Black Soy and Black Beans -- 15 oz
+99	42.19	Eden Organic Refried Spicy Black Beans, 16-Ounce Cans (Pack of 12)

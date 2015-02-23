@@ -1,0 +1,75 @@
+0	10.47	Special K Cereal, Original, 18-Ounce Boxes (Pack of 3)
+3	3.49	Kellogg's Special K Cereal, Fruit and Yogurt, 16.6 Ounce
+4	2.98	Kellogg's Special K Cereal, Protein, 12.5 Ounce
+5	3.48	Kellogg's Special K Cereal, Vanilla Almond, 16.3 Ounce
+6	2.98	Special K Cereal, Chocolate Almond, 12.7 Ounce
+9	2.89	Kellogg's Special K Cinnamon Pecan Cereal, 12.1 Ounce
+12	13.0	Special K Cereal, Red Berries 37 Oz
+13	5.36	Special K White Fudge Pretzels, 4.44 Ounce
+15	17.69	Special K Red Berries Cereal Bars (25 Count, .81 oz each, 20.28 oz total)
+16	14.62	Kellogg's Special K Red Berries Cereal In A Cup, 2.5-Ounce (Pack of 12)
+18	10.96	Kelloggs Special K Special K Protein Cereal - Cinnamon Brown Sugar...
+19	14.73	Kellogg's Special K Baked Cracker Chips 0.87 oz (25g) Bags 90 Calories each Snack, Variety Pack (Case of 20)
+20	35.88	Kellogg's Special K Coffee House Breakfast Shake, Vanilla Cappuccino, 10 Ounce, 4 count, (Pack of 6)
+22	10.0	Special K Moments Pretzel, Caramel, 4.40 Ounce
+23	14.56	Special K Cereal, Original, 1.25-Ounce Cups (Pack of 12)
+24	35.88	Kellogg's Special K Coffee House Breakfast Shake, Chocolate Mocha,  4 Count, 10 Ounce Bottles, (Pack of 6)
+25	36.68	Special K Bars, Chocolatey Pretzel, 6-Count Bars Net Wt 4.6 Oz  (Pack of 6)
+26	5.45	Special K Moments Dark Chocolate, Coconut, 4.5 Ounce.
+27	2.78	Kellogg's Special K Granola Bar, Dark Chocolate, 0.95 Ounce, 5 Count
+28	7.87	Special K Pastry Crisps, Chocolate, 4.4-Ounce
+29	7.87	Kellogg's Special K Pastry Crisps, Brown Sugar Cinnamon, 4.4-Ounce
+30	16.5	Special K Chocolatey Delight Cereal, 13.4-Ounce Boxes (Pack of 4)
+31	15.96	Special K Crackers, Multi-Grain, 8-Ounce Packages (Pack of 4)
+32	24.39	Special K Protein Cereal, 12.5 oz - Pack of 4
+33	14.95	Kellogg's Special K Cracker Chips, Chili Lime, 4 Ounce
+34	35.88	Kellogg's Special K Breakfast Shake, Chocolate Delight, 4 Count, 10 Ounce Bottles (Pack of 6)
+35	25.98	Special K Pastry Crisps Strawberry and Blueberry 60ct.
+37	10.55	Special K Chocolate Malt Shake, 10 Ounce
+38	5.36	Special K Fudge Pretzels, 4.44 Ounce
+43	17.0	Special K 100 Calories Chewy Snack Bar Variety Pack (50 ct)
+44	5.36	Special K Fudge Pretzels, 4.44 Ounce
+45	51.0	Special K Variety  Bars Case, 0.77-0.88 Ounce Bars (Pack of 42)
+46	4.99	Special K Cereal, Chocolatey Delight, 13.4 oz
+47	48.67	Kellogg's Special K Cereal, Chocolate Delight, 13.1 Ounce (Pack of 14)
+48	7.95	Kellogg's Special K Popcorn Chips, Sweet and Salty, 4.5-Ounce
+49	35.88	Kellogg's Special K Breakfast Shake, Red Berries, 40 Ounce (Pack of 6)
+50	7.95	Special K Popcorn Chips White Cheddar, 4.5 Ounce
+51	12.99	Kellogg's Special K Special K Cracker Chips Snack Bags - Sea Salt - 0.87 oz - 4 ct
+52	66.92	Special K Raspberry Cheescake Bars, 6 Count , 4.6 Ounce (Pack of 6)
+54	15.99	Kellogg's Special K Double Chocolate Protein Meal Bars 6 pk 9.5 oz
+55	23.99	Kellogg's Special K Nourish Hot Cereal VARIETY PACK: Includes 1-2 Pack of MAPLE BROWN SUGAR CRUNCH; 1-2 Pack of CINNAMON RAISIN PECAN & 2 Pack of CRANBERRY ALMOND. A Total of 6 DELICIOUS Microwaveable Bowls.
+56	13.96	Smart Start Antioxidants Cereal, Original, 17.5-Ounce Boxes (Pack of 4)
+57	11.99	Kellogg's Special K Pretzels Pouches White Fudge Dipped (Pack of 3)
+58	34.22	Kellogg's Special K Protein Meal Bar, Variety Pack, 12 Double Chocolate and 12 Chocolate Peanut Butter, 1.59-Ounce Bars, Pack of 24
+59	12.99	Kelloggs Special K Salted Pretzel Chocolate Snack Bars - 6ct
+61	19.42	Kellogg's Special K Baked Cracker Chips 0.87 oz (25g) Bags 90 Calories each Snack, Variety Pack (Case of 20)
+63	8.5	Special K Cracker Chips, Honey Barbecue, 4 Ounce
+64	35.28	Special K Cereal, Original, 0.81-Ounce Individual-Serving Boxes (Pack of 70)
+66	14.99	Kellogg's Special K 48 Strawberry Pastry Crisps (48 ct)
+67	25.99	Kellogg's special K protein shake - milk chocolate (15 bottles of 10 fl oz each - total of 150 fl oz)
+68	19.61	Kellogg's, Special K, Pastry Crisps, Chocolatey Caramel, 4.4oz Box (Pack of 4)
+69	17.25	Kellogg's Special K Brownie Bites Blondie (Pack of 3)
+70	62.91	Kellogg's Cereal Cup Assortment Pack - Wellness (6 Flavors),Pack of 60
+71	49.99	Special K Bars, Red Berries, 6-Count Bars, 4.86 oz., (Pack of 12)
+72	38.02	Special K Cereal, Original, 0.63-Ounce Individual-Serving Bowls (Pack of 96)
+73	12.6	Special K Cereal, Chocolate Almond, 12.7 Ounce (Pack of 2)
+74	50.89	Special K Cereal, Original, 1.25-Ounce Cups (Pack of 60)
+75	15.99	Kellogg's Special K Special K Cereal Bars - Chocolatey Pretzel - 0.77 oz - 12 ct
+76	24.43	Kellogg's Special K Nourish Hot Cereal Maple Brown Sugar Crunch (Pack of 3, Total of 6 Bowls)
+77	17.29	Kellogg's Special K Popcorn Chips, Sweet and Salty, 3 Ounce (Pack of 4)
+79	26.75	Kellogg's Special K Nourish Hot Cereal Cinnamon Raisin Pecan (Pack of 3)
+80	22.1	Special K Cereal, Fruit & Yogurt, 17.5-Ounce Packages (Pack of 4)
+81	3.12	Kashi GOLEAN Crisp! Cereal, Toasted Berry Crumble, 14 Ounce
+82	12.99	Special K Cereal, Multigrain Oats and Honey, 13.1-Ounce Boxes (Pack of 4)
+83	10.89	Kellogg's Special K Fruit Crisps Bars, Blueberry, 5 ct
+84	9.49	Kellogg's Special K Cereal, Chocolate Strawberry, 11 Ounce
+85	32.99	Special K Cereal, Vanilla Almond, 17.5-Ounce Packages (Pack of 4)
+86	7.95	Kellogg's Special K Cereal Bar, Chocolate Covered Strawberry, 4.86 Ounce
+87	4.95	Kellogg's Special K Cheddar Cracker Chips
+90	29.96	Special K Cereal, Protein 13.5-Ounce Boxes (Pack of 4)
+92	25.61	Special K Protein Meal Bar, Chocolate Peanut Butter (1.59-Ounce), 8-Count Bars (Pack of 2)
+93	3.68	Kellogg's Frosted Mini Wheats Original, 24 Ounce Box
+95	17.39	Newman's Special Blend Extra Bold (24 K-cups) Keurig
+97	22.18	Kellogg's Special K Strawberry and Blueberry Pastry Crisps Fruit Variety Pack, 30 Count
+99	19.25	Special K Cereal, Cinnamon Pecan, 12.5-Ounce Boxes (Pack of 6)

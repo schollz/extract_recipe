@@ -1,0 +1,58 @@
+0	9.99	Nodine's Irish Back Bacon (8 ounce)
+1	32.45	Irish Rashers (Sliced Breakfast Bacon) 5 packs x 8 oz. each
+2	34.95	Applewood Smoked Breakfast Bacon 8 Oz X 5 Packs
+3	40.0	Imported Breakfast Bacon. 5 Lb
+4	21.0	Traditional Irish Boiling Bacon. 2-3 lbs
+5	25.07	Tactical Bacon, 9oz Cooked
+6	47.5	Back To Country Basics
+7	29.99	3 Lbs Peameal Canadian Back Bacon Cured Pork Loin Roast
+8	49.99	Extreme Bacon Chocolate Sampler Gift Pack (6pc Set) - Vosges Milk Chocolate Bacon Bar, Vosges Dark Chocolate Bacon Bar, Chuao Maple Bacon Milk Chocolate Bar, Dark Chocolate Bacon Oreos, Dark Chocolate Bacon Twinkie & Bacon Hot Cocoa
+11	17.88	Award Winning Gourmet Beer Brittle - An IPA Beer Brittle Made In Napa Valley, California - Hands Down, The Greatest Tasting Peanut Brittle Your Mouth Has Ever Tasted.
+12	14.99	Hi Mountain Buckboard Bacon Cure 16 OZ
+14	24.95	Bacon Chocolate Covered Oreos & Twinkie Combo Gift Set - Twinkies & Oreo Cookies Dipped in Dark Chocolate
+15	22.99	All Natural Pork Loin Baby Back Ribs 1-3/4 lb each
+16	24.76	Kernel Season's Popcorn Seasoning Kit KICKIN' BACK IN THE MANCAVE Sampler Set Buffalo Wing, Garlic Parmesan, & Bacon Cheddar (Variety Pack of 3 Different Toughguy Flavors)
+17	65.0	Country Cured Bacon by Johnston County Hams
+18	34.99	3pc Sampler - Dark Chocolate Covered Bacon Bites, Bacon Chocolate Oreos & Bacon Chocolate Twinkie Combo Gift Set
+20	54.99	Ultimate Bacon Sampler Gift Pack (8pc Set), Baconnaise, 3 Bacon Salt, Ranch, Gravy, Popcorn & Lip Balm + Silicone Wristband
+21	66.5	The Home Run
+22	45.57	Mountain House 72 Hour Kit
+23	87.13	Mountain House Breakfast Bucket
+24	12.99	Michael Hatcher's Norris Dam Good - Memphis Pork Rub
+25	24.99	Favorite Flavors Bacon Sampler Gift Pack (5pc Set), Natural Bacon Salt, Cheddar Bacon Salt, Peppered Bacon Salt, Bacon Country Gravy & Bacon Ranch Dressing & Dip Mix
+26	9.99	Maple Bacon Salt Caramels (2.1 ounce)
+27	58.65	Light Life Foods Organic Fakin Bacon Tempeh Strip, 6 Ounce -- 12 per case.
+28	6.99	Quinoa Whole Grain Blend - Smokey Bacon 4 oz Pkg
+30	39.99	Cooking With Bacon Sampler Gift Pack (6pc Set), Original Bacon Salt, Bacon Country Gravy, Bacon Ranch Dressing & Dip Mix, Bacon Rub, Bacon Jam Spread & Bacon Cookbook
+31	389.95	Ribs - Huntspoint Heritage Ribs - Baby Back Rib - Competition Grade (1 Case)
+32	49.95	Award Winning Slow Smoked Baby Back BBQ Ribs
+33	32.88	Knorr Italian Sides, Creamy Garlic Shells 4.4 oz
+34	39.95	Slim Jim Bacon Jerky Maple Flavored Bacon Jerky: 4 - 2.75 Oz
+35	14.8	Seduced By Bacon Cookbook
+36	8.94	Bush's Best Country Style Baked Beans 28 oz
+37	54.52	Yves Veggie Cuisine - Meatless Canadian Breakfast Bacon, 6 Ounce -- 8 per case.
+38	39.99	J&D's Cheddar Bacon POP (Pack Of 3)
+39	8.8	J&D's Bacon Rub
+40	8.8	J&D's Bacon Rub
+42	15.99	Bayou Bacon by Nodines (1 pound)
+44	24.95	Knorr Pasta Sides, Chicken Broccoli 4.2 oz
+45	35.95	Slim Jim Bacon Jerky Maple Flavored Bacon Jerky: 4 - 2.75 Oz - Tj
+46	5.95	A Spice Above Hearty Cheddar Bacon Dip/Seasoning
+48	12.99	The Resident Chef 2 Packages *Chili Cheese & Bacon* Gourmet Dip Mix for Chili Cheese Pie, Dip, on Baked Potatoe
+49	18.0	Pasta Shoppe In the Woods Pasta 2 Packages
+50	12.75	Bacon & Cheddar Hot Dip Mix - Village Du Gourmet 16g Pds Wt 0.6 oz - Cheesy Seasoning Dip Mix, Rich Smoky Bacon Flavors, Smooth Simple Recipe for Authentic Bacon and Cheese Taste - Try it with Fries - Includes Meatloaf Recipe!
+51	24.99	Knorr Pasta and Sauce Cheesy Bacon Mac, 12-Ounce (Pack of 6)
+52	40.57	Kraft Velveeta Cheesy Potatoes 3 Bacon Scalloped & 3 Au Gratin: 6 Packs Total
+53	22.95	Lester's Fixins Coffee (6 bottles)
+54	15.99	Juniper Smoked Bacon by Nodines (1 pound)
+56	14.99	Scott's Bacon - Country Bacon
+57	14.99	Scott's Bacon - Pepper Bacon
+58	131.99	Nestle Minors No Added MSG Bacon Base, 1 Pound -- 6 per case.
+59	10.5	J&D's Peppered Bacon Salt (2 oz)
+60	80.75	Light Life Foods Organic Fakin Bacon Smoky Tempeh , 6 pound -- 1 each
+61	65.75	Holly Jolly Breakfast Bundle
+62	43.5	Granny's Fixin's
+63	10.95	JAVA Spice ~ Meat & Seafood Rub Gourmet Gift Jar
+64	39.2	Lauries Kitchen Gluten Free Baked Potato Soup Mix, 6.9 Ounce -- 6 per case.
+65	30.95	Lester's Fixins Coffee (12 bottles)
+66	49.0	6 Canister Zig Zag Gift Set - 6 Canister Gift Set

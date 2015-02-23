@@ -1,0 +1,54 @@
+1	27.99	Caputo's Housemade Bauernspeck
+3	39.99	Imported Pork Belly "Salo" with eatable rind(skin) 1lb by HolanDeli
+4	41.0	Pancetta Beretta (6 pound)
+5	73.5	Colossal Bacon Sampler
+6	12.99	North Country Smokehouse Uncured Fruitwood Bacon (16 ounce)
+7	22.0	Sur La Table The Original Bacon Kit
+9	65.0	Country Cured Bacon by Johnston County Hams
+11	63.8	Applewood Smoked Slab Bacon 8 - 10 lb.
+12	32.45	Applewood Smoked Slab Bacon 4 - 5 lb.
+13	43.81	Wild Boar Salami, Creminelli (3 pack)
+15	21.95	Bacon Curing Kit
+16	9.94	Pick Hungarian Winter Salami (8.8 ounce)
+17	21.99	8oz Chinese Brand Bacon Pork Belly (One Bag)
+18	11.99	Pancetta by Beretta (14 ounce)
+19	14.99	Levoni Roasted Seasoned Cured Pork Porchetta - No MSG, Imported from Italy - Sliced by 1 lb
+20	21.0	Bacon Grease 3-Pack 11 oz each by HOT BELLY USDA/FDA approved NEW ALUMINUM SEAL TOP used on the PALEO DIET FREE PDF COOKBOOK with each order
+21	154.0	Porchetta Toscana (10 pound)
+22	6.99	Dixie Meat Rub Competition Pork Rub
+23	70.85	Farmland Silver Medal North West HRI Bacon, 14/18 Slice -- 1 each.
+24	35.99	Fat, Drunk & Stupid Ale, Beer Making Extract Kit
+25	29.47	Entree Barbecued Crispy Pork Classic 0.56oz
+26	67.65	Farmland Bronze Medal Sliced Smoked Bacon, 15 Pound -- 1 each.
+27	4.99	Krakus Chopped Pork with Pork Skin ( 10.5oz)
+28	39.99	CHAO SUA Crispy Pork 150g (1 Package)
+29	28.0	Entree Roast Pork Class 0.7oz
+30	24.95	Panceta, Smoked Iberica Sliced
+31	15.99	Duck Rillettes by Les Trois Petits Cochons (7 ounce)
+32	7.99	Get Twisted - All Purpose BBQ Rub
+33	24.99	Organic New York Maple Syrup by Crown Maple Farm - Light Amber (12 ounce)
+34	15.18	Six-Prong Bacon Hanger
+35	3.9	Krakus Konserwa Boczkowa
+36	42.87	Jansal Valley Bacon Sampler, 4 Pounds
+37	39.95	World Famous Applewood Smoked Bacon (3lbs)
+38	49.99	Pancetta By Beretta 3 Lbs
+39	22.45	dr. tea's Tea Rub, BBQ, 5.1-Ounce Tins (Pack of 4)
+40	19.55	Wild Boar Salami - 1 salami - 7 oz
+41	8.99	Pancetta Americano by La Quercia - Sliced (3 ounce)
+42	55.45	Farmland Gold Medal Pulled Cooked Pork, 2.5 Pound -- 4 per case.
+43	16.95	Chef Phillip Dell's Trio
+44	65.0	Lee Kum Kee Brown Braising Sauce Glass Bottle,14 Ounce (Pack of 12)
+45	144.99	Pancetta By Beretta - 12 lbs
+46	5.99	12Oz KTB's Bucking Pig BBQ Sauce
+48	8.99	Cotswold Health Products Chinese 5 Spice 50g
+49	70.85	Apple Cider House Silver Medal Single Sliced Smoked Bacon, 18/22 Slice -- 1 each.
+50	13.99	Applewood Smoked Bacon by the Smoking Goose (12 ounce)
+51	6.96	Extra Special Sour and Sw
+52	60.55	Bonici Par Fried Bacon Ends and Pieces, 10 Pound -- 1 each.
+53	69.65	Farmland Silver Medal Single Sliced Cruise Bacon, 18/22 Slice -- 1 each.
+54	69.99	Busseto: Sliced Pancetta 3 Oz (12 Pack)
+56	19.95	Big Daddy's Cracked Pepper Garlic Bacon
+57	132.85	Farmland Silver Medal HRI Double Smoked Bacon, 10/14 Slice -- 1 each.
+58	70.85	Farmland Silver Medal HRI Bacon, 14/18 Slice -- 1 each.
+60	72.85	Farmland Gold Medal Double Smoked HRI Bacon, 18/22 Slice -- 1 each.
+62	76.95	Apple Cider House Gold Medal Single Sliced Bacon - Gas Flushed, 14/18 Slice -- 1 each.

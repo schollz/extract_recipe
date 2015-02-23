@@ -1,0 +1,73 @@
+0	10.26	Mother Earth Products Dried Spinach, 1 Full Quart
+1	25.45	Del Monte Whole Leaf Spinach, 13.5-Ounce Cans (Pack of 12)
+2	15.99	Hoosier Hill Farm Pure Spinach Powder, 1 lb
+3	29.94	Harmony House Foods, Dehydrated Spinach (18 oz, Gallon Jug Size)
+6	18.14	Tasty Bite Kashmir Spinach Heat & Eat Entree, 10 Ounce Pouches (Pack of 6)
+8	29.99	Del Monte Leaf Spinach, 7.75-Ounce (Pack of 12)
+10	26.98	Frontier Natural Products Organic Powdered Spinach -- 16 oz
+12	21.54	Tasty Bite Spinach Dal Heat & Eat Entree, 10 Ounce Pouches (Pack of 6)
+13	5.99	Organic Frozen Cut Spinach, 10 oz. Bag
+14	2.56	Del Monte Whole Leaf Spinach 13.5 oz
+17	11.06	Spinach Powder Organic - 4 oz
+18	45.49	Spinach 4:1 Powdered Extract 2.2 lbs (1 kg)
+21	15.59	Earth's Best Organic Stage 2, Spinach, Lentil & Brown Rice, 3.5 Ounce Pouch (Pack of 12)
+22	22.99	Tasty Bites Spinach Channa Entree, 10-Ounce (Pack of 6)
+23	7.5	Spinach Powder, 2 oz.
+24	36.85	Nestle Stouffers Side Dish Creamed Spinach, 9 Ounce -- 12 per case.
+25	22.6	Organic Spinach Powder, 14 Oz
+26	29.59	Sylvia's Collard Greens, 14.5 Ounce Packages (Pack of 12)
+28	25.77	Allen's Popeye Spinach, 13.5000-Ounce (Pack of 6)
+29	32.23	Girard's Spinach Salad Dressing, 12-ounce Bottles (Case of 6)
+32	6.5	Organic Spinach Powder 4oz - Market Fresh
+33	25.68	The Better Chip Tortilla Chips, Spinach and Kale with Sea Salt, 2 Ounce (Pack of 18)
+37	32.09	The Better Chip Spinach and Kale Chips, 1 Ounce (Pack of 44)
+39	32.28	DeBoles Organic Spinach Fettuccini Pasta, 8 Ounce (Pack of 12)
+40	34.68	DeBoles Organic Spinach Spaghetti Pasta, 8 Ounce (Pack of 12)
+41	9.54	Kikkoman - Instant Tofu-Spinach Miso Soup Mix (9 Pockets in 3 Packs) -3.15 Oz
+42	30.0	De Cecco Spaghetti with Spinach, 12 Ounce Boxes (Pack of 12)
+43	17.94	Pastariso Organic Spinach Spaghetti Style, 8-Ounce (Pack of 6)
+45	38.35	Woodstock Farms Organic Cut Spinach, 10 Ounce -- 12 per case.
+46	30.0	De Cecco Linguine with Spinach, 12 Ounce Boxes (Pack of 12)
+47	41.62	Jansal Valley Spinach Powder, 14 Ounce
+50	3.99	Crock-Pot Spinach Artichoke Warm Dip
+51	24.57	Whole Spice Spinach Powder, 1 Pound
+53	9.98	Allen's Low Salt Popeye Spinach (Pack of 3) 13.5 oz Cans
+55	11.84	Artichoke Spinach Dip
+56	8.99	Fiesta Foods Spinach & Artichoke Dip Mix 2 Packets per Box (2 Pack)
+57	39.99	Activz - Organic Spinach Whole + Juice Powder - 7.7 oz.
+58	9.99	Raw Wraps Spinach
+59	50.36	Jyoti Natural Foods Delhi Saag, Spinach and Mustard Greens, 15-Ounce Cans (Pack of 12)
+62	34.42	De Cecco Penne Rigate with Spinach, 12 Ounce Boxes (Pack of 12)
+63	40.48	Casbah Lemon Spinach Couscous Mix, 7 Ounce (Pack of 12)
+64	30.26	Corabella Tortelloni Pasta, Ricotta and Spinach,8 Ounce (Pack of 12)
+65	30.0	De Cecco Fusilli with Spinach, 12 Ounce Boxes (Pack of 12)
+66	36.4	DaVinci Spinach Tortellini, 7-Ounce Boxes (Pack of 12)
+68	14.97	Delverde Ondine Spinach No-Boil Lasagne, 1.1-Pound
+69	8.95	Pereg Gourmet Quinoa, Spinach, 6-Ounce
+70	56.12	Whole Spice Spinach Powder, 5 Pound
+71	4.99	Plum Organics Baby Hello Dinner, Pumpkin, Spinach, Quinoa and Baby Grains, 3 Ounce
+72	18.26	Plum Organics Second Blends, Raspberry, Spinach and Greek Yogurt, 4-Ounce (Pack of 6)
+73	10.5	Mrs. Miller's Spinach Noodles, 14oz Bag
+74	9.38	Filotea Egg Fettuccine with Spinach, 8.8 Ounce
+75	44.5	DaVinci Pasta, Spinach Nests, 16 Ounce Bags (Pack of 12)
+76	39.97	Spinach Powder - 5 lbs Bulk
+78	7.9	DeBoles Organic Spinach Fettuccine -- 8 oz
+79	16.62	Gerber Graduates Pasta Pick-Ups Ravioli, Spinach and Cheese, 8 Count
+80	27.99	Earths Best 2Nd Stage Organic Spinach And Potato Vegetable 4 Ounce 12 Per Case.
+81	8.01	Miyasaka Miso Soup, Spinach, 5.76 Ounce
+82	12.99	Happy Baby Stage 2 Simple Combos - Apple Spinach & Kale - 3.5 oz - 8 pk
+83	5.99	Longevity Spinach - Sabungai - Gynura procumbens - Edible Houseplant - 4" Pot
+84	62.94	Fiesta Juan's Party Dip Mix Artichoke Spinach, Medium 15.5 OZ (Pack of 6)
+85	13.08	Spinach Powder 1 lb
+86	22.99	Miracle Noodle Ziti, Spinach and Spaghetti [6 Pack]
+87	14.99	Spinach Powder - Organic (1 lb)
+89	44.49	Spinach Powder 2.2 lbs (1 kg)
+90	37.38	Imagine Organic Soup, Potato Quinoa & Spinach, 17.3 Ounce (Pack of12)
+91	45.49	Whole Food Spinach Powdered Extract 2.2 Lbs
+92	22.49	Mission, Garden Spinach Herb Wraps, 15oz Package (Pack of 4)
+93	6.56	Tostitos - Creamy Spinach Dip - 15 oz
+94	7.0	12 oz. No Parboil Spinach Basil Garlic Lasagna Noodles
+95	82.23	Classico Pasta Sauce Florentine Spinach & Cheese - 12 Pack
+96	15.99	Tastefully Simple Spinach and Herb Dip Mix
+97	7.0	12 oz. Spinach Basil Garlic Fettuccini Pasta
+98	10.95	Spinach Basil Garlic Angel Hair Pasta Nest, 12-ounces

@@ -1,0 +1,69 @@
+0	18.21	Amoretti Premium Syrup, Crema Di Mexican Coffee Liqueur Type Syrup, 25.4 Ounce
+1	9.99	Mexican Coffee (Kahlua)
+2	22.55	Amoretti Premium Syrup, Mexican Coffee Liqueur Type Syrup, 25.4 Ounce
+3	16.99	Smart Sips Coffee, Liqueur Lovers Flavored Coffee Variety Sampler Pack- Cognac, Sambuca, Rum Jamaican, Chocolate Amaretto -Single Serve Cups Compatible with Keurig K-cup Brewers, 24 Count
+4	10.21	His Coffee Whole Bean Coffee, Mexican Liqueur, 16 Ounce
+5	9.62	Tortuga Rum Cream Gourmet Ground Coffee, 8 Ounce Bag
+7	27.99	Milk Chocolates Filled with Kahlua Coffee Liquor (2 Pack)
+8	13.13	Asbach Brandy and Coffee Filled Chocolate Pralines with Inner Sugar Crust, 4.4 Ounce
+9	17.79	His Coffee Ground Coffee, Mexican Liqueur, 16 Ounce
+10	9.99	Kahlua Chocolates Tube, 7-ounces
+11	13.65	Kahlua flavored non alcoholic chocolates in a tube
+13	75.0	Bulk Turin Milk Chocolates Filled with Kahlua Coffee Liquor (4.4 Lbs)
+14	7.99	Tortuga Rum Liqueur Gourmet Ground Coffee, 8 Ounce Bag
+15	9.79	Kahlua Gourmet Ground Coffee, Original, 12 Ounce
+16	11.99	Third Alarm Ground Coffee, Mexican Liqueur, 16 Ounce
+17	9.99	Berres Brothers White Russian Whole Bean Coffee 12 oz.
+18	8.49	Kahlua Gourmet Ground Coffee, Mocha, 12 Ounce
+19	8.49	Kahlua Gourmet Ground Coffee, French Vanilla, 12 Ounce
+20	8.51	Amoretti Natural Mexican Coffee Liqueur Type Extract, 2 Fluid Ounce
+23	10.99	Kuchen Meister Tiramisu Coffee Liqueur Cake
+24	12.98	Kahlua Gourmet Ground Coffee, Hazelnut, 12 Ounce
+27	20.67	DaVinci Gourmet Classic Syrup, Original Hazelnut, 25.4-Ounce Bottles (Pack of 3)
+28	11.53	Third Alarm Whole Bean Coffee, Mexican Liqueur, 32 Ounce
+30	27.7	His Coffee Whole Bean Coffee, Mexican Liqueur, 32 Ounce
+32	22.59	Kahlua Gourmet Ground Coffee, Original, 12 Ounce (Pack of 2)
+33	10.99	Butlers Famous Irish Cream Truffles - Irish Cream Liqueur & Irish Coffee Milk Chocolate Truffles
+34	50.0	Moonstruck Chocolate House Spirits Distillery Coffee Liqueur Truffle
+35	33.89	Coffee Masters Flavored Coffee, White Russian, Whole Bean, 12-Ounce Bags (Pack of 4)
+36	11.18	Christopher Bean Coffee Flavored Ground Bean Coffee, Amaretto, 12 Ounce
+37	19.96	Coffee Bean & Tea Leaf Toasted Amaretto K-Cups - 22 ct
+38	20.97	White Coffee Kahlua French Vanilla Gourmet Ground Coffee, 12-Ounce Bags (Pack of 2)
+39	29.95	Boca Java - Roasted To Order Coffee Flavored Baby Sampler, 10 Count (Pack of 10)
+40	16.64	Coffee Masters Perfect Potful Almond Amaretto Ground Coffee, 1.5-Ounce Packets (Pack of 12)
+42	32.07	Coffee Masters Flavored Coffee, Irish Creme, Ground, 12-Ounce Bags (Pack of 4)
+43	10.46	Christopher Bean Coffee Flavored Whole Bean Coffee, Amaretto, 12 Ounce
+44	22.95	Timothy's World Coffee * IRISH CREAM * 24 K-Cups for Keurig Brewers
+45	17.17	Green Mountain ~ DARK MAGIC ESPRESSO Whole Bean Coffee ~ 12 oz Bag
+47	21.28	The Coffee Bean and Tea Leaf Toasted Amaretto Coffee Keurig K-Cups, 16 Count
+48	31.25	Coffee Masters Flavored Coffee, Almond Amaretto, Ground, 12-Ounce Bags (Pack of 4)
+49	9.95	Mexican Liqueur Coffee | New York Gourmet Coffee
+51	31.17	Coffee Masters Flavored Coffee, Irish Creme, Whole Bean, 12-Ounce Bags (Pack of 4)
+52	31.0	Coffee Masters Flavored Coffee, Heavenly Pecan Torte, Ground, 12-Ounce Valve Bag, (Pack of 4)
+53	31.06	Coffee Masters Flavored Coffee, White Russian, Ground, 12-Ounce Bags (Pack of 4)
+54	5.75	Pocket Coffee Espresso, 5 pk
+56	20.67	DaVinci Gourmet Classic Sugar Free Syrup, Original Hazelnut, 25.4-Ounce Bottles (Pack of 3)
+57	62.18	Kahlua Original K-Cups for Keurig Brewers, 24 Count (Pack of 4)
+61	31.77	Coffee Masters Flavored Coffee, Almond Amaretto Decaffeinated, Ground, 12-Ounce Bags (Pack of 4)
+62	32.57	Coffee Kahlua Black Russian Gourmet Ground Coffee (Pack of 2)
+64	33.68	Coffee Masters Flavored Coffee, Almond Amaretto, Whole Bean, 12-Ounce Bags (Pack of 4)
+65	19.75	Ahh..Cupella Premium Gourmet Kentucky Bourbon Ball Flavored Ground Coffee, 32oz bag
+68	39.78	Boca Java - Roasted To Order Coffee Baby Boca 3pm Coffee Break Sampler, 20 Count (Pack of 20)
+71	19.75	Ahh..Cupella Premium Gourmet Amaretto Flavored Ground Coffee, 32oz bag
+72	17.99	Amoretti Premium Syrup, Crema Di Grand Orange, 25.4 Ounce
+73	17.99	Amoretti Premium Syrup, Grand Orange, 25.4 Ounce
+74	32.28	Coffee Masters Flavored Coffee, White Russian Decaffeinated, Whole Bean, 12-Ounce Bags (Pack of 4)
+76	49.5	Senseo Rio de Janeiro, Creme de Liqueur & Vanilla, New Design, Pack of 4, 4 x 14 Coffee Pods
+77	19.75	Ahh..Cupella Premium Gourmet Amaretto Flavored Whole Bean Coffee, 32oz bag
+78	12.33	PapaNicholas Coffee Whole Bean Coffee, Amaretto, 10 Ounce
+81	17.75	Verpoorten Coffee and Egg Liquor Filled Mini Pralines, 4.2 Ounce
+82	69.5	Senseo Rio de Janeiro, Creme de Liqueur & Vanilla, New Design, Pack of 6, 6 x 14 Coffee Pods
+83	39.5	Senseo Rio de Janeiro, Creme de Liqueur & Vanilla, New Design, Pack of 3, 3 x 14 Coffee Pods
+84	16.98	Turin Baileys Irish Cream Filled Milk Chocolates Gift Box (6.3 Ounces)
+86	34.0	Coffee Masters Flavored Coffee, Nutty Irishman, Ground, 12-Ounce Bags (Pack of 4)
+87	19.75	Ahh..Cupella Premium Gourmet Kentucky Bourbon Ball Flavored Whole Bean Coffee, 32oz bag
+88	24.08	Elizabeth Shaw Famous Names The Signature Collection Liqueur Chocolates (165g)
+93	10.95	Mexican Liqueur & Cream Flavored Coffee - Drip Grind (1-lb)
+94	13.99	Mexican Liqueur & Cream Flavored Ground Coffee 1 lb. Bag
+96	14.99	Mexican Liqueur & CreamFlavored Decaf Ground Coffee 1 lb. Bag
+98	14.99	Mexican Liqueur & CreamFlavored Decaf Whole Bean Coffee 1 lb. Bag

@@ -1,0 +1,74 @@
+0	12.99	USDA Choice 93% Lean Ground Sirloin Beef, Sold by the Pound
+1	10.77	Keystone Meats All Natural Ground Beef, 28 Ounce
+2	36.95	Ground Beef 1 lb. Meat Bags - 1000 Pcs - 4.25 x 10
+3	7.68	16 oz. All Natural Angus Ground Beef
+4	7.08	Keystone Meats All Natural Canned Beef, Ground, 14 Ounce
+5	19.99	Organic 100% Grass Fed Ground Beef (1lb Package)
+7	12.99	Dixie Diners' Club - Beef (Not!) Ground (1 lb bag)
+8	45.99	Premium Ground Beef Family Pack - 5 lbs.
+9	89.0	Contains 10 - 1 lb. Lean Grass Fed Organic Ground Beef
+10	9.9	Organic Grass Fed Ground Beef ONE (1 lb. Package)
+11	39.93	Mountain House Ground Beef, Cooked
+12	9.95	Ground Beef 1 lb. Meat Bags - 100 Pcs - 4.25 x 10
+13	13.25	Rosarita Seasoned Beef Crumbles - Pack of 3 (6oz Each Bag) - Product of Brazil
+15	33.99	Rastelli Direct Black Angus Ground Beef 80% Lean - 4 (1 lb.) Packs
+16	5.28	6 oz. Angus Hamburger Patties
+18	22.95	1 Can of Future Essentials Canned Cooked Freeze Dried Ground Beef
+19	22.79	Libby's, Seasoned Beef Crumbles, 6oz Pouch (Pack of 6)
+20	19.95	Underwood Roast Beef Spread 4.25 Oz (Pack of 6)
+21	28.99	All Natural Ground Turkey, 4 - 1 Lb. Packs, By Rastelli Direct
+22	99.0	Organic Steak Combo Pack - 100% Certified Organic Grass-Fed Beef Tenderloin, Flank, and Sirloin, Steaks; 100% Certified Organic Grass-Fed Ground Beef
+23	48.89	Freeze Dried Ground Beef - 1.4 Pound Can
+26	29.49	Organic Grass Fed Ground Beef 85% Lean, 2-1 Lb. Portions, By Rastelli Direct
+28	94.95	Tropical Traditions Grass-fed Ground Beef - approx. 6 lbs.
+29	7.9	Organic Grass Fed Ground Beef Patties TWO (1/3 lb. Burgers)
+30	165.85	All Natural Grass-fed Ground Beef
+31	23.02	Frontera, Skillet Sauce with Mild Red Chile And Cumin, 8-Ounce (Pack of 6)
+32	82.8	Australian Wagyu Beef Ground Beef - 10 logs, 1 lb ea
+33	24.95	Hormel, Dried Beef, Ground, Formed & Sliced, 2.5oz Jar (Pack of 4)
+34	18.99	Mama Joe's Delicious Gourmet Sauce - One Jar Chicken Sauce and One Jar Ground Beef Sauce. Delicious Spaghetti Sauce. Marinara. Pasta Sauce. Ravioli Sauce. Dinner Sauce for Rice, Potatoes, Meatballs etc . ALL NATURAL. GLUTEN FREE. 2 Pack - 24oz Big Jars
+36	165.0	Organic Steak Value Pack - 100% Certified Organic Grass-Fed Strip, Sirloin, Ribeye, and Skirt Steaks; 100% Certified Organic Grass-Fed Ground Beef
+37	98.0	Organic Grass Fed Ground Beef Patties Value Pack (24 Six oz. Patties)
+38	44.7	Hormel Ground Formed and Sliced Dried Beef 2.5 oz - Pack of 12
+39	24.85	Armour Sliced DRIED BEEF, Ground & Formed 4.5oz (4 Jars)
+42	36.99	Gourmet Ground Mix: Beef, Pork, Veal - (4 - 1 Lb.) - By Rastelli Direct
+43	7.99	Rajah Curry Powder MILD & SPICY - Imported From South Africa
+45	39.32	Mountain House Creamed Beef
+46	4.69	Betta Foods Imitation Beef Bits (Flavored TVP), 16-Ounce Bag
+49	62.45	Big City Fresh Ground Beef Round, 8 Ounce -- 24 per case.
+51	10.43	Eldon's Sausage and Jerky Supply 100 Piece Ground Beef Poly Meat Bags, 0.675 Pound
+52	87.95	Ground Beef 1 lb. Meat Bags - 2500 Pcs - 4.25 x 10
+53	3.25	TABASCO Original 7 Spice Chili Recipe (1x16 Oz)
+54	94.95	Armour Sliced DRIED BEEF, Ground & Formed 4.5oz (16 Jars)
+55	19.99	Dixie Diners' Club - Beef (Not!) Ground, 1 lb. Bag (Pack of 2)
+57	64.99	Creekstone Farms Natural Ground Beef Patties
+58	55.05	5-1 80/20 Pure Ground Beef Patty Hamburger, 50 Pieces of 3.2 Ounce, 10 Pound -- 1 each.
+59	22.85	Tofurky Ground Beef Style Tofurky, 12 Ounce -- 5 per case.
+60	117.99	Survival Cave Food Canned Ground Beef 12 - Pk. 14 1/2 - oz. cans
+61	16.24	Libby's Spicy Seasoned Beef Crumbles - Pack of 5
+62	11.49	Krikland Fine Ground Malabar Black Pepper, 12.3 Ounce
+63	299.99	Organic Beef & Steak - Variety Pack By Rastelli Direct
+65	166.65	18-1 Ground Beef Patty Hamburger, 576 Pieces of 0.89 Ounce, 32 Pound -- 1 each.
+66	36.0	5/1# Organic Piedmontese Ground Beef 100% Grass Fed
+67	22.99	Bolner's Fiesta Extra Fancy Ground Beef Seasoning 4 Flavor Variety Bundle: (1) Chipotle Hamburger Seasoning, (1) Hamburger Deluxe, (1) San Antonio Style Quick Chili Mix, and (1) Carne Guisada Seasoning For Meat Tacos, 5-7 Oz. Ea.
+70	10.5	Knorr Fix gratin with noodles and ground beef (Nudel-Hackfleisch Gratin) (Pack of 4)
+71	108.0	Elk Ground Chubs (2 Qty / 6 Lb Bags.)
+72	14.7	Knorr Fix hunter stew with ground beef (Bauern-Topf mit Hackfleisch) (Pack of 4)
+74	18.56	Ground Lamb - 2lbs.
+75	7.04	8 oz. Angus Hamburger Patties
+78	29.99	Organic Grass Fed Beef Burgers, 8 - 4 Oz. Portions, By Rastelli Direct
+80	8.39	Beef Coarse Ground 680g/24oz
+82	12.99	MAGGI fix & fresh ground beef bolognese gratin (Bologneser Gratin) (Pack of 4)
+83	58.35	Quorn Foods Meat Free Beef Grounds, 12 Ounce -- 12 per case.
+84	20.52	Minor's Beef Au Jus Conc
+87	15.0	Knorr Fix cheesy ground beef casserole (Hackfleisch Schafskase-Auflauf) (Pack of 4)
+88	10.5	MAGGI fix & fresh ham and ground beef rolls (Schinken-Hack Rollchen) (Pack of 4)
+89	8.49	Paulie Spice : Gourmet Seasoning and Rub for Everything : Amazing on Steak, Meat, Ribs, Prime Rib, Wings, Turkey, Chicken, Pork, Fish and Seafood : 4 oz
+90	11.5	Hi Mountain Original Flavor Jerky Kit - 7.2 oz (contains 2 packets)
+91	12.99	Metalware Open Country Beef Jerky Works Kit
+93	10.5	Maggi fix & fresh Cabbage with Ground Beef (Schichtkohl mit Hackfleisch ) (Pack of 4)
+94	14.88	MAGGI fix & fresh farmer stew with ground beef (Bauern-Topf mit Hackfleisch) (Pack of 4)
+95	36.49	Ground Beef 93% Lean - 4 (1 lb.) Packs - By Rastelli Direct
+96	15.95	Nongshim Sir Long Tang Creamy Beef Noodle Soup, 2.6 Ounce (Pack of 6)
+98	7.5	PaleoFit 3.0oz Grass Fed Beef Jerky - Original
+99	9.95	Ground Pork 1 lb. Meat Bags - 100 Pcs - 4.25 x 10

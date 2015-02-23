@@ -1,0 +1,95 @@
+0	11.25	Chathan Village Croutons, Garlic and Butter, 32 Ounce
+1	17.04	New York Texas Toast Croutons Garlic & Butter, 5-Ounce Bags (Pack of 12)
+2	13.44	Olive Garden Seasoned Croutons, 32 Ounce
+5	21.48	Reese Croutons Onion and Garlic Croutons, 6.0-Ounce Bags (Pack of 12)
+6	29.88	Chatham Village Caesar Style Croutons, 5-Ounce Bags (Pack of 12)
+7	10.55	2 Boxes Trader Joe's Pumpkin Cornbread Croutons
+9	44.28	Osem Mini Mandel Croutons, 14.1-Ounce Canisters (Pack of 12)
+10	28.68	New York Texas Toast Croutons Cheese & Garlic, 5-Ounce Bags (Pack of 12)
+11	14.91	Fresh Gourmet Focaccia Croutons, Roasted Garlic, 2.5 Pound
+12	23.03	Cardini's Gourmet Cut Croutons, Caesar, 5-Ounce Bags (Pack of 12)
+14	6.49	Olive Garden Garlic & Romano Seasoned Croutons, 5 Ounce
+15	15.95	Fresh Gourmet Organic Croutons, 32-Ounce
+16	33.14	Chatham Village Garlic & Butter Croutons, 5-Ounce Bags (Pack of 12)
+17	22.59	Osem Original Mini Croutons (14.1 oz Bottles) 2 Pack
+18	39.48	Olivia's Croutons Gluten Free Garlic Crouton 4.5 Oz [6 Pack]
+19	13.5	Rothbury Farms, All Natural Seasoned Croutons, 6oz Pouch (Pack of 3)
+20	10.99	Goldbaum's Mini Croutons, 7 Ounce
+21	29.88	Chatham Village Large Cut Cheese & Garlic Croutons, 5-Ounce Bags (Pack of 12)
+22	28.1	New York Texas Toast Croutons Sea Salt & Pepper, 5-Ounce Bags (Pack of 12)
+23	28.68	New York Texas Toast Croutons Caesar, 5-Ounce Bags (Pack of 12)
+24	21.89	Cardini's Gourmet Cut Croutons, Garlic, 5-Ounce Bags (Pack of 12)
+25	32.56	New York Texas Toast Cheddar Bacon Croutons, 5-Ounce Bags (Pack of 12)
+26	9.95	New York, The Original Texas Toast, Caesar Croutons, 5oz Bag (Pack of 3)
+27	6.89	New Grains Gluten Free Parmesan Croutons
+28	23.45	Marzetti Seasoned Croutons, 5 Ounce (Pack of 12)
+29	23.23	Fresh Gourmet Cube Seasoned Croutons, 0.25 Ounce (Pack of 250)
+30	28.68	New York Texas Toast Croutons Seasoned, 5-Ounce Bags (Pack of 12)
+31	12.28	Metropolitan Gourmet Gluten Free Croutons, Garlic, 4.5 Ounce
+32	29.19	Cardini Gourmet Croutons, Italian, 5-Ounce Packages (Pack of 12)
+33	14.5	Rothbury Farms, Seasoned Italian Style Croutons, 6oz Bag (Pack of 3)
+34	19.99	Gefen Mini Croutons - Soup Mandel - 14 Oz. - Kosher Parve (4 pack)
+35	31.33	Reese Whole Grain Croutons, Cheese Garlic, 5-Ounce Packages (Pack of 12)
+36	32.07	Reese Croutons Seasoned Croutons, 6.0-Ounce Bags (Pack of 12)
+37	19.76	Reese Croutons Cheddar Cheese, 6.0-Ounce Bags (Pack of 12)
+38	19.34	J&D's Croutons, Tomato Basil, 4.5 Ounce (Pack of 6)
+39	13.17	Rickland Orchard Purely Simple Organic Grain Croutons, Parmesan Garlic (32 oz.)
+40	36.0	Rothbury Farm Seasoned Italian Style Croutons, 6-Ounce (Pack of 12)
+41	26.28	Cardini's Gourmet Cut Croutons, Italian, 5-Ounce Bags (Pack of 12)
+42	5.06	New York The Original Texas Toast Croutons Cheese & Garlic
+43	11.3	Schar Gluten Free Croutons, 5 Ounce
+44	10.5	Rothbury Texas Toast Croutons, 5 Ounce
+45	33.56	Burry Foods Seasoned Croutons, 0.25-Ounce Individual Packages (Pack of 250)
+46	13.5	Rothbury Farm, Seasoned Croutons, Cheese & Garlic, 6oz Bag (Pack of 3)
+47	5.99	SCHAR | Croutons- [Gluten Free] 5 Oz [1 Pack]
+48	32.05	Reese Croutons Caesar Salad Croutons, 6.0-Ounce Bags (Pack of 12)
+49	28.74	Ener-G Foods Plain Croutons, 8-Ounce (Pack of 6)
+50	32.67	Reese Whole Grain Croutons, Italian Herb, 5-Ounce Packages (Pack of 12)
+51	33.51	Chatham Village Large Cut Garlic & Butter Croutons, 5-Ounce Bags (Pack of 12)
+52	26.07	Rothbury Farms Cheese Garlic Croutons 6 oz - Pack of 12
+53	57.92	Osem Mini Mandel Croutons, 14.1-Ounce Canisters (Pack of 12) by Osem [Foods]
+54	58.58	Croutons Caesar Wheat Free Gluten Free (Pack of 12)
+55	4.97	OSEM Mini Mandel Croutons - 14.1 oz
+56	20.94	Edward & Sons Organic Croutons, Italian Herbs, 5.25-Ounce Packs (Pack of 6)
+57	32.5	Rothbury Fat Free Seasoned Croutons, 6-Ounce (Pack of 12)
+58	26.52	Rothbury Farms White Cheddar Rustic French Bread Croutons 8 Oz (Pack of 4)
+59	21.65	Mrs. Cubbison's Asia Go Cheese Ciabatta Croutons, 4 Ounce , (Pack of 9)
+60	28.18	Chatham Village Sea Salt & Pepper Croutons, 5-Ounce Bags (Pack of 12)
+61	12.9	New York the Original Texas Toast Croutons, Cheddar Bacon 5 Oz (Pack of 4)
+62	23.49	Rothbury Farms Seasoned Fat Free Croutons 5 Oz (Pack of 4)
+63	7.99	OLIVIAS CROUTONS | Gluten Free Crouton-Garlic/Gf 4.5 Oz
+64	27.36	Marzetti Honey Butter Croutons, 5 Ounce (Pack of 12)
+65	18.92	Osem Onion & Garlic Crouton, 5.25-Ounce Packages (Pack of 8)
+66	4.39	Batchelors Cup a Soup with Croutons Cream of Vegetable (4 per pack - 120g)
+67	4.26	CHATHAM VILLAGE CROUTONS CHEESE & GARLIC ALL NATURAL 5 OZ
+69	22.99	Trader Joe's Cheese & Garlic Croutons (Pack of 3)
+70	16.79	Aleia's Croutons Parmesan Gluten-free 12 Oz 2pack
+71	67.52	Gillian's Foods Garlic Croutons -- 5 oz
+72	36.99	Gillian's Foods: Gluten Free Garlic Croutons 5 Oz (6 Pack)
+73	15.79	Aleia's Gluten Free Foods Classic Croutons 12-ounce (2 Pack)
+74	19.98	Rothbury Farms Parmesan Romano Rustic French Bread Croutons 8 Oz (Pack of 4)
+75	28.68	New York Texas Toast Honey Butter Croutons, 5-Ounce Bags (Pack of 12)
+76	13.65	New Grains Gluten Free Parmesan Croutons (2 pack)
+77	30.2	Osem Caesar Crouton, 5.25-Ounce Packages (Pack of 8)
+78	19.5	Hidden Valley, Salad Crispins, Italian Parmesan, 2.5oz Canisters (Pack of 4)
+79	23.35	Reese Homestyle Garlic Butter Croutons, 5-Ounce Bags (Pack of 12)
+80	26.52	Mrs. Cubbinson's Croutons, Garlic and Butter Focaccia 4 Oz (Pack of 4)
+81	33.14	Chatham Village Homestyle Croutons, Garden Herb, 5-Ounce Bags (Pack of 12)
+82	3.24	Annies Homegrown Shiitake & Sesame Vinaigrette, 8 Ounce
+83	9.89	Trader Joe's Cheese & Garlic Croutons
+84	26.6	Chatham Village Garden Herb Croutons 5 oz. (Pack of 12)
+85	36.11	Fresh Gourmet Cube Seasoned Croutons, 10 Pound
+86	9.55	Batchelors Cup a Soup Tomato & Vegetable
+87	9.84	Batchelors Cup A Soup with Croutons Cream Of Vegetable 4S 120G
+88	25.52	Hidden Valley, Salad Crispins, Bac'n and Onion, 2.5oz Canister (Pack of 4)
+89	25.44	Mrs. Cubbison's Garlic and Butter Focaccia Croutons, 9 Count
+90	2.22	New York Brand The Original Texas Toast Seasoned Croutons, 5 oz
+91	19.53	New York Texas Toast Croutons, Garlic & Butter 5 Oz (Pack of 4)
+92	26.6	Chatham Village Caesar Style Croutons -- 5 oz
+93	20.13	Osem Mediterranean Tri-Color Croutons, 5.25-Ounce Packages (Pack of 8)
+94	34.03	Fresh Gourmet Homestyle Croutons, Butter and Garlic, 2.5 Pound (Pack of 4)
+95	10.99	365 Everyday Value Organic Croutons Ceasar
+96	16.51	New York Texas Toast Croutons, Asiago Cheese 5 Oz (Pack of 4)
+97	10.99	Wgmns Croutons, Twice Baked, Caesar, 5 Oz. (Pack of 3)
+98	27.28	Chatham Village Croutons, Garlic & Butter Flavored, 5-Ounce Bags (Pack of 12)
+99	27.13	Rothbury Farms Pesto Rustic French Bread Croutons 8 Oz (Pack of 4)

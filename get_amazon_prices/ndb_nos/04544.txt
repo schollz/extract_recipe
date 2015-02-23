@@ -1,0 +1,91 @@
+1	23.75	High Ratio Shortening 3 lb.
+2	5.69	Nutiva Red Palm Shortening Organic Superfood, 15 oz.
+3	9.95	Crisco Baking Sticks All Vegetable Shortening, 20 Ounce
+4	19.71	Crisco All Vegetable Shortening, 6 lb.
+5	12.41	Spectrum Organic All Vegetable Butter Flavor Shortening -- 24 oz
+6	9.56	Crisco All-Vegetable Shortening, 16 oz
+7	19.99	Shortening Powder - 2.5 Pound Can
+8	21.9	Spectrum Organic All Vegetable Shortening 24 Oz - 2 Pack
+9	14.55	Crisco All Vegetable Shortening, 48 oz
+10	9.97	Crisco Baking Stickes Butter Flavor All Vegetable Shortening, 20 Ounce
+11	3.85	Crisco All-Vegetable Shortening Sticks-20 OZ
+12	14.25	Crisco Butter Flavor All Vegetable Shortening, 48 oz.
+14	15.97	Alpine-C High Ratio Icing/Frosting Shortening ~ 2 Lb Tub
+15	13.49	Spectrum Shortening, 100% Vegetable, Organic, 24 oz
+16	58.65	Alpine Icing Shortening, 50 Pound
+17	83.95	Sweetex Shortening 50 Pound -- 1 Each
+18	22.97	Icing/Frosting Shortening - High Ratio ~ 3 Lb Tub
+19	10.99	Crisco All Vegetable Shortening-16 OZ
+21	36.45	Crisco Butter Flavor All-Vegetable Shortening, 48-Ounce (Pack of 4)
+22	11.75	Crisco, Baking Sticks, Butter Flavor, All Vegetable Shortening, 20oz Package (Pack of 2)
+23	61.0	Crisco All Vegetable Shortening, 48 Ounce (Pack of 4)
+24	115.95	Spectrum Naturals Organic Palm Shortening , 33 Pounds -- 1 per case.
+25	72.71	Crisco Shortening All Vegetable 6 LB (Pack of 6)
+26	10.59	Palm Oil Shortening 1Lb 8oz.
+27	95.95	Spectrum Naturals Palm Oil Shortening (1x33lb)
+28	11.95	Future Essentials Canned Shortening Powder
+29	87.35	Sweetex Z Cake and Icing Shortening, 50 Pound -- 1 each.
+30	31.29	Soybean/ Soy Bean Shortening 100% Pure Organic 128 Oz / 7 Lb / One Gallon
+31	10.79	Wgmns Vegetable Shortening , 48 Oz
+33	31.25	Spectrum Naturals Organic Shortening (3x24 Oz)
+34	61.85	Nutex Hi-Ratio Cake Liquid Shortening, 38 Pound -- 1 each.
+35	14.78	Southern Biscuit Formula L Complete W/Golden Shortening Flakes Biscuit Mix, 52 Ounce
+36	85.01	Spectrum Organic Shortening ( 12x24 OZ)
+37	118.69	Crisco Shortening Sticks All-Vegetable Butter Flavor 3 PK (Pack of 24)
+38	14.18	Crisco All-Vegetable Shortening Sticks-20 OZ
+39	27.44	Crisco Baking Stick Butter Flavor All-Vegetable Shortening, 6.7 Ounce (Pack of 12)
+40	23.95	Crisco, All Vegetable Shortening, Butter, 48oz Container (Pack of 2)
+43	19.55	Crisco All-Vegetable Shortening, 6-Pound Cans (Pack of 2)
+44	48.06	Spectrum Naturals Organic Shortening (6x24 Oz)
+45	16.95	Vegetable Oil Shortening - Nea Fytini 800g
+46	103.98	Spectrum Naturals Shortening (12x24 Oz)
+47	132.99	High Ratio Shortening Cube
+48	20.61	Shortening Powder 41 Oz.
+49	84.75	Spectrum Naturals Butter Flavor Shortening, 24 Ounce -- 12 per case.
+50	85.99	Kaola Gold Premium Pan and Grill Shortening, 512 Ounce
+51	37.0	Crisco Baking Sticks Butter Flavor All-Vegetable Shortening, 20-Ounce (Pack of 6)
+52	23.0	Chef's Quality Clear Liquid Shortening, 35 Pound
+53	27.01	Crisco, All Vegetable Shortening, Original, 48oz Container (Pack of 2)
+54	16.69	Crisco All Vegetable Shortening - 16 Oz (Pack of 3)
+56	36.62	Nutiva Organic Coconut and Red Palm Oil Blend Shortening, 15 Ounce -- 6 per case.
+57	17.99	Crisco, Baking Sticks, Original, All Vegetable Shortening, 20oz Package (Pack of 2)
+58	65.15	SHORTENING, FRYING ANIMAL VEGETABLE SOLID CUBE
+59	79.99	Shortening Powder - 6 Can Case - 15 Pounds
+60	36.99	Crisco - All Vegetable Shortening - 6 lbs (Pack of 2)
+61	86.25	Golden Sweetex Roll-In Shortening, 50 Pound -- 1 each.
+62	40.9	Crisco Baking Sticks All-Vegetable Shortening, 20-Ounce (Pack of 6)
+63	40.0	Crisco All-Vegetable Shortening, 16-Ounce (Pack of 6)
+64	90.0	Puff Pastry Shortening Margareen- The Healthy Choice
+65	37.05	Sara Lee Chef Pierre Unbaked Vegetable Shortening Pie Shell, 9 inch -- 20 per case.
+66	179.24	Spectrum Organic Shortening ( 12x24 OZ) ( Value Bulk Multi-pack)
+67	34.95	Palm Oil, Natural 1 Gallon
+68	43.05	Stratas Foods Primex Deep Frying Print Shortening, 5 Pound -- 5 per case.
+69	65.85	Stratas Foods Richtex Donut Frying Shortening, 5 Pound -- 10 per case.
+70	90.0	Multipurpose Shortening Margareen - The Healthy Choice
+71	39.75	1 Gallon Wesson Move Over Butter Pourable Shortening (3.79 Liter Total) - Butter Alternative, Pack of 1
+72	64.85	Ventura Foods Kaola Gold Premium Pan and Grill Shortening, 1 Gallon -- 4 per case.
+73	66.34	La Yellow Corn Water Lime Vegetable Shortening 12CT (Pack of 24)
+74	20.0	Spectrum Naturals Organic All Vegetable Shortening 24 Oz (680 G)
+75	11.66	Crisco All Vegetable Shortening, 16 Ounce
+77	36.0	Admiration Pro-fry Liquid Shortening Oil for Frying, 35 Pound
+78	150.48	Earth Balance Shortening No Dairy Gf 15 Oz
+79	128.5	Spectrum Organic Shortening ( 12x24 OZ) by Spectrum [Foods]
+80	59.25	ymo Cake and Icing Shortening Zero Tran, 50 Pound -- 1 each.
+81	102.43	Crisco Shortening All Vegetable 16 OZ (Pack of 24)
+82	40.55	Sara Lee Chef Pierre Unbaked Lard Shortening Pie Shell, 9 inch -- 20 per case.
+83	86.95	Earth Balance Shortening, 15 Ounce -- 18 per case.
+84	19.62	Frontier Natural Products Whole Elder-European Berries -- 16 oz
+85	10.95	Crisco All-Vegetable Shortening, 16 oz
+86	28.99	Coconut Wtr Orng Mngo (Pack of 12)
+87	24.23	Bakers & Chefs Vegetable Oil - 35 lb.
+88	12.99	Mazola Canola Oil, 40 oz
+89	27.15	Crisco Pure all Natural Vegetable Oil-128 OZ
+90	47.0	Aunt Gussies Oatmeal Cookies Spelt Sugar Free
+91	27.77	Kelapo Organic Extra Virgin Coconut Oil -- 14 fl oz
+93	44.99	Ventura Foods: Kaola Gold 1 Gallon (2 Pack)
+94	5555.28	Continental Shortening-Sieve Filter Cone, 10oz, White - Includes 10 packs of 50 filters.
+95	59.95	Stratas Foods Trans Fat Free Vegetable Shortening, 3 Pound -- 12 per case.
+96	29.96	Spectrum Naturals Organic All Vegetable Shortening-24 oz (680 g)
+97	35.55	Superb Premium Liquid Fry Shortening Oil, 35 Pound -- 1 each.
+98	53.15	Mazola ZT Soy Creamy Shortening, 35 Pound -- 1 each.
+99	96.15	Ventura Foods Mel-Fry Soy Free Clear Liquid Shortening Oil, 10 Quart -- 3 bottles per case.

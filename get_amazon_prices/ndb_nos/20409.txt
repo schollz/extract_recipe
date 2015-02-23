@@ -1,0 +1,79 @@
+1	7.87	Hime Dried Udon Noodles, 28.21-Ounce
+3	10.89	Nissin Chicken Cup Noodles, 24 Count
+5	18.46	Myojo Ippeichan Yakisoba Japanese Style Instant Noodles, 4.77-Ounce Tubs (Pack of 6)
+7	9.09	Hime Dried Somen Noodles, 28.21-Ounce
+8	9.09	Hime Dried Buckwheat Soba Noodles, 25.40-Ounce
+9	39.95	Nissin Demae Black Garlic Oil Instant Ramen Noodles 30 Packs
+10	15.5	[New] Samyang Ramen / Spicy Chicken Roasted Noodles (Pack of 5)
+11	17.17	Nongshim Kimchi Ramyun Noodle Soup, 4.2 Ounce (Pack of 16)
+12	16.19	Maruchan Ramen Noodle Soup, Chicken Flavor, 3 oz, 36 Packs
+15	11.77	Nongshim Spicy Chicken Noodle Bowl, 3.03 Ounce (Pack of 12)
+16	16.17	JFC Fresh Udon Bowl, 8.29-Ounce Containers (Pack of 6)
+17	25.99	Nissin Demae Ramen Variety Pack (Tonkotsu Series)
+18	18.32	Hakubaku Organic Soba, Authentic Japanese Buckwheat Noodles, (no salt added) 9.5-Ounce (Pack of 8)
+19	13.99	JML INSTANT NOODLE STEWED BEEF FLAVOR-5bags
+20	15.22	Myojo Chukazanmai Instant Ramen Miso Soybean Paste Flavor, 3.84-Ounce (Pack of 6)
+21	11.78	Wu-Mu -- Dry Noodle 4 LB (Med)
+22	22.95	Indomie FRIED NOODLES 100% HALAL Mi Goreng (Pack of 30)
+23	18.8	Nongshim Chapagetti Chajang Noodle, 4.5 Ounce (Pack of 16)
+24	23.92	Hakubaku Organic Ramen, 9.5-Ounce (Pack of 8)
+25	18.92	Nongshim Neoguri Spicy Seafood Ramyun, 4.2 Ounce (Pack of 16)
+26	31.0	unif bowl instant noodles - artificial beef with sauerkrant flavor (pack of 12)
+28	9.85	Nissin Cup O'Noodles Ramen Noodle Soup, Beef Flavor, 2.25-Ounce (Pack of 12)
+29	18.97	Nongshim Hot & Spicy Noodle Bowl, 3.03 Ounce Bowls (Pack of 12)
+31	13.99	Nissin - Raoh Japanese Instant Ramen Dandan Noodles 17.1oz (For 5 Bowls)
+32	27.87	Nongshim Ansungtangmyun Noodle Soup, 4.4 Ounce (Pack of 24)
+33	18.67	Nongshim Shin Bowl Gourmet Spicy, 3.03 Ounce (Pack of 12)
+34	13.05	Maruchan Ramen, Beef, 3-Ounce Packages (Pack of 24)
+35	3.19	Earth's Best Sesame Street Mini Meals - Curly Noodles with Chicken - 6 oz
+36	19.95	30 Packages Mama Tom Yum Flavour Instant Noodles
+37	24.0	Ka-Me Wide Lo Mein Noodles, 8 Ounce Packages (Pack of 12)
+38	15.52	Nongshim Spicy Kimchi Noodle Soup Bowl, 3.03 Ounce (Pack of 12)
+40	15.14	Nissin - Raoh, Japanese Instant Ramen Noodles, Pork Bone Soup, 14.8oz (for 5 Servings)[Japan Import]
+42	18.32	Hakubaku Organic Udon, Authentic Japanese Wheat Noodles, No Added Salt, 9.5-Ounce Boxes (Pack of 8)
+43	16.49	Nongshim Savory Chicken Noodle Bowl, 3.03 Ounce (Pack of 12)
+44	3.2	Nissin Cup O Noodles Chicken, 2.25-Ounce (Pack of 12)
+45	11.99	Maruchan Flavor Ramen Noodles, Chicken, 3 Ounce (Pack of 24)
+46	19.63	Lipton Soup Secrets Noodle Soup Mix, Chicken Broth, 2 Count, Pack of 12
+47	11.99	Indomie Instant Fried Noodles Hot & Spicy (Pack of 10)
+48	17.4	Myojo Udon Japanese Style Noodles with Soup Base, Oriental Flavor, 7.22-Ounce Bag (Pack of 15)
+49	15.68	Sempio Instant Noodles, Clam Flavored, 3.9-Ounce (Pack of 8)
+50	15.69	Nissin Chow Mein Q&E Teri Beef, 4-Ounce Units (Pack of 8)
+51	1.25	No Yolks Broad Egg Noodles, 8 Oz
+52	19.98	2 Minute Noodles Masala Spicy Maggi (Pack of 24)
+53	19.22	Prima Taste Singapore Curry Lamian Noodles, 26 Ounce
+54	21.48	Nongshim Shin Big Bowl Noodle, 4 Ounce Bowls (Pack of 12)
+56	20.97	Snapdragon Vietnamese Pho Box Noodles, Saigon Style, 2.33 Pound (Pack of 6)
+57	13.11	JML INSTANT NOODLE Artificial Spicy BEEF FLAVOR-5 small bags
+58	11.82	Nissin Cup  Noodles Spicy Chile Chicken, 2.25-Ounces (Pack of 12)
+59	17.98	Maruchan Instant Lunch Chicken Flavored Noodle Bowls 24 Pack
+60	21.54	Campbell's Chicken Noodle Soup, 14.75 Ounce Cans (Pack of 12)
+61	17.95	2 BIG Cups Spicy Chicken Roasted Cup Noodles, Spicy Chicken Cup Ramyun Korean Noodle Ramen BULDAK BOKKEUM MYUN (105g)
+62	13.29	Nissin Cup O Noodles Hearty Chicken, 2.25-Ounce (Pack of 12)
+64	27.98	Nongshim Udon Noodle Bowl, 4.02-Ounce Big Bowls (Pack of 12)
+65	23.23	Sempio Soba Noodles -Minatsu, 3-pounds (Pack of 4)
+70	7.92	Lee Kum Kee Sichuan Spicy Noodle Sauce - 8.2 oz
+71	12.97	Kokomyun Hot Spicy Chicken Soup Noodle Ramen 4.23 Oz X 5 Packs
+72	15.95	Nongshim Sir Long Tang Creamy Beef Noodle Soup, 2.6 Ounce (Pack of 6)
+73	27.16	Nongshim Kimchi Ramyun Noodle Soup, 4.2 Ounce (Pack of 24)
+74	19.99	Paldo Kimchi Noodle Soup, 3.03-Ounce Cup (Pack of 12)
+75	26.29	King Soba Gluten Free & Organic 100% Buckwheat Pasta Noodles (6 Packs) 8.8oz - 3 Servings Per Pack
+76	23.0	Koka Spicy Black Pepper (Non-Fried Noodles), 85-Grams (Pack of 24)
+77	7.19	Miracle Noodle Kanten Pasta, 0.5 Ounce
+78	13.99	Maruchan Ramen, Creamy Chicken, 3-Ounce Packages (Pack of 24)
+79	23.99	Mama Noodles Tom Yum Flavor (30 in a case)
+80	26.66	<Instant Udon noodle> DONBE mini (Udon with deep fried tofu) 12 packages
+83	35.68	Gluten Free Cafe Chicken Noodle Soup, 15 Ounce (Pack of 12)
+84	9.75	Konjac Shirataki Angel Hair Pasta Noodles 8.8 oz.
+85	21.49	Sapporo Ichiban Ramen, Miso, 3.55-Ounce Packages (Pack of 24)
+86	14.49	MAMA Instant Noodles Artificial Pork Flavor,30 Pkgs.x 2.12 Oz.(60g)
+87	15.52	Nongshim Savory Beef Noodle Bowl, 3.03 Ounce (Pack of 12)
+89	9.59	Doll Instant Noodles, Artificial Beef, 3.52 Ounce (Pack of 5)
+90	15.38	Crystal Noodle No MSG Noodle Variety Pack, 6 Count
+91	12.51	Top Ramen Noodles Oriental 3 oz. (12-Pack)
+92	13.98	Baijia Instant Noodles, Artificial Pickled Cabbage Fish Flavor, 19.4 Ounce
+93	8.23	Indomie Instant Fried Noodles Spicy/Hot for 1 Case (30)
+94	11.53	Nissin Cup Noodles Chicken Flavor Og Trans FAT 2.25 Oz - Pack of 24
+95	11.5	MyKuali Penang White Curry Noodle (4 Packs)
+96	14.18	Maruchan Yakisoba, Teriyaki Beef Flavor, 4-Ounce Microwavable Containers (Pack of 8)
+98	6.49	Shirakiku - Soba Noodle Soup Base (Tsuyu) 12.17 Fl. Oz.

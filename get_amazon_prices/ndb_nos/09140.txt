@@ -1,0 +1,88 @@
+0	6.74	Strawberry Guava Pancake Mix, 6 Ounce Bag
+1	3.48	Lipton Tea & Honey Iced Tea Mix, Strawberry Guava Liquid 2.43 oz
+2	8.96	Strawberry Guava Jam
+3	22.99	Lipton Tea & Honey Liquids Strawberry Guava Iced Tea Mix - Pack of 4
+4	7.19	Hawaiian Sun Strawberry Guava Jam small
+5	29.99	Hawaiian Sun Strawberry Guava Nectar (case of 12 11.5 oz cans)
+6	6.96	Aloha Maid Maid Drink Strawberry Guava, 11.50-ounces (Pack of 12)
+7	14.99	Lipton Tea & Honey Iced Tea Mix, Strawberry Guava Liquid 2.43 oz by Lipton [Foods]
+8	23.88	Island Plantations Hawaiian Garden Tea Tin, Guava Strawberry
+9	24.88	Guava Strawberry Black Tea
+10	36.0	aloha maid strawberry guava drink - 11.5oz [24 units] (073366118122)
+11	26.14	Hawaiian Sun Nectar, Strawberry-Guava, 11.5-Ounce (Pack of 24)
+12	26.41	Stage 2 Guava Pear & Strawberry (Pack of 10)
+13	26.6	Function Drinks Alternative Energy Strawberry Guava, 16.9-ounce Bottles (Case of 12)
+14	11.91	Jumex Guava Strawberry Banana Fridge Pack, 11.3-ounces (Pack of 12)
+15	20.0	BodyArmor SuperDrink, Strawberry Banana Guava, 16-Ounce (Pack of 6)
+17	44.14	Function Drinks Function Alternative Energy Strawberry Guava, 16.9-Ounce Bottles (Pack of 12)
+18	6.95	Strawberry Guava Pancake Mix, 6 Ounce Bag Home Grocery Product
+19	22.49	Maui Jelly Factory 3 Jars Guava Strawberry Jam 8 oz. each
+20	72.0	aloha maid 100% all natural drink (strawberry & guava) - 11.5oz [48 units] (073366118122)
+21	14.99	aloha maid strawberry guava drink - 11.5oz [6 units] (073366118122)
+22	29.3	Beech-Nut Stage 2 Just Guava, Pear & Strawberry 4.25 OZ (Pack of 10)
+23	15.0	Hawaiian Tea Guava Strawberry Gift Tin
+24	42.23	Function Drinks Alternative Energy Strawberry Guava (12x16.9Oz)
+25	33.65	Lipton Tea and Honey Liquid Iced Tea Mix 4 Flavor Variety Bundle: (1) Lipton Black Cherry Dragonfruit, (1) Lipton Summer Peach, (1) Lipton Strawberry Guava, and (1) Lipton Tropical Mango
+26	8.99	White Guava - Loose Leaf White Tea 1oz
+28	8.5	Mrs Millers Guava Jam (Amish Made) ~ 2 / 8 Oz. Jars
+29	21.56	Lipton Tea & Honey Iced Tea Mix, Strawberry Guava Liquid-2.43 fl oz (72 ml)
+30	20.06	Guava Strawberry Black Tea with Guava Macadamia Nut Cookies
+31	39.95	Beech-Nut Stage 2 Just Guava, Pear & Strawberry 4.25 OZ (Pack of 20)
+32	54.99	Function Drinks Alternative Energy Strawberry Guava 16.9 Oz (Pack of 12)
+34	24.99	aloha maid strawberry guava drink - 11.5oz [12 units] (073366118122)
+35	25.93	Function Drinks Alternative Energy Strawberry Guava 16.9 Oz (Pack of 12) - Pack Of 12
+36	2.99	aloha maid strawberry guava drink - 11.5fl oz
+38	39.42	Hawaii Maui Value Pack Tutu's Pantry Guava Strawberry Jelly 3 Jars
+39	62.49	Maui Jelly Factory 12 Jars Guava Strawberry Jam 8 oz. each
+40	10.46	Strawberry Guava Drink - 11.5fl Oz [Pack of 6]
+41	33.49	Maui Jelly Factory 6 Jars Guava Strawberry Jam 8 oz. each
+42	37.99	Hawaii Maui Jelly Factory Lunch Bag Gift Basket Guava Strawberry Jam #6
+43	37.99	Hawaii Maui Jelly Factory Lunch Bag Gift Basket Guava Strawberry Jam #10
+44	5.23	Strawberry Guava Drink - 11.5fl oz [Pack of 3]
+45	37.99	Hawaii Maui Jelly Factory Gift Basket Guava Strawberry Jam
+46	43.49	Hawaii Maui Tutu's Pantry Gift Basket Guava Strawberry Jam
+47	39.42	Hawaii Maui Value Pack Tutu's Pantry Guava Strawberry Jam 3 Jars
+48	103.85	Hawaii Maui Value Pack Tutu's Pantry Guava Strawberry Jam 12 Jars
+49	108.0	aloha maid strawberry & guava drink (100% all natural) - 11.5 fl oz [72 units] (073366118122)
+50	43.49	Hawaii Maui Tutu's Pantry Gift Basket Guava Strawberry Jelly
+52	17.99	Guava Seeds Hawaiian Hawaiian - 3 Pack #D3
+53	7.0	Strawberry Guava Jam
+55	20.06	Holiday Teas and Guava Macadamia Nut Cookies Set
+58	39.0	Fuze Slenderize Strawberry Melon, 16.9-Ounce Bottles (Pack of 12)
+59	16.84	Guava Flavor, Natural WONF - 4 fl. oz. bottle - Silver Cloud Estates
+60	13.02	Mrs Millers Tomato Jam (Amish Made) ~ 2 / 8 Oz. Jars
+61	7.0	Guava Jam
+63	46.99	Mighty Leaf Tea Green Tea Tropical, Light Caffiene, 1-Pound Bag
+65	29.99	Mrs. Miller's Amish Homemade Quince Jelly, Strawberry Jam, Red Raspberry Jam, Blueberry Jam, Boysenberry Jam & Elderberry Jelly Variety Pack (One of Each) 8 oz/226g - Pack of 6 (Boxed)
+66	20.35	Langers Tropical Variety Pack, 10 Ounce
+67	10.82	Mrs. Miller's Apple Cinnamon Jelly, 8 oz
+68	21.99	Mrs. Miller's Amish Homemade Blueberry Jam, Boysenberry Jam & Elderberry Jelly Variety Pack (One of Each) 8 oz/226g - Pack of 3 (Boxed)
+69	7.5	Pineapple Jam (Amish Made) ~ 2 / 8 Oz. Jars
+70	12.99	Boysenberry Jelly (Amish Made) ~ 2 / 8 Oz. Jars
+73	11.95	Hawaiian Sun Guava Jam 10-ounce Jar
+74	39.0	Jelly Variety Pack, Set of 6 (10 oz Jars)
+75	18.99	Mighty Leaf Green Tea Tropical 15CT - 2 Boxes
+76	8.0	No Sugar Added Guava Jam
+77	19.99	Black Raspberry Jam by Mrs. Miller's- 8 ounce All Fruit Sweetened,  No Sugar, (Box of 3 Jars)
+78	4.89	Evolution Tea Shisha 50g Jar
+79	12.99	Mrs Millers Blueberry Jam (Amish Made) ~ 2 / 8 Oz. Jars
+80	8.5	Mrs Miller's Banana Jam 2 x 8oz
+81	9.5	Mrs Millers Guava Jam (Amish Made) ~ 2 / 8 Oz. Jars Home Grocery Product
+82	24.95	Welch's, Island Fruits, Fruit Snacks, 22 Count, 19.8oz Box (Pack of 2)
+83	33.77	Goya Wafer Pina Cookies, 5.6-Ounce Units (Pack of 30)
+84	12.99	White Guava - Loose Leaf White Tea 2oz
+85	13.25	Gooseberry Jam: 3 jars Mrs Millers Homemade
+86	19.99	Mrs. Miller's Corn Cob Jelly, 8-ounces (3 Jars)
+87	16.14	Harney & Sons Caribe Loose Leaf Tea 4 Oz.
+88	89.95	Hawaiian Sun Hawaii Jelly & Jam Tropical Fruit 12 Jars
+89	14.99	Mrs Millers Homemade Black Cherry Jam 2~ 8 Oz Jars
+90	14.99	Mrs Millers Kiwi Jam 8 Oz (2 Pack)
+91	7.5	Raspberry Key Lime Jam - 8oz (Pack of 2)
+92	11.99	Mrs. Miller's Amish Homemade Red Currant Jelly 18 oz/509g
+93	12.5	Boysenberry Jam: 3 jars Mrs. Millers Homemade
+94	32.99	Harney & Sons CARIBE Tea 16 ounce Bag
+95	42.59	Goya Mango Wafer Cookies, 5.6 Ounce (Pack of 30)
+96	19.99	Mrs. Miller's Homemade Black Raspberry Jelly (3 Jars)
+97	15.95	MexGrocer Tantalizing Tropical Nectar Package, 8 items
+98	0.69	Caribe Blend, 1 Individually Wrapped Tea Sachet - By Harney & Sons
+99	3.75	Mrs. MIller's Homemade Mint Jelly, 8 oz

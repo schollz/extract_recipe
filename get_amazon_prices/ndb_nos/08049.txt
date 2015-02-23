@@ -1,0 +1,70 @@
+1	8.67	Life Cereal, Maple and Brown Sugar, 13-Ounce (Pack of 4)
+4	12.92	Quaker Life Cereal Whole Grain Quaker Oats Cereal 2 Pack of 31oz
+5	18.33	Quaker Life Original Multigrain Cereal, 54 Ounce
+11	22.74	Enjoy Life  Semi Sweet Mega Chunks, 10-Ounce (Pack of 6)
+13	21.32	Enjoy Life Soft Baked Cookies Variety Pack, 6-Ounce (Pack of 6)
+17	12.99	Enjoy Life Semi-Sweet Chocolate Mini Chips -- 10 oz Each / Pack of 2
+19	6.24	Enjoy Life Dark Chocolate Morsels
+21	42.0	Life Cereal, Maple and Brown Sugar, 18-Ounce (Pack of 14)
+22	3.39	Yogi Caramel Apple Spice Slim Life Tea, 16 Tea Bags, 1.12 Ounce
+23	21.32	Enjoy Life Crunchy Cookies Variety Pack, 6.3-Ounce (Pack of 6)
+24	16.32	LifeSavers Sugar Free Pep-O-Mint Hard Candy, 2.75-Ounce Bags (Pack of 12)
+25	22.25	Enjoy Life Not Nuts Beach Bash, 1.63-Ounce (Pack of 24)
+27	29.18	Enjoy Life Boom Choco Boom Bar, Dark Chocolate, 1.12 Ounce (Pack of 24)
+28	28.49	Garden of Life Organic Perfect Food Chocolate 64g Food  Bars (12-pack)
+29	28.0	Enjoy Life Semi-Sweet Chocolate Chips Variety Pack (3 Mini Chips, 3 Mega Chunks)
+32	16.25	Enjoy Life Mega Chunks Gluten Free Non-GMO Semi-Sweet Chocolate -- 10 oz Each / Pack of 3
+33	21.37	LifeSavers Sugar Free 5 Flavor Hard Candy, 2.75-Ounce Bags, (Pack of 12)
+34	9.91	Enjoy Life Chocolate Chip Crunchy Cookie,1.0 Ounce (Pack of 12)
+35	18.24	Enjoy Life Sugar Crunchy Cookie, 6.3-Ounce (Pack of 6)
+38	28.57	LifeSavers Sugar Free Wint-O-Green Hard Candy, 2.75-Ounce Bags, (Pack of 12)
+39	15.99	LifeSavers Rolls Pep-O-Mint 20 Roll Box
+40	15.5	Life Savers Five Flavors Hard Candy, 1.14 Ounce (Pack of 20)
+41	11.99	Garden of Life RAW Organics - Organic Chia Seeds, 12 oz
+42	19.82	Enjoy Life Crunchy Cookies Grab and Go Variety Pack, Vanilla Honey Graham, Sugar Crisp,  0.9-Ounce (Pack of 24)
+44	27.0	Enjoy Life Very Berry Crunch Granola, Gluten, Dairy & Nut Free, 12.8-Ounce Bag (Pack of 6)
+46	18.94	Enjoy Life Vanilla Honey Graham Crunchy Cookie, 6.3-Ounce (Pack of 6)
+47	32.5	4life Life Tea with Apple Cinnamon flavor Cleansing Tea 30 Tea Bags each (pack of 2)
+49	3.58	Baked Chewy Bars - Caramel Apple 5 / 1 oz Bar(S)
+50	23.88	LifeSavers Wild Cherry Hard Candy,  6.25-Ounce Bags, (Pack of 12)
+51	23.88	LifeSavers Butter Rum Hard Candy, 6.25-Ounce Bags, (Pack of 12)
+52	54.96	Enjoy Life Dark Chocolate Chip Morsels, 9 Ounce (Pack of 12)
+55	22.32	Enjoy Life Not Nuts Mountain Mambo, 1.63-Ounce (Pack of 24)
+56	21.37	LifeSavers Orange Mints Hard Candy, 6.25-Ounce Bags (Pack of 12)
+57	306.35	Enjoy Life Semi-Sweet Chocolate Chips, Mini, 50 Pound
+58	6.79	Yogi Tea Green Tea Blueberry Slim Life, Herbal Supplement, Tea Bags, 16 ct, 2 pk
+59	23.88	LifeSavers Gummies, Wild Berries, 7-Ounce Bags (Pack of 12)
+60	36.85	Enjoy Life Crunchy Flax Cereal, Original, 10 Pound
+61	4.99	Enjoy Life Foods - Perky's Crunchy Flax with Chia Cereal - 9 oz.
+62	14.95	4Life Tea4Life (30 bags)
+63	9.91	Enjoy Life Double Chocolate Crunchy Cookie, 0.9-Ounce (Pack of 12)
+65	16.59	Lifesavers 5 Flavor Bulk Bag (1- 41oz. bag, approx. 292 pieces)
+67	29.0	Coke Life Reduced Calorie Coca Cola with Stevia 12 Oz Cans - Case of 24
+68	31.06	Enjoy Life Foods Rice Milk Chocolate Bar Dairy Free (12x1.12 OZ)
+69	15.64	LifeSavers Pep-O-Mint Candy Hard Candy, 41 oz
+71	6.99	Enjoy Life Granola Gluten Free Cinnamon Crunch -- 12.8 oz
+72	3.79	Life Savers Mints, Wintergreen-6.25 oz
+73	28.68	Enjoy Life Foods Boom Choco Boom Dark Chocolate Bar (12x1.12 OZ)
+74	11.4	Life Savers Wild Cherry Candy Individually Wrapped 6.25 Oz (2 Pack)
+75	4.99	Enjoy Life Foods - Perky's Crunchy Flax Cereal - 10 oz.
+76	35.0	Vita Life Matcha Green Tea Powder, 10.5-Ounce Boxes (Pack of 2)
+77	18.7	Enjoy Life Foods Semi-Sweet Chocolate Chips Gluten Free (3x10 OZ)
+78	12.59	Enjoy Life Soft Baked Cookies Happy Apple -- 6 oz
+79	17.21	Enjoy Life Foods, Perky's Crunchy Flax Cereal, 10oz Box (Pack of 3)
+80	23.88	LifeSavers Gummies, Sours, 7-Ounce Bags (Pack of 12)
+82	33.74	Enjoy Life Soft Baked S'mores Decadent Bar 5 Bars per Box 1.20 Ounces (Case of 6)
+83	60.55	Enjoy Life Semi Sweet Chocolate Chip, 10 Ounce -- 12 per case.
+84	41.65	Enjoy Life Crunchy Rice Cereal, 10 Ounce (Pack of 12)
+85	37.97	Food For Life Ezekiel 4:9 Organic Sprouted Grain Pasta, Fettuccine, 16-Ounce Boxes (Pack of 6)
+86	36.59	Garden of Life - Perfect Food Raw Organic Alkalizer & Detoxifier - 10 oz.
+87	38.17	Food For Life Ezekiel 4:9 Organic Sprouted Grain Pasta, Penne, 16-Ounce Boxes (Pack of 6)
+88	59.85	Garden of Life - RAW
+90	6.92	Enjoy Life Foods - Not Nuts Mountain Mambo Nut Free Mix - 6 oz.
+91	4.53	Life Savers Hard Candy Holiday Mix 6.4 Oz
+93	12.75	Life Savers 5 Flavor Sugar Free Candy, 2.75 Oz - 3 Pack
+94	30.89	Enjoy Life Foods Rice Milk Chocolate Bar Dairy Free (24x1.12 OZ)
+95	10.13	Tea Of Life Organic White Tea, Blackberry, 20 Count
+96	17.73	Quaker, Life Cereal, Original, 18oz Box (Pack of 3)
+97	27.69	Slow Food for Fast Lives Bar, California, 1.41 Ounce (Pack of 12)
+98	32.99	Life Savers Spear O Mints, 6.25 Ounce -- 12 per case.
+99	70.08	Enjoy Life Chewy Bars, Mixed Berry, 96-count

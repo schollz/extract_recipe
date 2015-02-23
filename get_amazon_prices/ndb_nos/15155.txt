@@ -1,0 +1,53 @@
+0	13.85	Family Whole Abalone, 16 Ounce
+2	119.5	CALMEX Abalone - 3 Whole Abalones & a Cut Piece 16 oz
+4	5.95	Abalone Style Shellfish
+5	89.99	Frozen Large Wild Abalone Meat/lb
+6	18.91	Havista Dried Mushrooms Bailing, Abalone, 6-ounce
+8	115.0	WKD Canned Blue Abalone - 16 Ounces (Whole Abalone 1-3 PCS)
+9	75.0	Fresh Abalone Steaks (8 Steaks Half Pound!)
+10	24.95	Roland Abalone Type Locos, 15-Ounce Can
+11	125.0	Fresh Abalone Steaks (16 Steaks 1LB.)
+12	20.99	Abalone Sauce 13.4oz By Yummy House -Pack of 1
+13	44.99	Scalone Steaks (2 Pounds)
+14	8.99	Abalone Sauce-7.9oz Bottle (Pack of One)
+15	13.99	Sautao - Instant Noodle King. Abalone&chicken Soup Flavored ( 5 Small Bags)
+16	7.0	Hinterland Trading Haliotis Kamchatskana -Red & Green Abalone
+17	3.49	HoFan Abalone Chicken Noodle Soup 2.6 Oz
+18	55.57	Dragonfly Abalone Mushroom in Salt Water, 15 Ounce (Pack of 24)
+19	31.99	Amoy Extra Hot Abalone XO Sauce 2.8oz (2 Pack )
+20	13.45	INSTANT RICE PORRIDGE ABALONE FLAVOURED CONGEE 44G.[PACK OF 3]
+21	20.99	Roland: Abalone Mushrooms 14 Oz (6 Pack)
+22	4.99	HoFan Abalone Chicken Noodle Soup 2.8 Oz
+23	12.98	Roland Abalone Mushrooms (Pack of 2) 14 oz Cans
+24	27.98	SAU TAO - Abalone Chicken Soup flavoured - INSTANT NOODLE KING / 6 x 2.9 OZ - 82 g / Product of China
+25	6.47	Udon Chicken & Abalone Flavor (Japanese Style Noodle with Soup Base) - 7.22oz
+26	11.75	Choi Heong Yuen Abalone Pastries 240g Box
+27	17.81	Little Cook Instant Cup Noodles - Abalone Chicken Soup (6 Pack)
+28	8.58	Myojo Udon With Chicken and Abalone Flavor Soup, 7.2-Ounce (Pack of 10)
+29	15.99	Sautao Xiao Qiao Rice Vermicelli Abalone Flavored 7.6 oz
+30	11.5	myojo udon (chicken & abalone flavor) - 7.20oz [5 units] (011152035000)
+31	49.99	Geomar Gourmet Seafood, Navajuelas Razor Clams 3.2-Ounce Box (Pack of 5)
+32	29.99	Yummy House Abalone Sauce-26.5oz (Pack of 1)
+33	37.6	Noodle King, Instant Noodle, Thin, Mince, Abalone & Chicken Soup Flavour, 350 g (70 g x 5)
+34	10.35	Chicken & Abalone Sichuan Noodle Soup 5.6 Oz
+35	8.8	Myojo Udon, Chicken & Abalone Flavor, Pack of 5
+36	24.99	myojo udon (chicken & abalone flavor) - 7.20oz [15 units] (011152035000)
+37	39.99	myojo udon chicken & abalone flavor (japanese style noodle with soup base) - 7.22oz [30 units] (011152035000)
+38	12.99	Chicken & Abalone Flavor Sichuan Noodle 5.6oz (Pack of 2)
+39	79.9	myojo udon (chicken & abalone flavor) - 7.20oz [60 units] (011152035000)
+40	44.99	cgb_83306_1 Danita Delimont - Abstracts - Abalone shell with water drops, artistic abstract - NA01 BJA0030 - Jaynes Gallery - Coffee Gift Baskets - Coffee Gift Basket
+41	2.5	myojo udon (chicken & abalone flavor) - 7.22oz
+42	4.75	Udon (Chicken & Abalone Flavor) - 7.22oz [Pack of 3]
+43	9.5	Udon (Chicken & Abalone Flavor) - 7.22oz [Pack of 6]
+44	44.99	cgb_73908_1 Danita Delimont - Natural Patterns - Pattern of Paua Shell (Abalone), New Zealand-AU02 DWA4678 - David Wall - Coffee Gift Baskets - Coffee Gift Basket
+45	20.99	myojo udon (chicken & abalone flavor) - 7.20oz [10 units] (011152035000)
+46	10.2	Myojo Udon Chicken and Abalone Flavor (Pack of 6x7.22z)
+47	2.97	Petit Cuisinier Nouilles Instantanees Saveur De Soupe De Ormeau Et Poulet (Instant Noodles Abalone Chicken Soup Flavour) - 2.3oz (Pack of 1)
+48	8.9	Petit Cuisinier Nouilles Instantanees (Little Cook Instant Noodles Abalone Chicken Soup Flavour) - 2.3oz (Pack of 3)
+49	8.99	Sao Tao - Chicken & Abalone Sichuan Noodle Soup 5.6 Oz (Pack of 1)
+50	49.99	Ready to Eat Nobility Rice Porridge with Chestnuts and Red Bean(Yangban Juk) 285g X 10ea($3.9/1ea)
+51	9.49	Sau Tau Noodle King (Thick) (3 Flavor Variety Pack)
+52	9.49	Sau Tau Noodle King (Thin) (3 Flavor Variety Pack)
+53	3.5	HoFan Wonton Noodle Soup 2.6 Oz
+54	3.49	HoFan Beef Noodle Soup 2.6 Oz
+55	3.99	HoFan Mushroom Noodle Soup 2.8 Oz

@@ -1,0 +1,87 @@
+0	18.99	ARM & HAMMER Baking Soda - 13.5 lb. bag
+2	17.0	Bicarbonate of Soda---50 Pound Bag
+5	49.0	Baking Soda - 50 Pound Bag
+6	13.5	Sodium Bicarbonate - Baking Soda - USP grade - 5 pound bag - FREE Standard shipping
+7	2.99	Frontier Natural Products - Baking Soda Powdered - 1 lb.
+10	11.0	USP Food Grade 10lbs Sodium Bicarbonate
+12	42.5	USP Food Grade 50lbs Sodium Bicarbonate
+13	11.99	Sodium Bicarbonate Food Grade Powder - Aluminum-Free Baking Soda, 1 lb
+14	35.0	25 lb Sodium Bicarbonate Food Grade, Baking Soda, 99+% Pure
+15	17.71	Bob's Red Mill Baking Soda, 16-Ounce (Pack of 4)
+16	12.09	Bob's Red Mill Baking Soda (2x16oz)
+17	18.29	MILLIARD 100% Pure Food Grade Citric Acid, 5lb.
+19	9.39	Picot Antacid, Sodium Bicarbonate & Citric Acid: 3 Pack of 12 Packets
+20	39.99	Sodium Bicarbonate Food Grade Powder - Aluminum-Free Baking Soda, 5 lb
+21	30.0	20 lb Sodium Bicarbonate Food Grade Baking Soda, 99+% Pure
+22	7.49	Citric Acid 99% FCC/USP Grade 1lb
+23	65.0	50lb bucket Sodium Bicarbonate Food Grade Baking Soda, 99+% Pure
+24	10.25	Sodium Bicarbonate - Baking Soda - USP grade - 1lb bag - Free Standard Shipping
+25	99.99	Sodium Bicarbonate Food Grade Powder - Aluminum-Free Baking Soda, 25 lb
+26	8.25	Bob's Red Mill - Gluten Free Baking Soda - 16 oz.
+27	13.95	Picot Upset Stomach Antacid Sodium Bicarbonate & Citric Acid Fast Relief: 32 Packets - Tj6
+28	9.09	Ener-G Baking Powder, 7.05 oz
+29	20.5	Sodium Bicarbonate - Baking Soda - USP grade - 10 pound bag
+30	22.93	McGarrett Baking Soda 300 g.(10.58 oz) Sodium Bicarbonate (Food Additive)
+32	34.46	Picot Antacid Sodium Bicarbonate & Citric Acid, Effervescent Powder: 96 Count
+33	24.45	Picot Upset Stomach Antacid Efervescent Power Sodium Bicarbonate & Citric Acid Fast Relief of 0.17 Oz 48 Pouches
+34	45.1	Baking Soda - Aluminium & Gluten Free - Sodium Bicarbonate - 500g
+35	99.99	Vermont Organics Milk-Based Organic Infant Formula with Iron, 23.2 oz.  (pack of 4) (Packaging May Vary)
+36	9.9	Picot Upset Stomach Antacid Sodium Bicarbonate & Citric Acid Fast Relief of 0.17 Oz 16 Packets
+37	19.99	Mcvities Digestive 400g 6pk
+38	11.49	Sweet 'N Low Pancake Mix Sugar Free
+39	8.99	Sanar Naturals Baking Soda 16 Oz
+40	24.95	Smokey Mountain Premium Herbal Snuff WINTERGREEN - 1.0 Canister (5 Pack) Tobacco Free
+41	10.9	La Salamandra Dulce de Leche from Argentina 16 oz
+42	14.49	MAMA Instant Noodles Artificial Pork Flavor,30 Pkgs.x 2.12 Oz.(60g)
+44	8.99	5-Style Traditional Japanese Mini-Confectionery Gift Bundle (Japanese Import)
+45	18.99	High Protein Pancake Mix Made by ProCakes
+46	10.68	Tri Salts 200 gm
+47	19.0	Soda Fountain Malted Milk Powder 2.5 Lb. (Single) - Malt Powder for Ice Cream and Baking - Made in Wisconsin
+48	11.65	Sodium Bicarbonate 5 Lb Pack
+49	24.73	Picot Upset Stomach Antacid Sodium Bicarbonate & Citric Acid Fast Relief of 0.17 Oz 24 Packets
+50	7.95	Sodium Bicarbonate 1 Lb Pack
+51	199.99	Sodium Bicarbonate Food Grade Powder - Aluminum-Free Baking Soda, 50 lb
+52	18.99	Sodium Bicarbonate 10 Lb Pack
+53	9.95	Sodium Bicarbonate 2.5 Lb Pack
+54	32.99	2 x 13.5 Pounds Arm & Hammer Pure Baking Soda (27 Pounds Total)
+55	15.95	7" La Tortilla Factory Whole Wheat Low Carb Tortillas (Regular Size) Pack of 2
+56	19.98	30BAGS MAMA INSTANT NOODLES SHRIMP CREAMY TOM YUM FLAVOUR
+58	23.99	Necta Sweet Saccharin Tablets, 1 Grain, 1000 Tablet Bottle (Pack of 2)
+59	12.5	Protidiet Maple-Brown Sugar Instant Oatmeal Mix
+60	5.99	Gellwe Baking Soda 3-pack 3x80g/3x2.8
+61	19.96	Alacer Emergen-C Heart Health Fizzy Drink Mix Black Cherry - 30 Packets
+62	9.49	7" La Tortilla Factory Whole Wheat Low Carb Tortillas 13 oz - 10 count(Regular Size)
+63	19.22	Darrell Lea Liquorice Candy, Blueberry Pomegranate, 7 Ounce (Pack of 8)
+64	15.95	Krusteaz GLUTEN-FREE Double Chocolate BROWNIE MIX 3-Pack (60oz. Total)
+65	10.94	Sqwincher Sqweeze 159200222 Assorted Flavors Freezer Pop, 3 oz Serving Size (Pack of 20)
+66	13.95	Skyflakes Crackers(1LB 14oz)
+67	19.99	Snoqualmie Falls Lodge Old Fashioned PANCAKE & WAFFLE Mix 5lb.
+68	94.24	Vermont Organics Soy-Based Organic Infant Formula with Iron, 23.2 oz. cans (pack of 4)
+69	12.76	Bob's Red Mill Muffin Mix Cornbread, 24-Ounce (Pack of 4)
+70	83.03	Frontier Bulk Baking Soda Powder, 25 Lb. Box
+71	11.89	Protidiet Oatmeal - Apple Cinnamon (7/box)
+72	24.98	King Arthur Flour Cookie Mix, Gluten Free, 16 Ounce (Pack of 3)
+73	30.95	Arm & Hammer Baking Soda, 8 Ounce (Pack of 24)
+74	5.9	Mr Kipling Bramley Apple Pies 6
+75	28.95	7" La Tortilla Factory Whole Wheat Low Carb Tortillas (Regular Size) Pack of 5
+76	7.95	Moonlight Mixes Wicked Snack Mix
+77	2.07	Batchelors Bigga Dried Peas - 250g
+78	6.34	McVities Jaffa Cakes - 150g
+79	20.97	Gerber Graduates ARROWROOT COOKIES 5.5oz. (Pack of 3)
+80	56.22	Sqwincher 030325-FP 64 oz Liquid Concentrate, 5 Gallon Yield, Fruit Punch Flavor (Case of 6)
+81	30.0	Sqwincher 030324-OR 64 oz Liquid Concentrate, 5 Gallon Yield, Orange Flavor (Case of 6)
+83	7.45	Mcvitie's Classic Rich Tea Biscuits, 0.46 Ounce
+85	48.98	Concord Foods Fresh Cranberry Bread Mix (Value Pack of 6 Boxes)14.1 oz. Boxes
+86	24.17	Bob's Red Mill Bread Mix Irish Soda Bread Mix, 24-Ounce (Pack of 4)
+87	20.49	Bright Beginnings Premium Milk-Based Baby Powder Formula with Iron, Stage 2, 24.0 Ounce
+88	47.25	Nairns Organic Rough Oatmeal Cut Oatcake Cracker, 8.8 Ounce -- 12 per case.
+89	34.45	Hodgson Mill Gluten Free Pancake and Waffle Mix, 16 Ounce (Pack of 8)
+91	26.99	Bright Beginnings Premium Milk-Based Formula with Iron, 23.4 Ounce
+92	63.99	Schar Pizza Crust 10.6 oz. (Pack of 8)
+93	27.62	Andean Dream Chocolate Chip Quinoa Cookies, Gluten & Corn Free , 7 Ounce Boxes (Pack of 3)
+94	19.5	Bob's Red Mill Muffin Mix Datenut Bran, 24-Ounce (Pack of 4)
+95	7.95	McCormick ENCHILADA Sauce Mix 1.5oz (3 Packets)
+96	16.99	Dixie Carb Counters Plain Bread Crumb Mix
+97	19.5	Bob's Red Mill Muffin Mix Spice Apple Bran, 24-Ounce (Pack of 4)
+98	9.33	Coconut Chocolate Chip Premium Scone Mix
+99	15.95	Citric Acid 99% FCC/USP Grade 5lb

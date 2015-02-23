@@ -1,0 +1,64 @@
+0	17.99	Heavy Cream Powder, Hoosier Hill Farm, 1 lb. Jar
+1	8.99	Land Lakes Mini Moos Creamer, Half and Half Cups, 192 Count
+2	23.52	WillPowder Heavy Cream Powder, 16-Ounce Jar
+3	10.99	Nestle Media Crema Table Cream - 2 7.6 Oz. Cans
+5	19.51	English Double Devon Cream (Pack of 2)
+7	6.95	Clotted Cream 6oz
+10	22.99	Junket Vanilla Ice Cream Mix,  4-Ounce Boxes (Pack of 12)
+11	7.12	English Tea Store Earl Grey Cream Teabags, 25 Count
+13	10.0	Quaker Instant Oatmeal Peaches & Cream, 1.23 Ounce, 10-Count Boxes (Pack of 4)
+14	9.96	Quaker Instant Oatmeal Strawberry & Cream, 10-Count Box, 12.3 oz (Pack of 4)
+16	9.7	AROY-D 100% Pure Coconut Cream, 33.8 fl oz
+17	2.99	Mountain House, Ice Cream Sandwich
+19	30.2	American Outdoor Products Astronaut Neapolitan Ice Cream, 7 oz,  (Pack of 10)
+20	36.81	American Outdoor Products Astronaut Ice Cream, Neapolitan, (Pack of 15)
+22	2.45	Astronaut Neapolitan Ice Cream .7 oz (19g)
+23	4.54	Dr. Oetker Sahnesteif ( Whip Cream Stabilizer ) -5 pack
+26	18.59	Coco Lopez Cream Coconut, 15-Ounce Cans (Pack of 6)
+27	17.45	Native Forest Organic Premium Coconut Cream, Unsweetened, 5.4 Ounce (Pack of 12)
+28	8.54	Nestle Table Cream, 7.6 Ounce
+29	7.19	American Beverage Market Coco Real Cream of Coconut, 22 oz
+30	17.23	Badia Cream of Tartar, 2 Pound
+31	19.48	AROY-D 100% PURE Coconut Cream, 33.8 Oz package (3-pack)
+34	27.0	Quaker Instant Oatmeal Fruit & Cream, Variety Pack, 10-Count Boxes (Pack of 6)
+35	11.25	Cream Of Wheat Original Flavor Instant Hot Cereal 12 oz
+36	3.75	Cream of Tartar 4oz- Market Fresh
+38	15.95	Sour Cream Powder, 1lb.
+39	22.8	Cream of Wheat Whole Grain, 18 Oz Box, (Pack of 3)
+40	11.4	International Delight French Vanilla Liquid Creamer, 192-Count Single-Serve Packages
+41	32.28	Pacific Natural Foods Organic Cream Of Chicken Condensed Soup, 12-Ounce Boxes (Pack of 12)
+44	19.03	Quaker Instant Oatmeal Fruit & Cream, Variety Pack, 8-Count Boxes (Pack of 4)
+45	35.88	Pacific Natural Foods Organic Cream Of Mushroom Condensed Soup, 12-Ounce Boxes (Pack of 12)
+47	31.66	Natural Value Coconut Cream, 13.5 Ounce (Pack of 12)
+48	16.66	Campbell's Low Sodium Cream of Mushroom Soup, 10.5 oz, 12 Count
+52	14.99	Hoosier Hill Farm Sour Cream Powder, 1 lb.
+53	40.01	Murad Environmental Shield Essential-C Eye Cream SPF 15, Step 3 Hydrate/Protect, 0.5 fl oz (15 ml)
+54	9.49	Morton Ice Cream Salt 4lb.
+55	9.25	Morton Ice Cream Salt 4lb box
+61	13.11	Coffee-mate Coffee Creamer, Irish Creme Liquid Singles, .375-Ounce Creamers (Pack of 180)
+63	26.0	Murad Perfecting Day Cream, SPF 30, 3: Hydrate/Protect, 1.7 fl oz (50 ml)
+65	14.65	Jacob's Cream Crackers, 7.05 Ounce Packages (Pack of 6)
+67	15.54	Goetze's Caramel Creams Candy Bag, 64 Ounce
+68	12.03	Marshalls Creek Spices Cream of Tartar, 10 Ounce
+69	24.49	Cream of Wheat Maple & Brown Sugar Instant 10-1.23oz packs(4 pack)
+71	10.24	Henry & Henry Bavarian Cream Pastry and Cake Filling, Redi Pak, 2 Pound
+72	22.95	Timothy's World Coffee * IRISH CREAM * 24 K-Cups for Keurig Brewers
+73	22.98	See's Candies 1 lb. Raspberry Cream
+74	11.39	Trader Joe's Coconut Cream, 14 oz. (2 Pack)
+75	2.89	Hershey's Kisses, Cookies N Creme, 10.5 Ounce bag
+77	38.94	Betty Crocker Whipped Frosting, Whipped Cream, 12-Ounce Containers (Pack of 8)
+78	24.29	Cream of Rice Nabisco Cream Of Rice, 14-ounces (Pack of6)
+81	11.9	Lindt Strawberries and Cream White Chocolate Truffles 5.3oz (150g)
+82	11.12	Hershey's Cookies 'n' Creme Drops, 8-Ounce Pouches (Pack of 4)
+84	5.09	Junket Ice Cream Mix Very Vanilla, 4 oz
+85	18.16	Cream of Wheat, Cinnabon Flavored, 10ct Box, 12.3oz (Pack of 3)
+86	29.26	Russell Stover Assorted Creams Chocolate, 12-Ounce Boxes (Pack of 3)
+87	13.91	Jacob's  Cream Crackers. 200g  Pack (Pack of 6)
+88	21.95	Philadelphia Candies Milk Chocolate Covered Assorted Creams (Soft Center Chocolates Candy) Gift Box
+89	24.59	Junket Ice Cream Mix Dutch Chocolate, 4-Ounce (Pack of 12)
+90	10.03	Cream of Wheat Instant Hot Cereal, Cinnabon Flavored, 6ct Box, 7.4oz (Pack of 2)
+92	38.85	Ice Cream Stabilizer - 1 lb
+94	5.6	Southern Gourmet Ice Cream Mix, Vanilla, 8 Ounce
+95	49.14	Cream Of Rice Cereal, 14-Ounce Boxes (Pack of 12)
+97	35.1	American Outdoor Products Astronaut Ice Cream, Chocolate Chip (Pack of 10)
+99	32.99	Pocono Organic Cream of Buckwheat Cereal (6x13 oz.)

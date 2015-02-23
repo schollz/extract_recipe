@@ -1,0 +1,68 @@
+0	17.75	Domino Sugar, Granulated, 10-Pound Bags
+1	13.09	Domino Sugar, Granulated, 4LB Canister
+2	12.63	N'JOY Pure Cane Sugar - 8/22 oz. Canisters
+3	3.38	Sugar In The Raw/Unrefined, 32 Ounce Box
+5	12.99	Domino Premium Pure Cane Granulated Sugar 4lb Bag
+6	14.28	N'joy Sugar Canisters, 20 oz., 6 Count
+10	14.74	N'Joy Pure Cane Sugar for Coffee-8/22 oz
+11	6.69	C&H Pure Cane Granulated White Sugar, 1 lb
+12	17.59	Domino Sugar, Granulated, 64-Ounce Canisters (Pack of 6)
+13	4.08	Lars' Own Swedish Pearl Sugar, 10 Ounce
+14	24.08	Wholesome Sweeteners Organic Fair Trade Cane Sugar, 10 Pound
+15	8.99	Domino Premium Pure Cane Sugar 2 LB
+16	12.95	Domino Sugar Packets, 500 count, Restaurant Quality
+17	8.8	Sugar In The Raw Natural Cane Sugar 16 oz -- 100 Packets
+18	9.75	Domino Sugar Cubes Dots, 1lb (Pack of 2 Boxes)
+21	15.99	C&H Pure Cane Granulated White Sugar, 5 lb
+24	8.5	Teavana Perfectea Rock Sugar (1 lb)
+27	28.53	Domino Premium Pure Cane Granulated Sugar with Easy Pour Recloseable Top 16 oz. (Pack of 6)
+28	14.75	Genuine Joe GJO02390 Pure Cane Sugar, 0.10-Ounce Packet (Pack of 1200 Packets)
+30	22.74	Wholesome Sweeteners Fair Trade Natural Cane Sugar from Malawi, 24-Ounce Pouches (Pack of 6)
+31	11.69	Sugar In The Raw, 200 Count
+32	23.72	C&H, Cane Sugar, Granulated White, 4 Pound Bag (Pack of 2)
+33	7.99	Domino Premium Pure Cane Granulated Sugar 16 oz
+34	11.39	Trader Joe's Organic Sugar Evaporated Cane Juice Certified USDA Organic Certified Organic Quality Assurance International and Kosher (QAI) 2 Pound Bag (32 Oz)
+35	14.77	Family Premium white Cane Sugar 5 LB
+36	4.49	Domino Sugar, 1 lb
+37	15.99	Quaker Instant Oatmeal Lower Sugar, Flavor Variety Pack, 10 Count Boxes (Pack of 4)
+39	3.48	Hershey's Sugar Free Semi-Sweet Baking Chips, 8 Ounce
+40	14.98	Domino Premium Pure Cane Sugar 5Lb Bag
+41	23.13	Domino Sugar Packets, 0.1 Ounce (Pack of 2000)
+43	29.34	Domino Premium Pure Cane Granulated Sugar Canister (Pack of 12)
+46	14.19	Florida Crystals Organic Cane Sugar Jug 48 oz.
+47	9.49	Domino Dark Brown Sugar 2 Lb
+49	6.79	Domino Sugar, 24 oz
+50	19.99	Domino Sugar Premium Pure Cane Granulated 4 Lb 3 Packs
+51	30.68	C&H Sugar (Case of 2000)
+52	10.18	Rapunzel Pure Organic Whole Cane Sugar, 24 Ounce
+54	14.61	Corn Sugar- 4 lbs.
+55	16.95	Gilway Demerara Sugar Cubes 500gr-pack 2 Boxes
+56	20.88	Wholesome Sweeteners Fair Trade Organic Light Brown Sugar, 24-Ounce Pouches (Pack of 6)
+57	6.68	Davidson's Tea Bulk, Organic Sugar, 16-Ounce Bag
+58	21.54	India Tree Brown European-Style Sugar Cubes, 2.2 Pound
+60	18.92	India Tree Brown European-Style Sugar Cubes, 12 oz Bag (Pack of 3)
+66	18.0	Oregon Chai Sugar Free Chai Tea Latte Concentrate, 32-Ounce Boxes (Pack of 6)
+67	11.37	Lars Own Imported Belgian Pearl Sugar - 2 pouches weighing 8 ounces each
+68	30.77	Maui Premium Gold Cane Sugar, 160 Ounce
+69	8.49	NUTILIGHT - SUGAR FREE, LOW CARB, HAZELNUT AND COCOA SPREAD 11 oz. Jar
+70	15.44	N'joy Non Dairy Creamer Canister, 6 Count, 12 Oz
+72	22.59	Wholesome Sweeteners Fair Trade Raw Cane Sugar, 500 Count
+74	24.68	WholeSome Sweeteners Raw Cane Sugar, 96 Ounce
+75	29.77	Epicura Pure Yacon Syrup - Natural Appetite Suppressant and Weight Loss Supplement - Low Calorie Sugar and Sweetener Substitute - 8 Fl Oz
+76	17.99	Cotton Candy Express - Fun Pack - Floss Sugar and Cones Kit
+77	10.09	CHARMS SUGAR DADDY POPS 48ct(22.3oz)
+79	15.77	C & H Sugar Company Granulated Sugar, 4 lb
+80	13.53	C&H, Cane Sugar, Golden Brown, 2lb Bag (Pack of 2)
+81	20.44	C&H Pure Cane Granulated White Sugar, 10 lb
+82	5.59	Coffee-mate Coffee Creamer, Sugar Free French Vanilla Liquid Singles, 0.375-Ounce Creamers, 50-Count
+83	53.88	Wholesome Sweeteners Fair Trade Raw Cane Sugar, 24-Ounce Pouches (Pack of 12)
+84	7.99	Natural Raw Cane Sugar 2 Lbs Demerara Brown Sugar
+85	7.81	Lars' Own Belgian Pearl Sugar, 8 Ounce
+87	14.95	Morning Pep 1 LB 100% Pure Birch Xylitol sweetener (Not From Corn) NON GMO - KOSHER - GLUTEN FREE - PRODUCT OF USA. 1 LB
+91	17.28	Quaker Instant Oatmeal Lower Sugar Maple & Brown Sugar, 10-Count 1.19oz  Boxes (Pack of 6)
+92	6.24	Domino Powdered Confectioners Sugar 16oz
+93	9.05	India Tree Superfine Caster Baking Sugar, 1 lb. bag
+94	19.99	Cotton Candy Express - Cotton Candy Sugar - 5 Floss Sugar Flavor Pack - 12 Oz. Containers
+96	6.99	Domino Pure Cane Dark Brown Sugar 1lb
+97	63.48	Wholesome Sweeteners Organic Turbinado Raw Cane Sugar, 24-Ounce Pouches (Pack of 12)
+98	2.09	Domino Pure Cane Confectioners Sugar 32 oz

@@ -1,0 +1,62 @@
+0	140.0	King Crab Legs JUMBO (5 LBS)
+1	111.0	King Crab Legs Wild Caught Frozen 5 lb.
+2	1109.0	25 pounds Giant Alaskan Red King Crab
+3	24.98	Sea Best Southern Red King Crab Legs, 1.5 Pound
+4	81.91	Charleston Seafood Frozen King Crab Legs, 32-Ounce Box
+5	499.0	10 pounds Giant Alaskan Red King Crab
+6	140.0	King Crab Legs LARGE JUMBO (5 POUNDS)
+7	96.0	Jumbo King Crab Legs Extra Large Wild Caught Frozen 3 Lb Avg
+8	79.99	King Crab Legs "Merus Sections" from Jumbo Size Legs (2 POUNDS)
+9	79.95	Succulent Alaskan King Crab Legs & Hearty New England Clam Chowder package
+10	115.0	Canadian Wild Caught Snow Crab Clusters, 10 LB
+11	189.0	5 Lbs Jumbo Alaskan King Crab Legs
+12	99.0	Omaha Steaks 1 (2 lb.) King Crab Legs
+13	75.0	FRESH Cooked DUNGENESS CRABS (3 Large Crabs)
+14	79.99	FRESH DUNGENESS CRAB MEAT (2 POUNDS)
+15	300.0	King Crab Legs X-JUMBO (10 POUNDS)
+16	85.0	Succulent Alaskan King Crab Legs
+17	13.93	King Kooker 00037 16-Ounce Crab, Shrimp, Crawfish Boil
+18	280.5	Red King Crab Legs (20 lb. box)
+19	75.61	CHATKA - FANCY KING-CRAB MEAT IN BRINE 220 GRS.
+20	151.65	Lobster Gram KING4 4 LBS OF ALASKAN KING CRAB LEGS
+22	45.99	SeaBear Alaskan King Crab Dip - Four 6 Oz. Containers
+23	280.0	Jumbo King Crab Legs, 10 Lb Avg
+24	22.71	Rex - King of Spice Rex Whole Crab Boil Ready Mix, 3 Ounce (Pack of 12)
+25	96.1	Lobster Gram KING2 2 LBS OF ALASKAN KING CRAB LEGS
+26	14.78	Rex King of Spice Crab Boil Liquid, 8 Ounce
+27	84.49	King Crab Legs, 1 - 2 Lb. Pack, By: Rastelli Direct
+28	249.0	Giant Alaskan Red King Crab, 4 lb Box
+30	44.99	Bookbinders: Crab Bisque 11 Oz (12 Pack)
+31	59.95	Snow Crab Cocktail Claws (2 Pounds)
+34	439.95	Large Alaskan King Crab Legs 10lb
+35	495.0	Alaskan Seafood Sampler (Giant King Crab, Wild Alaskan King Salmon Fillets & Lox)
+36	630.0	King Crab Legs Jumbo Size 20 Lb. Case
+37	108.12	Charleston Seafood Frozen Snow Crab Clusters, 64-Ounce Box
+38	149.99	"CRAB FEST" CRAB Sampler (4 LBS of CRAB)
+39	199.99	"CRAB FEST" CRAB Sampler (8 LBS of CRAB )
+40	52.7	Rex King of Spice Crab Boil Ready Mix, 16 Ounce (Pack of 12)
+41	208.56	Lobster Gram KING6 6 LBS OF ALASKAN KING CRAB LEGS
+42	14.95	Geomar Centolla/King Crab Leg Meat (3.2 oz/100 g tin)
+43	8.93	Harold Import 86 "Mr. Crab Zipper" Plastic Shrimp Sheller
+44	90.0	Alaskan King Crablegs & Organic Steak Package
+45	42.99	J.O. Crab Seasoning 11 1/2 lb (4763 g)
+46	136.0	Stone Crab Claws. Large 2lbs
+47	27.95	KRABBIT
+48	239.75	Large Alaskan King Crab Legs 5lb
+49	85.1	King Crab Legs in Brine - 60% - 10 oz
+50	340.0	King Crab Legs LARGE (10 LBS)
+51	142.78	Geomar Seafood King Crab In Brin 3.2 OZ (Pack of 12)
+52	175.0	FRESH Cooked DUNGENESS CRABS (6 Large Crabs)
+53	34.99	SeaBear Seafood Dip Trio Sampler
+54	15.95	Sea Lobster Scissors
+55	428.84	Sub Zero Alaskan King Double-Wide Ice Shelter
+56	10.29	Historic Lynchburg Tennessee Whiskey Venison & Wild Game Seaoning & Rub 4.7 Oz. Jar
+57	149.99	Snow Crab Cocktail Claws (4 Pounds)
+58	229.95	Alaskan Seafood Chill & Grill Combo
+59	75.75	King and Prince Mrs.Fridays Sensation Seafood, 2 Pound -- 6 per case.
+61	111.99	1-qt. Madagascar Bourbon Vanilla Bean Paste, 32 Oz 4 pack
+62	6.0	Potted Seafood Seasoning Paste, "Lobo" Brand, 60 g (2.12 Oz)
+63	76.08	Lobster Gram SOUPSP4 Classic Soup Sampler
+64	12.99	Lobo Potted Seafood Seasoning Paste 2.12-Ounce Unit (Pack of 10)
+65	1.4	Lobo Potted Seafood Seasoning Paste 60 G.
+66	6.01	Lobo Potted Seafood Seasoning Paste Weight60 G. Only Thailand

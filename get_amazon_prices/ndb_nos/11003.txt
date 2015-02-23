@@ -1,0 +1,80 @@
+1	8.39	Bobs Red Mill, Organic Whole Grain Amaranth, 24 oz (680 g)
+2	33.56	Bob's Red Mill Organic, Amaranth Grain, 24-Ounce Bags (Pack of 4)
+3	3.99	NOW Foods Certified Organic Amaranth Whole Grain -- 16 oz
+4	27.18	Roland Amaranth, 5-Pounds Bag
+5	30.35	Bob's Red Mill Organic, 100% Stone Ground Amaranth Flour, 22-Ounce Bags (Pack of 4)
+6	11.65	Amaranth Grain, 1 lb.
+7	7.69	Bob's Red Mill Flour, Amaranth, Organic, 22-Ounce
+8	65.37	Bulk Grains, Organic Amaranth, 25 Lbs
+9	36.1	Health Valley Organic Sprouted Amaranth Flakes, 12.65-Ounce Boxes (Pack of 6)
+10	2.99	Amaranth (12 ounce)
+11	13.95	Arrowhead Mills Gluten-Free Organic Whole Grain Amaranth - 2 pk.
+12	57.75	Amaranth - 25 Lb Bag
+13	57.48	Arrowhead Mills Organic Amaranth Flakes, 12 Ounce (Pack of 12)
+14	28.99	NOW Foods Organic Amaranth Grain ,  16 Ounce Bags (Pack of 6)
+15	23.05	Arrowhead Mills Organic Amaranth Flakes Cereal (3x12 oz.)
+16	14.24	Bob's Red Mill Organic Whole Grain Buckwheat Groats Raw, 16-Ounce Packages (Pack of 4)
+19	21.49	Roland Amaranth, 12-Ounce Boxes (Pack of 4)
+20	12.99	Amaranth Grain ~ 2 Lbs
+21	6.69	One 24 oz Bob's Red Mill Whole Grain Teff
+22	3.09	Bob's Red Mill Millet Hulled 28 ozs
+23	23.0	Organic Amaranth Grain, 2 / 24 Oz. Bags, Bob's Red Mill
+28	45.0	Bioland Amaranth Bar - 30 Bars
+31	13.55	Bob's Red Mill Grain Quinoa Organic, 26-ounces
+32	2.65	Amaranth Flour (Rajgaro Flour) - 14.1oz
+33	31.97	Arrowhead Mills Amaranth Flakes, 12-Ounce Unit (Pack of 6)
+35	23.49	Organic Amaranth Seeds 5 lbs
+36	26.51	Bob's Red Mill Whole Grain Teff, 24-Ounce Packages (Pack of 4)
+38	3.09	Bob's Red Mill - Gluten Free Sorghum Grain - 24 oz.
+40	3.09	Bob's Red Mill - Gluten Free Sorghum Grain - 24 oz.
+41	29.99	Biona Original Amaranth Pops 100g (Pack of 2)
+42	14.37	Sierra Tea Dried Globe Amaranth Flower (Herbal Tea 100g)
+43	11.49	Amaranth Flour 2 lbs
+44	21.49	Bob's Red Mill Hulled Millet, 28-ounces (Pack of4)
+45	8.5	Arrowhead Mills Gluten-Free Quinoa - 14 oz
+46	9.53	One 16 oz (1 lb) 453 g Organic Whole Grain Buckwheat Groats, Gluten Free
+48	10.99	Whole Amaranth (Rajgaro) 14oz
+49	6.09	Dark Chocolate with Amaranth (Kiwicha) Fair Trade Certified
+50	7.35	Organic Amaranth Grain 1 lb by OliveNation
+51	20.99	Moyishi 8.8oz Nature Dried Globe Amaranth Flower Herbal Tea 250g
+52	3.49	Bob's Red Mill Organic Kamut Grain - 24 oz
+53	15.16	Bob's Red Mill Organic Spelt Berries, 24-Ounce (Pack of 4)
+54	13.97	Andean Treasures Raw Organic Mix of the Andes. Mix of Quinoa, Amaranth & Kanigua. Gluten Free, Non-gmo 8 Oz (Pack of 2)
+55	17.98	EL AZTECA AMARANTH & MIX CANDY 2.8 oz Each ( 12 in a Pack )
+56	20.4	Allos - Amaranth Wildberry Muesli - 375g
+57	22.31	5lb. Organic, Sprouted Amaranth Flour
+58	4.49	Organic Amaranth 1 Pound
+59	13.19	Eden Foods - Organic Red Quinoa Whole Grain - 16 oz.
+60	21.74	HappyBaby - Organic Baby Food Stage 3 Meals Ages 7+ Months Amaranth Ratatouille - 4 oz. Pouch
+61	10.36	Amaranth 1 Lb Bag, Certified Organic Non-GMO, Whole-grain
+62	39.87	Late July Organic Snacks Sea Salt by the Seashore Multigrain Tortilla Chips, 6-Ounce (Pack of 6)
+64	10.0	Amaranth Grain (Rajgaro) - 28.2oz
+66	13.99	Roland Amaranth
+67	19.5	Trader Joe's Organic Stone Ground Blue Corn Tortilla Chips with Sprouted Amaranth, Quinoa & Chia Seeds - 12 Oz. (Pack of 2 -Total of 24 Oz.)
+68	6.39	Health Valley Organic Amaranth Flakes Boxes - 12.65 oz
+69	12.99	Moyishi Nature Dried Globe Amaranth Flower (Herbal Tea 100g)
+70	12.99	Biona Org Amaranth Wild Berry Muesli 500g
+72	20.58	5lb. Organic, Sprouted Amaranth
+73	39.94	10lb. Organic, Sprouted Amaranth
+75	5.99	Nature's Path Organic Mesa Sunrise Cereal, Flax, Corn & Amaranth 26.4 oz (750 g)
+77	4.34	1 lb. Organic, Sprouted Amaranth
+78	72.7	Organic Ground Amaranth, 25 Lb Bag
+80	54.95	Kirkland Signature Ancient Grains Crackers Made with Millet, Amaranth, Quinoa & Teff: 2 Boxes of 50.75 Oz
+81	15.0	Late July Organic Snacks Dude Ranch Multigrain Tortilla Chips, 5.5-Ounce (Pack of 6)
+82	5.75	Amaranth Seeds-1Lb-Gluten Free Whole Grain Amaranth
+84	4.29	Amaranth Flour, 1 lb.
+85	12.1	Plum Organics Mighty 4 Purees - Kale Strawberry Amaranth & Greek Yogurt - 4 oz
+86	18.29	TruRoots Gluten-free Ancient Grain Penne Pasta (2.2 Lbs / 1 KG)
+87	11.49	Sprout Toddler Food Pouch, Strawberry, Pear and Butternut with Amaranth, 4.22 Ounce (Pack of 5)
+88	5.99	ORGANIC AMARANTH - HEIRLOOM QUALITY 1 LB
+89	7.49	Organic Amaranth Seeds 16 Oz
+90	19.75	Bobs Red Mill Organic Amaranth Flour (2x22 Oz)
+91	18.92	Van's Say Cheese! Crackers, 5 Ounce Boxes (Pack of 6)
+92	71.94	Biona Original Amaranth Pops 100g (Pack of 5)
+93	12.99	Happy Baby Stage 2 Homestyle Meals - Apple Raspberry Amaranth & Kale - 3.5 oz - 8 pk
+94	15.36	Plum Organics Organic Second Blends Fruit & Grain, Zucchini Banana Amaranth-3.5 oz (99 g)
+95	20.42	Health Valley Amaranth Flakes (3x12.65 oz.)
+96	20.0	Plum Organics Mighty 4 Essential Nutrition Blend Pouch, Kale Strawberry Amaranth Greek Yogurt, 4 Ounce (Pack of 6)
+97	12.68	Basilur Pure Ceylon Green leaf tea with amaranth, white rum "Love Story Volume #3" in metal caddy, 100 gr
+98	62.0	Mighty 4TM Blend - Kale, Strawberry, Amaranth, Greek Yogurt 24-pack
+99	24.02	Arrowhead Mills Amaranth Flakes Cereal (3x12 Oz.)

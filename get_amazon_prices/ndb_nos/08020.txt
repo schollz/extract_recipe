@@ -1,0 +1,94 @@
+0	8.94	Corn Flakes Cereal, Original, 18-Ounce Boxes (Pack of 3)
+1	17.63	Kellogg's Corn Flakes Cereal 43.0 Total Ounce Two Bag Value Box
+2	50.94	Nature's Path Organic Corn Flakes Cereal  Fruit Juice Sweetened, 26.4-Ounce Bags (Pack of 6)
+4	13.25	Kellogg's Corn Flakes Cereal 24 oz
+5	10.47	Special K Cereal, Original, 18-Ounce Boxes (Pack of 3)
+6	31.92	Corn Flakes Cereal, 0.81-Ounce Individual Boxes (Pack of 70)
+7	31.14	Nature's Path Organic Corn Flakes, Fruit Juice Sweetened Cereal, 10.6-Ounce Boxes (Pack of 6)
+8	43.99	Erewhon Corn Flakes Cereal, Gluten Free, Organic, 11-Ounce Boxes (Pack of 6)
+9	26.34	Nature's Path Organic Honey'd Corn Flakes Cereal, 10.6-Ounce Boxes (Pack of 6)
+10	38.02	Corn Flakes Cereal, 0.75-Ounce Bowls (Pack of 96)
+11	50.75	Nature's Path Organic Honey'd Corn Flakes Cereal, 26.4-Ounce Bags (Pack of 6)
+12	12.99	Frosted Flakes Cereal, 61.9-Ounce Box
+13	5.99	Nature's Path Organic Cereal, Corn Flakes 26.4 oz (750 g)
+15	11.92	Rice Krispies Toasted Rice Cereal, 18-Ounce Boxes (Pack of 4)
+16	6.99	Yummmy Corn Flakes 14 Oz, Plain, Kosher Cerfified
+17	12.24	Kellogg's Frosted Flakes Cereal In A Cup,  2.1-Ounce (Pack of 12)
+18	3.68	Kellogg's Frosted Mini Wheats Original, 24 Ounce Box
+20	24.48	EnviroKidz Organic Amazon Frosted Flakes Cereal, 14-Ounce Boxes (Pack of 6)
+21	43.68	Kellogg's Corn Flake Crumbs, 21-Ounce Boxes (Pack of 12)
+22	7.99	Kellogg's Corn Flakes - 12oz box
+23	19.44	Southern Homestyle Corn Flake Crumbs, Gluten Free, 12-Ounce Cans (Pack of 6)
+24	29.0	Kellogg's, Corn Flake Crumbs, 21oz Box (Pack of 3)
+25	5.69	Kashi Indigo Morning Organic Corn Cereal
+26	8.74	24 Mantra Organic Corn Flakes, 10.6 Ounce
+27	8.89	Gluten Free Corn Flakes Cereal - Whole Grain
+28	7.22	Arrowhead Mills Sprouted Corn Flakes Cereal Organic -- 10 oz
+29	13.97	Erewhon Organic Corn Flakes Cereal 11 Oz
+30	29.94	Barbara's Organic Corn Flakes Cereal, 9 Ounce (Pack of 6)
+32	24.75	Barbara's Bakery Corn Flakes Fjs (6x9OZ )
+33	10.0	Kellogg's Frosted Flakes, Chocolate, 14.7-Ounce
+34	12.82	Kellogg's Crunchy Nut Golden Flake Cereal - 13.8 oz
+35	9.77	Mom Brand Frosted Flakes, 15.5 Ounce
+36	63.78	Erewhon Organic Corn Flakes Cereal ( 12x11 OZ)
+37	24.85	Ralston Foods Corn Flakes Cereal, 28 Ounce -- 4 per case.
+38	26.5	Kellogg's Favorite Variety Pack Cereal Bowls - Raisin Bran Crunch, Apple Jacks, Corn Pops, Krave Chocolate, Frosted Flakes, Frosted Mini-Wheats (Bite Size), Froot Loops & Cocoa Krispies (8 Pack)
+39	5.99	Nature's Path | Cereal-Honey Corn Flakes (Organic) 10.6 Oz [Gluten Free] [1 Pack]
+40	69.97	Post Bran Flakes Whole Grain Wheat Cereal 16 oz (Pack of 12)
+41	28.9	Frosted Flakes Cereal, 15-Ounce Boxes (Pack of 4)
+42	28.95	Kellogg's Corn Flakes Cereal, 24 oz (Pack of 4)
+43	54.72	Frosted Frosted Flakes Cereal, 2.1-Ounce Cups (Pack of 60)
+44	25.99	Ritter Sport, Milk Chocolate with Corn Flakes, 3.5-Ounce Bars (Pack of 10)
+45	29.99	Crunchy Nut Golden Honey Nut, 14.1-Ounce (Pack of 4)
+46	58.74	Nature's Path Organic Heritage Flakes Cereal, 32-Ounce Bags (Pack of 6)
+47	21.97	Kellogg's Frosted Flakes 26.8-ounce (Pack of 2)
+48	10.59	Nestle Corn Flakes Cereals New Look Same Great Taste 150g
+49	26.28	Nature's Path Organic Corn Puffs Cereal, 6-Ounce Bags (Pack of 12)
+50	68.7	Parade Corn Flakes, 24 Ounce (Pack of 12)
+51	13.95	EnviroKidz EnviroKidz Amazon Frosted Flakes, 14 oz, 2 pk
+52	7.1	Kelloggs Cereal, Frosted Flakes, 10.5 Ounce
+53	39.99	Red & White Corn Flakes 18 Oz (12 Pack)
+54	27.97	Post Bran Flakes, 16-Ounce Boxes (Pack of 4)
+55	6.59	Vogue Cuisine Onion Soup & Seasoning Base 4oz - Low Sodium & Gluten Free
+56	33.6	Frosted Frosted Flakes Cereal Individuals, 1.2-Ounce Boxes (Pack of 70)
+57	57.0	Kelloggs(r) Corn Flakes(r) Cereal (bowl) (Case of 96)
+58	20.0	[HEALTH TEA] Korea Food Corn Flakes + Potato + Yam Tea 22g X 40T konpureikeu poteito maca
+59	29.53	Barb : Crl, Og2, Corn Flakes, Gf, 9 OZ
+60	39.04	Freedom Foods Corn Flakes, 375 g Net Boxes (Pack of 5)
+61	4.99	Southern Homestyle Corn Flake Crumbs, 12 oz
+62	5.99	Nature's Path Organic Honey'd Corn Flakes -- 26.4 oz
+63	23.05	Arrowhead Mills Organic Amaranth Flakes Cereal (3x12 oz.)
+64	38.02	Kellogg's Frosted Flakes Cereal, 1-Ounce Bowls (Pack of 96)
+65	10.85	Mom Brand Corn Flakes, 15.5 Ounce
+66	18.4	Nestle', Corn Flakes Cereal, 150 g
+67	29.96	Prairie Mills White Corn Grits - 25 lb. bag
+68	57.29	Crl, 95% organic, Sprouted Corn Flakes, 10 oz (pack of 12 )
+69	39.46	Barbara's Bakery Corn Flakes, Fruit Juice Sweetened, 9-Ounce Boxes (Pack of 6)
+70	11.85	Kellogg's Corn Flakes Cereal, 24 Oz
+71	13.06	Kellogg's Corn Flakes Cereal, 18 oz, 2 pk
+72	19.99	Erewhon Corn Flakes Cereal (3x11 oz.)
+73	44.85	General Mills-Country Corn Flake Cereal, 0.69-Ounce Single Packs (Pack of 70)
+74	11.57	Freedom Foods Corn Flakes Cereal Gluten Free -- 13.3 oz
+75	8.99	Ricolino Kranky Corn Flakes With Chocolate 1.41 Oz
+76	4.99	Ritter Sport Milk Chocolate with Corn Flakes, 100g
+77	51.3	Nature's Path Honey'd Corn Flake Cereal (6x26.4 Oz)
+78	35.94	Erewhon Cereal Variety: Crispy Brown Rice; Corn Flakes; & Honey Crispy Brown Rice w/ Mixed Berries (Pack of 6)
+79	8.75	Kellogg's Corn Flakes, 36 oz
+80	5.79	Kashi Simply Maize Cereal, 10.5-Ounce
+81	4.99	Haldirams Corn Flakes Mixture 200gm
+82	98.5	Kellogg's Crunchy Nut Golden Honey Nut Cereal 14.1 oz (Pack of 12)
+83	44.95	Kellogg's Corn Flakes Cereal, 24-Ounce Boxes (Pack of 7)
+84	4.95	1 Can of Future Essentials Canned Corn Flakes Cereal
+85	4.99	Ricolino Kranky Corn Flakes with Chocolate 1.41 Oz pack of 4
+86	13.0	Frosted Flakes Cereal, 17-Ounce Boxes (Pack of 2)
+87	20.0	Regular Blue Corn Meal, A finely ground whole grain that is perfect for all corn meal recipes.
+88	44.63	Nature's Path Honey'd Corn Flake Cereal (6x10.6 Oz)
+89	52.5	Ancient Harvest Quinoa Flakes, Organic and Gluten Free, 12-Ounce Boxes (Pack of 6)
+91	61.95	Kelloggs Corn Flakes Cereal, 24 Ounce -- 14 per case.
+92	5.21	Nature's Path Fruit Juice Sweetened Corn Flakes -- 10.6 oz
+93	35.28	Protein Plus: Soy Protein & MultiGrain Cereal (Crunchy Clusters of Corn Flakes, Crisp Rice & Whole Grain Oats) 11.5-Ounce Boxes (Pack of 6)
+94	21.95	Great Northern Popcorn, Organic, 5 Pound
+95	50.34	Kellogg's Variety Pack 30 Individual Boxes -Apple Jacks, Corn Pops, Mini Wheats, Rice Krispies, Froot Loops Frosted Flakes- 30 pack of .95 oz
+96	6.71	Kellogg's Corn Flakes Cereal (381100) 12 oz
+97	69.72	Nature's Path Corn Flakes Fjs Ba Cereal (6x26.4 Oz)
+99	17.99	Clearspring Organic Instant Wakame Flakes 25 G

@@ -1,0 +1,59 @@
+0	25.0	STRAWBERRIES GROWN FRESH PRODUCE FRUIT VEGETABLES PER POUND
+1	39.95	12 Love Berries Chocolate Covered Strawberries
+2	14.95	Dried Whole Strawberries, 1 Lb
+3	15.22	Mother Earth Products Freeze Dried Strawberries, 1 Full Quart
+5	39.95	12 Happy Birthday Chocolate Covered Strawberries
+6	42.99	Edible Arrangements Chocolate Dipped Strawberries Box
+8	29.95	Belgian Chocolate Covered Valentine's Day Strawberries - 6 Piece
+10	17.45	3 Pack Trader Joe's Dried Fruit Freeze Dried Strawberries Unsweetened and Unsulfured
+11	17.99	Just Tomatoes Organic Just Strawberries, 4 Ounce Pouch
+12	20.05	Strawberries - 1 Lb Bag / Box Each(Dried)
+13	7.97	Trader Joe's Freeze Dried Strawberries Unsweetened & Unsulfured 1.2oz
+14	8.03	Ghirardelli Chocolate Squares Valentine's Dark and Strawberry 5.32oz
+15	39.95	12 Dreamy Dark Chocolate Covered Strawberries
+17	23.0	Chocolate Fruit Medley Wheel - Dilettante - 36oz
+18	9.96	Quaker Instant Oatmeal Strawberry & Cream, 10-Count Box, 12.3 oz (Pack of 4)
+21	33.52	Brothers-ALL-Natural Strawberry/Banana Crisps, 0.42-Ounce  Bags (Pack of 24)
+23	6.19	Japanese Kit Kat - Strawberry Flavor (12 Bar)
+29	15.92	Bonne Maman Preserves, Strawberry, 13 Ounce (Pack of 4)
+30	23.0	Chocolate Fruit Medley Wheel - Dilettante - 36oz
+31	12.0	Lindt Strawberries and Cream White Chocolate Truffles 5.3oz (150g)
+33	29.95	6 Love Berries Chocolate Covered Strawberries
+37	14.65	Trident Gum, Splash Strawberry Lime, 55 Count (Pack of 4)
+39	21.31	Sour Power Belts, Strawberry (150-Count Belts),  42.3 Ounce Tub
+43	26.5	Activz - Organic Strawberry Whole Powder - 7.2 oz.
+44	19.2	Haribo Gummi Candy, Strawberries, 5-Pound Bag
+45	10.4	Trident Splash Gum, Strawberry with Lime,  40-Piece Packs (Pack of 4)
+46	14.71	Glico Pocky Biscuit Sticks with Strawberry Cream, 1.41-Ounce Boxes (Pack of 10)
+48	39.95	12 Golden State Chocolate Covered Strawberries
+49	23.15	Starburst Strawberry - 1 Pound
+52	49.97	24 Gourmet Assorted Dipped Swizzled Strawberries
+57	11.04	Mentos Rolls, Strawberry, 1.32 Ounce (Pack of 15)
+58	11.26	Morinaga Hi-Chew Strawberry Fruit Chews 1.76oz (Pack of 10)
+61	10.99	Carnation Instant Breakfast Powder, Strawberry, 10 pk
+62	26.34	Nature's Path Organic Granola Bars, Yogurt Berry Strawberry, 5-Count Bars (Pack of 6)
+63	20.99	Charleston Chew Strawberry,24CT
+65	13.99	Gourmet Dried Sweetened Strawberries by Farm Fresh Nuts (1 LB)
+66	9.63	Frontier Natural Products Strawberry Flavor A/F, 2-Ounce
+67	17.39	Crystal Light On The Go Wild Strawberry with Caffeine, 10-Count Boxes (Pack of 6)
+69	16.68	Nutri-Grain Cereal Bars, Strawberry, 8-Count Bars, 10.4 Ounce, (Pack of 6)
+70	16.44	Crystal Light Strawberry Orange Banana Drink Mix (12-Quart), 2.4-Ounce Canister (Pack of 4)
+71	23.55	Mrs. May's Whole Dark Chocolate Rounds, Strawberry, 3.5 Ounce (Pack of 6)
+72	6.31	Japanese Kit Kat - Strawberry Flavor 5.14 Oz
+73	9.5	Quaker Instant Oatmeal, Fruit and Cream Strawberry N Cream, 10 ct, 1.23 oz
+74	20.29	Trolli Strawberry Puffs, 4.25-Ounce (Pack of 12)
+77	6.7	Just Tomatoes Just Strawberries, 1.5 Ounce Pouch
+78	23.91	Just Tomatoes Just Strawberries 'N Bananas, 5-Ounce Large Pouch (Pack of 2)
+81	8.99	Jessica's Natural Foods Organic Strawberry Syrup 20oz
+82	14.55	Pop-Tarts Toaster Pastries, Frosted Strawberry, 36-Count Box
+83	6.49	Strawberry Family Pocky 4.19 oz
+84	25.95	Carnation Instant Breakfast Essentials, Strawberry, 10 Count Box, 1.26-Ounce Packages (Pack of 3)
+85	15.99	Tea Talbot Chocolate Strawberry Temptation 2.75 Ounce Tins
+86	11.5	Crystal Light On The Go Wild Strawberry with Caffeine, 10 Packets (Pack of 4)
+87	14.72	Kellogg's Frosted Mini Wheats Bite Size Strawberry Delight 21-ounce (Pack of 4)
+89	17.99	Blue Diamond Strawberry Flavored Almonds, 1.5 oz tubes, 12 tubes each box
+90	9.5	Dove Promises Silky Smooth Milk Chocolate and Strawberry Creme Swirl Hearts, 7.94 Ounce
+91	13.99	Crush Singles to Go! Strawberry, Sugar Free, 6 packets/box 6 boxes
+92	14.76	Hershey's Syrup, Sugar Free Strawberry, 17-Ounce Bottles (Pack of 4)
+96	39.35	Familia Swiss Crunch Muesli, Clusters with Strawberries & Raspberries, 12-Ounce Bags (Pack of 6)
+97	26.0	Advocare Spark Energy Drink 14 single serve pouches - Mango Strawberry

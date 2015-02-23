@@ -1,0 +1,97 @@
+0	45.5	ONEHOPE California Reds II Mixed Pack, 3 x 750 ml
+1	19.99	2011 Cheateau Forchou Bordeaux Red Blend Bordeaux 750 mL
+2	27.0	Smoking Loon Red Wine Mixed Pack, 3 x 750 mL
+3	60.0	Duplin Winery Six Reds: Burgundy, Hatteras Red, Carolina Red, Black River Red, Sweet Sox Red and Easy Mixed Pack 6 x 750 mL
+4	34.47	Banyuls 5 Year Aged French Red Wine Vinegar 750 Ml
+5	34.99	Hunt Country "Favorite Reds" Mixed Pack, 3 x 750 mL
+6	32.38	Fifty Shades of Grey Mixed Pack, 2 x 750 mL
+7	49.99	3 Little Kisses Mixed Pack, 3 x 750 mL
+8	11.56	Mantova Italian Red Wine Vinegar, 17-Ounce Bottles (Pack of 4)
+9	64.0	Dry Creek Vineyard Signature Red Wines 3-Pack Mixed Pack, 3 x 750 mL
+10	11.7	Red Verjus Fusion - 750 ml
+11	7.63	Wine Yeast (10 Packs) Montrachet Red Star for Wine Making
+12	17.99	2011 Fifty Shades of Grey Red Satin 750 mL
+13	41.49	Hedges Family Estate "Washington Reds" Cab, Merlot, & CMS Mixed Pack, 3 x 750 mL
+14	49.99	Live, Laugh, Love Red Mixed Pack, 3 x 750 mL
+15	87.5	Waterbrook Heritage Red Wines Mixed Pack, 6 x 750 mL
+16	12.99	Iberia Red Cooking Wine 25.4 OZ
+17	31.99	Wild Meadows Reds Trifecta Mixed Pack, 3 x 750 mL
+18	49.99	Sweet and Sassy Mixed Pack, 3 x 750 mL
+19	60.0	Moniker Wine Estates Gold Medal Reds Mixed Pack, 2 x 750 mL
+20	10.0	NV Duplin Wine Cellars Hatteras Red Carolina Red Blend 750 mL
+21	19.99	2011 Renwood Premier OLD VINE Zinfandel, Amador County 750 mL
+22	99.99	Besitos Lip Smack Attack Mixed Pack, 6 x 750 mL
+23	8.49	NV Hazlitt 1852 Vineyards Red Cat 750 mL
+24	49.99	All You Need Is Love Mixed Pack, 3 x 750 mL
+25	5.99	2009 CalNaturale Cabernet Sauvignon Paso Robles 500 mL
+26	12.0	NV Sweet Bliss Red 750 mL
+27	19.99	Ghirardelli Chocolate & Wine Pairing Kit
+28	78.0	Aquinas Napa Valley Red Wine Selections, 3 x 750 mL
+29	13.99	2013 Quady Red Electra Moscato Muscat - Blend 750 mL
+30	37.0	Brigel Vineyards New York Reds Mixed Pack, 3 x 750 mL
+31	42.99	2011 Rubrica Red 750 mL
+32	6.99	2013 Kunza Maule Valley Cabernet Sauvignon 750 mL
+33	45.0	Graziano Family of Wines Italian Reds Mixed Pack, 3 x 750 mL
+34	58.99	Kisses and Hugs Mixed Pack (2nd Edition), 3 x 750 mL
+35	45.0	Ben Ish Winery "Reds" Mixed Pack, 3 x 750 mL
+36	18.98	Liberty Vineyards & Winery Sweeter Red Mixed Pack, 2 x 750 mL
+37	19.99	2012 Ben Ish Winery "Ben's Select" Finger Lakes New York State Cabernet Sauvignon with personalized label 750 mL
+38	5.75	Italian Red Wine Vinegar Special Selection, 8.5 Fl. Oz
+39	54.87	Red Burgundy Mixed Pack 3 x 750 mL
+40	7.99	2012 Johnson Estate Lake Erie Concord Red Wine 750 mL
+41	7.48	Pasteur Red Dried Wine Yeast (10 Packets)
+42	10.0	Regina Fine Red Wine Vinegar, 12 Ounce
+43	6.29	Red Star Champagne Yeast (10 Packs) Dried Yeast
+45	52.0	Mercer Estates "Respect the Land" Reds Cab, Merlot, & Blend Mixed Pack, 3 x 750 mL
+46	32.97	Ste Chapelle Chateau Series Reds Mixed Pack, 3 x 750 mL
+47	43.8	Castoro Cellars Red, White and Blushing Mixed Pack, 4 x 750 mL
+48	10.0	NV Duplin Wine Cellars Black River Sweet Carolina Red Blend 750 mL
+49	11.99	Terra Medi Greek Red Wine Vinegar, 17 Ounce
+50	24.37	Holland House Vinegar, Red Wine 12 Ounce (Pack of 6)
+51	27.44	Pfeiffer Dressing, Red Wine Vinaigrette, 16-Ounce Bottles (Pack of 6)
+52	6.99	2013 Torrevieja Mendoza Malbec 750 ML
+53	13.0	2012 Parducci Small Lot Blend Mendocino County Zinfandel 750 mL
+54	8.99	NV Washington Hills Rainier Red Washington 750 mL
+55	9.99	L'ESTORNELL Grenache Varietal Red Wine Vinegar, 8.5-Ounce
+56	6.99	Bellei Red Wine Vinegar 17 Fl.oz.
+57	9.99	Non Vintage Kelso Red Washington Wine 750 mL
+58	10.99	2012 VINI Pinot Noir, Thracian Valley 750 mL
+59	44.99	Mad Housewife Better Than Flowers Mixed Pack, 3 x 750 mL
+60	21.99	NV House Wine Cabernet Sauvignon Box 3.0L
+61	13.99	2011 CMS Columbia Valley Red 750ml
+62	19.99	NV Besitos Red Blend California 750 mL
+63	40.78	Wines That Rock, Rockstar Special III Mixed Pack, 3 x 750 mL
+64	25.0	2011 Dry Creek Vineyard Cabernet Sauvignon, Dry Creek Valley 750 ml
+65	45.99	Portlandia Pinot Mixed Pack (2nd Edition), 2 x 750 mL
+66	7.95	Setter Mountain Red Wine Jelly, Merlot, 7.25 Ounce
+67	8.23	10 Packs of Lalvin Dried Wine Yeast EC 1118
+68	8.22	Premier Cuvee (10 Packs) Wine Yeast
+69	2250.0	Hedges Family Estate "First Three Vintages" Mixed Pack, 3 x 750 mL
+70	7.95	Setter Mountain Red Wine Jelly, Cabernet Franc, 7.25 Ounce
+71	56.0	B Side Napa Valley Red Wine Selections, 2 x 750 mL
+72	14.78	Trader Joe's Chianti Red Wine Artisan Salami
+73	24.99	2012 Pendulum Red Wine Columbia Valley 750 mL
+74	29.99	1994 Chateau Les Grands Chenes Medoc Bordeaux Red 750 mL
+75	95.95	Mad Housewife Mommy's Little Helper Mixed Pack, 6 x 750 mL
+76	15.0	2011 Duck Pond Cellars Cabernet Sauvignon Columbia Valley Desert Wind Vineyard 750 mL
+77	9.99	SBH Red Wine Salt, 3 Oz
+78	15.0	2012 Peachy Canyon Incredible Red Zinfandel 750ml
+79	16.04	Wagners, Balsamic Red Wine, 2.125-Ounce (6 Pack)
+81	20.0	Sutter Home Fre Premium Red Blend Non-alcoholic Wine
+82	12.99	NV Childress Vineyards American Muscadine Sweet Red Wine 750 mL
+83	5.19	Mother Earth Organic Red Wine Vinegar (16oz.)
+84	14.0	2011 Parducci Small Lot Blend Cabernet Sauvignon Mendocino County 750 mL
+85	14.95	2012 Vampire Pinot Noir 750 mL
+86	85.0	Domaine Du Petit Gueyrot Bordeaux Red Blend Saint Emilion 2001-2007-2009 Mixed Pack, 3 x 750 mL
+87	21.99	NV House Wine Original Red Blend Box 3.0L
+88	22.38	Banyuls Wine Vinegar - Imported From France, 16.9-Ounce Bottle
+89	68.0	Naked Winery Red Hot Trio Mixed Pack, 3 x 750 mL
+90	20.85	Badia a Coltibuono Red Wine Vinegar, 16.9-Ounce
+91	18.95	Badia a Coltibuono Red Wine Vinegar
+92	37.4	Four Monks Red Wine Vinegar (4x128OZ )
+93	19.99	Martin Pouret Orleans Red Wine Vinegar - pack of 2
+94	14.99	Supreme Red Wine Mother of Vinegar
+96	29.55	Perfect Partners Cheese for Red Wine Pairing Box, 24 Ounce
+97	12.99	NV Landon Winery Red Rose Sweet Red Wine, Texas 750 mL
+98	14.99	2012 Toad Hollow Vineyards - Erik's the Red 750ml
+99	89.0	ONEHOPE Best of California Mixed Pack, 6 x 750 mL

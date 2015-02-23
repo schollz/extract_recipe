@@ -1,0 +1,85 @@
+2	10.47	Pure Wesson Canola Oil 1.25 gal
+3	32.88	Crisco Pure Canola Oil, 64 oz., 6 Count
+4	6.19	Cibaria NON-GMO Canola Oil - 64 oz
+5	11.99	Crisco All Natural Pure Canola Oil, 32 oz
+6	120.49	Spectrum Organic Canola Oil -- 32 fl oz
+7	36.27	Crisco Pure Canola Oil, 32-Ounce (Pack of 9)
+9	7.59	Spectrum Naturals Organic Canola Oil -- 16 fl oz
+10	14.95	Crisco Pure Vegetable Oil, 32 Ounce
+12	49.32	Crisco Pure Canola Oil, 96 Ounce (Pack of 6)
+13	84.0	Crisco Pure Canola Oil, 128 Ounce (Pack of 4)
+14	21.49	Kirkland Signature Mediterranean Blend 3.ltr
+15	14.16	Crisco Pure Canola Oil - 1.25 gal.
+16	11.99	Crisco Pure Canola Oil 48 oz
+17	22.99	Snappy Popcorn 1 Gallon Snappy Buttery Canola Oil, 9 Pound
+18	19.34	Paragon Canola Popcorn Popping Oil (Gallon)
+19	17.1	POMPEIAN OlivExtra Original Canola & Extra Virgin Olive Oil Blend - 24 Oz (2-Pack)
+20	14.99	365 Everyday Value Organic Expeller Pressed Canola Oil
+21	21.06	Cibaria Organic Canola Oil - 64 oz
+23	29.99	Smart Balance Omega Blend Oil, 24-Ounce (Pack of 4)
+25	14.99	Kirkland Signature Canola Oil Cooking Spray, 2 Count
+27	8.59	PAM Original No Stick Canola Cooking Oil Spray 6 oz
+28	52.99	Pure Wesson 100% Natural Canola Oil 24 oz (Pack of 12)
+29	4.89	Smart Balance Omega Blend Cooking Oil-24 oz
+31	22.48	Kirkland Signature Extra Virgin Olive Oil, 2 Liters (Product of Italy)
+32	16.99	Wesson Vegetable Oil, 128 OZ
+33	22.59	Spectrum Organic Virgin Coconut Oil, Unrefined, 15 Ounce (Pack of 2)
+34	102.19	Loriva Canola Oil Cold Pressed 12.7 OZ (Pack of 12)
+35	98.95	Spectrum Canola Oil -- 32 fl oz
+36	9.95	Pure Wesson Vegetable Oil - 1.25 gal
+37	13.45	Pam No-Stick Cooking Spray - Original - Made With Canola Oil - Net Wt. 6 OZ (170 g) Each - Pack of 2
+38	12.99	Mazola Canola Oil, 40 oz
+40	23.49	Pure Wesson 100% Natural Vegetable Oil 24 Fl Oz ( Pack of 3)
+41	34.15	Pure Wesson Canola Oil - 1.25gal - CASE PACK OF 4
+42	18.0	Spectrum Canola & Coconut Oil Blend -- 32 fl oz
+44	10.81	Hellmann's Canola Mayonnaise, 30oz
+45	11.58	Spectrum Naturals Canola Olive Oil Blend, 32 oz
+46	33.99	24-10.6 oz. Canola Snap-Paks for 8 oz. Poppers- Yellow Popcorn, Canola Oil, Buttery Salt
+47	9.2	Pam Original No-Stick Cooking Spray Canola Oil (2 pack - 12oz each can)
+48	43.16	Spectrum Naturals Canola Oil Spray -- 16 fl oz
+49	8.75	Pam Original No-Stick Cooking Spray 100% natural Canola Oil (2 pack - 12oz each can)
+50	34.84	Pam Organic Canola Oil Non Stick Cooking Spray 5oz Can (Pack of 6)
+51	134.7	Spectrum Naturals Canola Oil Organic Refined 32 oz. (Pack of 12)
+53	17.99	Pompeian Extra Virgin Olive Oil, Canola, 48 Ounce
+55	58.47	Spectrum Spray Oil, Super Canola, 16 oz
+56	14.91	Nostalgia Electrics KPK400 Theater Popcorn Kit
+57	30.63	Snappy Popcorn Canola Snap-Paks Poppers Yellow Popcorn and Salt, Canola Oil ,24 Count
+59	13.01	Carotino Oil (Palm & Canola Blend) 17.6 oz
+60	19.97	Kirkland Signature Canola Oil Cooking Spray, 34 Ounce
+61	11.49	Crisco 100% Canola Oil Original No Stick Spray, 6 oz, 2 pk
+62	24.88	POMPEIAN OlivExtra Original Canola & Extra Virgin Olive Oil Blend - 68 Oz
+63	8.23	PAM No-Stick Cooking Spray Cans, 16 Ounce
+64	23.99	Nostalgia Electrics KPP24,  Popcorn, Oil & Salt  Kit, 24-Count
+65	39.45	Crisco Puritan Canola Oil with Omega-3 Dha, 16 Ounce (Pack of 12)
+66	10.49	Vita Coco Organic Extra Virgin Coconut Oil - 18 oz
+67	28.6	Winona Pure Canola Oil Spray, 5-Ounce (Pack of 4)
+68	5.69	Nutiva Red Palm Shortening Organic Superfood, 15 oz.
+69	113.83	Napa Valley Non Gmo Canola Oil (1x35LB )
+70	25.56	Smart Balance Omega Blend Oil, 48-Ounce (Pack of 3)
+71	121.62	Mazola Canola Oil, 128 OZ (Pack of 6)
+73	36.16	Colavita Extra Virgin Olive Oil, 34-Ounce Tins (Pack of 2)
+74	33.87	Spectrum Cooking Spray Canola Oil with Butter Flavor, 6-ounces (Pack of3)
+75	7.99	Smart Balance Omega Blend Oil, 48 oz
+76	13.53	Goya Canola Oil, 48 Ounce
+77	49.99	Spectrum Organic Virgin Coconut Oil, Unrefined, 54 Ounce (Pack of 2)
+78	7.49	Spectrum Naturals Canola Oil Spray With Butter Flavor (6x6 Oz)
+79	11.19	Spectrum Naturals Organic Refined Safflower Oil, 16 oz
+80	30.0	Amish Country Popcorn Canola Oil 1 Gallon Jug of Buttery Flavored Canola Oil
+81	12.99	Wesson Pure 100% Natural Canola Oil 48 oz (Pack of 2)
+82	123.7	Spectrum Naturals Organic Refined Canola Oil, 16 oz
+83	7.99	Hain Pure Foods Sesame Oil, 12.7 Ounce
+84	13.77	Wesson Pure 100% Natural Corn Oil 48 oz
+85	30.0	24-16 oz. Canola Snap-Paks for12 oz. Poppers - Yellow Popcorn & Salt, Canola Oil
+86	24.99	Nature's Secret Canola Oil Gallon
+87	14.99	Amish Country Butter Flavored Popcorn Oil, 16 fl oz
+88	39.88	Spectrum Naturals Canola Mayonnaise, 11.25 Ounce (Pack of 6)
+89	17.74	Winona Pure Canola Oil Spray (5 fl oz) 2 Pack
+90	34.3	Mega-pop Popcorn Kit - 8 Oz. - 24 Ct.
+91	22.95	Great Northern Popcorn Top Gallon, Buttery, 128 Ounce
+92	7.99	Kusha Grape Seed Oil, 33.8 oz
+93	7.29	Crisco Pure All Natural Vegetable Oil, 64 oz
+95	89.95	Golden Barrel Canola Oil Nine, 1/2 (.5) Gallon Plastic Jugs
+96	77.32	Pam Organic Canola Oil Cooking Spray - 12 Pack
+97	8.95	Family Generation Foods Dill Weed Canola Oil
+98	26.82	Crisco Natural Blend Oil, 48 Ounce (Pack of 9)
+99	71.08	Hollywood Peanut Oil, 24 Ounce Bottles (Pack of 12)

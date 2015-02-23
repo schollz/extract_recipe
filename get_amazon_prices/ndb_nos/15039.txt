@@ -1,0 +1,93 @@
+1	18.0	MW Polar Foods Polar Herring In Mustard, 6-Ounce (Pack of 9)
+2	44.5	MW Polar Kipper Snacks, 3.53 Ounce Units (Pack of 18)
+3	27.95	Pickled Herring in Wine Sauce - 65 oz jar
+4	29.99	(pack of 2) Imported Matjes Herring Fillets 8.8oz / 250g
+5	4.36	Herring In Oil
+6	7.99	Matjes Herring Tidbits by Skansen (6 ounce)
+7	19.72	MW Polar Foods Polar Herring In Hot Tomato Sauce, 6-Ounce (Pack of 9)
+8	34.78	Appel Kipper Fillets (Appel Smoked Herring Fillets), 6.7-Ounce Tin (Pack of 6)
+9	36.49	Bay View Packing Herring Gift Sampler
+10	29.0	Morey's Wild Caught "Blind Robbins" Smoked Herring, 3 lb.
+12	18.45	Alstertor Herring Fillets In Dill-Helb  Sauce, 7.05-Ounce (Pack of 5)
+13	39.6	Crown Prince Kipper Snacks, 3.25 Ounce Cans (Pack of 18)
+14	50.34	Bar Harbor Smoked Wild Kippers, 6.7 Ounce (Pack of 12)
+15	24.84	Adro Riga Smoked Sprats, 5.6-Ounce (Pack of 12)
+16	7.99	Spiced Herring Fillets (9.5 ounce)
+17	19.77	MW Polar Foods Polar Herring In Tomato Sauce, 6-Ounce (Pack of 9)
+19	7.73	Ruegen Herring Fillets in Horseradish Sauce, 7.05 Ounce
+20	70.01	Pickled Herring - 1 Gallon
+21	6.99	Whole Smoked Herring, Greek, approx. 0.5lb
+22	5.69	Ruegen Herring Fillets in Wine Sauce, 7.05 Ounce
+23	31.5	Abba Matjes Herring Tidbits (6-Pack)
+24	26.41	Roland Smoked Herring Fillets, 6.7-Ounce Box (Pack of 6)
+25	29.95	Bay View Herring in Cream Sauce, 65 Ounce Jar
+26	25.95	Bay View Herring in Wine Sauce, Two Jars
+27	23.0	Roland Herring Fillets in Mushroom Sauce, 7-Ounce Cans (Pack of 6)
+28	5.69	Ruegen Herring Fillets in Mustard Sauce, 7.05 Ounce
+29	75.0	Kippered Herring Kippers 5 Lbs Wild Caught, Canada
+30	10.99	Anchovy Spiced Herring (590g) From Sweden
+31	8.99	Thick Cut Herring - European Style, 26oz
+32	6.89	Ruegen Peppered Smoked Herring Fillets, 7.05 Ounce
+33	6.34	MW Polar Peppered Smoked Herring, 7.05 Ounce
+34	24.0	Pickeled Herring in Wine Sauce with Onions 3 lb.
+35	24.69	Roland Herring Fillets in Wine Sauce, 7-Ounce Cans (Pack of 6)
+36	28.95	Bay View Packing Herring Rollmops
+37	8.99	Herring Fillets in Wine Marinade, 26oz
+38	8.99	Herring Fillets - Creamed, 26oz
+39	59.95	1-Gallon Stoneware Pickling Crock with Cover
+40	238.63	Polar Herring In Hot Tomato Sauce
+41	39.99	Appel Herring Fillets in Tomato Sauce, 7.05-Ounce Tins (Pack of 10)
+42	8.57	Ruegen Kipper Snacks Smoked Herring, 3.53 Ounce
+43	22.85	Alstertor Herring Mustard, 7.05-Ounce (Pack of 5)
+44	6.99	Katjes Salzige Heringe "Salty Hering / Fish" 200g
+45	38.94	MW Polar Herring in Hot Tomato Sauce, 3.53-Ounce (Pack of 18)
+46	5.92	Ruegen Smoked Herring Fillets in Oil, 6.7 Ounce
+47	5.99	Matjes Herring Tidbits by Abba (7 ounce)
+48	10.99	Trader Joe's Kipper Fillets Smoked Herring in Canola Oil and Juices
+49	14.99	Wikstroms Pickled Herring - Sour Cream (16 ounce)
+50	7.7	Lucia Dried Salted Philippine Herring ( Tunsoy ) Fish - Eviscerated - 7.05 Oz. / 200 G - Product of the Philippines
+51	43.49	Appel Herring Fillets in Paprika Sauce, 7.05-Ounce Tins (Pack of 10)
+52	3.89	Lucia Dried Salted Philippine Herring (Tunsoy) 8oz
+53	9.36	Herring in oil 16oz Glass Jar
+54	8.26	Ruegen Herring Fillets in Paprika Sauce, 7.05 Ounce
+55	24.12	Herring Fillets in Hot Tomato Sauce 18pack/6oz.
+56	13.98	Look's Atlantic Premium Naturally Smoked Herring Fillets (3 Pack) 6 oz Cans
+57	24.0	Smoked and Boneless Herring Fillets in Vegetable Oil
+58	9.99	RugenFisch Herrings Fillet in Hot Tomato Sauce 200g (7oz)
+61	3.79	Appel Herring Fillets in Mustard a la Dijon Sauce ( 7.05 oz )
+62	12.99	Whole Herring - Old Country Style, 26oz
+64	24.0	Smoked Peppered Herring Fillets in Natural Juice
+65	5.99	Herring Tidbits by Skansen - in Wine (8 ounce)
+66	35.22	John West Herring in Tomato Sauce, 6.7-Ounce Cans (Pack of 10)
+67	104.95	Marky's American Pride Caviar, Herring - 16 oz
+68	25.95	Bay View Herring in Cream Sauce, Two Jars
+69	4.59	Smoked Herring Fillets Rugenfisch Filets de Hareng Fumes 6.7 oz
+70	13.05	Ruegen Herring Fillets in Tomato Sauce, 7.05 Ounce
+71	37.75	RuegenFisch Herring Fillets in Tomato Sauce, 7.05 Ounce -- 16 per case.
+72	2.99	Herring Fillets - in Tomato Sauce (6 ounce)
+73	13.12	Appel Smoked Kipper Fillets in Oil and Own Juice 6.7 oz
+74	6.91	MW Polar Smoked Herring in Vegetable Flavored Oil, 6.7 Ounce
+75	4.99	Rugen-Krone Herring in Aspic 200g/7.05oz
+76	24.99	Appel Herring Fillets in Tomato Sauce 7.05 Oz Tins (Pack of 5)
+77	29.99	Adro Smoked Baltic Herring in Oil 3.5 OZ (Pack of 6)
+78	5.99	Rugenfisch Fried Herring in Spicy Marinade 500g/17.6oz
+79	14.99	Lowell Marinated Herring Fillets Wawel Style (650g/23oz)
+80	57.92	Alstertor Herrings Fried, 17.6-Ounce  (Pack of 4)
+81	28.99	(Pack of 2) Matjes Herring Tidbits by Skansen (6 ounce) by HolanDeli
+82	24.99	Alstertor Smoked Herring Fillets 6.7 oz (Pack of 3)
+83	28.98	Bar Harbor 6 x 6.7oz All Natural Smoked Wild Herring Fillets Seasoned with Cracked Pepper
+84	29.79	Roland Herring Fillets in Tomato Sauce, 7-Ounce Cans (Pack of 6)
+86	69.63	Cream Herring - 1 Gallon
+87	20.35	Polar Kipper Snacks - Smoked & Boneless Herring Fillets (Pack of 4) 3.53 oz Cans
+88	9.85	Appel Feinkost delicious herring fillets in paprika sauce 7.05 oz Tin
+89	59.93	Season Kipper Snacks (Fillets of Herring), 3.25-Ounce Tins (Pack of 24)
+90	5.99	Matjes Herring Fillets by Neptun (7 ounce)
+91	30.15	Roland Herring Fillets in Paprika Sauce, 7-Ounce Cans (Pack of 6)
+92	22.82	rugen fisch fried herring in spicy marinade - 17.6oz [3 units] (639138877088)
+93	69.55	Appel Smoked Kipper Fillets in Oil and Own Juice 6.7 oz (Pack of 12)
+94	4.69	Parsons Welsh Pickled Mussels (155g)
+95	3.99	Appel Herring Fillets in Tomato & Curry Sauce-200g
+96	68.27	Appel Herring Fillets in Paprika Sauce, 7.05 Ounce Tins (Pack of 20)
+97	13.97	Beach Cliff Fish Steaks Bite Size Herring in Soybean Oil 3.75 (Ounce Pack of 6)
+98	30.53	Adro Smoked Baltic Herring in Oil 3.5 OZ (Pack of 12)
+99	28.0	MW Polar Foods Polar Herring In Paprika Sauce, 6-Ounce (Pack of 9)

@@ -1,0 +1,89 @@
+0	10.23	La Banderita, Corn Tortillas Ricas, 30 Count, 27.5oz Package (Pack of 2)
+1	14.95	Corn Tortillas - Thick Corn Tortillas by Porkyland - 6" - Six Dozen Pack
+2	19.99	Del Campo Tortillas Soft Corn Tortillas, 6 inch round, 8 lbs per case.
+3	17.95	Mission, Yellow Corn Tortillas, 30 Count, 27.5oz Bag (Pack of 2)
+4	10.99	Guerrero Corn Tortillas 30ct, 27.5oz, 2 packages
+5	18.91	La Banderita, Corn Tortillas, 73.4oz Bags (Pack of 2)
+6	37.94	Mission Yellow Corn Tortillas Extra Thin - Contains 8 Packs(24ct)
+8	57.06	Sonoma Wraps Organic Yellow Corn Tortilla -- 12 per case.
+10	44.58	The Real Deal All Natural Snacks Organic Restaurant Style Tortilla Chips, Blue Corn, 24 Ounce (Pack of 9)
+11	48.44	The Real Deal All Natural Snacks Organic Restaurant Style Tortilla Chips, White Corn, 24 Ounce (Pack of 9)
+12	27.48	Garden of Eatin' Sprouted Blues Corn Tortilla Chips, 7.5 Ounce (Pack of 12)
+17	12.96	Gold Mine Organic Masa Harina Corn Flour, Yellow, 2 Pound
+18	11.92	Tostitos Scoop Corn Chips, 10 Ounce Bag (Pack of 4)
+19	3.5	Del Campo Tortillas Soft Corn Tortillas, 6 Inch Round 1 Lb Bag
+20	17.99	Trader Joe's Quinoa & Black Bean Infused Tortilla Chips Made with Stone Ground White Corn, Red Quinoa & Black Beans - 12 Oz. (Pack of 2 -Total of 24 Oz.)
+21	78.52	Maria and Ricardos Gluten Free Tortilla, 10 inch -- 64 per case.
+22	17.95	Uncooked Corn Tortillas By Tortillaland
+23	20.79	Bob's Red Mill Flour Corn Masa Harina, 24-ounces (Pack of4)
+24	34.99	Guiltless Gourmet Organic Baked Tortilla Chips, Blue Corn, 7-Ounce Bags (Pack of 12)
+25	12.99	Tostitos Simply Natural Blue Corn Tortilla Chips
+26	24.19	Santitas Yellow Corn Triangles Tortilla Chips, 11oz Bags (Pack of 10)
+27	11.99	Blue Corn Tortillas Tortillas Blue Corn 3 Pound Pack
+28	17.96	Mission, Corn Tortillas, 30 Count, 27.5oz Bag (Pack of 2)
+29	68.74	Food For Life - Sprouted Corn Tortillas Whole Kernal "Taco Size" (Organic), Buy TWELVE Packages and SAVE, Each Package is 10 Oz (Pack of 12)
+30	13.98	Mission Yellow Corn Tortillas Extra Thin - 24 CT
+31	49.86	Guiltless Gourmet No Salt Yellow Corn Organic Baked Tortilla Chips, 7-Ounce Bags (Pack of 12)
+32	5.74	Mission<< White Corn Tortillas - 100 ct.
+33	13.16	Bob's Red Mill Corn Flour Golden Masa, 24-Ounce (Pack of 4)
+34	61.38	Xochitl Organic White Corn Tortilla Chip, 16 Ounce -- 9 per case.
+35	13.07	Gold Mine Organic Masa Harina Corn Flour, White, 2 Pound
+36	38.33	La Banderita Tortilla, White Corn, 30ct, 30-count (Pack of12)
+37	42.25	Maria and Ricardos Soft Corn Tortilla, 6 inch -- 112 per case.
+38	23.89	Guerrero Corn Tortillas 30ct, 27.5oz, 4 packages
+39	47.92	Guiltless Gourmet Yellow Corn Organic Baked Tortilla Chips, 7-Ounce Bags (Pack of 12)
+40	2.49	Instant Corn Masa Mix,4.84 LB
+41	73.21	Xochitl Tortilla Chips Blue Corn 16 Oz.
+42	26.75	Snyder's of Hanover Reduced Fat Corn Tortilla Chip, White, 16 Ounce (Pack of 9)
+43	18.99	La Banderita, Yellow Corn Tortillas, 27.5oz Bag (Pack of 2)
+44	21.75	Food Should Taste Good Tortilla Chips, Blue Corn, 1.5-Ounce (Pack of 24)
+45	19.5	Trader Joe's Organic Stone Ground Blue Corn Tortilla Chips with Sprouted Amaranth, Quinoa & Chia Seeds - 12 Oz. (Pack of 2 -Total of 24 Oz.)
+46	47.96	Salveo Tortilla Chips, Blue Corn with Flax, 9 Ounce (Pack of 12)
+47	6.95	9" La Tortilla Factory Whole Wheat Low Carb Tortillas (Large Size)
+48	14.55	Natural Tostitos Blue Corn Tortilla Chips Made with Certified Organic Corn, 9 Ounce (Pack of 3)
+49	14.88	Kirkland Signature Organic Tortilla Chips, 40 Ounce
+50	27.27	Tostitos Restaurant Style Tortilla Chips, 13 Ounce Bag (Pack of 4)
+51	24.0	UTZ Baked Tortilla Chips 9.5 Ounces (Pack of 8)
+53	28.44	Doritos Toasted Corn Flavored Tortilla Chips, 11.5 oz Bags (Pack of 6)
+54	37.29	The Better Chip Tortilla Chips, Fresh Corn and Sea Salt, 6.4 Ounce (Pack of 12)
+55	39.99	Bearitos Blue Corn Taco Shells, 12 Count (Pack of 12)
+56	69.88	Purple Corn Multi Grain Tortilla Chips 7 Ounces (Case of 16)
+57	5.09	Old El Paso Soft Corn Tortillas (8)
+58	36.5	4 Wind & Willow Favorite Soup Mix Bundle: Baked Potato, Grilled Cheese & Tomato, Roasted Corn Chowder, and Tortilla Con Queso
+59	39.99	Mission Yellow Corn Taco Tortillas 30 count (pack of 8)
+60	35.64	Bearitos Yellow Corn Taco Shells, 5.5-Ounce (Pack of 12)
+61	29.29	Pringles Tortilla Crisps, Original, 6.41 Ounce (Pack of 14)
+63	47.47	Guiltless Gourmet Yellow Corn Organic Baked Tortilla Chips, 7-Ounce Bags (Pack of 12) ( Value Bulk Multi-pack)
+64	29.97	Mi Casa Red Corn Tortillas 30 Count (Pack of 3)
+65	5.69	Garden Of Eatin' Blue Chips, Party Size, 16 oz
+66	49.86	Guiltless Gourmet Yellow Corn Tortilla Chips Unsalted -- 7 oz
+67	39.6	Late July Snacks Organic Multigran Snack Chip 5.5 oz. (Pack of 12)
+68	8.61	Zocalo Peru Organic Purple Corn Flour, 16 Ounce
+69	15.99	Food Should Taste Good Tortilla Chip - Blue Corn Gluten Free 5.5 Oz [4 Pack]
+70	10.95	GhosXt XXX Hot Cheddar Corn Tortilla Chips - 1 Pound Bag
+71	11.99	Mama Lupe Low Carb Tortillas
+72	28.77	Tostitos Tortilla Chips, White Corn, 84 Ounce (Pack of 28)
+73	31.34	Snyder's of Hanover Reduced Fat Corn Tortilla Chip, Restaurant Style, 16 Ounce (Pack of 9)
+74	22.25	Baja White Corn Tortilla, 8-Ounce (Pack of 12)
+75	28.0	Food Should Taste Good, Blue Corn Tortilla Chips, 24/1.5 Oz
+76	35.8	Chi-Chi's Soft Taco Size White Corn Tortilla, 18 ct (Pack of 8)
+77	21.0	RW Garcia Tortilla Chips, Organic Yellow Corn, 32 Ounce
+78	41.88	Food Should Taste Good Tortilla Chips Gluten Free Blue Corn -- 5.5 oz
+80	21.48	Bob's Red Mill Gf Corn Flour Golden Masa 24 ozs
+81	5.99	Xochitl No Salt Corn Chips, 12 Ounce
+82	67.62	Que Pasa Organic Corn Yellow Tortilla Chips, 21-Ounce Bags (Pack of 10)
+84	54.95	Xochitl White Corn Chips Organic -- 16 oz
+85	44.69	Real Foods Organic Corn Thins, Original Flavor, 5.3-Ounce Bag (Pack of 12)
+87	9.99	Raw Wraps Kale, Gluten Free Bread, Soy Free Bread, Wheat Free, Vegan Wraps
+88	22.75	Trader Joe's Organic Corn Chips Dippers - Simple. Natural. Organic. Delicious! - 9.75oz., 276g. (Pack of 2)
+89	19.94	Tortilla Soup Dinner Gift Box - Ready to Give - Featuring Bear Creek Tortilla Soup Mix, Trader Joes Corn Tortilla Flatbreads and Royal Flan Mix
+90	28.99	Mission Yellow Corn Tortillas 30ct 27.5oz Super Soft (4 packages)
+91	60.13	Bearitos Unsalted Yellow Corn Tortilla Chips 16 oz - Pack of 12
+92	39.96	Wind & Willow Potato, Corn Chowder, Tomato, Chicken Noodle, Tortilla, Irish Potato Soup Mix Variety (6 Pack)
+93	49.86	Guiltless Gourmet Yellow Corn Tortilla Chips, 7 oz
+94	24.99	Xochitl Tortilla Chips Blue Corn 16 Oz. [Pack of 3]
+95	24.19	Santitas White Corn Triangles Tortilla Chips, 11oz Bags (Pack of 10)
+96	29.99	Mission Artisan Corn and Whole Wheat Blend Tortilla's 8 Ct. (Pack of 6)
+97	47.47	Guiltless Gourmet Yellow Corn Organic Baked Tortilla Chips, 7-Ounce Bags (Pack of 12) ( Value Bulk Multi-pack)
+98	10.95	GhosXt Cheddar Corn Tortilla Chips - Hot - 1 Pound Bag
+99	14.89	Guerrero 6 Inch White Corn Tortillas, 80 ct, 4.58 lb

@@ -1,0 +1,73 @@
+1	17.52	Bob's Red Mill Pumpkin Seeds, 24 oz
+3	5.4	CB's Nuts Organic Pumpkin Seeds, 4 Ounce
+6	15.58	Bob's Red Mill Natural Raw Sunflower Seeds, 20-Ounce Packages (Pack of 4)
+7	56.38	Bob's Red Mill Pumpkin Seeds, Raw, 24-Ounce Packages (Pack of 4)
+8	26.49	Pumpkin Seed Kernels Raw - 5 Pound Deal
+11	7.49	NOW Foods Pumpkin Seed Raw, 1 lb
+14	32.89	David Seeds Pumpkin Seeds, 5.0 Ounce (Pack of 12)
+15	10.99	Roasted Salted Pepitas (No Shell Pumpkin Seeds) 1 Pound Bag - Oh! Nuts
+16	10.99	Pepitas Roasted Unsalted (No Shell Pumpkin Seeds) 1 Pound Bag - Oh! Nuts
+17	8.99	Roasted Salted Pumpkin Seeds, 1LB
+19	15.89	Pumpkin Seeds Roasted Unsalted, 2 Lbs
+21	13.06	eSutras Organics Pumpkin Seeds, 16 Ounce
+25	22.4	Seeds Pumpkin, 5-Pound
+27	13.99	Indian Pumpkin Seeds Salted, 5/16 oz, 36 count
+28	20.9	Pumpkin Seed Powder (Grown in Oregon USA) Organic
+29	5.99	Organic Traditions Austian Pumpkin Seeds, 3.5 Ounce
+30	2.98	Kashi TLC Crunchy Granola Bar, Pumpkin Spice Flax, 6 - 2 bar pouches, Net Wt. 8.4 Ounce
+31	8.75	barkTHINS Snacking Chocolate, Dark Chocolate Pumpkin Seed with Sea Salt, 4.7 Ounce
+32	39.99	Eden Organic Pumpkin Seeds, Dry Roasted, 4-Ounce Resealable Bags (Pack of 15)
+35	29.49	Trader Joe's Nuts Inshell Pumpkin Seeds 14oz Set of 3
+36	35.99	Bark Thins Snacking Dark Chocolate Pumpkin Seed with Sea Salt 17 oz (Pack of 2)
+37	41.83	Nature's Path Organic  Flax Plus, Pumpkin Granola Cereal, 26.4-Ounce Bags (Pack of 6)
+38	16.5	Nature's Path Organic Flax Plus Pumpkin Granola Cereal, 11.5-Ounce Boxes (Pack of 6)
+40	14.99	Pumpkin seed kernels (no shells) Roasted and Salted, Hoosier Hill Farm, 2 lbs.
+41	16.62	David Seeds Pumpkin Seeds, Ranch Flavor, 2.25 Ounce (Pack of 12)
+42	21.99	Trader Joe's in Shell Pumpkin Seeds (Pack of 2)
+44	13.08	Stoger Organic Seed Oil, Pumpkin, 3.38 Ounce
+45	20.99	Bark Thins Snacking Dark Chocolate Pumpkin Seed with Sea Salt, 17 Ounce
+46	19.99	Eden Organic Dry Roasted Seeds Spicy Pumpkin 4 Oz Resealable Bags (Pack of 4)
+47	14.48	Omega Nutrition Pumpkin Seed Butter, 12-Ounce
+49	14.99	Pumpkin seed kernels (no shells) Roasted and NO Salt, Hoosier Hill Farm, 2 lbs.
+51	47.99	Eden Organic Dry Roasted Seeds, Spicy Pumpkin, 4-Ounce Resealable Bags (Pack of 15)
+52	22.86	David's Pumpkin Seeds, 2.2500-ounces (Pack of12)
+53	19.99	Bark Thins Snacking Chocolate Dark Chocolate Pumpkin Seed with Sea Salt 16 Oz.
+54	26.49	Eden Organic Dry Roasted Pumpkin Seed Sampler - Six 4 Oz. Pouches
+55	29.99	KIND Healthy Grains Granola Bars, VARIETY 5 PACK: Maple Pumpkin Seeds with Sea Salt, Dark Chocolate Chunk, Peanut Butter Dark Chocolate, Oats & Honey with Toasted Coconut, and Vanilla Blueberry.
+56	14.99	Trader Joes Raw Pumpkin Seeds
+57	22.74	Doctor Kracker Flatbread, Pumpkin Cheddar, 7-ounces (Pack of6)
+58	18.99	KIND Healthy Grains Bars Healthy Grains Bars - Maple Pumpkin Seeds with Sea Salt - 1.2 oz - 5 ct - 4 pk
+60	24.99	Bark Thins Snacking Chocolate Variety FOUR (4) Pack - Dark Chocolate Almond; Pumpkin Seed; Pretzel and Mint 4.7 oz. (Pack of 4)
+62	8.25	Melissa's Pumpkin Seed Clean Snax with Chia and Flax Seed, 6.5 Ounce
+63	1.7	David All Natural Roasted & Salted Pumpkin Seeds 2.25 oz
+64	11.59	Windy City Organics Dastony Sprouted Pumpkin Seed Butter -- 8 oz
+65	19.99	Hoosier Hill Farm Pumpkin Seeds - Raw, 2 lbs. (no shell) Pepitas
+66	51.35	Bigs Pumpkin Seeds Lightly Salted, 5 ounce -- 12 per case
+67	48.35	GG Scandinavian Thins with Pumpkin Seeds 10 pack
+68	12.97	Trader Joe's Roasted & Salted Pumpkin Seeds
+69	9.95	Trader Joe's Pumpkin Spiced Pumpkin Seeds 8oz
+70	36.99	Bark Thins Snacking Chocolate Dark Chocolate Pumpkin Seed with Sea Salt 16 Oz. (Pack of 2)
+72	24.99	Organic Pumpkin Seed Oil (Harvest Special!) Grown and pressed in Oregon U.S.A.
+74	10.69	Jansal Valley Raw Pepitas Pumpkin Seeds, 1 Pound
+75	19.85	Mother's Farms Pumpkin Seed Tortilla Chips, 6.5 Ounce (Pack of 6)
+76	36.83	Kind Bars: Granola Bar Maple & Pumpkin Seed 40 bars, 1.2 oz each
+77	9.99	Pumpkin Seed Oil (Cold Pressed) 16 fl oz Liquid
+78	9.99	Good Seed Baking Co. Gluten Free & Vegan Pumpkin Bread Mix, 16.3 Oz
+79	16.13	GoRaw - Sprouted Pumpkin Seeds - 1 Pound Bags
+80	22.99	Indian Pumpkin Seeds - 5/16 oz (72 pack)
+81	25.29	Trophy Nut Pumpkin Seeds, 12-Ounce Bags (Pack of 4)
+83	12.75	Indian Pumpkin Seeds - 5/16 oz (single)
+84	21.99	Pumpkin Seeds Roasted Unsalted, 5 Lbs
+85	20.79	KIND, Healthy Grains Granola Bars, Maple Pumpkin Seed with Sea Salt, 5 count box (Pack of 3)
+86	15.05	David Pumpkin Seeds, Roasted and Salted, 5 oz bag, (2 pack)
+87	17.97	Trader Joe's Toasted Pumpkin Seed Oil 8.45 fl oz
+88	15.99	Natural Healing House Organic Raw Austrian Pumpkin Seeds 16 oz
+91	2.27	Organic Pumpkin Seeds Dry Roasted Salted Eden Organic 4 oz Seed
+92	58.44	Bark Thins Snacking Chocolate Dark Chocolate Pumpkin Seed with Sea Salt 17 Oz (Pack of 4)
+93	37.91	Pumpkin Seeds, Pepitas, Hulled, 10 lbs. Bulk
+94	19.6	Austrian Pure Pumpkin Seed Oil - 250 ml
+95	24.99	Organic Pumpkin Seed Oil 16oz. 2014 Crop (Grown and Pressed in Oregon USA)
+96	5.18	Eden Foods, Organic, Spicy Pumpkin Dry Roasted Seeds, 4 oz (113 g)
+97	39.19	Kirkland Cashew Clusters with Almonds and Pumpkin Seeds Gluten Free 32 oz (Pack of 2)
+98	18.79	2 Bags of Trader Joes Pumpkin Spiced Pumpkin Seeds
+99	17.77	Yankee Traders Pepita/Pumpkin Seeds, Roasted and Salted, 2 Pound

@@ -1,0 +1,77 @@
+0	2.36	Pillsbury Best All Purpose Flour, 5 lb.
+1	9.57	King Arthur 100% Organic All Purpose Flour, 32 oz
+2	20.35	Gold Medal(r) All-purpose Flour - 10 Lbs.
+3	38.18	Great River Organic Milling, Organic Whole Wheat Bread Flour, 25-Pound Package
+4	22.52	Hodgson Mill Organic Naturally White Flour, Unbleached All-Purpose, 2-Pounds (Pack of 6)
+5	39.05	Antimo Caputo Chef's Flour, 2.2 Pound (Pack of 10)
+6	7.38	Pillsbury Best All Purpose Unbleached Flour, 5 Pound
+7	10.99	Conagra All Purpose Hotel and Restaurant Flour, 25 Pound
+8	10.19	White Lily All Purpose Flour - 80 oz - 2 pk
+9	38.28	Great River Organic Milling, Organic Specialty All Purpose Whole Wheat Flour, 25-Pound Package
+10	3.99	Bob's Red Mill, Organic, Whole Wheat Flour, 48 oz (1.35 kg)
+11	3.99	Bob's Red Mill Organic Unbleached White All Purpose Flour, 48 Ounces
+15	4.95	Gold Medal All Purpose Flour - 80 oz
+16	9.96	Jovial Organic Einkorn Flour, 32.0-Ounce
+17	2.99	Antimo Caputo Italian Superfine "00" Farina Flour 2.2 lb Bag
+18	8.76	White Lily Bread Flour, 5 Pound
+19	10.36	Bob's Red Mill 10 Grain Flour, 24-Ounce (Pack of 4)
+20	38.97	Great River Organic Milling, Organic Seven Grain Bread Flour Blend, 25-Pound Package
+21	13.17	Bob's Red Mill Semolina Pasta Flour, 24-Ounce (Pack of 4)
+22	45.38	Great River Organic Milling Lily White Bread, 25 Pound
+25	12.37	Bob's Red Mill Organic Rye Flour Dark, 22-Ounce (Pack of 4)
+26	13.96	Bob's Red Mill Spelt Flour, 24-Ounce (Pack of 4)
+27	10.93	Premium Gold All-Purpose Flour, Flax and Whole Grain, 2 Pound
+28	19.68	King Arthur Flour, Og, White Whl Wheat
+29	9.75	Caputo Semola Di Grano Duro Rimaninata Semolina Flour 1 kg Bag
+30	34.03	Great River Organic Milling 100% Organic Bread Flour Whole Wheat, 5 Pound Bags (Pack of 4)
+32	22.49	King Arthur, Unbleached Bread Flour, 80oz Bag (Pack of 2)
+33	83.74	Wheat Montana Natural White All-Purpose Flour, 5 Pound (Pack of 8)
+34	24.0	King Arthur Flour - All Purpose Unbleached, 5-Pounds (Pack of 2)
+35	34.08	Hodgson Mill Best For  Bread Flour, 32-Ounce (Pack of 6)
+36	7.19	Antimo Caputo 00 Pizzeria Flour (Blue) 5 Lb Repack
+37	41.0	Great River Organic Milling 100% Organic Bread Flour Unbleached Wheat, 5 Pound Bags (Pack of 4)
+38	68.48	King Arthur Unbleached Bread White Flour, 50 Pound -- 1 each.
+39	48.99	Blanched Almond Meal Flour, 5 lbs.
+40	11.95	Gold Medal All Purpose Bleached & Enriched Flour 5 lbs
+41	57.69	Great River Organic Milling Organic Whole Grains Soft White Winter Wheat, 50-Pounds
+42	48.99	Imperial High Gluten Flour - Bulk 50 Pound Bag
+43	12.54	Bisquick Pancake and Baking Mix, Gluten-Free, 16-oz. Boxes (Count of 3)
+45	15.25	Almond Flour - Fine - 1 bag, 1 lb
+47	21.99	Presto  Self Rising Cake Flour, 32-Ounce Boxes (Pack of 6)
+49	34.37	Great River Organic Milling Organic Bread Flour Seven Grain, 5 Pound Bags (Pack of 4)
+50	7.19	White Lily All Purpose Flour - 80 oz
+51	11.95	Banana Flour
+52	56.94	Namaste Foods, Gluten Free Perfect Flour Blend, 48-Ounce Bags (Pack of 6)
+53	25.49	Antimo Caputo "00" Chefs Flour 1 Kilo (2.2lb) Bags Pack of 4
+54	12.09	Authentic Foods Tapioca Flour  - 2.5 lb
+55	10.65	Bob's Red Mill - Gluten Free Organic Coconut Flour - 16 oz.
+57	17.49	Carbalose Flour, 3 lb. bag
+58	19.79	Jovial: Organic Einkorn Flour, 32 oz (2 pack)
+59	22.73	Hodgson Mill Organic Whole Wheat Pastry Flour, 28-Ounce (Pack of 6)
+60	46.32	Great River Organic Milling, Organic Specialty Spelt Flour, 25-Pound Package
+61	41.4	Great River Organic Milling, Organic Unbleached Wheat Flour, 25-Pound Package
+62	11.12	One 24 oz Bob's Red Mill Potato Flour
+65	45.48	King Arthur Flour 100% Organic All-Purpose Flour, Unbleached, 2 Pound (Pack of 12)
+69	42.99	Alta Artisan Unbleached Flour - Bulk 50 Pound Bag
+70	16.76	Bob's Red Mill Organic Buckwheat Flour, 22-Ounce (Pack of 4)
+71	10.99	King Arthur Flour Multipurpose Flour, Gluten Free, 24-ounces
+73	38.6	Great River Organic Milling, Organic Specialty Whole Wheat Pastry Flour, 25-Pound Package
+74	72.99	Jovial Organic Einkorn All Purpose Flour, (Nature's Original Wheat, Never Hybridized) Unbleached & Unbromated, Buy TEN Bags and Save per Bag Cost, Each Bag is 32 Ounces (Pack of 10)
+75	41.49	FIVE ROSES FLOUR 22lbs BAG
+77	21.16	Bob's Red Mill Rice Flour Brown, 48-Ounce (Pack of 4)
+78	20.52	Bob's Red Mill Gluten Free Oat Flour, 22-Ounce Bags (Pack of 4)
+80	44.95	Bob's Red Mill Organic Unbl White Flour, 5-Pound (Pack of 4)
+81	12.59	Authentic Foods Superfine Sweet Rice Flour - 3lb
+83	94.66	Great River Organic Milling Organic Specialty Flour Buckwheat, 50-Pounds
+84	37.29	Great River Organic Milling, Organic Specialty Rye Flour, 25-Pound Package
+85	15.39	Authentic Foods Gluten Free Brown Rice Flour Superfine -- 3 lbs
+87	15.23	Authentic Foods Arrowroot Flour, 2.5 lbs
+88	39.63	Great River Organic Milling, Organic Sunflower Millet Bread Flour Blend, 25-Pound Package
+89	28.45	Bob's Red Mill Pastry Flour Whole Wheat, 5 lbs, 2 pk
+90	16.48	Protein Plus, Roasted All Natural Peanut Flour, 32 oz (907 g)
+91	5.49	Arrowhead Mills Organic Buckwheat Flour, 32 Ounce
+92	7.63	Roland Quinoa Flour, 17.6-Ounce Bag
+93	49.23	Honeyville Blanched Almond Flour Super Fine Grind Gluten Free Cholesterol Free 3lbs
+94	17.9	Cup4Cup Glute Gluten Free Flour, 3 lb
+95	3.79	Bob's Red Mill Organic Kamut Flour - 20 oz
+97	33.81	Bob's Red Mill Unbleached White Flour, 5-Pounds (Pack of 4)

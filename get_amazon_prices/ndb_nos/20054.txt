@@ -1,0 +1,94 @@
+0	15.5	Thai Sticky Rice (Sweet Rice) 5 Lbs
+1	8.95	Mochi Gome - Sweet Rice 2lbs
+2	7.9	Hakubai Sweet Rice, 5-Pound
+3	5.99	GLUTINOUS RICE FLOUR 1x16OZ [Hot Sale]
+4	13.39	Sushi Rice Japanese style - 5 lb
+5	38.5	Thai Sticky Rice Kit (steamer, basket, cheesecloth, 5 lbs sticky rice)
+6	3.95	Wel Pac Sweet Rice 16z.
+7	10.21	Purple Sticky Rice, 1lb.
+8	17.39	Ducky Brand Jasmine Glutinous Rice 5 Lb
+9	10.8	Dried Sweet Glutinous Rice Flour - 2x 1 Lb (Traditional Water Milled)
+10	16.79	Golden Anchor Brand Black Glutinous Rice 5 Lb
+11	26.93	Botan Calrose Rice, 15-Pound
+12	24.95	Hakubai Sweet Rice, 10-Pound
+14	16.76	Bob's Red Mill Rice Flour Sweet White, 24-Ounce (Pack of 4)
+15	13.07	Flying Horse Glutinous Rice, 16-Ounce Packages (Pack of 12)
+16	5.25	Thai Rice Flour - 16 oz
+17	4.29	GLUTINOUS RICE FLOUR 2x16OZ
+18	12.59	Authentic Foods Superfine Sweet Rice Flour - 3lb
+19	16.99	Shanghai Yeast Balls - Chinese Rice Wine Starter (Pack of 6)
+20	25.99	Black Glutinous Rice (Gao Nep Than) - 5lb (Pack of 1)
+21	39.1	Ducky Brand Jasmine Glutinous Rice 5 Lb (Pack of 3)
+22	20.5	Bob's Red Mill Sweet White Rice, 27-Ounce (Pack of 4)
+23	14.75	CTF Black Glutinous Rice, 5 Pound
+25	11.45	Chinese Black Rice, 1 lb.
+26	11.99	Japanese 'Okaki' Peanuts Cubic Rice Cracker Made From Glutinous Rice (3.7 Ounce)[Pack of 3]
+27	42.65	Golden Anchor Brand Black Glutinous Rice 5 Lb (Pack of 3)
+28	4.58	Glutinous Rice Flour - 16oz (Pack of 3)
+29	18.99	24oz Formosa YAY Brown Black Glutinous Rice
+30	3.99	Ener-G Sweet Rice Flour Gluten Free -- 20 oz
+31	12.99	Mochiko (Sweet Rice Flour) - 16oz (Pack of 3)
+32	5.1	Glutinous Rice Vinegar - 21.1oz (Pack of 1)
+33	12.99	Taiwan Glutinous Wild Rice (Purple Rice) 1.5 lb.
+34	19.99	Dragonfly Sweet Rice, 5-Pound
+35	49.99	Rice Flour Glutinous (Bot Nep Tinh Kiet) - 16oz [24 units] by Erawan.
+36	17.45	Glutinous Rice Flour (Tepung Ketan) - 16oz [6 units] by Erawan.
+37	14.9	Sweet Rice Flour (3 Lb) By Wang
+38	4.78	Black Glutinous Rice Wine - 26.5fl Oz (Pack of 1)
+39	43.0	Raitip Thai Black Glutinous Organic Rice 500 G
+40	10.45	Thailand Sticky rice basket
+41	34.0	Apple Sweet Rice, 10-Pound
+43	4.78	White Glutinous Rice Wine - 21.5fl Oz (Pack of 1)
+44	10.57	Utcf - Speedi Meal-cantonese Glutinous Fried Rice (Pack of 1)
+45	4.8	GLUTINOUS FRIED RICE 1x7OZ
+46	8.29	Japanese Fruits Daifuku (Rice Cake)-Melon Flavor
+47	14.49	Illa De Riu Bomba Rice 2 Kilo (4.4 lbs)
+48	81.9	Mujugu Glutinous rice Oil-and-honey pastry 1kg
+49	34.99	Glutinous Rice Aroma Puerh Tea Small Chinese Tuo Cha 250g
+50	42.82	Raitip - Thai Black Glutinous Rice (500g.) Mung Beans, White Beans, Cooking Beans, Mung Bean Seeds, Dried Beans, Mung Bean, Dry Beans, Healthy Cereal, Healthy Cereals, Best Cereal, Best Cereals, Sesame Seed, Sesame Seeds, Black Sesame, Herb Seeds, Grains, Health Food, Health Foods, Health and Food, Health Food Products, Health Food Diet, Cooking Rice, Asian Rice, Black Rice, Organic Rice
+51	14.8	Sweet Rice
+52	12.51	2 LB Chinese Mixed Grain-mixed rice (8 Grains Delight)by D&J Asian Market
+53	12.29	Roasted Rice to Mix with Sencha for Genmai Cha, Made of Glutinous Rice Made in Japan. From Kyoto. 80g
+54	3.11	Spicy Mixed Snacks (Anchovy, Peanut, Glutinous Rice Crackers) - 2.8oz/80g
+55	115.9	Eumsung Traditional Korean Cookie 1.7kg(in bamboo basket)
+56	21.99	Snowy Salt "Senbei" Traditional Crispy Rice Crackers [3 Packages]
+57	8.18	CANTONESE GLUTINOUS FRIED RICE 1x200G
+58	4.25	Utcf - Speedi Meal-cantonese Glutinous Fried Rice (Pack of 1)
+59	22.99	Spicy Mixed Snacks (Anchovy, Peanut, Glutinous Rice Crackers) z (Pack of 2)
+60	9.1	Manitou Trading Company Heirloom Black Rice, 18-Ounce, 2 Pack
+62	23.81	Maru Mochi Round Rice Cake 11.6 oz
+63	24.0	Black Beans "Senbei" - Rice Cracker - [3.5 Ounce (Pack of 3)]
+65	12.38	Bot Nep Pate De Riz Gluant (Glutinous Rice Flour) - 14.1oz (Pack of 6)
+66	9.0	UTC Speedi Meal -Taiwanese Style Glutinous Fried Sweet Rice (Ready to Eat) - 7.0 Oz
+67	8.4	Nona: Glutinous Rice Cube (Ketupat Palas) (1 X 432g)
+68	9.16	Glutinous Rice Flour - 16oz (Pack of 6)
+69	25.61	Taisun - Mixed Congee With Black Glutinous Rice & Job's Tears (Pack of 10)
+70	14.5	Speedi Meal (Glutinous Fried Rice Mix) - 7oz [3 units] by UTC.
+71	89.99	Gyeongsangdo Traditional Korean Cookies Set(for gift)in paper case 1kg
+72	16.79	Itoen Genmaicha (Brown Rice Tea) Matcha Blend Premium Bag 2.3g Pack of 50
+73	6.99	Forbidden Rice by Lotus Foods (15 ounce)
+74	12.99	Mochi Sweet Rice Cake Topping - White 300g 10.58oz
+75	12.99	Toasted Sticky Rice in Glass Spice-Preserve Bottle
+76	29.99	"Bonchi Senbei" Soy Sauce Tasted Baked Rice Crackers [Pack of 3]
+77	19.8	Nori Maki Arare (Rice Crackers Wrapped in Seaweed)yuzu Miso From Japan
+79	7.15	Davis Lewis Orchards Roasted Nuts, Oriental Delight, 10 Ounce
+80	20.8	Japanese Traditional Rice Cookie Crackers Small Maple Leaf Shape Brown Sugar, Pumpkin, Purple Sweet Potato Flavor
+81	29.8	5 of Japanese Traditional Soft Rice Cake with Red Bean Paste and Bean Grain Jam with Black Sesame Flavor
+82	19.8	Assort of Rice Cookie Crackers Mix Flavors
+83	34.5	Chinese Black Rice (Chinese call it "forbidden")
+84	29.8	5 Packs of Japanese Traditional Sweet Rice Cake Manju Bean Paste Jam Cake with Black Sesame,citron Flavor Kyoto
+85	46.0	Cooked Steamed Japanese Red Rice Bowl "Sekihan", Organic, Microwaveable [Pack of 5]
+86	16.95	Sweet Rice Longrain (Gao Nep Thuong Hang) - 10lb (Pack of 1)
+87	6.5	Glutinous Rice Roasted in Bamboo Joints (Khao Larm) Sterilized Thai Desserts From 100% Natural Ingredient Ready to Eat No Need to Cook.
+88	5.26	Brem (Glutinous Rice Snack) - 2.2oz (Pack of 1)
+89	5.45	Speedi Meal (Glutinous Fried Rice Mix) - 7oz by UTFC.
+90	130.0	Raitip - Thai Black Glutinous Rice (500g.) Mung Beans, White Beans, Cooking Beans, Mung Bean Seeds, Dried Beans, Mung Bean, Dry Beans, Healthy Cereal, Healthy Cereals, Best Cereal, Best Cereals, Sesame Seed, Sesame Seeds, Black Sesame, Herb Seeds, Grains, Health Food, Health Foods, Health and Food, Health Food Products, Health Food Diet, Cooking Rice, Asian Rice, Black Rice, Organic Rice ###(3 Bags)
+91	50.4	Ketupat Palas (Glutinous Rice Cube) - 15oz [Pack of 6]
+92	22.99	1box 2010yr Glutinous Rice Fragrance Small Golden Tuo Pu Er
+93	6.19	Bot Nep Pate De Riz Gluant (Glutinous Rice Flour) - 14.1oz (Pack of 3)
+94	19.99	1box Glutinous Rice Fragrance Small Golden Tuo Yunnan Pu erh Tea
+95	27.55	250 g glutinous rice sweet puer tea cooked mini-packaged tea in yunnan
+96	21.99	Glutinous Rice Fragrance Small Golden Tuo Healthy Care 1box
+97	49.99	Raitip - Thai Glutinous Rice (1000g.) Mung Beans, White Beans, Cooking Beans, Mung Bean Seeds, Dried Beans, Mung Bean, Dry Beans, Healthy Cereal, Healthy Cereals, Best Cereal, Best Cereals, Sesame Seed, Sesame Seeds, Black Sesame, Herb Seeds, Grains, Health Food, Health Foods, Health and Food, Health Food Products, Health Food Diet, Cooking Rice, Asian Rice, Black Rice, Organic Rice
+98	17.98	2009 Xin Yi Hao Beauty Skin Care Puerh Tea Glutinous Rice Fragrance 100g
+99	22.79	Thamm Culture 100% Finest & Natural Jasmine & Princess Pearl Inspiration Glutinous Rice 525g

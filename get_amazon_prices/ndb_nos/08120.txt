@@ -1,0 +1,75 @@
+1	16.08	Quaker Oats Old Fashioned Oatmeal, 18-Ounce Canisters (Pack of 6)
+2	20.56	Quaker oats, old fashioned, 2 5 lb. bags, 100+ servings 10-lb
+3	13.96	Bob's Red Mill Oats Rolled Regular, 32-Ounce (Pack of 4)
+5	10.0	Quaker Instant Oatmeal Original, 12-Count, 11.8 ounces Boxes (Pack of 4)
+6	10.0	Quaker Instant Oatmeal Apples & Cinnamon, 1.51oz Packets, 10-Count Boxes (Pack of 4)
+8	10.0	Quaker Instant Oatmeal Weight Control, Flavor Variety Pack, 1.58 oz, 8-Count Boxes (Pack of 4)
+9	15.99	Quaker Instant Oatmeal Lower Sugar, Flavor Variety Pack, 10 Count Boxes (Pack of 4)
+10	31.66	Nature's Path Organic Instant Hot Oatmeal, Variety Pack of Four Flavors, 8-Count Boxes (Pack of 6)
+14	13.74	Dr. McDougall?s Right Foods Organic Maple Oatmeal Cups Made with Organic Gluten Free Oatmeal, 2.5-Ounce Cups (Pack of 6)
+15	16.08	Quaker Oats Quick Oatmeal, 18-Ounce Packages (Pack of 6)
+17	14.19	Quaker Quick 1-Minute Oats, 55 Servings, 2-40 Ounce
+18	10.0	Quaker Instant Oatmeal Raisin, Date & Walnut,  1.3 oz., Packs, 10-Count Boxes (Pack of 4)
+19	16.47	Quaker Instant Oatmeal Bakery Favorites, Variety Pack, 10-Count, 14.6 oz Boxes (Pack of 4)
+20	11.96	Bob's Red Mill Organic Oats Rolled Thick, 16-Ounce (Pack of 4)
+21	9.96	Quaker Instant Oatmeal Strawberry & Cream, 10-Count Box, 12.3 oz (Pack of 4)
+23	14.09	McCann's Quick & Easy Steel Cut Oatmeal Can - 24 oz
+24	22.24	Quaker Instant Oatmeal Variety Pack - 52 ct (Now with twice More Calcium
+25	11.91	Dr. McDougall's Right Foods Fruit, Flax and Nuts Oatmeal Made with Organic Oats, 2.7 Ounce (Pack of 6)
+26	8.89	Better Oats Oat Revolution! Instant Oatmeal ~ Steel Cut Oats Maple & Brown Sugar Flavor ~ 10 Pouches per 15.1 oz Box
+27	19.29	Organic Old-Fashioned Rolled Oats Oatmeal 365 Everyday Value
+29	18.08	Quaker Instant Oatmeal Instant Oats Express, Apple Cranberry, 1.79 Ounce (Pack of 12)
+30	18.08	Quaker Instant Oatmeal Instant Oats Express, Apple Cranberry, 1.79 Ounce (Pack of 12)
+31	20.08	Quaker Instant Oatmeal Express Maple Brown Sugar, 1.69-Ounce Cups (Pack of 12), Packaging May Vary
+32	10.0	Quaker Instant Oatmeal Peaches & Cream, 1.23 Ounce, 10-Count Boxes (Pack of 4)
+33	16.5	Nature's Path Organic Instant Hot Oatmeal Pouch Flax Plus, 8-Count Boxes (Pack of 6)
+34	10.96	Quaker Oats Quick 1 Minute Oatmeal 42 oz
+36	11.52	Quaker Instant Oatmeal High Fiber, Cinnamon Swirl, 12.6-Ounce Boxes (Pack of 4)
+38	16.45	Nature's Path Organic Instant Hot Oatmeal, Optimum Power, Cinnamon Blueberry Flaxseed, 8-Count 11.20-Ounce Box (Pack of 6)
+39	19.98	Quaker Instant Oatmeal Flavor Multi-Pack - 52 Packets
+40	13.16	Bob's Red Mill Oatmeal Scottish, 20-Ounce (Pack of 4)
+43	25.14	Nature's Path Organic Instant Hot Oatmeal Pouch Original, 14-Ounce Box (Pack of 6)
+44	9.97	Quaker Instant Oatmeal, High Fiber, Maple Brown Sugar, 1.58 Ounce Packet, 8 Count, (Pack of 4)
+45	20.27	Bob's Red Mill Organic Oats Rolled Quick, 32-Ounce (Pack of 4)
+46	9.98	McCanns Steel Cut Irish Oatmeal Tin, 28 oz
+47	17.53	Quaker Instant Oatmeal Instant Oats Express, Apple Cinnamon, 1.51 Ounce (Pack of 12)
+48	10.0	Quaker Instant Oatmeal Dinosaur Eggs, Brown Sugar Cereal, 8-Count 14.1 oz. Boxes (Pack of 4)
+50	12.98	GF Harvest Gluten Free Organic Rolled Oats, 41-Ounce Pouch
+51	17.28	Quaker Instant Oatmeal Lower Sugar Maple & Brown Sugar, 10-Count 1.19oz  Boxes (Pack of 6)
+53	36.42	Glutenfreeda's Instant Oatmeal, Variety Pack, 6-Count Packets (Pack of 8)
+54	20.34	Nature's Path Organic Instant Hot Cereal, Apple Cinnamon, 8-Count Boxes (Pack of 6)
+55	9.5	Better Oats Oat Revolution! Instant Oatmeal ~ Classic Steel Cut Oats ~One 11.6 oz Box containing 10 oat pouches
+56	8.97	McCann's Artisan Collection Instant Oatmeal, Pumpkin Pecan with Vietnamese Cinnamon, 8-Count Packets Net WT 12.1 oz (344g)
+57	17.99	Bob's Red Mill Oats Rolled Thick, 32-Ounce (Pack of 4)
+58	14.95	Quaker Instant Oatmeal Fruit & Cream Variety - 18 CT
+60	31.27	McCANN'S Steel Cut Irish Oatmeal, Quick & Easy, 16-Ounce Boxes (Pack of 6)
+61	23.94	Dr. McDougall's Right Foods Organic Instant Oatmeal, Light Maple Brown Sugar, 1.3 Ounce Packets, 8-Count Boxes (Pack of 6)
+62	59.9	McCANN'S Steel Cut Irish Oatmeal, Quick & Easy, 24-Ounce Canisters (Pack of 6)
+63	4.96	McCann's Instant Irish Oatmeal, Apple and Cinnamon, 12.34 Ounce
+67	12.0	Quaker Steel Cut Oats, 30 oz
+68	25.14	Nature's Path Organic Instant Hot Oatmeal, Maple Nut, 8-Count Boxes (Pack of 6)
+69	18.27	Quaker Instant Oatmeal Instant Oats Express, Honey Almond, 1.76 Ounce (Pack of 12)
+70	18.27	Quaker Instant Oatmeal Instant Oats Express, Honey Almond, 1.76 Ounce (Pack of 12)
+72	15.36	Quaker Instant Oatmeal Cinnamon Roll, 10-Count, 15.1 oz Boxes(Pack of 4)
+73	26.94	Dr. McDougall's Right Foods Organic Instant Oatmeal, Original, Net Wt. 9.9 Oz, 10-Count Boxes (Pack of 6)
+74	26.4	Quaker Instant Oatmeal Raisin & Spice, 10-Count 1.51oz  Packets (Pack of 4)
+75	14.46	Quaker Oatmeal To Go, Brown Sugar Cinnamon Breakfast Bars, 2.1 oz. Bars, 6-Count (Pack of 6)
+77	25.77	McCANN'S Instant Irish Oatmeal, Maple & Brown Sugar, 10-Count Boxes (Pack of 6)
+78	15.99	Quaker Instant Oatmeal Cereal, Variety Pack, 76.2 Ounce
+79	13.9	Better Oats, Oat Fit Instant Oatmeal, Maple & Brown Sugar, 10 Pouches per Box (Pack of 2)
+81	10.99	Quaker Old Fashioned Oats 42 oz
+82	15.77	Dr. McDougall's Right Foods Apple Flax Oatmeal Made With Organic Gluten Free Oats, 2.3-Ounce Cups (Pack of 6)
+83	21.12	Quaker Instant Oatmeal, Chocolate Chip, 1.23 Oz., 10 Count  Packets (Pack of 4)
+84	29.88	Umpqua Oats Not Guilty Oatmeal (12x1.9 OZ)
+85	23.42	Quaker Instant Oatmeal Weight Control, Maple Brown Sugar, 8-Count Boxes (Pack of 4)
+88	11.91	McCann's Artisan Collection Instant Oatmeal, Madagascar Vanilla Bean with Honey, 8 packets, net weight 10.7oz
+89	20.0	The Silver Palate Oatmeal, Thick & Rough, 16-Ounce Box (Pack of 4)
+90	16.37	Love Grown Hot Oats, Peach Almond Vanilla, 2.22 Ounce (Pack of 8)
+91	23.5	Quaker Instant Oatmeal Cinnamon & Spice, 10-Count Boxes (Pack of 4)
+92	7.19	McCann's Artisan Collection Instant Oatmeal, Apple, Cranberry & Walnut, 8- Packets, Net weight 12.1oz
+93	23.39	Bob's Red Mill Organic Steel Cut Oats, 4 - 24-Ounce bags
+94	15.97	Bob's Red Mill Oats Steel Cut 54 ozs
+95	18.46	N'Joy Fruit Harvest,  2.58-Ounces, 8-Count,
+96	21.19	Quaker, Real Medleys Oatmeal, NEW FLAVORS! VARIETY 6 PACK: 2 Bowls of CARAMEL APPLE, 2 Bowls of MAPLE PECAN RAISIN, 2 Bowls of BANANA WALNUT (6 PACK)
+97	17.99	Quaker Oats Quick 1 Minute Oatmeal - 2/5 lb.
+99	39.95	Earnest Eats Hot and Fit Cereal Variety Pack of 12

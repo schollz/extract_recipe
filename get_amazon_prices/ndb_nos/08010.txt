@@ -1,0 +1,76 @@
+0	29.55	Cap'N Crunch, Red Box, 20-Ounce (Pack of 5)
+1	17.95	Cap'N Crunch Sweetened Corn and Oat Cereal, 40 Ounce
+2	40.9	Cap'N Crunch's Crunch Berries, 18.7-Ounce Boxes (Pack of 5)
+3	9.9	Cap'N Crunch Original Cereal - 14 oz
+4	32.9	Cap'N Crunch, Peanut Butter, 17.1-Ounce (Pack of 5)
+5	11.9	Quaker Cap'n Crunch Sweetened Corn & Oat Cereal 20 oz
+6	7.69	Cap'N Crunch Crunch Berry Cereal - 13 oz
+7	14.91	Cap'N Crunch's Cereal, 1.51 Ounce (Pack of 12)
+8	25.88	Quaker, Cap'n Crunch's Sprinkled Donut Crunch Cereal, 17.3oz Box (Pack of 3)
+9	30.52	Cap'N Crunch, Crunch Berries, 13-Ounce (Pack of 14)
+10	8.97	Quaker Cap'n Crunch Peanut Butter, 12.5 oz
+11	29.95	Quaker, Cap'n Crunch Original Cereal, 14oz Box (Pack of 4)
+12	6.99	Cap'n Crunch's Christmas Crunch Cereal, Limited Edition - One 13 oz Box
+13	4.8	Cap'n Crunch's Halloween Crunch Ghosts Turn Milk GREEN! 13 oz box
+14	10.99	Christmas Captain Crunch Cereal 2 Boxes Limited Edition Cap'n Crunch
+15	12.99	Quaker Cap'n Crunch Cinnamon Roll Crunch Cereal, 14.5oz
+16	19.98	Cap'n Crunch Sweetened Corn and Oat Cereal, 40 Ounce (Pack of 2)
+17	16.29	Captain Crunch Crunch Berries Cereal 40 Ounce Value Box Two 20 Ounce Bags
+18	6.49	Cap'N Crunch Peanut Butter Crunch Cereal - 17.1 oz
+19	12.98	Cap'n Crunch's Sprinkled Donut Crunch Cereal, 17.3 oz
+20	23.72	Cap'n Crunch's Oops! All Berries Cereal 11.5 Oz. Box (Pack of 4)
+21	97.76	Cap'N Crunch, Peanut Butter, 12.5-Ounce (Pack of 14)
+22	10.98	Cap'n Crunch's Oops! All Berries Cereal 11.5 Oz. Box
+23	97.41	Quaker Cap'n Crunch's Oops! All Berries Cereal 11.5 oz (Pack of 14)
+24	12.99	Cap'n Crunch Treats Crunch Berries - 8 CT
+25	22.19	Quaker Cap'n Crunch Cinnamon Roll Crunch Cereal (Quantity of 2) Captain Crunch
+26	16.71	Cap'N Crunch's Cereal, Crunch Berries, 15.6 Ounce (Pack of 12)
+27	21.54	Quaker Cap'n Crunch Sprinkled Donut Crunch Cereal-2pack
+28	12.97	Cap'n Crunch's Chocolatey Crunch, 20-ounce Box
+29	23.45	Quaker, Cap'n Crunch, Crunch Berries Cereal, 13oz Box (Pack of 4)
+30	6.92	Quaker Cap'n Crunch Crunchberries, 18.7 oz
+31	20.0	Cap'n Crunch's Cinnamon Roll Crunch (Pack of 2)
+32	23.95	Quaker, Cap'n Crunch, Peanut Butter Crunch Cereal, 12.5oz Box (Pack of 4)
+33	15.0	Quaker Cap'N Crunch's Crunch Berries Cereal 18.7 oz
+34	16.99	Cap'n Crunch Cereal Cinnamon roll Crunch
+35	24.77	Cap'n Crunch's Chocolatey Crunch, 20-ounce Box (Pack of 3)
+36	18.94	Cap'N Crunch Cereal, The Larger 16-Ounce Boxes (Pack of 4)
+37	84.99	Cap'N Crunch, Chocolatey Crunch, Small Box, 14-Ounce (Pack of 14)
+38	23.28	Quaker Cap'n Crunch Cereal 14 Oz, Pack of 2
+39	999.5	Cap'n Crunch Peanut Butter Crunch Cereal
+40	24.0	Cap'n Crunch, 12-Ounce Boxes (Pack of 4)
+41	17.59	Cap'n Crunch Peanut Butter Crunch Cereal 14 oz. (Pack of 4)
+42	19.09	Cap'n Crunch's Oops All Berries Cereal 15.4 Oz (Set of 4)
+43	37.99	Cap'n Crunch Peanut Butter Crunch Cereal 14 Oz. (Pack of 6)
+44	19.99	Captain Crunch Chocolate 14 oz Breakfast Cereal Box
+45	18.99	Cap'n Crunch Crunch Berries Cereal, 15oz Boxes (Pack of 4)
+46	22.0	Cap'n Crunch's Oops All Berries Cereal 15.4 Oz (Set of 2)
+47	41.88	Cap'n Crunch Treats Peanut Butter - 8 CT
+48	32.49	Quaker, Cap'n Crunch, Peanut Butter Crunch, 17.1oz Box (Pack of 4)
+49	17.99	Cap'N Crunch Sweetened Corn & Oat Cereal, Peanut Butter Crunch, 20.7 oz, (pack of 3)
+50	59.99	Cap'n Crunch OOPS! All Berries Cereal, 11.5 oz (Pack of 7)
+51	73.33	Cap'n Crunch Treats Crunch Berries 6.7 OZ (Pack of 16)
+52	104.87	Cap'n Crunch Treats Crunch Berries 6.7 OZ (Pack of 24)
+53	41.99	Cap N Crunch Bulk 34oz- 4 Bags Per Case
+54	33.13	Cap'N Crunch's Chocolatey Crunch, 20-Ounce Boxes (Pack of 5)
+55	12.77	CAP'N CRUNCH CEREAL 12.2 OZ BOX
+57	83.33	Quaker Cap'N Crunch's Crunch Berries Cereal 18.7 oz (Pack of 10)
+58	21.07	Quaker. Cap'n Crunch, Oops! All Berries Cereal, 15.4oz Box (Pack of 3)
+59	18.99	Cap'N Crunch's Crunch Berries 3 Pantry Friendly Boxes - 13 oz Each
+60	42.22	Cap'n Crunch's Oops All Berries Cereal 15.4 Oz Box (6 boxes)
+61	142.97	Cap'n Cereal 20 OZ (Pack of 20)
+62	43.35	Pepsico Cap n Crunch Cereal, 34 Ounce -- 4 bags per case.
+63	97.76	Quaker Cap'n Crunch's Peanut Butter Crunch Cereal 12.5 oz (Pack of 14)
+64	92.45	Quaker Cap'n Crunch's Crunch Berries Cereal 13 oz (Pack of 14)
+65	90.6	Quaker Cap'n Crunch Cereal 14 oz (Pack of 14)
+66	142.87	Cap'n Crunch Crunch Berries Cereal 18.7 OZ (Pack of 20)
+67	41.99	Quaker Cap'N Crunch, Bulk Savings, 34 oz, 4 pk
+68	23.98	CAP'N CRUNCH 7 Crunch Berries & 7 Peanut Butter Cereal Bar Treats (2 Pack) 11.8 oz Boxes (28 Bars Total)
+69	83.33	Quaker Cap'N Crunch's Peanut Butter Crunch Cereal 17.1 oz (Pack of 10)
+70	141.93	Cap'n Crunch Peanut Butter Crunch Cereal 17.1 OZ (Pack of 20)
+71	54.13	Quaker Cap'n Crunch Sweetened Corn & Oat Cereal 20 oz (Pack of 10)
+72	4.0	1990s Capn Crunch Crunchling Koosh Cereal Premium New
+73	29.99	Berry Colossal Crunch Cereal, 1-Ounce Bowls (Pack of 96)
+74	54.95	Fruit N' More Premium Cookie and Fruit Basket
+75	42.95	Malt-O-Meal Berry Colossal Crunch Cereal, 12.5-Ounce Bag (Pack of 12)
+76	15.9	Milk Chocolate Gold Bullion Pirate Bars x3 Packs

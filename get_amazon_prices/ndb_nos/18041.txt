@@ -1,0 +1,90 @@
+1	12.51	Stacy's Pita Chips, Simply Naked, 1.5-Ounce Bags (Pack of 24)
+2	3.99	Pita Bread ,10 count
+3	6.99	Joseph's Flax, Oat Bran and Whole Wheat Flour Pita Bread
+4	4.99	Pita Wraps, Mediterranean, 9 inch, 10 count (32oz)
+5	42.01	Sensible Portions Pita Bites, Sea Salt, 5-Ounce Boxes (Pack of 12)
+6	12.51	Stacy's Pita Chips, Parmesan Garlic & Herb, 1.5-Ounce Bags (Pack of 24)
+7	12.56	Stacy's Pita Chips, Cinnamon Sugar, 1.5-Ounce Bags (Pack of 24)
+8	15.92	Sensible Portions Pita Bites Original Sea Salt - 20 oz
+9	11.99	Josephs Flax Oat Bran & Whole Wheat Pita Bread, 10.4 Oz (Pack of 2)
+10	33.36	Stacy's Pita Chips, Multigrain, 8-Ounce Bags (Pack of 12)
+11	7.7	Wheat Thins Toasted Pita Original, 8 Ounce
+12	40.25	Stacy's Pita Chips, Simply Naked, 8-Ounce Bags (Pack of 12)
+13	19.13	Keebler, Town House, Pita Crackers, Sea Salt, 9.5oz Box (Pack of 4)
+14	37.14	Stacy's Pita Chips, Parmesan Garlic & Herb, 8-Ounce Bags (Pack of 12)
+16	47.44	Athenos Pita Chips, Whole Wheat, 9-Ounces (Pack of 12)
+18	35.94	Stacy's Pita Chips, Simply Naked, 18-Ounce Bags (Pack of 6)
+19	43.5	Stacy's Pita Chips, Simply Naked, 1-Ounce Bags (Pack of 48)
+21	25.0	Stacy's Pita Chips, Variety Pack, 1.5-Ounce Bags (Pack of 24)
+22	5.28	Joseph's Lavash Bread Flax Oat Bran & Whole Wheat Reduced Carb - 4 Square Breads
+23	7.17	Stacy's Pita Chips Simply Naked - 24 oz.
+24	10.56	Wellabys Cinnamon Sugar Pita Chips, 5 Ounce
+25	28.72	Stacy's Pita Chips, Cinnamon Sugar, 1.5 Ounce (Pack of 24)
+26	15.6	Stacy's, Pita Chips, Garden Vegetable Medley, 7.33oz Bag (Pack of 3)
+27	19.99	Athenos Baked Whole Wheat Pita Chips, 9 Oz. (Pack of 3)
+28	17.99	Keebler Townhouse Pita Oven Baked Crackers with Sea Salt - Three 9.5 oz. Boxes
+29	5.87	Trader Joe's Pita Crisps with Cranberries & Pumpkin Seeds
+30	32.6	Ozery Bakery Morning Rounds Muesli Pita Bread, 12.7 Ounce - 6 per pack -- 6 packs per case.
+31	12.61	Stacys Simply Naked Pita Chips, 28 Ounce
+33	4.28	Turkish Round Pita Bread (3 Pack)
+34	2.99	Pita Bread, Pocket, Lebanese, Syrian 28oz (10 pc)
+35	34.32	Stacy's Snacks Simply Naked Pita Crisps, 6.75-ounce Bags (Case of 8)
+37	6.95	Mini Reduced Carb/Flax, Oat Bran & Whole Wheat Pita Bread, 8 Loaves
+38	46.75	Stacy's Pita Chips, Cinnamon Sugar Flavored, (12 X 8 Oz.)
+39	37.62	New York Style, Pita Chip Red Hot Chili, 9 OZ (Pack of 12)
+40	15.45	Father Sam's Mini White Pita Pockets 14 Oz 2 Packs
+41	23.75	Stacy's Pita Chips Simply Naked - 24 oz. - CASE PACK OF 4
+43	42.46	New York Style Sea Salt Pita Chips, 9 Ounce -- 12 per case.
+44	5.99	Stacy's Pita Chips Perfectly Thymed Pita Crisps, 6.75 oz
+46	12.99	Trader Joe's Multigrain Pita Bite Crackers
+47	36.35	Sensible Portions Pita Bites, Garlic & Chive, 5-Ounce Boxes (Pack of 12)
+48	18.25	Stacy's, Pita Chips, Cinnamon Sugar, 8oz Bag (Pack of 3)
+49	5.99	Stacy's Pita Chips Cest La Cheese Pita Crisps, 6.75 oz
+50	26.32	Wild Garden Humus & MultiGrain Pita Chips (Snack Combo To Go)
+51	20.92	Waleed's Pita Chip - Garlic, 12-Ounce (Pack of 4)
+52	23.0	Stacy's Cinnamon Sugar Pita Chips (24x1.5 Oz)
+53	29.99	Baked in Brooklyn Pita Chips, Sea Salt, 1-ounce Bags (Pack of 24)
+55	10.89	Trader Joe's Reduced Guilt Pita Chips with Sea Salt
+56	37.05	Kangaroo Garlic Herb Pita Chips - 9 oz. bag, 20 per case
+57	18.99	Trader Joe's Pita Bite Crackers (Pack of 2)
+58	14.99	Stacy's, Pita Chips, Multi-Grain, 8oz Bag (Pack of 3)
+59	34.99	Baked in Brooklyn Pita Chips, Multigrain, 8oz. Bags (Pack of 12)
+60	74.74	Olympia Original Greek Flat Pita Bread, 6 Inch, 2 Pound (Pack of 12)
+61	53.15	Grecian Delight Gyro Beef and Lamb Pita Sandwich, 7.75 Ounce -- 18 per case.
+62	34.99	Baked in Brooklyn Flatbread Crisps,The Works, 6-ounce Bags (Pack of 12)
+63	19.99	Trader Joe's Pita Crisps with Cranberries & Pumpkin Seeds (2 Packs)
+64	36.45	Kangaroo Sea Salt Pita Chips - 20 oz. bag, 8 per case
+65	4.49	Kashi Original Sea Salt TLC Pita Crisps, 7.9 oz
+66	50.06	Stacy'S Cinnamon Sugar Pita Chips 8 Oz (Pack of 12) - Pack Of 12
+67	37.0	Stacy's Cinnamon Sugar Pita Chips, 6-Ounce Bags (Pack of 12)
+68	43.5	Sensible Portions Pita Bites, Black Olive and Feta, 5 Ounce (Pack of 12)
+69	2.89	Pita Pockets, Plain, 14oz
+70	45.0	Stacy'S Cinnamon Sugar Pita Chips (12x8 Oz)
+71	44.0	Stacy's Pita Chips, Simply Naked, 8-Ounce Bag (Pack of 12)
+72	37.62	New York Style Sea Salt Pita Chips 9 oz - Pack of 12
+73	3.78	Kashi - Original 7 Grain Sea Salt Pita Crisps - 7.9 oz.
+74	15.7	Stacy's, Pita Chips, Parmesan Garlic Herb, 8oz Bag (Pack of 3)
+75	36.9	Kangaroo Greek Pita Flatbread (r), Traditional White 5-pieces, 12-ounce (Pack of 12)
+76	42.46	New York Style Garden Fresh Ranch Pita Chips - 9 oz. bag, 12 per case
+77	10.74	Wheat Thins Toasted Pita Garlic and Herb, 8 Ounce
+78	7.99	TORTILLA BRWN RICE WF GF
+79	37.05	Kangaroo Multi Grain Garden Herb Pita Chips, 9 Ounce -- 20 bags per case.
+80	47.85	Stacy's Simply Naked Pita Chips, 18-Ounce Bags (Pack of 6)
+81	48.72	Stacy'S Simply Bruschetta Pita Chips (Case Of 12)
+82	26.99	Sensible Portions Pita Bites, Original Sea Salt, 5 oz (Pack of 3)
+83	20.55	Kangaroo Sea Salt Pita Chips - 4 oz. bag, 18 per case
+84	9.47	Trader Joes Pita Chips W/cinnamon & Sugar
+85	12.49	Father Sam's White Pita Pockets 14 Oz 2 Packs
+86	8.98	Trader Joe's Multigrain Pita Chips with Sesame Seeds 6oz
+87	37.05	Kangaroo Sea Salt Pita Chips, 9 Ounce -- 20 bags per case.
+89	88.55	Waleed's Plain, 20-Ounce (Pack of 12)
+90	5.5	Cortas Hummos Tahina, 400 g (14 oz)
+91	8.0	Pokemon Pps-10 Pita Pokeibui
+92	13.55	Kontos Taste of the Mediterranean Flat Breads Traditional White Pocket-less Pita 14 Oz -2 Packs
+93	6.5	Stacy's Parmesan Garlic Herb Pita Chips - 8 oz
+94	13.97	Trader Joes Pita Chips W/sesame Seed
+95	15.85	Stacy's, Pita Chips, Italian Harvest, 7.33oz Bag (Pack of 3)
+96	4.95	Lebanese Zaatar 8 oz by OliveNation
+97	36.9	Kangaroo White Pita Pocket Bread, 12 Ounce -- 12 per case.
+98	9.99	Dixie Diner Pita Chips Sweet Cinnamon
+99	36.9	Kangaroo Whole Wheat Honey Pita Pocket Bread, 12 Ounce -- 12 per case.

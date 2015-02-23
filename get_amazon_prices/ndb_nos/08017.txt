@@ -1,0 +1,76 @@
+0	11.94	Cookie Crisp Cereal, 19.8-Ounce Boxes (Pack of 3)
+1	16.78	Cookie Crisp Cereal, 11.25-Ounce Box (Pack of 3)
+3	14.85	Limited Edition Holiday Cereal Bundle Holiday Sprinkles Cookie Crisp and Sugar Cookie Toast Crunch 1 Full Size Box of Each
+4	8.97	Cookie Crisp Whole Grain Cereal 11.25 oz
+5	7.52	Holiday Sprinkles Cookie Crisp Cereal - One 11.25 Oz Box
+6	7.19	Cookie Crisp Cookie Crisp, 15.6 oz
+7	11.99	Reeses Puffs, Peanut Butter, 22.9 Ounce (Pack of 3)
+8	17.77	Holiday Sprinkles Cookie Crisp Cereal - One 11.25 Oz Box (Pack of 2)
+10	33.95	Holly Baking Cookie Brittle Original Butter Rich 6 x 6oz Boxes
+11	18.24	Enjoy Life Sugar Crunchy Cookie, 6.3-Ounce (Pack of 6)
+12	8.38	Gille Double Chocolate Cookie Crisps, 4.4 Ounce
+14	26.99	Kellogg's, Special K, Pastry Crisps, Cookies and Creme, 4.4oz Box (Pack of 4)
+15	12.0	Cocoa Puffs, 20.9 Ounce (Pack of 3)
+16	9.52	Gille Oat Cookie Crisps, 4.4 Ounce
+17	7.99	Jules Destrooper, Cookie Butter Crisp, 3.52-Ounce
+19	9.99	Nestle Skinny Cow Heavenly Crisp Chocolate Cookies & Cream Candy Bar Limited Edition (1 Box/6 Bars)
+20	6.5	Too Good Gourmet Cookie Brittle Crisps, Peanut Brittle, 6 Ounce
+21	9.16	Too Good Gourmet Cookie Brittle Crisps, Brownie, 6 Ounce
+22	24.99	Tate's Bake Shop All Natural Gluten-Free Chocolate Chip Cookies 7oz (Pack of 3)
+23	5.39	Ginnybakes Cookie, Naked Love Butter Crisp, 5.5 Ounce
+24	21.0	Laceys Almond and Dark Chocolate Crisp Toffee Wafer Cookies
+26	22.5	Trader Joe's Belgian Butter Waffle Cookies (4 Pack)
+27	44.4	Newtons Fruit Thins, Lemon Crisp Crispy Cookies 10.5 Ounce Bag (Pack of 8)
+28	19.96	Mia Dolci Cookies Cinnamon Crisp, 6.5-Ounce (Pack of 4)
+30	9.51	GF Harvest Oatmeal Cookie Crisp Granola, 20 Ounce
+32	16.08	Nabisco 100 Calorie Packs, Lorna Doone Shortbread Cookie Crisps, 4.44 Ounce Box (Pack of 6)
+33	16.25	100 Calorie Packs Oreo Thin Crisps, 6-Count Packs (Pack of 2)
+34	24.0	100 Calorie Packs Lorna Doone Shortbread Cookie Crisps, 6-Count Boxes (Pack of 6)
+35	14.24	Gourmet Center Biscoff Cookie, Crisp European, 8.8oz, (pack of 2)
+37	15.9	Enjoy Life Crunchy Handcrafted Cookies Gluten Free Sugar Crisp -- 6.3 oz
+38	24.99	Tate's Bake Shop All Natural White Chocolate Macadamia Nut Cookies 7oz (Pack of 3)
+39	8.95	Cuetara Campechanas Palmeritas Crisp Palm Cookies, 17.6 Ounce
+40	21.73	Enjoy Life Cookies, Crunchy Sugar Crisp, 1-Ounce (Pack of 12)
+41	23.94	General Mills Cookie Crisp Whole Grain Cereal 11.25 oz(Pack of 4)
+42	9.95	Pepperidge Farm Chesapeake Chocolate Chunk Dark Chocolate Pecan Crisp Cookies 7.2 oz
+43	16.0	Trader Joe's Belgian Butter Waffle Cookie Crisps - 2 Pack
+45	34.45	Nabisco 100 Calorie Packs, Oreo Thin Crisps, 4.86 Ounce Box (Pack of 6)
+46	23.97	Jules Destrooper Butter Crisps. 3.5 Oz. [Pack of 4]
+47	13.99	Enjoy Life Crunchy Handcrafted Cookies, Sugar Crisp 6.3 oz (Pack of 2)
+48	54.95	Laceys Almond and Dark Chocolate Crisp Toffee Wafer Cookies: 2 Packs of 25 Oz
+50	19.99	8oz Niche Foods Crisp Lemon Coolers Cookies Rolled in Powdered Sugar, Old Time Favorite
+51	15.99	Nabisco, Lorna Doone Shorbread Cookie Crisps, 6 Count, 4.47oz Box (Pack of 2)
+52	3.57	Pepperidge Farm Sausalito Chocolate Chunk Milk Chocolate Macadamia Crisp Cookies 7.2 oz
+53	25.74	Enjoy Life Crnchy Cookie Sugar Crisp (24x0.9OZ )
+54	19.82	Enjoy Life Crunchy Cookies Grab and Go Variety Pack, Vanilla Honey Graham, Sugar Crisp,  0.9-Ounce (Pack of 24)
+55	23.12	Traverse Bay Confections Cookies, French Apple Crisp, 7-Ounce Bag (Pack of 4)
+56	71.6	Nestle Coffee Crisp Bites - 8 x 210 gram bags. Chocolate covered bite-size cookie wafers with a subtle coffee flavor. Imported from Canada.
+59	17.15	HannahMax Cookie Chips bundle
+60	24.99	Tate's Bake Shop All Natural Chocolate Chip Cookies 7oz (Pack of 3)
+61	20.24	Pop Tarts Mini-crisps Blueberry 4.9 Oz (Pack of 2)
+62	21.54	Ginnybakes Organic and Gluten Free Cookie Go Packs, Naked Love Butter Crisp, 1.9 Ounce, 12 count
+63	35.8	Nestle Coffee Crisp Bites - 4 x 210 gram bags. Chocolate covered bite-size cookie wafers with a subtle coffee flavor. Imported from Canada.
+64	19.99	Lorna Doone Cookies, 10 oz
+65	6.75	Jules Destrooper, Cookie Butter Crisp, 3.52 OZ
+67	10.98	Canada Candy Coffee Crisp Chocolate Bar 4 x 50gram Bars. Imported from Canada.
+68	29.99	Skinny Cow Chocolate 3 Flavor Variety Bundle: (1) Skinny Cow Heavenly Crisp Chocolate Raspberry, (1) Skinny Cow Milk Chocolate Dreamy Clusters Candy, and (1) Skinny Cow Heavenly Crisp Cookies & Cream, 4.65-6 Oz. Ea. (3 Total)
+71	6.99	Ghiott Ghiottini Italian Crisp Almond Cookies 14 oz.
+72	3.89	Enjoy Life Crunchy Sugar Crisp Cookies, 6.3 oz
+74	6.75	Biscoff Cookies - 1 Pack Contains 32 Individual Cookies 8.8oz
+75	32.18	Kellogg's Special K Pastry Crisps Chocolate 4.4-ounce (Pack of 4)
+78	169.27	Enjoy Life Sugar Crisp Crunchy Cookie, 0.9-Ounce (Pack of 24)
+79	20.02	Quaker Cereal Bars, Apple Crisp,1.30 oz bars 8-Count Bars (Pack of 6)
+80	31.33	Newton Fruit Thins Lemon Crisps, 10.5-Ounce(4 pack)
+83	29.95	General Mills Cookie Crisp Cereal, 15.6 oz (Pack of 4)
+85	7.73	Erin Baker's Endurance Granola, Kona Crisp, 12 Ounce Bag
+87	15.12	Gille Cookie Crisps, Orange, 4.4 Ounce
+88	39.03	Cherrybrook Kitchen Chocolate Chip Cookie Mix, Peanut Free!, 14.8-Ounce Boxes (Pack of 6)
+89	41.95	HannahMax Baking Natural Crunchy Original Cookie Chips, 6oz. 6 Pack
+90	13.97	2 Packs Trader Joe's Yogurt Stars Crisp Vanilla Cookies with Fruity Yogurt Coatings
+91	30.0	Nabisco Biscos Sugar Wafers, 8.5-Ounce Boxes (Pack of 6)
+92	27.35	Nestle Coffee Crisp Chocolate Bars - 12 Pack | Imported From Canada
+93	21.88	Tate's Bake Shop All Natural Double Chocolate Chip Cookies 7oz (Pack of 3)
+94	21.48	Harvest Snaps Lentil Snaps Onion Thyme, 3.0 Ounce (Pack of 12)
+96	22.98	Jules Destrooper Crisp Butter Wafer, 6.1 Ounce
+97	69.99	Tate's Bake Shop Cookies - Oatmeal Raisin - All Natural - Each Bag is 7 Ounces (Pack of 12)
+98	18.94	Delacre Roule D Or Golden Crisp Crepe Flute 35.3 oz

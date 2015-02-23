@@ -1,0 +1,82 @@
+0	9.49	Heinz White Vinegar Distilled, 128 oz
+1	3.5	White House White Distilled Vinegar 64oz
+2	5.04	Bakers & Chefs Vinegar - 2/1 gallon jugs
+5	8.6	Heinz Distilled White Vinegar 16 oz
+7	17.89	Heinz White Vinegar Distilled, 128 oz, 2pk
+8	10.99	Heinz White Vinegar, Plastic, 64 oz, 2 pk
+10	5.99	Heinz White Vinegar, 32oz
+11	5.99	Heinz White Vinegar, Plastic, 64 oz
+13	11.56	Mantova Italian Red Wine Vinegar, 17-Ounce Bottles (Pack of 4)
+14	25.38	Due Vittorie Oro Gold Balsamic Vinegar - 250ml
+15	31.95	Balsamic Vinegar Gift Set
+17	16.95	200 Grain White Distilled Vinegar - 20% Acetic Acid
+18	11.4	Koon Chun Black Vinegar
+19	14.99	Distilled White Vinegar - 1 jug, 1 gallon
+20	12.99	Spectrum Naturals Organic Apple Cider Vinegar Unfiltered -- 16 fl oz
+21	2.19	White House White Distilled Vinegar 32oz
+22	5.35	White House White Distilled Vinegar 128oz
+23	12.99	Chinkiang Vinegar
+24	10.08	Bakers and Chefs White Vinegar, 256 Ounce
+25	6.11	Trader Joe's Gourmet Orange Muscat Champagne Vinegar
+26	15.53	Fini Modena Balsamic Vinegar of Modena ( Aceto Balsamico de Modena)
+27	6.99	San Giuliano Cannonau Wine Vinegar, 17-Ounce
+28	19.81	Gran Capirete Sherry Vinegar Vinegret De Jerez 50 Years Vintage, 8.3-Ounce
+31	11.76	Marukan Seasoned Gourmet Rice Vinegar
+32	5.75	Italian White Wine Vinegar Special Selection, 8.5 Fl. Oz
+33	32.37	Mantova Organic Flavored Balsamic Condiments, Pear, Raspberry, Fig and Pomegranate, 5 Pound
+34	9.99	L'ESTORNELL Grenache Varietal Red Wine Vinegar, 8.5-Ounce
+36	16.88	CHINKIANG VINEGAR 2x21OZ
+37	11.09	Trader Joe's Pomegranate Vinegar
+38	12.04	Trader Joe's Organic Pasteurized Unfiltered Apple Cider Vinegar
+39	10.6	Terra Medi Greek White Wine Vinegar, 17 Ounce
+40	7.83	Vitacost Organic Apple Cider Vinegar with ''Mother'' -- 32 fl oz
+41	10.79	Coconut Secret - Raw Coconut Vinegar - 12.7 oz.
+42	30.77	Mange Fresh Fruit Vinegar Gourmet Taster Set, 1.4 Pound
+43	29.99	Villa Manodori Artigianale Balsamic Vinegar -8.5 oz.
+44	16.97	White Distilled Vinegar Powder, 14 Oz
+45	12.78	Sarson's Malt Vinegar (568ml)
+46	8.0	Trader Joe's Balsamic Vinegar of Modena
+48	4.99	Don Bruno Sherry Vinegar Vinagre De Jerez 12.7 Oz.
+49	18.99	ARM & HAMMER Baking Soda - 13.5 lb. bag
+50	15.08	Koon Chun Black Vinegar, 20.3-Ounce Bottle (Pack of 2)
+51	14.57	Sempio Drinking Rice Vinegar, Berry, 30.4 Ounce (900 ml)
+52	6.99	Bellei Red Wine Vinegar 17 Fl.oz.
+53	5.19	Raw Coconut Vinegar Coconut Secret 12.7 fl. oz
+54	21.53	Sempio Brown Rice Vinegar (900ml), 30-Ounce (Pack of 5)
+56	33.5	Bragg: Apple Cider Vinegar, 128oz
+57	11.14	Mantova Italian White Wine Vinegar, 17-Ounce Bottles (Pack of 4)
+59	14.68	Mantova Balsamic Vinegar of Modena, 17 -Ounce Bottles (Pack of 4)
+60	34.95	Balsamic Vinegar Set Aged - Spicy - Dessert - White Citrus
+61	3.99	Eden Foods - Ume Plum Vinegar - 10 oz.
+62	13.75	Antica Italia Balsamic Vinegar Of Modena 17 oz
+63	7.51	Colavita White Balsamic Vinegar, 16.9 Ounce
+64	19.59	Marukan Seasoned Gourmet Rice Vinegar (Pack of 3)
+65	23.7	Bragg Organic Raw Unfiltered Apple Cider Vinegar, 16 Ounce -- 6 per case.
+66	19.99	Umesu Umeboshi Plum Vinegar with Red Shiso, 10.14oz
+67	19.21	Banyuls Wine Vinegar Imported from France
+68	18.69	Blue Diamond Bold Almonds, 1.5 oz tubes, Salt 'n Vinegar, 12 tubes
+69	23.4	Columela 30 Year Sherry Vinegar, 12.7 Ounce
+70	11.99	Bragg - Organic Apple Cider Vinegar - 16 Oz.
+71	7.15	White House Apple Cider Vinegar 128oz
+72	28.85	Pastorelli White Vinegar, 16 Fluid Ounce (Pack of 12)
+74	34.75	Colavita Champagne Wine Vinegar, 17 oz
+76	7.26	Roland Seasoned Rice Wine Vinegar with Garlic, 16.9-Ounce Bottle
+78	14.94	Holland House Vinegar, White Wine, 12 Ounce (Pack of 6)
+79	11.99	Terra Medi Greek Red Wine Vinegar, 17 Ounce
+80	26.82	Lay's Stax Potato Crisps, Salt and Vinegar, 60.5 Ounce (Pack of 11)
+81	38.67	L'Estornell Reserva Sherry Wine Vinegar, 12.68-Ounce Bottles (Pack of 3)
+82	28.75	Balsamic Vinegar of Moderna, 1 litre (33.8 fl oz)
+83	17.17	O Fig Balsamic Vinegar
+85	12.65	Moscatel Sweet White Vinegar 12 Year Reserve
+87	15.69	Slide Ridge Honey Wine Vinegar, Nature's Honey, 3 Ounce
+88	7.99	Bellei Balsamic Vinegar of Modena IGP 17 Fl.oz.
+89	18.53	Heinz All Natural Distilled White Vinegar, 1.32 Gallon (Pack of 2)
+90	25.3	Pastorelli Apple Cider Vinegar, 128 Fluid Ounce (Pack of 4)
+91	20.0	Blue Diamond Almonds Salt N Vinegar 3 PACK
+92	18.72	Bragg Organic Raw Unfiltered Apple Cider Vinegar 32 oz
+93	17.7	Marukan Genuine Brewed Rice Vinegar, 24 Ounce
+94	2.99	Bragg's No Spill Pour Spout for Braggs Apple Cider Vinegar Bottle (Spout Only) Bragg 16oz 32oz bottle
+95	35.63	Pastorelli Apple Cider Vinegar, 16 Fluid Ounce (Pack of 12)
+96	20.95	Fattoria Estense Silver Label, Round Bottle (Previously labeled as Aceto Balsamico di Modena, Aged 10 years)
+97	11.95	Raw Vegan Coconut Vinegar-12 fl. ozs.
+99	11.19	Kikkoman - Aji-Mirin (Sweet Cooking Rice Wine) 17 Oz.

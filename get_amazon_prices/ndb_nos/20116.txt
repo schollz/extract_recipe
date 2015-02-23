@@ -1,0 +1,65 @@
+0	9.09	Hime Dried Somen Noodles, 28.21-Ounce
+1	25.98	Hakubaku Organic Somen, Authentic Japanese Wheat Noodles, No Salt  Added, 9.5-Ounce Packages  (Pack of 8)
+2	7.87	Hime Dried Udon Noodles, 28.21-Ounce
+3	6.18	Hakubaku Organic Somen Noodles (1 x 9.5 OZ)
+4	2.95	Somen Noodles - 16 oz
+5	25.63	Kikkoman Somen Tsuyu, 17-Ounce (Pack of 4)
+6	23.79	Welpac Somen Noodles, 9.5 Ounce (Pack of 12)
+7	15.93	Dragonfly Tomoshiraga Somen Noodle, 14-Ounce (Pack of 4)
+8	18.32	Hakubaku Organic Soba, Authentic Japanese Buckwheat Noodles, (no salt added) 9.5-Ounce (Pack of 8)
+9	19.37	Kikkoman Somen Tsuyu (somen Noodle Dipping Sauce), 10-Ounce Bottle (Pack of 3)
+10	17.36	Sun Luck Noodles Somen, 16-Ounce (Pack of 6)
+11	9.09	Hime Dried Buckwheat Soba Noodles, 25.40-Ounce
+12	13.5	Shirakiku - Somen Noodle Soup Base (Tsuyu) 12.17 Fl. Oz.
+13	32.0	Tomoshiraga Somen (Oriental Style Noodles) - 48oz [Pack of 3]
+14	19.55	Kikkoman Hon Tsuyu, 17-Ounce (Pack of 3)
+15	41.27	Sun Luck B39670 Sun Luck Somen Tomoshiraga Noodles -12x16oz
+16	14.37	Ibonoito - Somen (Japanese Style Noodles) Net Wt 10.58 Oz (300g)
+18	15.0	Shirakiku Somen Cup Nama Instant Original, 5.78-Ounce Units (Pack of 6)
+19	2.2	Hakubaku Organic Somen (1 X 9.5 Oz)
+20	4.59	Sanuki Somen (Japanese Wheat Noodles) - 500g [Pack of 1]
+21	70.42	JFC Dried Tomoshiraga Somen Noodles, 16-Ounce (Pack of 24)
+22	6.49	Shirakiku - Soba Noodle Soup Base (Tsuyu) 12.17 Fl. Oz.
+23	7.5	Kikkoman Somen Tsuyu
+24	2.21	Japanese Style Noodle (Somen) - 16oz (Pack of 1)
+26	22.53	Jansal Valley Somen Noodles, 7 Ounce
+27	35.0	JFC International Tomoshiraga Somen Noodles, 16-Ounce Bags (Pack of 8)
+28	6.99	Tomoshiraga Somen (Oriental Style Noodles) - 48oz (Pack of 1)
+29	7.02	Tomoshiraga Somen Japanese Style Noodles - [Pack of 6]
+30	7.5	Somen Noodle Soup Broth 11.3 fl oz
+31	8.03	Shirakiku Noodle Inst Cup Somen Sanuki Spicy Sk, 6.17 Ounce
+33	7.99	Somen (Thin Wheat) - Certified Organic- Sobaya 100% Organic Japanese-Style Noodles -8oz
+34	12.99	Clearspring OG skinny soba somen noodles 200 g x 1
+35	52.53	Sun Luck Noodles, Somen Tomoshiraga 16 OZ
+36	8.99	Clearspring Organic Skinny Soba Somen (200g)
+37	11.5	JapanFood Somen Noodles (thin Japanese wheat noodles) 16.0 OZ (Pack of 2)
+38	66.0	Ibo No Ito Somen - 10.58oz (Pack of 6)
+39	35.91	Hakubaku Organic Somen (Case of 12x9.5z)
+40	38.0	Hakubaku Organic Somen (11 X 9.5 Oz)
+41	20.59	Somen Tsuyu Marutomo (Noodle Soup Base) - 12.17oz (Pack of 3)
+42	69.25	Shirakiku brand Tomoshiraga Somen Dried Noodles. 48oz package (Pack of 6)
+43	11.49	Kikkoman Somen Tsuyu (Somen Noodle Dipping Sauce) 10 oz.
+44	38.21	Somen Tsuyu (Noodle Soup Base Straight) - 10fl.oz [Pack of 6]
+45	23.82	Hakubaku Organic Somen (8x9.52oz )
+46	41.78	Jfc Dried Tomoshiraga Somen Noodles 16-Ounce (Pack Of 12)
+47	17.05	Jfc Dried Tomoshiraga Somen Noodles (6 x 16 Oz)
+48	30.0	Hakubaku Noodles, Somen OG1 9.52 oz. (Pack of 8)
+49	23.58	JapanFood Somen Noodles (thin Japanese wheat noodles) 16.0 OZ (Pack of 3)
+50	36.0	JapanFood Somen Noodles (thin Japanese wheat noodles) 16.0 OZ (Pack of 6)
+51	27.0	Shirasagi No Ito Somen - 25.39oz (Pack of 3)
+52	33.0	Somen (Pack of 8)
+53	11.66	Shirasagi No Ito Somen - 25.39oz (Pack of 1)
+54	4.99	Somen Noodles
+55	48.0	Jfc Dried Tomoshiraga Somen Noodles 16-Ounce (Pack Of 12)
+56	81.0	JapanFood Somen Noodles (thin Japanese wheat noodles) 16.0 OZ (Pack of 12)
+57	52.0	Shirasagi No Ito Somen - 25.39oz (Pack of 6)
+58	34.5	Tomoshiraga Somen (Oriental Style Noodles) - 48oz [Pack of 6]
+59	33.5	Ibo No Ito Somen - 10.58oz (Pack of 3)
+60	15.0	Hakubaku - Somen Noodles - 270g
+61	48.36	Sun Luck Somen Tomoshiraga Japanese Style Noodles, 16-Ounce (Pack of 12)
+62	14.04	Japanese Style Noodle (Somen) - 16oz (Pack of 12)
+63	6.37	Somen Tsuyu (Noodle Soup Base Straight) - 10fl.oz [Pack of 1]
+64	4.49	Muso Organic Somen Noodles, 8.8 Ounce
+65	32.43	Jfc Dried Tomoshiraga Somen Noodles (6x16Oz )
+66	72.79	Kikkoman Menmi Soup Base, 64-Ounce (Pack of 6)
+67	7.99	S&B Japanese Yuzu Kosho Paste in Plastic Tube, 1.41oz
