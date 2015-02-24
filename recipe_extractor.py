@@ -18,6 +18,7 @@ from fractions import Fraction
 from os import listdir
 from os.path import isfile, join
 from context_extractor import *
+from unidecode import unidecode
   
 
 def hasNumbers(inputString):
@@ -206,9 +207,11 @@ def getFoodFromDatabase(sentence,nutrition):
   measurementAmount = 1
   with con:
     cur.execute('select ndb_no,amount,msre_desc,gm_wgt,abs(gm_wgt-'+str(foodGrams.magnitude)+') as diff from weight where ndb_no like "'+ndb_no+'" order by diff')
-    
-    if row is not None:    
-      if len(foodGrams.units) is 0:
+    row = cur.fetchone()
+    if row is not None and len(row)>3:    
+      print len(row)
+      print foodGrams
+      if str(foodGrams.dimensionality)=='dimensionless':
         measurementAmount = float(row[1]) * float(foodGrams.magnitude)
         foodGrams = (measurementAmount*float(row[3]))*ureg.grams
         measurementString = getMixedFraction(measurementAmount) + ' ' + row[2]
@@ -391,10 +394,11 @@ def extract_recipe_main(url):
   for key in sorted(nutrition.iterkeys()):
     finalString = finalString +  key + ": " + nutrition[key]  + "\n"
   '''  
-  return finalString
+  return unidecode(finalString)
 
 #print extract_recipe_main('http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies')
 #print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-recipe.html')
 #print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe.html')
-print extract_recipe_main(sys.argv[1])
+#print extract_recipe_main(sys.argv[1])
+
 
