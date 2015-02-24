@@ -55,6 +55,7 @@ def getFoodFromDatabase(sentence,nutrition):
   sentence = sentence.replace(' and ',' ')
   sentence = sentence.replace(' to ',' ')
   sentence = sentence.replace(' for ',' ')
+  sentence = sentence.replace('white sugar','granulated sugar')
   sentence = sentence.replace('(','')
   sentence = sentence.replace(')','')
   sentence = sentence.replace('about','')
@@ -108,14 +109,16 @@ def getFoodFromDatabase(sentence,nutrition):
   print words
   print measurementWords
   print foodWords
-  
+
   # Figure out the grams
+  tryToFindAnotherMeasure = False
   try:
     foodGrams = ureg.parse_expression(quantityExpression).to(ureg.grams)
   except:
     try:
       mills = ureg.parse_expression(quantityExpression).to(ureg.milliliters)
       foodGrams = mills.magnitude*ureg.grams
+      tryToFindAnotherMeasure = True
     except:
       try:
         foodGrams = float(quantityExpression[0])*ureg.dimensionless
@@ -126,6 +129,9 @@ def getFoodFromDatabase(sentence,nutrition):
   
   # Generate some food search strings using the food words and the words around the food words
   possibleWords = []
+  # Fixes
+  if "baking" in words and "powder" in words:
+    possibleWords.append('baking* NEAR/3 powder*')
   for i in range(len(words)):
     if i>0 and foodWords[i]:
       if not measurementWords[i-1]:
@@ -136,7 +142,7 @@ def getFoodFromDatabase(sentence,nutrition):
   for i in range(len(foodWords)):
     if foodWords[i]:
       possibleWords.append(words[i] + '*')
-  
+    
   print possibleWords
   
   foundMatch = False
@@ -180,14 +186,27 @@ def getFoodFromDatabase(sentence,nutrition):
         price = 0
 
   if not foundMatch:
-    return ('No match','',quantityExpression,float(quantities[0]),nutrition,0)
+    return ('No match','',quantityExpression,1,nutrition,0)
   
+  # Now that you have the food but not a good measurement (cups, etc.) try to match one in the table
+  if tryToFindAnotherMeasure:
+    with con:
+      cur.execute('select ndb_no,amount,msre_desc,gm_wgt from weight where ndb_no like "'+ndb_no+'"')
+      rows = cur.fetchall()
+      for row in rows:
+        try:
+          if ureg.parse_expression(quantityExpression).dimensionality == ureg.parse_expression(row[2]).dimensionality:
+            foo = ureg.parse_expression(quantityExpression).to(ureg.parse_expression(row[2]))
+            foodGrams = foo.magnitude * row[3] * ureg.grams
+            break
+        except:
+          pass
   # Get an appropriate measurement from weights table, or if there is no grams assigned, pick something from the weights table
   measurementString = "1 dimensionless"
   measurementAmount = 1
   with con:
     cur.execute('select ndb_no,amount,msre_desc,gm_wgt,abs(gm_wgt-'+str(foodGrams.magnitude)+') as diff from weight where ndb_no like "'+ndb_no+'" order by diff')
-    row = cur.fetchone()
+    
     if row is not None:    
       if len(foodGrams.units) is 0:
         measurementAmount = float(row[1]) * float(foodGrams.magnitude)
@@ -260,19 +279,19 @@ def extract_recipe_main(url):
     if len(line)>2:
       finalString = finalString + line
       finalString = finalString + "\n"
+      (food,foodId,measurement,grams,nutrition,price) = getFoodFromDatabase(line,nutrition)
+      totalPrice = totalPrice + price
+      finalString = finalString + " - "
+      imageName = None
+      for i in onlyfiles:
+        if foodId in i:
+          imageName = i
+          break
+      if imageName is not None:
+        finalString = finalString + "<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=50>"
+        print food + ": " + imageName
+      finalString = finalString + str(measurement) + " " 
       try:
-        (food,foodId,measurement,grams,nutrition,price) = getFoodFromDatabase(line,nutrition)
-        totalPrice = totalPrice + price
-        finalString = finalString + " - "
-        imageName = None
-        for i in onlyfiles:
-          if foodId in i:
-            imageName = i
-            break
-        if imageName is not None:
-          finalString = finalString + "<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=50>"
-          print food + ": " + imageName
-        finalString = finalString + str(measurement) 
         finalString = finalString + food + " (" + str(round(grams.magnitude,1)) + " grams)" + " - $" + str(round(price,2)) + "\n\n"
       except:
         pass
@@ -361,7 +380,7 @@ def extract_recipe_main(url):
   servings = int(ureg.parse_expression(nutrition['Energy']).magnitude/300)
   
   finalString = finalString +  "\n\n# Serving size is about " + str(servings) + "\n"
-  
+  '''
   finalString = finalString + "\n\n# Nutrition data (main)\n"
   importantNutrition = ['Energy','Protein','Total lipid (fat)','Carbohydrate, by difference','Sugars, total','Fiber, total dietary','Cholesterol']
   for key in importantNutrition:
@@ -371,9 +390,11 @@ def extract_recipe_main(url):
   finalString = finalString + "\n\n# Nutrition data (ALL)\n"
   for key in sorted(nutrition.iterkeys()):
     finalString = finalString +  key + ": " + nutrition[key]  + "\n"
-    
+  '''  
   return finalString
 
-print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-recipe.html')
 #print extract_recipe_main('http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies')
+#print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-recipe.html')
+#print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe.html')
+print extract_recipe_main(sys.argv[1])
 
