@@ -134,6 +134,7 @@ def get_snippets(contexts,baseurl):
         if len(line)>1 and "##" not in line:
           o_snippet[context] = o_snippet[context] + line + "\n"
           
+  print o_fits
   return o_snippet
 
 

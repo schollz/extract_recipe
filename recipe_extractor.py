@@ -244,8 +244,8 @@ def extract_recipe_main(url):
   mypath = 'get_google_images/images/'
   onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
   snippets = get_snippets(contexts,url) 
-
-  data_ingredients = snippets['ingredients']
+  print snippets
+  data_ingredients = snippets['ingredients']  
   data = snippets['directions']
   exclude = set(string.punctuation)
   #print '# ' + json_data['name'] + "\n"
@@ -260,19 +260,22 @@ def extract_recipe_main(url):
     if len(line)>2:
       finalString = finalString + line
       finalString = finalString + "\n"
-      (food,foodId,measurement,grams,nutrition,price) = getFoodFromDatabase(line,nutrition)
-      totalPrice = totalPrice + price
-      finalString = finalString + " - "
-      imageName = None
-      for i in onlyfiles:
-        if foodId in i:
-          imageName = i
-          break
-      if imageName is not None:
-        finalString = finalString + "<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=50>"
-        print food + ": " + imageName
-      finalString = finalString + str(measurement) 
-      finalString = finalString + food + " (" + str(round(grams.magnitude,1)) + " grams)" + " - $" + str(round(price,2)) + "\n\n"
+      try:
+        (food,foodId,measurement,grams,nutrition,price) = getFoodFromDatabase(line,nutrition)
+        totalPrice = totalPrice + price
+        finalString = finalString + " - "
+        imageName = None
+        for i in onlyfiles:
+          if foodId in i:
+            imageName = i
+            break
+        if imageName is not None:
+          finalString = finalString + "<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=50>"
+          print food + ": " + imageName
+        finalString = finalString + str(measurement) 
+        finalString = finalString + food + " (" + str(round(grams.magnitude,1)) + " grams)" + " - $" + str(round(price,2)) + "\n\n"
+      except:
+        pass
   end = time.time()
   print end-start
 
