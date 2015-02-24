@@ -36,15 +36,18 @@ def getImage(searchString):
   j = opener.open('https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q='+urllib.quote_plus(searchString))
   data = j.read()
   jsonData = json.loads(data)
+  if len(jsonData['responseData']['results']) == 0:
+    print jsonData
+    return (False,False,True,True)
   try:
     data = jsonData['responseData']['results'][0]['url']
     try:
       data2 = jsonData['responseData']['results'][1]['url']
     except:
       data2 = False
-    return (data,data2,jsonData['responseStatus']==200)
+    return (data,data2,jsonData['responseStatus']==200,False)
   except:
-    return (False,False,jsonData['responseStatus']==200)
+    return (False,False,jsonData['responseStatus']==200,False)
   
 
 
@@ -58,28 +61,34 @@ with con:
 for row in rows:
   if start:
     imageUrl = False
+    noResults = False
     while not imageUrl:
-      (imageUrl,imageUrl2,goodResponse) = getImage(row[1])
+      (imageUrl,imageUrl2,goodResponse,noResults) = getImage(row[1])
+      if noResults:
+        imageUrl=True
       if not goodResponse:
         print "restarting tor..."
         os.system('/etc/init.d/tor restart')
-    print "[" + str(goodResponse) + "] Getting " + imageUrl + " for '" + row[1] + "'"
-    suffix = "jpg"
-    suffixes = ['gif','jpeg','jpg','png','bmp']
-    for i in suffixes:
-      if i in imageUrl:
-        suffix = i
-    try:
-      urllib.urlretrieve(imageUrl,"images/" + row[0]+"." + suffix)
-    except:
-      imageUrl = imageUrl2
+    if not noResults:
       print "[" + str(goodResponse) + "] Getting " + imageUrl + " for '" + row[1] + "'"
       suffix = "jpg"
       suffixes = ['gif','jpeg','jpg','png','bmp']
       for i in suffixes:
         if i in imageUrl:
           suffix = i
-      urllib.urlretrieve(imageUrl,"images/" + row[0]+"." + suffix)
+      try:
+        print "getting image"
+        urllib.urlretrieve(imageUrl,"images/" + row[0]+"." + suffix)
+      except:
+        print "getting backup image"
+        imageUrl = imageUrl2
+        print "[" + str(goodResponse) + "] Getting " + imageUrl + " for '" + row[1] + "'"
+        suffix = "jpg"
+        suffixes = ['gif','jpeg','jpg','png','bmp']
+        for i in suffixes:
+          if i in imageUrl:
+            suffix = i
+        urllib.urlretrieve(imageUrl,"images/" + row[0]+"." + suffix)
     
     with open('stateFile','a') as f:
       f.write(row[0] + "\n")

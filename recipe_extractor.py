@@ -15,7 +15,8 @@ ureg = UnitRegistry()
 import sqlite3 as lite
 con = lite.connect('db')
 from fractions import Fraction
-
+from os import listdir
+from os.path import isfile, join
 from context_extractor import *
   
 
@@ -149,7 +150,7 @@ def getFoodFromDatabase(sentence,nutrition):
           possibleWord = possibleWord.replace('baking','sodium')
           possibleWord = possibleWord.replace('soda','bicarbonate')
 
-        cur.execute('select ndb_no,shrt_desc,com_desc,length(com_desc)-length("'+possibleWord.replace('*','').split()[0] + '") as closest from data where com_desc match "' + possibleWord.replace('*','') + '" order by closest')
+        cur.execute('select ndb_no,long_desc,com_desc,length(com_desc)-length("'+possibleWord.replace('*','').split()[0] + '") as closest from data where com_desc match "' + possibleWord.replace('*','') + '" order by closest')
 
         row = cur.fetchone()
         if row is not None:
@@ -161,7 +162,7 @@ def getFoodFromDatabase(sentence,nutrition):
     # search the google hits simultaneously   
     if not foundMatch:
       for possibleWord in possibleWords:
-        cur.execute('select c.ndb_no,shrt_desc,google_hits,length(shrt_desc)-length("'+possibleWord.replace('*','').split()[0] + '") as closest from ranking as r join data as c on r.ndb_no=c.ndb_no where shrt_desc match "'+possibleWord+'" order by google_hits desc')
+        cur.execute('select c.ndb_no,shrt_desc,google_hits,length(long_desc)-length("'+possibleWord.replace('*','').split()[0] + '") as closest from ranking as r join data as c on r.ndb_no=c.ndb_no where long_desc match "'+possibleWord+'" order by google_hits desc')
 
         row = cur.fetchone()
         if row is not None:
@@ -240,6 +241,8 @@ def extract_recipe_main(url):
   finalString = ''
   titleString = ''
   contexts = json.load(open('context_settings.json','r'))
+  mypath = 'get_google_images/images/'
+  onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
   snippets = get_snippets(contexts,url) 
 
   data_ingredients = snippets['ingredients']
@@ -248,7 +251,7 @@ def extract_recipe_main(url):
   #print '# ' + json_data['name'] + "\n"
 
   finalString = finalString + '# ' + titleString + '\n\n'
-  finalString = finalString + '## Ingredients\n' 
+  finalString = finalString + '<h1>## Ingredients</h1>\n' 
   finalString = finalString + '-'*30
   finalString = finalString + "\n"
   nutrition  = {}
@@ -260,9 +263,16 @@ def extract_recipe_main(url):
       (food,foodId,measurement,grams,nutrition,price) = getFoodFromDatabase(line,nutrition)
       totalPrice = totalPrice + price
       finalString = finalString + " - "
+      imageName = None
+      for i in onlyfiles:
+        if foodId in i:
+          imageName = i
+          break
+      if imageName is not None:
+        finalString = finalString + "<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=50>"
+        print food + ": " + imageName
       finalString = finalString + str(measurement) 
-      finalString = finalString + " " + food + " (" + str(round(grams.magnitude,1)) + " grams)" + " - $" + str(round(price,2)) + "\n\n"
-    
+      finalString = finalString + food + " (" + str(round(grams.magnitude,1)) + " grams)" + " - $" + str(round(price,2)) + "\n\n"
   end = time.time()
   print end-start
 
