@@ -383,7 +383,7 @@ def extract_recipe_main(url):
   servings = int(ureg.parse_expression(nutrition['Energy']).magnitude/300)
   
   finalString = finalString +  "\n\n# Serving size is about " + str(servings) + "\n"
-  '''
+  
   finalString = finalString + "\n\n# Nutrition data (main)\n"
   importantNutrition = ['Energy','Protein','Total lipid (fat)','Carbohydrate, by difference','Sugars, total','Fiber, total dietary','Cholesterol']
   for key in importantNutrition:
@@ -393,7 +393,7 @@ def extract_recipe_main(url):
   finalString = finalString + "\n\n# Nutrition data (ALL)\n"
   for key in sorted(nutrition.iterkeys()):
     finalString = finalString +  key + ": " + nutrition[key]  + "\n"
-  '''  
+  
   return unidecode(finalString)
 
 #print extract_recipe_main('http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies')
