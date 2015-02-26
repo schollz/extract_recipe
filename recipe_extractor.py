@@ -19,6 +19,7 @@ from os import listdir
 from os.path import isfile, join
 from context_extractor import *
 from unidecode import unidecode
+import operator
   
 
 def hasNumbers(inputString):
@@ -379,7 +380,16 @@ def extract_recipe_main(url):
   finalString = finalString + "\n"
 
   nutrition['Energy'] = str(ureg.parse_expression(nutrition['Energy']).to(ureg.kilocalorie))
+  nutMag = {}
+  for i in nutrition:
+    try:
+      nutMag[i] = ureg.parse_expression(nutrition[i]).to(ureg.grams).magnitude
+    except:
+      nutMag[i] = ureg.parse_expression(nutrition[i]).magnitude/1000
 
+  sorted_nut = sorted(nutMag.items(), key=operator.itemgetter(1),reverse=True)
+
+  
   servings = int(ureg.parse_expression(nutrition['Energy']).magnitude/300)
   
   finalString = finalString +  "\n\n# Serving size is about " + str(servings) + "\n"
@@ -391,7 +401,8 @@ def extract_recipe_main(url):
   print "\n\n"
     
   finalString = finalString + "\n\n# Nutrition data (ALL)\n"
-  for key in sorted(nutrition.iterkeys()):
+  for i in sorted_nut:
+    key = i[0]
     finalString = finalString +  key + ": " + nutrition[key]  + "\n"
   
   return unidecode(finalString)
@@ -399,6 +410,6 @@ def extract_recipe_main(url):
 #print extract_recipe_main('http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies')
 #print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-recipe.html')
 #print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe.html')
-#print extract_recipe_main(sys.argv[1])
+print extract_recipe_main(sys.argv[1])
 
 
