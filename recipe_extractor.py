@@ -307,7 +307,7 @@ def extract_recipe_main(url):
   data = snippets['directions']
   exclude = set(string.punctuation)
   #print '# ' + json_data['name'] + "\n"
-
+  imageGridUrls = []
   finalString = finalString + '# ' + titleString + '\n\n'
   finalString = finalString + '# Ingredients\n\n' 
   nutrition  = {}
@@ -325,6 +325,7 @@ def extract_recipe_main(url):
           break
       if imageName is not None:
         finalString = finalString + "<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=50>"
+        imageGridUrls.append("<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=120 height=120 />")
         print food + ": " + imageName
       finalString = finalString + ' - ' + str(measurement) + " " 
       try:
@@ -335,6 +336,14 @@ def extract_recipe_main(url):
   print end-start
 
   finalString = finalString + "\n"
+  patternString = '<div id="pattern" class="pattern">\n\t<ul class="g">'
+  for i in imageGridUrls:
+    patternString = patternString + '<li><a href="#">' + i + '</a></li>\n'
+  patternString = patternString + '\t</ul>\n</div>'
+  print patternString
+  
+  finalString = patternString + "\n" + finalString
+ 
   '''
   ingredients = ''
   for ingredient in json_data['ingredients'].split('\n'):
@@ -463,7 +472,7 @@ def extract_recipe_main(url):
 #print extract_recipe_main('http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies')
 #print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-recipe.html')
 #print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe.html')
-#print extract_recipe_main(sys.argv[1])
+#extract_recipe_main(sys.argv[1])
 
 
 '''
