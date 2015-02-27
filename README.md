@@ -65,11 +65,12 @@ insert into nutrition_def(nutr_no,units,tagname) select nutr_no,units,tagname fr
 
 
 
-## Example
+## Example Output
 
 Visit the current incantation at http://ips.colab.duke.edu:8081/extractor.html and run which shows the extraction of the following recipe: [http://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-recipe.html](http://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-recipe.html).
 
-Output:
+
+--------------------
 
 # Ingredients
 
