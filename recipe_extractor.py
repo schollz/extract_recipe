@@ -20,7 +20,12 @@ from os.path import isfile, join
 from context_extractor import *
 from unidecode import unidecode
 import operator
-  
+from collections import OrderedDict
+import markdown
+
+nutrientCategory = {}
+nutrientCategoryNum = {}
+nutrientData = OrderedDict()
 
 def hasNumbers(inputString):
     return any(char.isdigit() for char in inputString)
@@ -228,7 +233,7 @@ def getFoodFromDatabase(sentence,nutrition):
 
     
 def getNutrition(foodId,multiplier,nutrition):
-    
+  global nutrientData
   with con:
       
     cur = con.cursor()    
@@ -241,7 +246,7 @@ def getNutrition(foodId,multiplier,nutrition):
       id = int(row[0])
       val = float(row[1])
       cur2 = con.cursor() 
-      cur2.execute('select units,NutrDesc from nutr_def where nutr_no == "'+str(id)+'"')
+      cur2.execute('select units,NutrDesc,sr_order from nutr_def where nutr_no == "'+str(id)+'" order by sr_order')
       rows2 = cur2.fetchone()
       units = rows2[0]
       name = rows2[1]
@@ -253,6 +258,34 @@ def getNutrition(foodId,multiplier,nutrition):
         nutrition[name.encode('utf-8')] = str(val*ureg.parse_expression(units)+ureg.parse_expression(nutrition[name.encode('utf-8')]))
       else:
         nutrition[name.encode('utf-8')] =str(val*ureg.parse_expression(units))
+      if name not in nutrientCategory: 
+        c = int(rows2[2])
+        nutrientCategoryNum[name]=c
+        if c < 1600:
+          nutrientCategory[name] = 'Main'
+        elif c < 5300:
+          nutrientCategory[name] = 'Sugars'
+        elif c < 6300:
+          nutrientCategory[name] = 'Metals'
+        elif c < 9700:
+          nutrientCategory[name] = 'Vitamins'
+        elif c < 15700:
+          nutrientCategory[name] = 'Fatty Acids'
+        elif c < 16300:
+          nutrientCategory[name] = 'Steroids'
+        elif c < 18200:
+          nutrientCategory[name] = 'Amino acids'
+        elif c < 18500:
+          nutrientCategory[name] = 'Other'
+      if nutrientCategory[name] not in nutrientData:
+        nutrientData[nutrientCategory[name]] = {}
+      try:
+        if "Energy" in name:
+          nutrientData[nutrientCategory[name]][name.encode('utf-8')]=ureg.parse_expression(nutrition[name.encode('utf-8')]).to(ureg.kilocalories).magnitude
+        else:
+          nutrientData[nutrientCategory[name]][name.encode('utf-8')]=ureg.parse_expression(nutrition[name.encode('utf-8')]).to(ureg.grams).magnitude
+      except:
+        nutrientData[nutrientCategory[name]][name.encode('utf-8')]=ureg.parse_expression(nutrition[name.encode('utf-8')]).magnitude
       
     
   return nutrition
@@ -260,6 +293,8 @@ def getNutrition(foodId,multiplier,nutrition):
         
   
 def extract_recipe_main(url):
+  global nutrientData
+  nutrientData = OrderedDict()
   totalPrice = 0
   finalString = ''
   titleString = ''
@@ -274,15 +309,12 @@ def extract_recipe_main(url):
   #print '# ' + json_data['name'] + "\n"
 
   finalString = finalString + '# ' + titleString + '\n\n'
-  finalString = finalString + '<h1>## Ingredients</h1>\n' 
-  finalString = finalString + '-'*30
-  finalString = finalString + "\n"
+  finalString = finalString + '# Ingredients\n\n' 
   nutrition  = {}
   start = time.time()
   for line in data_ingredients.split('\n'):
     if len(line)>2:
-      finalString = finalString + line
-      finalString = finalString + "\n"
+      finalString = finalString + ' - ' + line.strip().replace('-','').replace('*','') + '\n'
       (food,foodId,measurement,grams,nutrition,price) = getFoodFromDatabase(line,nutrition)
       totalPrice = totalPrice + price
       finalString = finalString + " - "
@@ -294,15 +326,14 @@ def extract_recipe_main(url):
       if imageName is not None:
         finalString = finalString + "<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=50>"
         print food + ": " + imageName
-      finalString = finalString + str(measurement) + " " 
+      finalString = finalString + ' - ' + str(measurement) + " " 
       try:
-        finalString = finalString + food + " (" + str(round(grams.magnitude,1)) + " grams)" + " - $" + str(round(price,2)) + "\n\n"
+        finalString = finalString + food + " (" + str(round(grams.magnitude,1)) + " grams)" + " - $" + str(round(price,2)) + "\n"
       except:
         pass
   end = time.time()
   print end-start
 
-  finalString = finalString + '-'*30
   finalString = finalString + "\n"
   '''
   ingredients = ''
@@ -311,7 +342,7 @@ def extract_recipe_main(url):
     ingredients = ingredients + ' ' + ''.join(ch for ch in ingredient if ch not in exclude)
   '''
   finalString = finalString + "\n"
-  finalString = finalString + '## Directions\n' 
+  finalString = finalString + '# Directions\n' 
 
   finalString = finalString + data
   finalString = finalString + "\n"
@@ -385,27 +416,49 @@ def extract_recipe_main(url):
     try:
       nutMag[i] = ureg.parse_expression(nutrition[i]).to(ureg.grams).magnitude
     except:
-      nutMag[i] = ureg.parse_expression(nutrition[i]).magnitude/1000
+      nutMag[i] = ureg.parse_expression(nutrition[i]).magnitude/1000 
 
-  sorted_nut = sorted(nutMag.items(), key=operator.itemgetter(1),reverse=True)
+  sorted_nut = sorted(nutrientCategoryNum.items(), key=operator.itemgetter(1),reverse=False)
 
   
-  servings = int(ureg.parse_expression(nutrition['Energy']).magnitude/300)
+  servings = round(nutrientData['Main']['Energy']/650)
   
   finalString = finalString +  "\n\n# Serving size is about " + str(servings) + "\n"
-  
+  '''
   finalString = finalString + "\n\n# Nutrition data (main)\n"
   importantNutrition = ['Energy','Protein','Total lipid (fat)','Carbohydrate, by difference','Sugars, total','Fiber, total dietary','Cholesterol']
   for key in importantNutrition:
     finalString = finalString +  key + ": " + nutrition[key]  + "\n"
   print "\n\n"
-    
+  '''  
+  '''
   finalString = finalString + "\n\n# Nutrition data (ALL)\n"
+  lastCategory = "None"
   for i in sorted_nut:
     key = i[0]
+    category = nutrientCategory[key]
+    if lastCategory is not category:
+      finalString = finalString + "\n## "  + category + "\n"
+      lastCategory = category
     finalString = finalString +  key + ": " + nutrition[key]  + "\n"
+  '''
   
-  return unidecode(finalString)
+  finalString = finalString + "\n\n# Nutrition data (ALL)\n"
+  for category in nutrientData:
+    finalString = finalString + "\n\n## " + category + "\n\n"
+    print category
+    print nutrientData[category]
+    for nutrient in sorted(nutrientData[category].items(), key=operator.itemgetter(1),reverse=True):
+      print nutrient
+      if nutrient[1]>0:
+        if 'Energy' in nutrient[0]:
+          finalString = finalString + " - " + nutrient[0] + ": " + str(nutrient[1]) + " Calories\n"
+        elif "IU" in nutrient[0]:
+          finalString = finalString + " - " + nutrient[0] + ": " + str(nutrient[1]) + " IU\n"
+        else:
+          finalString = finalString + " - " + nutrient[0] + ": " + str(nutrient[1]) + " grams\n"
+      
+  return markdown.markdown(unidecode(finalString))
 
 #print extract_recipe_main('http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies')
 #print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-recipe.html')
