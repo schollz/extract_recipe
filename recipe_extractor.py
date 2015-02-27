@@ -325,7 +325,7 @@ def extract_recipe_main(url):
           break
       if imageName is not None:
         finalString = finalString + "<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=50>"
-        imageGridUrls.append("<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=120 height=120 />")
+        imageGridUrls.append("<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=30>")
         print food + ": " + imageName
       finalString = finalString + ' - ' + str(measurement) + " " 
       try:
@@ -336,10 +336,10 @@ def extract_recipe_main(url):
   print end-start
 
   finalString = finalString + "\n"
-  patternString = '<div id="pattern" class="pattern">\n\t<ul class="g">'
+  patternString = '<section id="photos">\n'
   for i in imageGridUrls:
-    patternString = patternString + '<li><a href="#">' + i + '</a></li>\n'
-  patternString = patternString + '\t</ul>\n</div>'
+    patternString = patternString + i + '\n'
+  patternString = patternString + "</section>\n" 
   print patternString
   
   finalString = patternString + "\n" + finalString
