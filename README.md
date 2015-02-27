@@ -23,6 +23,7 @@ It does the same for extracting the ingredient list. Then it scans the direction
 - ~~Better identifying common foods in USDA database~~
 - ~~Simpler conversion between food dimensions/weights~~
 - ~~Add in pricing~~ 
+- Save data as JSON
 - Clean up code by splitting into files
 - Better error handling
 - Add nice CSS into web interface.
