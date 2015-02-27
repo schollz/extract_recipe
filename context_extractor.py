@@ -4,6 +4,9 @@ import re
 import numpy as np
 import json
 from scipy.optimize import curve_fit
+from unidecode import unidecode 
+import os
+
 try:
   import matplotlib as matplot
   matplot.use('Agg')
@@ -114,12 +117,25 @@ def calculate_context_peaks(contexts,o_array):
     fig.savefig('ingredients.png')
   return o_fits
 
-def get_snippets(contexts,baseurl):
-  print("Getting url " + baseurl + "...")
-  text = get_url_markdown(baseurl)
-  print("Getting number occurences in each line...")
+def get_snippets(contexts,source):
+  if "http" in source:
+    print("Getting url " + source + "...")
+    text = get_url_markdown(source)
+  elif ".md" in source:
+    if "bz2" in source:
+      os.system('bzip2 -d ' + source)
+      os.system('cp ' + source[0:-4] + ' ./source.tmp')
+      os.system('bzip2 ' + source[0:-4])
+    else:
+      os.system('cp ' + source + ' ./source.tmp')
+    text = ""
+    with open('./source.tmp','rb') as f:
+      for line in f:
+        text = text + line.strip() + "\n"
+    os.system('rm ./source.tmp')
+  print("Getting number occurrences in each line...")
   o_array = get_occurrences(contexts,text)
-  print("Curve fitting on single gaussian...")
+  print("Curve fitting on single Gaussian...")
   o_fits = calculate_context_peaks(contexts,o_array)
   print("Grabbing snippets...")
   o_snippet = {}
@@ -137,6 +153,3 @@ def get_snippets(contexts,baseurl):
   print o_fits
   return o_snippet
 
-
-
-    
