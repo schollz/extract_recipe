@@ -71,225 +71,231 @@ Visit the current incantation at http://ips.colab.duke.edu:8081/extractor.html a
 
 Output:
 
-```
-# Baked Macaroni and Cheese
+# Ingredients
 
-## Ingredients
-------------------------------
-- 1/2 pound elbow macaroni
-- 0.5 pound MACARONI & CHS LOAF CHICK PORK & BF (19.0 g)
+  * 1/2 pound elbow macaroni
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/20099.jpg' width=50>2 1/8 cup elbow shaped Macaroni, dry, enriched (226.8 grams) - $3.76
 
-- 3 tablespoons butter
-- 0.1875 cup BUTTER REPLCMNT,WO/FAT,PDR (15.0 g)
+  * 3 tablespoons butter
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/01001.jpg' width=50>3.0 tbsp Butter, salted (42.6 grams) - $1.08
 
-- 3 tablespoons flour
-- 3.0 tablespoon WHEAT FLOURS,BREAD,UNENR (411.0 g)
+  * 3 tablespoons flour
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/20581.jpg' width=50>1/8 cup Wheat flour, white, all-purpose, enriched, unbleached (23.4 grams) - $0.12
 
-- 1 tablespoon powdered mustard
-- 1.0 tablespoon MUSTARD GRNS,FRZ,CKD,BLD,DRND,WO/SALT (150.0 g)
+  * 1 tablespoon powdered mustard
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/02046.jpg' width=50>3 1/8 tsp or 1 packet Mustard, prepared, yellow (15.6 grams) - $0.41
 
-- 3 cups milk
-- 3.0 cup MILK,GOAT,FLUID,W/ ADDED VITAMIN D (732.0 g)
+  * 3 cups milk
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/01077.jpg' width=50>3/4 quart Milk, whole, 3.25% milkfat, with added vitamin D (732.0 grams) - $0.58
 
-- 1/2 cup yellow onion, finely diced
-- 0.5 cup ONION RINGS,BREADED,PAR FR,FRZ,PREP,HTD IN OVEN (24.0 g)
+  * 1/2 cup yellow onion, finely diced
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/11282.jpg' width=50>1.0 cup, sliced Onions, raw (118.3 grams) - $3.93
 
-- 1 bay leaf
-- 1.0 dimensionless no match (1.0 g)
+  * 1 bay leaf
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/02004.png' width=50>1.0 tsp, crumbled Spices, bay leaf (0.6 grams) - $0.09
 
-- 1/2 teaspoon paprika
-- 0.5 teaspoon PAPRIKA (1.15 g)
+  * 1/2 teaspoon paprika
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/02028.jpg' width=50>1/3 tsp Spices, paprika (1.1 grams) - $0.07
 
-- 1 large egg
-- 1.0 dimensionless EGG,WHOLE,COOKED,OMELET (61.0 g)
+  * 1 large egg
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/01123.jpg' width=50>1.0 small Egg, whole, raw, fresh (38.0 grams) - $0.19
 
-- 12 ounces sharp cheddar, shredded
-- 12.0 ounce SUNSHINE,CHEEZ-IT,DUOZ SHARP CHEDDAR PARMESAN CRACKERS (14.4 g)
+  * 12 ounces sharp cheddar, shredded
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/01270.jpg' width=50>12 1/8 slice 1 oz. slice CHEESE,CHEDDAR,SHARP,SLICED (340.2 grams) - $10.3
 
-- 1 teaspoon kosher salt
-- 1.0 teaspoon SALT,TABLE (6.0 g)
+  * 1 teaspoon kosher salt
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/02047.jpg' width=50>1.0 tsp Salt, table (6.0 grams) - $0.19
 
-- Fresh black pepper
-- 0.0 dimensionless PEPPER,BLACK (0.0 g)
+  * Fresh black pepper
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/02030.jpg' width=50>1.0 dash Spices, pepper, black (0.1 grams) - $0.0
 
-- Topping:
-- 0.0 dimensionless no match (0.0 g)
+  * Topping:
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/21226.png' width=50>1.0 serving 5 servings per 22.85 oz package PIZZA,MEAT & VEG TOPPING,REG CRUST,FRZ,CKD (129.0 grams) - $0.0
 
-- 3 tablespoons butter
-- 3.0 tablespoon BUTTER,LT,STK,W/SALT (42.0 g)
+  * 3 tablespoons butter
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/01001.jpg' width=50>3.0 tbsp Butter, salted (42.6 grams) - $1.08
 
-- 1 cup panko bread crumbs
-- 1.0 cup BREAD,SALVADORAN SWT CHS (QUESADILLA SALVADORENA) (55.0 g)
+  * 1 cup panko bread crumbs
+ - <img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/18069.jpg' width=50>5 1/4 cup, crumbs Bread, white, commercially prepared (includes soft bread crumbs) (236.6 grams) - $2.83
 
-------------------------------
 
-## Directions
-Preheat oven to 350 degrees F.
+# Directions
 In a large pot of boiling, salted water cook the pasta to al dente.
-While the pasta is cooking, in a separate pot, melt the butter. Whisk in the
-flour and mustard and keep it moving for about five minutes. Make sure it's
-free of lumps. Stir in the milk, onion, bay leaf, and paprika. Simmer for ten
-minutes and remove the bay leaf.
-Temper in the egg. Stir in 3/4 of the cheese. Season with salt and pepper.
-Fold the macaroni into the mix and pour into a 2-quart casserole dish. Top
-with remaining cheese.
-Melt the butter in a saute pan and toss the bread crumbs to coat. Top the
-macaroni with the bread crumbs. Bake for 30 minutes. Remove from oven and rest
-for five minutes before serving.
+While the pasta is cooking, in a separate pot, melt the butter. Whisk in the flour and mustard and keep it moving for about five minutes. Make sure it's free of lumps. Stir in the milk, onion, bay leaf, and paprika. Simmer for ten minutes and remove the bay leaf.
+Temper in the egg. Stir in 3/4 of the cheese. Season with salt and pepper. Fold the macaroni into the mix and pour into a 2-quart casserole dish. Top with remaining cheese.
+Melt the butter in a saute pan and toss the bread crumbs to coat. Top the macaroni with the bread crumbs. Bake for 30 minutes. Remove from oven and rest for five minutes before serving.
 Remember to save leftovers for fried Macaroni and Cheese.
 Recipe courtesy Alton Brown
 
-+1 minutefor tossing.
++1 minute for tossing.
 # Calculated time: 51 minute
+# Calculated cost: $24.64
 
 
-# Nutrition data (main)
-Energy: 28416.864 kilojoule
-Protein: 90.93 gram
-Total lipid (fat): 161.34 gram
-Carbohydrate, by difference: 441.43 gram
-Sugars, total: 53.17 gram
-Fiber, total dietary: 70.6 gram
-Cholesterol: 539.0 milligram
+# Serving size is about 13.0
 
 
 # Nutrition data (ALL)
-10:0: 1.802 gram
-12:0: 1.942 gram
-13:0: 0.0 gram
-14:0: 6.655 gram
-14:1: 0.036 gram
-15:0: 0.032 gram
-15:1: 0.0 gram
-16:0: 27.568 gram
-16:1 c: 0.106 gram
-16:1 t: 0.009 gram
-16:1 undifferentiated: 2.486 gram
-17:0: 0.062 gram
-17:1: 0.03 gram
-18:0: 12.642 gram
-18:1 c: 9.764 gram
-18:1 t: 1.878 gram
-18:1 undifferentiated: 38.272 gram
-18:2 CLAs: 0.024 gram
-18:2 n-6 c,c: 9.985 gram
-18:2 t not further defined: 0.191 gram
-18:2 undifferentiated: 24.091 gram
-18:3 n-3 c,c,c (ALA): 1.883 gram
-18:3 n-6 c,c,c: 0.084 gram
-18:3 undifferentiated: 3.168 gram
-18:3i: 0.0 gram
-18:4: 0.0 gram
-20:0: 0.147 gram
-20:1: 0.298 gram
-20:2 n-6 c,c: 0.025 gram
-20:3 n-3: 0.0 gram
-20:3 n-6: 0.006 gram
-20:3 undifferentiated: 0.178 gram
-20:4 undifferentiated: 0.246 gram
-20:5 n-3 (EPA): 0.001 gram
-22:0: 0.138 gram
-22:1 c: 0.0 gram
-22:1 t: 0.002 gram
-22:1 undifferentiated: 0.073 gram
-22:4: 0.016 gram
-22:5 n-3 (DPA): 0.012 gram
-22:6 n-3 (DHA): 0.066 gram
-24:0: 0.034 gram
-24:1 c: 0.0 gram
-4:0: 2.11 gram
-6:0: 1.211 gram
-8:0: 0.86 gram
-Alanine: 3.406 gram
-Alcohol, ethyl: 0.0 gram
-Arginine: 3.802 gram
-Ash: 126.77 gram
-Aspartic acid: 7.786 gram
-Betaine: 52.8 milligram
-Caffeine: 0.0 milligram
-Calcium, Ca: 1380.0 milligram
-Carbohydrate, by difference: 441.43 gram
-Carotene, alpha: 607.0 microgram
-Carotene, beta: 30942.0 microgram
-Cholesterol: 539.0 milligram
-Choline, total: 397.6 milligram
-Copper, Cu: 2.635 milligram
-Cryptoxanthin, beta: 6220.0 microgram
-Cystine: 1.292 gram
-Dihydrophylloquinone: 0.1 microgram
-Energy: 28416.864 kilojoule
-Fatty acids, total monounsaturated: 48.45 gram
-Fatty acids, total polyunsaturated: 40.12 gram
-Fatty acids, total saturated: 62.848 gram
-Fatty acids, total trans: 3.169 gram
-Fatty acids, total trans-monoenoic: 1.889 gram
-Fatty acids, total trans-polyenoic: 0.191 gram
-Fiber, total dietary: 70.6 gram
-Fluoride, F: 57.4 microgram
-Folate, DFE: 324.0 microgram
-Folate, food: 267.0 microgram
-Folate, total: 430.0 microgram
-Folic acid: 34.0 microgram
-Fructose: 8.2 gram
-Galactose: 0.34 gram
-Glucose (dextrose): 4.49 gram
-Glutamic acid: 15.363 gram
-Glycine: 2.95 gram
-Histidine: 1.635 gram
-Hydroxyproline: 0.0 gram
-Iron, Fe: 45.25 milligram
-Isoleucine: 3.29 gram
-Lactose: 0.7 gram
-Leucine: 5.963 gram
-Lutein + zeaxanthin: 26613.0 microgram
-Lycopene: 20.0 microgram
-Lysine: 3.698 gram
-Magnesium, Mg: 489.0 milligram
-Maltose: 0.89 gram
-Manganese, Mn: 16.436 milligram
-Methionine: 1.553 gram
-Niacin: 22.711 milligram
-Pantothenic acid: 7.484 milligram
-Phenylalanine: 3.544 gram
-Phosphorus, P: 1424.0 milligram
-Phytosterols: 277.0 milligram
-Potassium, K: 5145.0 milligram
-Proline: 8.11 gram
-Protein: 90.93 gram
-Retinol: 816.0 microgram
-Riboflavin: 2.912 milligram
-Selenium, Se: 121.7 microgram
-Serine: 3.808 gram
-Sodium, Na: 42477.0 milligram
-Starch: 41.58 gram
-Sucrose: 26.69 gram
-Sugars, total: 53.17 gram
-Theobromine: 0.0 milligram
-Thiamin: 1.662 milligram
-Threonine: 2.548 gram
-Tocopherol, beta: 0.88 milligram
-Tocopherol, delta: 5.92 milligram
-Tocopherol, gamma: 21.74 milligram
-Tocotrienol, alpha: 4.87 milligram
-Tocotrienol, beta: 0.15 milligram
-Tocotrienol, delta: 0.0 milligram
-Tocotrienol, gamma: 0.14 milligram
-Total lipid (fat): 161.34 gram
-Tryptophan: 0.76 gram
-Tyrosine: 2.677 gram
-Valine: 4.086 gram
-Vitamin A, IU: 59976.0 dimensionless
-Vitamin A, RAE: 3679.0 microgram
-Vitamin B-12: 1.99 microgram
-Vitamin B-12, added: 0.0 microgram
-Vitamin B-6: 3.262 milligram
-Vitamin C, total ascorbic acid: 34.3 milligram
-Vitamin D: 174.0 dimensionless
-Vitamin D (D2 + D3): 4.3 microgram
-Vitamin D3 (cholecalciferol): 4.0 microgram
-Vitamin E (alpha-tocopherol): 36.25 milligram
-Vitamin E, added: 0.0 milligram
-Vitamin K (phylloquinone): 634.3 microgram
-Water: 473.1 gram
-Zinc, Zn: 11.05 milligram
-```
+
+
+## Main
+
+ - Energy: 8542.51051625 Calories
+ - Water: 539.29 grams
+ - Carbohydrate, by difference: 441.39 grams
+ - Total lipid (fat): 257.0 grams
+ - Ash: 134.75 grams
+ - Protein: 122.14 grams
+ - Fiber, total dietary: 103.0 grams
+ - Sugars, total: 35.41 grams
+
+
+## Sugars
+
+ - Starch: 120.02 grams
+ - Fructose: 12.32 grams
+ - Glucose (dextrose): 9.88 grams
+ - Lactose: 5.23 grams
+ - Maltose: 4.5 grams
+ - Sucrose: 2.51 grams
+ - Galactose: 0.56 grams
+
+
+## Other
+
+
+
+## Metals
+
+ - Sodium, Na: 43.145 grams
+ - Potassium, K: 5.503 grams
+ - Calcium, Ca: 2.876 grams
+ - Phosphorus, P: 2.088 grams
+ - Magnesium, Mg: 0.704 grams
+ - Iron, Fe: 0.09089 grams
+ - Manganese, Mn: 0.025675 grams
+ - Zinc, Zn: 0.02027 grams
+ - Copper, Cu: 0.003438 grams
+ - Selenium, Se: 0.0002409 grams
+ - Fluoride, F: 0.0001124 grams
+
+
+## Vitamins
+
+ - Vitamin A, IU: 63133.0 IU
+ - Vitamin D: 294.0 grams
+ - Choline, total: 0.5077 grams
+ - Betaine: 0.2873 grams
+ - Vitamin C, total ascorbic acid: 0.0585 grams
+ - Vitamin E (alpha-tocopherol): 0.03875 grams
+ - Niacin: 0.034416 grams
+ - Carotene, beta: 0.027021 grams
+ - Lutein + zeaxanthin: 0.020214 grams
+ - Tocopherol, gamma: 0.01494 grams
+ - Pantothenic acid: 0.00863 grams
+ - Cryptoxanthin, beta: 0.006247 grams
+ - Tocotrienol, alpha: 0.00524 grams
+ - Vitamin B-6: 0.005071 grams
+ - Vitamin A, RAE: 0.004706 grams
+ - Riboflavin: 0.004426 grams
+ - Thiamin: 0.003218 grams
+ - Retinol: 0.001861 grams
+ - Lycopene: 0.001835 grams
+ - Folate, DFE: 0.001267 grams
+ - Folate, total: 0.000922 grams
+ - Carotene, alpha: 0.000608 grams
+ - Tocopherol, beta: 0.00056 grams
+ - Folic acid: 0.000493 grams
+ - Folate, food: 0.000429 grams
+ - Tocopherol, delta: 0.00039 grams
+ - Vitamin K (phylloquinone): 0.0002716 grams
+ - Tocotrienol, gamma: 0.0001 grams
+ - Tocotrienol, beta: 1e-05 grams
+ - Menaquinone-4: 9.6e-06 grams
+ - Vitamin D3 (cholecalciferol): 7.3e-06 grams
+ - Vitamin D (D2 + D3): 7.3e-06 grams
+ - Vitamin B-12: 3.18e-06 grams
+ - Dihydrophylloquinone: 1e-07 grams
+
+
+## Amino acids
+
+ - Glutamic acid: 21.142 grams
+ - Proline: 10.524 grams
+ - Aspartic acid: 9.503 grams
+ - Leucine: 7.934 grams
+ - Valine: 5.319 grams
+ - Lysine: 5.11 grams
+ - Serine: 5.024 grams
+ - Phenylalanine: 4.614 grams
+ - Arginine: 4.501 grams
+ - Isoleucine: 4.189 grams
+ - Alanine: 3.949 grams
+ - Tyrosine: 3.623 grams
+ - Threonine: 3.522 grams
+ - Glycine: 3.3 grams
+ - Histidine: 2.23 grams
+ - Methionine: 1.796 grams
+ - Cystine: 1.369 grams
+ - Tryptophan: 1.015 grams
+
+
+## Steroids
+
+ - Cholesterol: 0.927 grams
+ - Phytosterols: 0.282 grams
+ - Beta-sitosterol: 0.008 grams
+
+
+## Fatty Acids
+
+ - Fatty acids, total saturated: 139.376 grams
+ - Fatty acids, total monounsaturated: 67.956 grams
+ - 18:1 undifferentiated: 62.581 grams
+ - 16:0: 62.062 grams
+ - 18:1 c: 47.753 grams
+ - 18:0: 27.299 grams
+ - Fatty acids, total polyunsaturated: 26.627 grams
+ - 18:2 undifferentiated: 22.581 grams
+ - 14:0: 19.176 grams
+ - Fatty acids, total trans: 7.809 grams
+ - 4:0: 7.403 grams
+ - 12:0: 7.045 grams
+ - 18:2 n-6 c,c: 6.996 grams
+ - Fatty acids, total trans-monoenoic: 6.962 grams
+ - 18:1 t: 6.855 grams
+ - 10:0: 6.164 grams
+ - 6:0: 4.703 grams
+ - 18:3 undifferentiated: 3.34 grams
+ - 16:1 undifferentiated: 3.2 grams
+ - 8:0: 2.989 grams
+ - 16:1 c: 2.534 grams
+ - 18:3 n-3 c,c,c (ALA): 1.951 grams
+ - 17:0: 1.343 grams
+ - 22:1 undifferentiated: 1.059 grams
+ - 22:1 c: 1.057 grams
+ - Fatty acids, total trans-polyenoic: 0.847 grams
+ - 18:2 CLAs: 0.721 grams
+ - 20:1: 0.666 grams
+ - 18:2 i: 0.592 grams
+ - 20:0: 0.403 grams
+ - 15:0: 0.335 grams
+ - 14:1: 0.328 grams
+ - 20:4 undifferentiated: 0.269 grams
+ - 18:2 t not further defined: 0.252 grams
+ - 20:3 undifferentiated: 0.23 grams
+ - 16:1 t: 0.107 grams
+ - 22:0: 0.089 grams
+ - 17:1: 0.073 grams
+ - 22:6 n-3 (DHA): 0.059 grams
+ - 20:3 n-6: 0.058 grams
+ - 24:1 c: 0.051 grams
+ - 18:4: 0.038 grams
+ - 20:2 n-6 c,c: 0.037 grams
+ - 22:4: 0.026 grams
+ - 22:5 n-3 (DPA): 0.024 grams
+ - 24:0: 0.022 grams
+ - 20:3 n-3: 0.021 grams
+ - 18:3 n-6 c,c,c: 0.013 grams
+ - 20:5 n-3 (EPA): 0.011 grams
+ - 18:3i: 0.003 grams
