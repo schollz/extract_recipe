@@ -410,6 +410,17 @@ def extract_recipe_main(url):
 #print extract_recipe_main('http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies')
 #print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/baked-macaroni-and-cheese-recipe.html')
 #print extract_recipe_main('http://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe.html')
-print extract_recipe_main(sys.argv[1])
+#print extract_recipe_main(sys.argv[1])
 
 
+'''
+
+Useful SQLITE commands
+
+List nutrients
+select nutr_no,nutrdesc from nutr_def order by sr_order;
+
+
+FInd top 50 foods for a given nutrient:
+select long_desc,nutr_no,nutr_val from (select long_desc,nutr_no,nutr_val from food_des,nut_data where food_des.ndb_no == nut_data.ndb_no) where nutr_no like '328' order by nutr_val desc limit 50;
+'''
