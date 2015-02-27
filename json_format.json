@@ -1,6 +1,62 @@
 {
     "title": "Some recipe",
     "markdown": "Extracted markdown or pointer to file with extracted markdown",
+    "url": "http://something.com",
+    "lines": 541,
+    "contexts": {
+        "ingredients": {
+            "o_array": [
+                0,
+                0,
+                2,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                2,
+                3,
+                4,
+                4,
+                0,
+                0,
+                0
+            ],
+            "bestFits": [
+                541,
+                12,
+                23
+            ]
+        },
+        "directions": {
+            "o_array": [
+                0,
+                0,
+                2,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                2,
+                3,
+                4,
+                4,
+                0,
+                0,
+                0
+            ],
+            "bestFits": [
+                541,
+                12,
+                23
+            ]
+        }
+    },
     "ingredients": [
         {
             "actual": "1/2 pound elbow macaroni",
