@@ -1,7 +1,7 @@
 {
     "title": "Some recipe",
-    "markdown": "Extracted markdown or pointer to file with extracted markdown",
-    "url": "http://something.com",
+    "markdown": "Extracted markdown as bz2 blob or pointer to file with extracted markdown",
+    "url": "http://www.originalrecipeurl.com",
     "lines": 541,
     "contexts": {
         "ingredients": {
@@ -69,10 +69,10 @@
         {
             "actual": "3 tablespoons butter",
             "measurement": "3.0 tbsp",
-            "long_desc": "elbow shaped Macaroni, dry, enriched",
+            "long_desc": "Butter",
             "ndb_no": "0123",
-            "grams": 226.8,
-            "cost": 3.76
+            "grams": 120.8,
+            "cost": 0.75
         }
     ],
     "directions": "In a large pot of boiling, salted water cook the pasta to al dente. While the pasta is cooking, in a separate pot, melt the butter. Whisk in the flour and mustard and keep it moving for about five minutes. Make sure it's free of lumps. Stir in the milk, onion, bay leaf, and paprika. Simmer for ten minutes and remove the bay leaf. Temper in the egg. Stir in 3/4 of the cheese. Season with salt and pepper. Fold the macaroni into the mix and pour into a 2-quart casserole dish. Top with remaining cheese. Melt the butter in a saute pan and toss the bread crumbs to coat. Top the macaroni with the bread crumbs. Bake for 30 minutes. Remove from oven and rest for five minutes before serving. Remember to save leftovers for fried Macaroni and Cheese. Recipe courtesy Alton Brown",
