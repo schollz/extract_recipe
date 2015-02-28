@@ -65,7 +65,6 @@ class Recipe:
     self.directions = o_snippet['directions']
     self.ingredients = []
     for line in o_snippet['ingredients'].split('\n'):
-      print line
       if len(line)>4:
         self.ingredients.append(self.parseIngredients(line))
     print json.dumps(self.ingredients)
@@ -75,7 +74,7 @@ class Recipe:
     
   def parseIngredients(self,sentence):
     # Baseline construct
-    ingredient = {'actual':sentence,'measurement':'No measurement match','description':'No food match','grams':0,'cost':0,'ndb_no':'None'}
+    ingredient = {'actual':sentence.replace('*','').replace('-','').strip(),'measurement':'No measurement match','description':'No food match','grams':0,'cost':0,'ndb_no':'None'}
     # Remove things in parentheses
     regEx = re.compile(r'([^\(]*)\([^\)]*\) *(.*)')
     m = regEx.match(sentence)
@@ -150,7 +149,6 @@ class Recipe:
           foodGrams = float(quantityExpression[0])*ureg.dimensionless
         except:
           foodGrams = 1*ureg.dimensionless
-    print foodGrams
 
     
     # Generate some food search strings using the food words and the words around the food words
@@ -233,8 +231,6 @@ class Recipe:
       cur.execute('select ndb_no,amount,msre_desc,gm_wgt,abs(gm_wgt-'+str(foodGrams.magnitude)+') as diff from weight where ndb_no like "'+ndb_no+'" order by diff')
       row = cur.fetchone()
       if row is not None and len(row)>3:    
-        print len(row)
-        print foodGrams
         if str(foodGrams.dimensionality)=='dimensionless':
           measurementAmount = float(row[1]) * float(foodGrams.magnitude)
           foodGrams = (measurementAmount*float(row[3]))*ureg.grams
@@ -271,7 +267,6 @@ class Recipe:
           units = rows2[0]
           name = rows2[1]
           newUnits = ureg.dimensionless
-          print units
           useMagnitudeOnly = False
           try:
             if '[length] ** 2 * [mass] / [time] ** 2' == str(ureg.parse_expression(units).dimensionality):
@@ -322,7 +317,6 @@ class Recipe:
     mypath = 'get_google_images/images/'
     onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
     snippets = get_snippets(contexts,url) 
-    print snippets
     data_ingredients = snippets['ingredients']  
     data = snippets['directions']
     exclude = set(string.punctuation)
@@ -346,7 +340,6 @@ class Recipe:
         if imageName is not None:
           finalString = finalString + "<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=50>"
           imageGridUrls.append("<img src='http://ips.colab.duke.edu/extract_recipe/get_google_images/images/" + imageName + "' width=30>")
-          print food + ": " + imageName
         finalString = finalString + ' - ' + str(measurement) + " " 
         try:
           finalString = finalString + food + " (" + str(round(grams.magnitude,1)) + " grams)" + " - $" + str(round(price,2)) + "\n"
