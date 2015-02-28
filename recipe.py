@@ -3,60 +3,79 @@ import time
 import random
 import sys
 import json
+
 import string
-import urllib2
 keep = string.lowercase + string.digits + string.whitespace
 table = string.maketrans(keep, keep)
 delete = ''.join(set(string.printable) - set(keep))
+
+import urllib2
 from nltk.corpus import wordnet
 from pattern.en import singularize, pluralize
+
 from pint import UnitRegistry
 ureg = UnitRegistry()
+
 import sqlite3 as lite
 con = lite.connect('db')
+
 from fractions import Fraction
 from os import listdir
 from os.path import isfile, join
-from context_extractor import *
 from unidecode import unidecode
 import operator
 from collections import OrderedDict
 import markdown
+from context_extractor import *
+
+nutrientCategory = {}
+
+def hasNumbers(inputString):
+    return any(char.isdigit() for char in inputString)
+  
+  
+def getMixedFraction(flt):
+  while True:
+    fractionString = str(Fraction(flt).limit_denominator(8))
+    if '/' in fractionString:
+      fractionNums = str(Fraction(flt).limit_denominator(8)).split('/')
+      num = int(fractionNums[0])
+      if '8' in fractionNums[1] or '4' in fractionNums[1] or '3' in fractionNums[1]:
+        den = int(fractionNums[1])
+        if num<den:
+          return str(num) + "/" + str(den)
+        else:
+          return str(num/den) + " " + str(num-den*(num/den)) + "/" + str(den)
+      else:
+        flt = flt - 0.05
+    else:
+      return str(round(flt))
+      
 
 class Recipe:
-  def __init__(self,source):
-    if "http" in source:
-      # treat it as a url
-    elif ".md" in source or ".txt" in source:
-      # treat it as a file
-    else:
-      # treat it as a string
-    self.nutrientCategory = {}
-    self.nutrientCategoryNum = {}
-    self.nutrientData = {}
+  def __init__(self,source,title='None'):
+    contexts = json.load(open('context_settings.json','r'))
+    (o_snippet,o_fits,o_array) = get_snippets(contexts,source)
+    self.nutrients = {}
+    self.recipe = {}
+    self.totalPrice = 0
+    self.htmlString = ""
+    if 'None' in title:
+      self.title = o_snippet['title']
+    self.directions = o_snippet['directions']
+    self.ingredients = []
+    for line in o_snippet['ingredients'].split('\n'):
+      print line
+      if len(line)>4:
+        self.ingredients.append(self.parseIngredients(line))
+    print json.dumps(self.ingredients)
+    print json.dumps(self.nutrients)
+    
 
-  def hasNumbers(inputString):
-      return any(char.isdigit() for char in inputString)
     
-    
-  def getMixedFraction(flt):
-    while True:
-      fractionString = str(Fraction(flt).limit_denominator(8))
-      if '/' in fractionString:
-        fractionNums = str(Fraction(flt).limit_denominator(8)).split('/')
-        num = int(fractionNums[0])
-        if '8' in fractionNums[1] or '4' in fractionNums[1] or '3' in fractionNums[1]:
-          den = int(fractionNums[1])
-          if num<den:
-            return str(num) + "/" + str(den)
-          else:
-            return str(num/den) + " " + str(num-den*(num/den)) + "/" + str(den)
-        else:
-          flt = flt - 0.05
-      else:
-        return str(round(flt))
-      
-  def getFoodFromDatabase(sentence,nutrition):
+  def parseIngredients(self,sentence):
+    # Baseline construct
+    ingredient = {'actual':sentence,'measurement':'No measurement match','description':'No food match','grams':0,'cost':0,'ndb_no':'None'}
     # Remove things in parentheses
     regEx = re.compile(r'([^\(]*)\([^\)]*\) *(.*)')
     m = regEx.match(sentence)
@@ -76,21 +95,18 @@ class Recipe:
     sentence = sentence.replace('about','')
     sentence = sentence.replace('and/or','')
     sentence = sentence.replace('/','slashslash')
-    # Remove puncuation
+    # Remove punctuation
     exclude = set(string.punctuation)
     sentence = ''.join(ch for ch in sentence if ch not in exclude)
     sentence = sentence.replace('slashslash','/')
     words = sentence.split()
 
+    # Sanitize the words
     for i in range(len(words)):
       if words[i][-1] == 's':
         words[i] = singularize(words[i])
       if '/' in words[i]:
         words[i]=str(ureg.parse_expression(words[i]))
-
-    print "sentence '"+sentence+"'"
-    print "The words: ", 
-    print words
     
     # Determine which words are ingredients and which are measurements (quantities)
     foodWords = [False]*len(words)
@@ -119,11 +135,6 @@ class Recipe:
           measurementWords[i] = True
           measurementWords[i-1] = True
           measurementWords[i-2] = True
-      
-    print quantityExpression
-    print words
-    print measurementWords
-    print foodWords
 
     # Figure out the grams
     tryToFindAnotherMeasure = False
@@ -147,6 +158,10 @@ class Recipe:
     # Fixes
     if "baking" in words and "powder" in words:
       possibleWords.append('baking* NEAR/3 powder*')
+    if "baking" in words and "soda" in words:
+      possibleWords.append('sodium* NEAR/3 bicarbonate*')
+    if "vinegar" in words:
+      possibleWords.append('vinegar*')
     for i in range(len(words)):
       if i>0 and foodWords[i]:
         if not measurementWords[i-1]:
@@ -158,8 +173,7 @@ class Recipe:
       if foodWords[i]:
         possibleWords.append(words[i] + '*')
       
-    print possibleWords
-    
+    # Start searching the db
     foundMatch = False
     shrt_desc = "No match"
     ndb_no = '-1'
@@ -167,10 +181,6 @@ class Recipe:
       cur = con.cursor()    
       for possibleWord in possibleWords:
         if not foundMatch:
-          if 'baking' in possibleWord and 'soda' in possibleWord:
-            possibleWord = possibleWord.replace('baking','sodium')
-            possibleWord = possibleWord.replace('soda','bicarbonate')
-
           cur.execute('select ndb_no,long_desc,com_desc,length(com_desc)-length("'+possibleWord.replace('*','').split()[0] + '") as closest from data where com_desc match "' + possibleWord.replace('*','') + '" order by closest')
 
           row = cur.fetchone()
@@ -201,7 +211,7 @@ class Recipe:
           price = 0
 
     if not foundMatch:
-      return ('No match','',quantityExpression,1,nutrition,0)
+      return ingredient
     
     # Now that you have the food but not a good measurement (cups, etc.) try to match one in the table
     if tryToFindAnotherMeasure:
@@ -235,69 +245,71 @@ class Recipe:
 
     
     # Get nutrition
-    nutrition = getNutrition(ndb_no,foodGrams.magnitude/100.0,nutrition)
-      
-    return (shrt_desc,ndb_no,measurementString,foodGrams,nutrition,price*foodGrams.magnitude)
+    self.getNutrition(ndb_no,foodGrams.magnitude/100.0)
+    ingredient['measurement']=measurementString
+    ingredient['ndb_no']=ndb_no
+    ingredient['grams']=foodGrams.magnitude
+    ingredient['cost']=price*foodGrams.magnitude
+    ingredient['description']=shrt_desc
+    return ingredient
 
       
-  def getNutrition(foodId,multiplier,nutrition):
-    global nutrientData
+  def getNutrition(self,foodId,multiplier):
     with con:
         
       cur = con.cursor()    
-
       cur.execute('select nutr_no,nutr_val from nutrition_data where ndb_no match "'+foodId+'"')
-      
       rows = cur.fetchall()
-      
+
       for row in rows:
         id = int(row[0])
-        val = float(row[1])
-        cur2 = con.cursor() 
-        cur2.execute('select units,NutrDesc,sr_order from nutr_def where nutr_no == "'+str(id)+'" order by sr_order')
-        rows2 = cur2.fetchone()
-        units = rows2[0]
-        name = rows2[1]
-        if ord(units[0])==65533:
-          units = 'microgram'
-        if units == 'IU':
-          units = 'dimensionless'
-        if name in nutrition.keys():
-          nutrition[name.encode('utf-8')] = str(val*ureg.parse_expression(units)+ureg.parse_expression(nutrition[name.encode('utf-8')]))
-        else:
-          nutrition[name.encode('utf-8')] =str(val*ureg.parse_expression(units))
-        if name not in nutrientCategory: 
-          c = int(rows2[2])
-          nutrientCategoryNum[name]=c
-          if c < 1600:
-            nutrientCategory[name] = 'Main'
-          elif c < 5300:
-            nutrientCategory[name] = 'Sugars'
-          elif c < 6300:
-            nutrientCategory[name] = 'Metals'
-          elif c < 9700:
-            nutrientCategory[name] = 'Vitamins'
-          elif c < 15700:
-            nutrientCategory[name] = 'Fatty Acids'
-          elif c < 16300:
-            nutrientCategory[name] = 'Steroids'
-          elif c < 18200:
-            nutrientCategory[name] = 'Amino acids'
-          elif c < 18500:
-            nutrientCategory[name] = 'Other'
-        if nutrientCategory[name] not in nutrientData:
-          nutrientData[nutrientCategory[name]] = {}
-        try:
-          if "Energy" in name:
-            nutrientData[nutrientCategory[name]][name.encode('utf-8')]=ureg.parse_expression(nutrition[name.encode('utf-8')]).to(ureg.kilocalories).magnitude
+        nutr_val = float(row[1])*multiplier
+        if nutr_val > 0:
+          cur2 = con.cursor() 
+          cur2.execute('select units,NutrDesc,sr_order from nutr_def where nutr_no == "'+str(id)+'" order by sr_order')
+          rows2 = cur2.fetchone()
+          units = rows2[0]
+          name = rows2[1]
+          newUnits = ureg.dimensionless
+          print units
+          useMagnitudeOnly = False
+          try:
+            if '[length] ** 2 * [mass] / [time] ** 2' == str(ureg.parse_expression(units).dimensionality):
+              newUnits = ureg.kilocalorie
+            elif '[mass]' == str(ureg.parse_expression(units).dimensionality):
+              newUnits = ureg.grams
+          except:
+            useMagnitudeOnly = True
+            
+          if name not in nutrientCategory: 
+            c = int(rows2[2])
+            if c < 1600:
+              nutrientCategory[name] = 'Main'
+            elif c < 5300:
+              nutrientCategory[name] = 'Sugars'
+            elif c < 6300:
+              nutrientCategory[name] = 'Metals'
+            elif c < 9700:
+              nutrientCategory[name] = 'Vitamins'
+            elif c < 15700:
+              nutrientCategory[name] = 'Fatty Acids'
+            elif c < 16300:
+              nutrientCategory[name] = 'Steroids'
+            elif c < 18200:
+              nutrientCategory[name] = 'Amino acids'
+            elif c < 18500:
+              nutrientCategory[name] = 'Other'
+          if nutrientCategory[name] not in self.nutrients:
+            self.nutrients[nutrientCategory[name]] = {}
+            self.nutrients[nutrientCategory[name]][name.encode('utf-8')] = 0
+          if name.encode('utf-8') not in self.nutrients[nutrientCategory[name]]:
+            self.nutrients[nutrientCategory[name]][name.encode('utf-8')] = 0
+          if useMagnitudeOnly:
+            additionalValue = nutr_val
           else:
-            nutrientData[nutrientCategory[name]][name.encode('utf-8')]=ureg.parse_expression(nutrition[name.encode('utf-8')]).to(ureg.grams).magnitude
-        except:
-          nutrientData[nutrientCategory[name]][name.encode('utf-8')]=ureg.parse_expression(nutrition[name.encode('utf-8')]).magnitude
-        
-      
-    return nutrition
-        
+            additionalValue = (nutr_val * ureg.parse_expression(units)).to(newUnits).magnitude
+          self.nutrients[nutrientCategory[name]][name.encode('utf-8')]=self.nutrients[nutrientCategory[name]][name.encode('utf-8')] + additionalValue
+          
           
     
   def extract_recipe_main(url):
@@ -306,7 +318,7 @@ class Recipe:
     totalPrice = 0
     finalString = ''
     titleString = ''
-    contexts = json.load(open('context_settings.json','r'))
+    
     mypath = 'get_google_images/images/'
     onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
     snippets = get_snippets(contexts,url) 
@@ -494,3 +506,4 @@ select nutr_no,nutrdesc from nutr_def order by sr_order;
 FInd top 50 foods for a given nutrient:
 select long_desc,nutr_no,nutr_val from (select long_desc,nutr_no,nutr_val from food_des,nut_data where food_des.ndb_no == nut_data.ndb_no) where nutr_no like '328' order by nutr_val desc limit 50;
 '''
+a = Recipe('~/3152.md.bz2')

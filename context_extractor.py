@@ -37,7 +37,6 @@ def get_url_markdown(baseurl):
   opener.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0')]
   j = opener.open(baseurl)
   data = j.read()
-  print data
 
   h = html2text.HTML2Text()
   h.ignore_links = True
@@ -57,12 +56,12 @@ def get_occurrences(contexts,text):
   for line in text.splitlines():
     line_number = line_number + 1
     x = np.append(x,[line_number])
-    print str(line_number) + ":\t",
+    #print str(line_number) + ":\t",
     for i in contexts:
       num_occurences = count_occurences(contexts[i],line.strip())
-      print str(num_occurences) + "\t",
+      #print str(num_occurences) + "\t",
       o_array[i] = np.append(o_array[i],[num_occurences])
-    print line
+    #print line
   return o_array
 
 def calculate_context_peaks(contexts,o_array):
@@ -117,6 +116,15 @@ def calculate_context_peaks(contexts,o_array):
     fig.savefig('ingredients.png')
   return o_fits
 
+def findTitle(text):
+  title ="Unknown recipe"
+  numPounds = 100
+  for line in text.split('\n'):
+    if line.count('#')<numPounds:
+      numPounds = line.count('#')
+      title = line.replace('#','').strip()
+  return title
+  
 def get_snippets(contexts,source):
   if "http" in source:
     print("Getting url " + source + "...")
@@ -139,6 +147,7 @@ def get_snippets(contexts,source):
   o_fits = calculate_context_peaks(contexts,o_array)
   print("Grabbing snippets...")
   o_snippet = {}
+  o_snippet['title'] = findTitle(text)
   for context in o_fits:
     o_snippet[context] = ""
     
@@ -150,6 +159,5 @@ def get_snippets(contexts,source):
         if len(line)>1 and "##" not in line:
           o_snippet[context] = o_snippet[context] + line + "\n"
           
-  print o_fits
-  return o_snippet
+  return (o_snippet,o_fits,o_array)
 
