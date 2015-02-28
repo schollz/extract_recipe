@@ -61,11 +61,11 @@ class Recipe:
     self.htmlString = ""
     if 'None' in title:
       self.title = o_snippet['title']
-    self.directions = o_snippet['directions']
+    self.directions = o_snippet['directions'].replace('> ','').replace('>','')
     self.ingredients = []
     for line in o_snippet['ingredients'].split('\n'):
       if len(line)>4:
-        self.ingredients.append(self.parseIngredients(line))
+        self.ingredients.append(self.parseIngredients(line.replace('> ','').replace('>','')))
     self.recipe['title'] = self.title
     self.recipe['source'] = source
     self.recipe['ingredients'] = self.ingredients
@@ -141,7 +141,7 @@ class Recipe:
           if not measurementWords[i]:
             foodWords[i] = True
         if i>1 and 'quantity' in synset.lexname and hasNumbers(words[i-1]) and hasNumbers(words[i-2]):
-          quantityExpression = words[i-2] + " " + words[i-1] + " " + words[i]
+          quantityExpression = str(float(words[i-2]) + float(words[i-1])) + " " + words[i]
           measurementWords[i] = True
           measurementWords[i-1] = True
           measurementWords[i-2] = True
@@ -183,7 +183,10 @@ class Recipe:
     for i in range(len(foodWords)):
       if foodWords[i]:
         possibleWords.append(words[i] + '*')
-      
+    # More fixes
+    if "chocolate" in words and "chip" in words:
+      possibleWords = []
+      possibleWords.append('Candies, semisweet chocolate')
     # Start searching the db
     foundMatch = False
     shrt_desc = "No match"
