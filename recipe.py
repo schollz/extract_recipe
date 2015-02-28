@@ -58,7 +58,6 @@ class Recipe:
     (o_snippet,o_fits,o_array) = get_snippets(contexts,source)
     self.nutrients = {}
     self.recipe = {}
-    self.totalPrice = 0
     self.htmlString = ""
     if 'None' in title:
       self.title = o_snippet['title']
@@ -67,8 +66,20 @@ class Recipe:
     for line in o_snippet['ingredients'].split('\n'):
       if len(line)>4:
         self.ingredients.append(self.parseIngredients(line))
-    print json.dumps(self.ingredients)
-    print json.dumps(self.nutrients)
+    self.recipe['title'] = self.title
+    self.recipe['source'] = source
+    self.recipe['ingredients'] = self.ingredients
+    self.recipe['nutrition'] = self.nutrients
+    self.recipe['directions'] = self.directions
+    self.recipe['time'] = self.extractCookingTime(self.directions)
+    self.recipe['total_cost'] = 0
+    for ingredient in self.recipe['ingredients']:
+      self.recipe['total_cost'] = self.recipe['total_cost'] + ingredient['cost']
+    self.recipe['total_cost'] = round(self.recipe['total_cost'],2)
+    self.recipe['serving_size'] = round(self.recipe['nutrition']['Main']['Energy']/600)
+    print json.dumps(self.recipe,sort_keys=True,indent=2)
+    
+    
     
 
     
@@ -83,6 +94,7 @@ class Recipe:
       m = regEx.match(sentence)
     
     sentence = sentence.lower()
+    sentence = sentence.replace('about pound','1 pound')
     sentence = sentence.replace('-',' ')
     sentence = sentence.replace(' or ',' ')
     sentence = sentence.replace(' and ',' ')
@@ -99,7 +111,6 @@ class Recipe:
     sentence = ''.join(ch for ch in sentence if ch not in exclude)
     sentence = sentence.replace('slashslash','/')
     words = sentence.split()
-
     # Sanitize the words
     for i in range(len(words)):
       if words[i][-1] == 's':
@@ -160,6 +171,8 @@ class Recipe:
       possibleWords.append('sodium* NEAR/3 bicarbonate*')
     if "vinegar" in words:
       possibleWords.append('vinegar*')
+    if "asparagu" in words:
+      possibleWords.append('asparagus')
     for i in range(len(words)):
       if i>0 and foodWords[i]:
         if not measurementWords[i-1]:
@@ -172,6 +185,7 @@ class Recipe:
         possibleWords.append(words[i] + '*')
       
     # Start searching the db
+    print possibleWords
     foundMatch = False
     shrt_desc = "No match"
     ndb_no = '-1'
@@ -306,6 +320,62 @@ class Recipe:
           self.nutrients[nutrientCategory[name]][name.encode('utf-8')]=self.nutrients[nutrientCategory[name]][name.encode('utf-8')] + additionalValue
           
           
+  def extractCookingTime(self,directions):
+    data = directions.lower()
+    data = data.replace('\n',' ')
+    data = data.replace('one','1')
+    data = data.replace('two','2')
+    data = data.replace('three','3')
+    data = data.replace('four','4')
+    data = data.replace('five','5')
+    data = data.replace('six','6')
+    data = data.replace('seven','7')
+    data = data.replace('eight','8')
+    data = data.replace('nine','9')
+    data = data.replace('ten','10')
+    data = data.replace('twenty','20')
+    data = data.replace('thirty','30')
+    data = data.replace('forty','40')
+    data = data.replace('fifty','50')
+    data = data.replace('sixty','60')
+    data = data.replace('overnight','12 hours')
+    data = data.replace('few minute','3 minute')
+    data = data.replace('few hour','3 hour')
+    data = data.replace('another minute','1 minute')
+    data = data.replace('several minute','4 minute')
+    data = data.replace('one more minute','1 minute')
+    data = data.replace('cook until','2 minute')
+    data = data.replace('-',' ')
+    exclude = set(string.punctuation)
+    data = ''.join(ch for ch in data if ch not in exclude)
+
+
+    dataWords =  data.split()
+    timeWords = ['minute','minutes','hour','hours']
+    totalTime = 0*ureg.minute
+    for timeWord in timeWords:
+      timeI = [i for i, x in enumerate(dataWords) if x == timeWord]
+      for i in timeI:
+        try:
+          totalTime = totalTime + int(dataWords[i-1])*ureg.parse_expression(dataWords[i])
+        except:
+          pass
+
+    dataWords =  data.split()
+    cookingTimes = {'cut':1*ureg.minute,'knead':2*ureg.minute,'chop':1*ureg.minute,'food processor':2*ureg.minute,'slice':1*ureg.minute,'assemble':1*ureg.minute,'toss':1*ureg.minute,'filet':1*ureg.minute,'stuff':1*ureg.minute}
+    for key in cookingTimes.keys():
+      timesInData = [i for i, x in enumerate(dataWords) if x == key]
+      totalTime = totalTime + len(timesInData)*cookingTimes[key]
+      if len(timesInData)>0:
+        print "+"+ len(timesInData)*str(cookingTimes[key]) + " for " + key + "ing.\n"
+      
+    if totalTime > 60*ureg.minute:
+      return str(totalTime.to(ureg.hour))
+    else:
+      return str(totalTime)
+
+    
+
     
   def extract_recipe_main(url):
     global nutrientData
@@ -397,7 +467,7 @@ class Recipe:
 
 
     dataWords =  data.split()
-    timeWords = ['minute','minutes','hour','hours']
+    timeWords = ['second','seconds','minute','minutes','hour','hours']
     totalTime = 0*ureg.minute
     for timeWord in timeWords:
       timeI = [i for i, x in enumerate(dataWords) if x == timeWord]
@@ -409,7 +479,7 @@ class Recipe:
 
     data = data + ' ' + data_ingredients
     dataWords =  data.split()
-    cookingTimes = {'cut':1*ureg.minute,'knead':2*ureg.minute,'chop':1*ureg.minute,'food processor':2*ureg.minute,'slice':1*ureg.minute,'assemble':1*ureg.minute,'toss':1*ureg.minute,'filet':1*ureg.minute,'stuff':1*ureg.minute}
+    cookingTimes = {'cut':1*ureg.minute,'boil':6*ureg.minute,'knead':2*ureg.minute,'chop':1*ureg.minute,'food processor':2*ureg.minute,'slice':1*ureg.minute,'assemble':1*ureg.minute,'toss':1*ureg.minute,'filet':1*ureg.minute,'stuff':1*ureg.minute}
     for key in cookingTimes.keys():
       timesInData = [i for i, x in enumerate(dataWords) if x == key]
       totalTime = totalTime + len(timesInData)*cookingTimes[key]

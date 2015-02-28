@@ -33,6 +33,7 @@
          "all-purpose",
          "1 ",
          "2 ",
+         "5 ",
          "8 ",
          "chopped"
       ],
@@ -142,9 +143,15 @@
          "flat",
          "broil",
          "fill",
+         "halfway",
+         "boil",
          "olive",
-         "tablespoon",
-         "oz",
+         "high heat",
+         "medium heat",
+         "fill a medium",
+         "fill a large",
+         "fill a small",
+         "swirl",
          "hand",
          "water",
          "separate",
@@ -232,7 +239,7 @@
          "bun"         
       ],
       "hasFewerWordsThan":-1,
-      "hasMoreWordsThan":6,
+      "hasMoreWordsThan":7,
       "hasSpecial":"NONE"
    }
 }
