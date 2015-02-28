@@ -69,14 +69,14 @@ class Recipe:
     self.recipe['title'] = self.title
     self.recipe['source'] = source
     self.recipe['ingredients'] = self.ingredients
-    self.recipe['nutrition'] = self.nutrients
+    #self.recipe['nutrition'] = self.nutrients
     self.recipe['directions'] = self.directions
     self.recipe['time'] = self.extractCookingTime(self.directions)
     self.recipe['total_cost'] = 0
     for ingredient in self.recipe['ingredients']:
       self.recipe['total_cost'] = self.recipe['total_cost'] + ingredient['cost']
     self.recipe['total_cost'] = round(self.recipe['total_cost'],2)
-    self.recipe['serving_size'] = round(self.recipe['nutrition']['Main']['Energy']/600)
+    #self.recipe['serving_size'] = round(self.recipe['nutrition']['Main']['Energy']/600)
     print json.dumps(self.recipe,sort_keys=True,indent=2)
     
     
@@ -185,7 +185,6 @@ class Recipe:
         possibleWords.append(words[i] + '*')
       
     # Start searching the db
-    print possibleWords
     foundMatch = False
     shrt_desc = "No match"
     ndb_no = '-1'
@@ -569,4 +568,4 @@ select nutr_no,nutrdesc from nutr_def order by sr_order;
 FInd top 50 foods for a given nutrient:
 select long_desc,nutr_no,nutr_val from (select long_desc,nutr_no,nutr_val from food_des,nut_data where food_des.ndb_no == nut_data.ndb_no) where nutr_no like '328' order by nutr_val desc limit 50;
 '''
-a = Recipe('~/3152.md.bz2')
+a = Recipe(sys.argv[1])
