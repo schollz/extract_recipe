@@ -69,15 +69,18 @@ class Recipe:
     self.recipe['title'] = self.title
     self.recipe['source'] = source
     self.recipe['ingredients'] = self.ingredients
-    #self.recipe['nutrition'] = self.nutrients
+    self.recipe['nutrition'] = self.nutrients
     self.recipe['directions'] = self.directions
     self.recipe['time'] = self.extractCookingTime(self.directions)
     self.recipe['total_cost'] = 0
     for ingredient in self.recipe['ingredients']:
       self.recipe['total_cost'] = self.recipe['total_cost'] + ingredient['cost']
     self.recipe['total_cost'] = round(self.recipe['total_cost'],2)
-    #self.recipe['serving_size'] = round(self.recipe['nutrition']['Main']['Energy']/600)
-    print json.dumps(self.recipe,sort_keys=True,indent=2)
+    self.recipe['serving_size'] = round(self.recipe['nutrition']['Main']['Energy']/600)
+    print json.dumps(self.recipe['ingredients'],sort_keys=True,indent=2)
+    print json.dumps(self.recipe['directions'],sort_keys=True,indent=2)
+    with open('collected_recipes.json','a') as f:
+      f.write(json.dumps(self.recipe))
     
     
     
@@ -116,7 +119,7 @@ class Recipe:
       if words[i][-1] == 's':
         words[i] = singularize(words[i])
       if '/' in words[i]:
-        words[i]=str(ureg.parse_expression(words[i]))
+        words[i]=str(ureg.parse_expression(words[i]).magnitude)
     
     # Determine which words are ingredients and which are measurements (quantities)
     foodWords = [False]*len(words)
@@ -141,6 +144,9 @@ class Recipe:
           if not measurementWords[i]:
             foodWords[i] = True
         if i>1 and 'quantity' in synset.lexname and hasNumbers(words[i-1]) and hasNumbers(words[i-2]):
+          print words[i-2]
+          print words[i-1]
+          print words[i]
           quantityExpression = str(float(words[i-2]) + float(words[i-1])) + " " + words[i]
           measurementWords[i] = True
           measurementWords[i-1] = True
@@ -187,6 +193,9 @@ class Recipe:
     if "chocolate" in words and "chip" in words:
       possibleWords = []
       possibleWords.append('Candies, semisweet chocolate')
+    if "flour" in words and "tortilla" in words:
+      possibleWords = []
+      possibleWords.append('tortillas NEAR/5 flour')
     # Start searching the db
     foundMatch = False
     shrt_desc = "No match"

@@ -25,7 +25,7 @@ def count_occurences(context, sentence):
   occurences = 0
   words_in_sentence = len(sentence.split())
   for word in context['context_words']:
-    if words_in_sentence < context['hasFewerWordsThan'] or words_in_sentence > context['hasMoreWordsThan']:
+    if words_in_sentence < context['hasFewerWordsThan'] and words_in_sentence > context['hasMoreWordsThan']:
       occurences = occurences + sentence.count(word)
       # If spaces are important, use: occurences = occurences + sum(1 for _ in re.finditer(r'\b%s\b' % re.escape(word), sentence))
   if occurences > 0 and context['hasSpecial'] in sentence:

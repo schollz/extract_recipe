@@ -10,6 +10,8 @@
          "whole",
          "tablespoon",
          "teaspoon",
+         "tbsp",
+         "tsp",
          "salt",
          "pinch",
          "/",
@@ -20,6 +22,11 @@
          "to taste",
          "chops",
          "container",
+         "freshly",
+         "crushed",
+         "melted",
+         "oz",
+         "grated",
          "1/4",
          "3/8",
          "5/8",
@@ -37,8 +44,8 @@
          "8 ",
          "chopped"
       ],
-      "hasFewerWordsThan":8,
-      "hasMoreWordsThan":1,
+      "hasFewerWordsThan":10,
+      "hasMoreWordsThan":2,
       "hasSpecial":"*"
    },
    "directions":{  
@@ -238,7 +245,7 @@
          "spatula",
          "bun"         
       ],
-      "hasFewerWordsThan":-1,
+      "hasFewerWordsThan":80,
       "hasMoreWordsThan":7,
       "hasSpecial":"NONE"
    }
