@@ -1,0 +1,46 @@
+columns:
+  RECIPES:
+    - - Id
+      - INTEGER PRIMARY KEY AUTOINCREMENT
+    - - Title
+      - VARCHAR(255)
+    - - Markdown
+      - TEXT
+    - - Url
+      - VARCHAR(255)
+    - - Ingredients
+      - TEXT
+    - - Directions
+      - TEXT
+    - - Total_Time
+      - INTEGER
+    - - Total_Cost
+      - INTEGER
+    - - Total_Serv
+      - INTEGER
+    - - Total_Nutr
+      - TEXT
+  NUTR:
+    - - Id
+      - INTEGER PRIMARY KEY
+    - - Energy
+      - INTEGER
+    - - Water
+      - INTEGER
+    - - Starch
+      - INTEGER
+    - - Fructose
+      - INTEGER
+  INGREDIENTS:
+    - - NDB_No
+      - VARCHAR(5) NOT NULL
+    - - Id
+      - INTEGER NOT NULL
+relations:
+  RECIPES: []
+  NUTR:
+    - - Id
+      - RECIPES
+  INGREDIENTS:
+    - - Id
+      - RECIPES
