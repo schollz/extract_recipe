@@ -31,6 +31,7 @@ columns:
       - INTEGER
     - - Fructose
       - INTEGER
+      NEED ALL OTHER INGREDIENTS
   INGREDIENTS:
     - - NDB_No
       - VARCHAR(5) NOT NULL
