@@ -23,7 +23,7 @@ if not os.path.exists('recipes'):
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s %(name)-12s %(levelname)-8s %(message)s',
                     datefmt='%m-%d %H:%M:%S',
-                    filename='downloadRecipes.log',
+                    filename='log',
                     filemode='a')
                     
 logger = logging.getLogger('main')      
@@ -58,7 +58,7 @@ t = time.time()
 with open('recipeitems-latest.json','rb') as f:
   for line in f:
     fileNum = fileNum + 1
-    folderSave = str(round(fileNum/100,0))
+    folderSave = str(int(fileNum/100))
     if not os.path.exists('recipes/' + folderSave):
         os.makedirs('recipes/' + folderSave)
 
