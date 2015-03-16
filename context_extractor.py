@@ -30,6 +30,10 @@ def count_occurences(context, sentence):
       # If spaces are important, use: occurences = occurences + sum(1 for _ in re.finditer(r'\b%s\b' % re.escape(word), sentence))
   if occurences > 0 and context['hasSpecial'] in sentence:
     occurences = occurences *2
+  for word in context['bad_context_words']:
+    if words_in_sentence < context['hasFewerWordsThan'] and words_in_sentence > context['hasMoreWordsThan']:
+      occurences = occurences - sentence.count(word)
+      # If spaces are important, use: occurences = occurences + sum(1 for _ in re.finditer(r'\b%s\b' % re.escape(word), sentence))
   return occurences
 
 def get_url_markdown(baseurl):
@@ -94,9 +98,9 @@ def calculate_context_peaks(contexts,o_array):
     bestArea = 0
 
 #    for i in range(1,o_array[context].size):
-    for i in range(maxIndex-10,maxIndex+10):
+    for i in range(maxIndex-3,maxIndex+3):
       try:
-        popt, pcov = curve_fit(normpdf, xi, yi, p0=[np.max(yi)/2,i,3])
+        popt, pcov = curve_fit(normpdf, xi, yi, p0=[np.max(yi),i,1])
         if popt[0]*0.5*popt[2] > bestArea and popt[2]<15:
           bestArea = popt[0]*0.5*popt[2]
           best_popt = popt
@@ -144,8 +148,22 @@ def get_snippets(contexts,source):
       for line in f:
         text = text + line.strip() + "\n"
     os.system('rm ./source.tmp')
+  numberLines = 0
+  for line in text.splitlines():
+    numberLines = numberLines + 1
+  totalLines = numberLines  
+  
+  for context in contexts:
+    newText = ""
+    numberLines = 0
+    for line in text.splitlines():
+      newText = newText + line.strip() + "\n"
+      numberLines = numberLines + 1
+      if numberLines > totalLines*float(contexts[context]['topProportion']):
+        break
+    contexts[context]["text"] = newText
   print("Getting number occurrences in each line...")
-  o_array = get_occurrences(contexts,text)
+  o_array = get_occurrences(contexts,contexts[context]["text"])
   print("Curve fitting on single Gaussian...")
   o_fits = calculate_context_peaks(contexts,o_array)
   print("Grabbing snippets...")
@@ -154,12 +172,12 @@ def get_snippets(contexts,source):
   for context in o_fits:
     o_snippet[context] = ""
     
-  line_number = 0
-  for line in text.splitlines():
-    line_number = line_number + 1
-    for context in o_fits:
-      if line_number >= o_fits[context][1]-round(1.5*o_fits[context][2]) and line_number <= o_fits[context][1]+round(1.5*o_fits[context][2]):
-        if len(line)>1 and "##" not in line:
+  for context in o_fits:
+    line_number = 0
+    for line in contexts[context]['text'].splitlines():
+      line_number = line_number + 1
+      if line_number >= o_fits[context][1]-round(2*o_fits[context][2]) and line_number <= o_fits[context][1]+round(2*o_fits[context][2]):
+        if len(line)>1 and "##" not in line and len(line.split())<contexts[context]['ignoreIfWordsExceed'] and len(line.split())>contexts[context]['ignoreIfWordsLessThan']:
           o_snippet[context] = o_snippet[context] + line + "\n"
           
   return (o_snippet,o_fits,o_array)

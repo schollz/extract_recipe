@@ -56,7 +56,6 @@ class Recipe:
   def __init__(self,source,title='None'):
     contexts = json.load(open('context_settings.json','r'))
     (o_snippet,o_fits,o_array) = get_snippets(contexts,source)
-    print o_snippet
     self.nutrients = {}
     self.recipe = {}
     self.htmlString = ""
@@ -76,12 +75,20 @@ class Recipe:
     self.recipe['total_cost'] = 0
     for ingredient in self.recipe['ingredients']:
       self.recipe['total_cost'] = self.recipe['total_cost'] + ingredient['cost']
+    self.recipe['total_grams'] = 0
+    for ingredient in self.recipe['ingredients']:
+      self.recipe['total_grams'] = self.recipe['total_grams'] + ingredient['grams']
+    self.recipe['serving_size'] = round(self.recipe['nutrition']['Main']['Energy']/600,1)
+    for nutrientType in self.recipe['nutrition']:
+      for item in self.recipe['nutrition'][nutrientType]:
+        self.recipe['nutrition'][nutrientType][item] = self.recipe['nutrition'][nutrientType][item]/self.recipe['total_grams']*100
     self.recipe['total_cost'] = round(self.recipe['total_cost'],2)
-    self.recipe['serving_size'] = round(self.recipe['nutrition']['Main']['Energy']/600)
-    print json.dumps(self.recipe['ingredients'],sort_keys=True,indent=2)
-    print json.dumps(self.recipe['directions'],sort_keys=True,indent=2)
+    self.recipe['total_cost_per_serving'] = round(self.recipe['total_cost']/self.recipe['serving_size'],2)
+    #print json.dumps(self.recipe['ingredients'],sort_keys=True,indent=2)
+    #print json.dumps(self.recipe['directions'],sort_keys=True,indent=2)
+    print json.dumps(self.recipe,sort_keys=True,indent=2)
     with open('collected_recipes.json','a') as f:
-      f.write(json.dumps(self.recipe))
+      f.write(json.dumps(self.recipe) + "\n")
     
     
     
@@ -109,7 +116,21 @@ class Recipe:
     sentence = sentence.replace(')','')
     sentence = sentence.replace('about','')
     sentence = sentence.replace('and/or','')
+    sentence = sentence.replace('11/2','1 1/2')
+    sentence = sentence.replace('11/8','1 1/8')
+    sentence = sentence.replace('11/4','1 1/4')
+    sentence = sentence.replace('13/4','1 3/4')
+    sentence = sentence.replace('21/2','2 1/2')
+    sentence = sentence.replace('21/8','2 1/8')
+    sentence = sentence.replace('21/4','2 1/4')
+    sentence = sentence.replace('23/4','2 3/4')
+    sentence = sentence.replace('31/2','3 1/2')
+    sentence = sentence.replace('31/8','3 1/8')
+    sentence = sentence.replace('31/4','3 1/4')
+    sentence = sentence.replace('33/4','3 3/4')
     sentence = sentence.replace(' / ',' ')
+    sentence = sentence.replace(' / ',' ')
+    sentence = sentence.replace('chopped/shredded','chopped') # need to generalize this type of thing
     sentence = sentence.replace('/','slashslash')
     # Remove punctuation
 
@@ -150,9 +171,6 @@ class Recipe:
           if not measurementWords[i]:
             foodWords[i] = True
         if i>1 and 'quantity' in synset.lexname and hasNumbers(words[i-1]) and hasNumbers(words[i-2]):
-          print words[i-2]
-          print words[i-1]
-          print words[i]
           quantityExpression = str(float(words[i-2]) + float(words[i-1])) + " " + words[i]
           measurementWords[i] = True
           measurementWords[i-1] = True
@@ -211,6 +229,9 @@ class Recipe:
     if "yogurt cream" in sentence:
       possibleWords = []
       possibleWords.append('yogurt NEAR/3 cream')
+    if "can" in sentence and "pumpkin" in sentence:
+      possibleWords = []
+      possibleWords.append('pumpkin NEAR/3 canned')
     # Start searching the db
     foundMatch = False
     shrt_desc = "No match"
