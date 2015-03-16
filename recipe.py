@@ -202,6 +202,15 @@ class Recipe:
     if "flour" in words and "tortilla" in words:
       possibleWords = []
       possibleWords.append('tortillas NEAR/5 flour')
+    if "berries" in sentence or "strawberries" in sentence:
+      possibleWords = []
+      possibleWords.append('strawberries')
+    if "blueberries" in sentence:
+      possibleWords = []
+      possibleWords.append('strawberries')
+    if "yogurt cream" in sentence:
+      possibleWords = []
+      possibleWords.append('yogurt NEAR/3 cream')
     # Start searching the db
     foundMatch = False
     shrt_desc = "No match"

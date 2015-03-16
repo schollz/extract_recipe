@@ -7,6 +7,9 @@
          "package",
          "ounce",
          "pound",
+         "handful",
+         "uncooked",
+         "squeezed",
          "whole",
          "tablespoon",
          "teaspoon",
@@ -44,7 +47,7 @@
          "8 ",
          "chopped"
       ],
-      "hasFewerWordsThan":10,
+      "hasFewerWordsThan":8,
       "hasMoreWordsThan":2,
       "hasSpecial":"*"
    },
@@ -52,6 +55,7 @@
       "context_words":[  
          "aioloi",
          "aged",
+         "shallow",
          "adjust",
          "braise",
          "infuse",
@@ -243,10 +247,16 @@
          "work it",
          "instant read",
          "spatula",
-         "bun"         
+         "bun",
+         "spray",
+         "shape it",
+         "fill both",
+         "gently release",
+         "too sticky",
+         "saucepan"
       ],
-      "hasFewerWordsThan":80,
-      "hasMoreWordsThan":7,
+      "hasFewerWordsThan":500,
+      "hasMoreWordsThan":6,
       "hasSpecial":"NONE"
    }
 }

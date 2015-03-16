@@ -158,7 +158,7 @@ def get_snippets(contexts,source):
   for line in text.splitlines():
     line_number = line_number + 1
     for context in o_fits:
-      if line_number >= o_fits[context][1]-round(2*o_fits[context][2]) and line_number <= o_fits[context][1]+round(2*o_fits[context][2]):
+      if line_number >= o_fits[context][1]-round(1.5*o_fits[context][2]) and line_number <= o_fits[context][1]+round(1.5*o_fits[context][2]):
         if len(line)>1 and "##" not in line:
           o_snippet[context] = o_snippet[context] + line + "\n"
           
