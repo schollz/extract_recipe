@@ -10,12 +10,15 @@ import logging
 import os
 import os.path
 import sys
+import threading
+
+
 
 if os.path.isfile('recipeitems-latest.json'):
-    pass
+  pass
 else:
-    os.system('wget http://openrecipes.s3.amazonaws.com/recipeitems-latest.json.gz')
-    os.system('gunzip recipeitems-latest.json.gz')
+  os.system('wget http://openrecipes.s3.amazonaws.com/recipeitems-latest.json.gz')
+  os.system('gunzip recipeitems-latest.json.gz')
 
 if not os.path.exists('recipes'):
     os.makedirs('recipes')
@@ -25,9 +28,7 @@ logging.basicConfig(level=logging.DEBUG,
                     datefmt='%m-%d %H:%M:%S',
                     filename='log',
                     filemode='a')
-                    
-logger = logging.getLogger('main')      
-              
+                                  
 def get_url_markdown(baseurl):
   opener = urllib2.build_opener()
   opener.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0')]
@@ -44,39 +45,49 @@ def get_url_markdown(baseurl):
   data = h.handle(unidecode(unicode(data,errors='ignore')))
   return unidecode(data)
   
-lastLine = ""
-if os.path.isfile('recipes/index.txt'):
-    with open('recipes/index.txt','rb') as f:
-        for line in f:
-            lastLine = line
-    lastfileNum = int(lastLine.split()[0])
-else:
-    lastfileNum = -1
+def worker(start,increment):
+  logger = logging.getLogger('worker'+str(start)+"_"+str(increment))      
+  """thread worker function"""
+  print 'Worker: %s/%s' % (start,increment)
+  indexFile = 'recipes/index'+str(start)+"_"+str(increment)+'.txt'
+  lastLine = ""
+  if os.path.isfile(indexFile):
+      with open(indexFile,'rb') as f:
+          for line in f:
+              lastLine = line
+      lastfileNum = int(lastLine.split()[0])
+  else:
+      lastfileNum = -1
 
-fileNum = 0
-t = time.time()
-with open('recipeitems-latest.json','rb') as f:
-  for line in f:
-    fileNum = fileNum + 1
-    folderSave = str(int(fileNum/500))
-    if not os.path.exists('recipes/' + folderSave):
-        os.makedirs('recipes/' + folderSave)
+  fileNum = 0
+  t = time.time()
+  with open('recipeitems-latest.json','rb') as f:
+    for line in f:
+      fileNum = fileNum + 1
+      if fileNum % increment == start:
+        folderSave = str(int(fileNum/500))
+        if not os.path.exists('recipes/' + folderSave):
+            os.makedirs('recipes/' + folderSave)
 
-    if fileNum>lastfileNum:
-      recipe = json.loads(line)
-      logger.info(str(fileNum) + "\t" + recipe['url'] + '\t' + recipe['name'])
-      
-      recipeMD = get_url_markdown(recipe['url'])
-      if recipeMD is not None:
-        with open('recipes/' + folderSave + '/' + str(fileNum) + '.md','wb') as g:
-          g.write(recipeMD)
-        os.system('bzip2 ' + 'recipes/' + folderSave + '/' + str(fileNum) + '.md')        
-        with open('recipes/index.txt','a') as g:
-          g.write(str(fileNum) + "\t" + recipe['url'] + '\t' + unidecode(recipe['name']) + '\n')
-      else:
-        with open('recipes/index.txt','a') as g:
-          g.write(str(fileNum) + "\t" + recipe['url'] + '\t' + 'None' + '\n')      
-      if fileNum % 10 == 0:
-        u = time.time()
-        logger.debug(str(round((u-t)/10,1)) + ' seconds per result')
-        t = u
+        if fileNum>lastfileNum:
+          recipe = json.loads(line)
+          logger.info(str(fileNum) + "\t" + recipe['url'] + '\t' + recipe['name'])
+          
+          recipeMD = get_url_markdown(recipe['url'])
+          if recipeMD is not None:
+            with open('recipes/' + folderSave + '/' + str(fileNum) + '.md','wb') as g:
+              g.write(recipeMD)
+            #os.system('bzip2 ' + 'recipes/' + folderSave + '/' + str(fileNum) + '.md')        
+            with open(indexFile,'a') as g:
+              g.write(str(fileNum) + "\t" + recipe['url'] + '\t' + unidecode(recipe['name']) + '\n')
+          else:
+            with open(indexFile,'a') as g:
+              g.write(str(fileNum) + "\t" + recipe['url'] + '\t' + 'None' + '\n')      
+  return
+ 
+threads = []
+numThreads = 3
+for i in range(numThreads):
+    t = threading.Thread(target=worker, args=(i,numThreads,))
+    threads.append(t)
+    t.start()
