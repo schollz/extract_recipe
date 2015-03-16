@@ -58,7 +58,7 @@ t = time.time()
 with open('recipeitems-latest.json','rb') as f:
   for line in f:
     fileNum = fileNum + 1
-    folderSave = str(int(fileNum/100))
+    folderSave = str(int(fileNum/500))
     if not os.path.exists('recipes/' + folderSave):
         os.makedirs('recipes/' + folderSave)
 
