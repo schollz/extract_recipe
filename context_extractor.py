@@ -159,7 +159,7 @@ def get_snippets(contexts,source):
     for line in text.splitlines():
       newText = newText + line.strip() + "\n"
       numberLines = numberLines + 1
-      if numberLines > totalLines*float(contexts[context]['topProportion']):
+      if totalLines > 100 and numberLines > totalLines*float(contexts[context]['topProportion']):
         break
     contexts[context]["text"] = newText
   print("Getting number occurrences in each line...")

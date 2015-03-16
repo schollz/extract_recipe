@@ -249,12 +249,20 @@
          "fill both",
          "gently release",
          "too sticky",
-         "saucepan"
+         "saucepan",
+        "[",
+        "]",
+        "{",
+        "}",
+        ";",
+        "http",
+        "="
+
       ],
       "hasFewerWordsThan":15,
       "hasMoreWordsThan":2,
       "hasSpecial":"*",
-      "topProportion":"0.5",
+      "topProportion":"0.66",
       "ignoreIfWordsExceed":15,
       "ignoreIfWordsLessThan":2
 },
@@ -477,12 +485,19 @@
         "i keep",
         "i like",
         "i buy",
-        "i've gone"
+        "i've gone",
+        "[",
+        "]",
+        "{",
+        "}",
+        ";",
+        "http",
+        "="
       ],
       "hasFewerWordsThan":500,
       "hasMoreWordsThan":6,
       "hasSpecial":"NONE",
-      "topProportion":"0.5",
+      "topProportion":"0.66",
       "ignoreIfWordsExceed":30000,
       "ignoreIfWordsLessThan":3
    }

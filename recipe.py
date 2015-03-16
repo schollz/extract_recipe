@@ -115,6 +115,7 @@ class Recipe:
     sentence = sentence.replace('(','')
     sentence = sentence.replace(')','')
     sentence = sentence.replace('about','')
+    sentence = sentence.replace('handful','cup')
     sentence = sentence.replace('and/or','')
     sentence = sentence.replace('11/2','1 1/2')
     sentence = sentence.replace('11/8','1 1/8')
@@ -130,7 +131,7 @@ class Recipe:
     sentence = sentence.replace('33/4','3 3/4')
     sentence = sentence.replace(' / ',' ')
     sentence = sentence.replace(' / ',' ')
-    sentence = sentence.replace('chopped/shredded','chopped') # need to generalize this type of thing
+    sentence = sentence.replace('d/','d ') # need to generalize this type of thing chopped/rinsed
     sentence = sentence.replace('/','slashslash')
     # Remove punctuation
 
@@ -232,6 +233,9 @@ class Recipe:
     if "can" in sentence and "pumpkin" in sentence:
       possibleWords = []
       possibleWords.append('pumpkin NEAR/3 canned')
+    if "olives" in sentence:
+      possibleWords = []
+      possibleWords.append('olives NEAR/3 canned')
     # Start searching the db
     foundMatch = False
     shrt_desc = "No match"
