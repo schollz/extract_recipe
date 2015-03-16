@@ -56,6 +56,7 @@ class Recipe:
   def __init__(self,source,title='None'):
     contexts = json.load(open('context_settings.json','r'))
     (o_snippet,o_fits,o_array) = get_snippets(contexts,source)
+    print o_snippet
     self.nutrients = {}
     self.recipe = {}
     self.htmlString = ""
@@ -110,6 +111,7 @@ class Recipe:
     sentence = sentence.replace('and/or','')
     sentence = sentence.replace('/','slashslash')
     # Remove punctuation
+
     exclude = set(string.punctuation)
     sentence = ''.join(ch for ch in sentence if ch not in exclude)
     sentence = sentence.replace('slashslash','/')
@@ -119,7 +121,10 @@ class Recipe:
       if words[i][-1] == 's':
         words[i] = singularize(words[i])
       if '/' in words[i]:
-        words[i]=str(ureg.parse_expression(words[i]).magnitude)
+        try:
+          words[i]=str(ureg.parse_expression(words[i]).magnitude)
+        except:
+          words[i]=str(ureg.parse_expression(words[i]))
     
     # Determine which words are ingredients and which are measurements (quantities)
     foodWords = [False]*len(words)
