@@ -89,9 +89,12 @@ def calculate_context_peaks(contexts,o_array):
         yi = np.append(yi,np.sum(a[i:i+5]))
         xi=np.append(xi,i+3)
     
-    #popt, pcov = curve_fit(normpdf, x, y)
+    #popt, pcov = curve_fit(normpdf, x, y])
+    maxIndex = int(xi[np.argmax(yi)])
     bestArea = 0
-    for i in range(1,o_array[context].size):
+
+#    for i in range(1,o_array[context].size):
+    for i in range(maxIndex-10,maxIndex+10):
       try:
         popt, pcov = curve_fit(normpdf, xi, yi, p0=[np.max(yi)/2,i,3])
         if popt[0]*0.5*popt[2] > bestArea and popt[2]<15:

@@ -96,7 +96,7 @@ class Recipe:
     while m:
       sentence = m.group(1) + m.group(2)
       m = regEx.match(sentence)
-    
+
     sentence = sentence.lower()
     sentence = sentence.replace('about pound','1 pound')
     sentence = sentence.replace('-',' ')
@@ -109,6 +109,7 @@ class Recipe:
     sentence = sentence.replace(')','')
     sentence = sentence.replace('about','')
     sentence = sentence.replace('and/or','')
+    sentence = sentence.replace(' / ',' ')
     sentence = sentence.replace('/','slashslash')
     # Remove punctuation
 
