@@ -29,7 +29,8 @@ logging.basicConfig(level=logging.DEBUG,
                     filename='log',
                     filemode='a')
                                   
-def get_url_markdown(baseurl):
+def get_url_markdown(baseurl,start,increment):
+  '''
   opener = urllib2.build_opener()
   opener.addheaders = [('User-agent', 'Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0')]
   try:
@@ -37,7 +38,13 @@ def get_url_markdown(baseurl):
   except:
     return None
   data = j.read()
-
+  '''
+  urlHandler = urllib2.urlopen(baseurl)
+  data = urlHandler.read()
+  '''
+  os.system('wget -O temp' + str(start)+"_"+str(increment) + ' ' + baseurl)
+  data = open('temp' + str(start)+"_"+str(increment),'rU').read()
+  '''
   h = html2text.HTML2Text()
   h.ignore_links = True
   h.ignore_images = True
@@ -72,8 +79,9 @@ def worker(start,increment):
         if fileNum>lastfileNum:
           recipe = json.loads(line)
           logger.info(str(fileNum) + "\t" + recipe['url'] + '\t' + recipe['name'])
-          
-          recipeMD = get_url_markdown(recipe['url'])
+          t=time.time()
+          recipeMD = get_url_markdown(recipe['url'],start,increment)
+          logger.info('%s seconds' % str(round(time.time()-t,1)))
           if recipeMD is not None:
             with open('recipes/' + folderSave + '/' + str(fileNum) + '.md','wb') as g:
               g.write(recipeMD)
@@ -86,7 +94,7 @@ def worker(start,increment):
   return
  
 threads = []
-numThreads = 3
+numThreads = 15
 for i in range(numThreads):
     t = threading.Thread(target=worker, args=(i,numThreads,))
     threads.append(t)
