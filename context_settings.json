@@ -262,7 +262,7 @@
       "hasFewerWordsThan":15,
       "hasMoreWordsThan":2,
       "hasSpecial":"*",
-      "topProportion":"0.66",
+      "topProportion":"0.75",
       "ignoreIfWordsExceed":15,
       "ignoreIfWordsLessThan":2
 },
@@ -497,7 +497,7 @@
       "hasFewerWordsThan":500,
       "hasMoreWordsThan":6,
       "hasSpecial":"NONE",
-      "topProportion":"0.66",
+      "topProportion":"0.75",
       "ignoreIfWordsExceed":30000,
       "ignoreIfWordsLessThan":3
    }

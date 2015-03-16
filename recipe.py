@@ -131,7 +131,10 @@ class Recipe:
     sentence = sentence.replace('33/4','3 3/4')
     sentence = sentence.replace(' / ',' ')
     sentence = sentence.replace(' / ',' ')
-    sentence = sentence.replace('d/','d ') # need to generalize this type of thing chopped/rinsed
+    sentenceFoo = sentence
+    for word in sentenceFoo.split():
+      if len(word)>5 and '/' in word:
+        sentence = sentence.replace(word,' '.join(word.split('/')))
     sentence = sentence.replace('/','slashslash')
     # Remove punctuation
 
