@@ -84,14 +84,16 @@ class Recipe:
         self.recipe['nutrition'][nutrientType][item] = self.recipe['nutrition'][nutrientType][item]/self.recipe['total_grams']*100
     self.recipe['total_cost'] = round(self.recipe['total_cost'],2)
     self.recipe['total_cost_per_serving'] = round(self.recipe['total_cost']/self.recipe['serving_size'],2)
+    self.recipe['url']=source
     #print json.dumps(self.recipe['ingredients'],sort_keys=True,indent=2)
     #print json.dumps(self.recipe['directions'],sort_keys=True,indent=2)
-    print json.dumps(self.recipe,sort_keys=True,indent=2)
-    with open('collected_recipes.json','a') as f:
-      f.write(json.dumps(self.recipe) + "\n")
+#    print(json.dumps(self.recipe,sort_keys=True,indent=2))
+#    with open('collected_recipes.json','a') as f:
+#      f.write(json.dumps(self.recipe) + "\n")
     
     
-    
+  def returnJson(self):
+    return self.recipe
 
     
   def parseIngredients(self,sentence):
@@ -421,7 +423,7 @@ class Recipe:
       timesInData = [i for i, x in enumerate(dataWords) if x == key]
       totalTime = totalTime + len(timesInData)*cookingTimes[key]
       if len(timesInData)>0:
-        print "+"+ len(timesInData)*str(cookingTimes[key]) + " for " + key + "ing.\n"
+        print("+"+ len(timesInData)*str(cookingTimes[key]) + " for " + key + "ing.\n")
       
     if totalTime > 60*ureg.minute:
       return str(totalTime.to(ureg.hour))
@@ -470,14 +472,14 @@ class Recipe:
         except:
           pass
     end = time.time()
-    print end-start
+    print(end-start)
 
     finalString = finalString + "\n"
     patternString = '<section id="photos">\n'
     for i in imageGridUrls:
       patternString = patternString + i + '\n'
     patternString = patternString + "</section>\n" 
-    print patternString
+    print(patternString)
     
     finalString = patternString + "\n" + finalString
    
@@ -592,10 +594,9 @@ class Recipe:
     finalString = finalString + "\n\n# Nutrition data (ALL)\n"
     for category in nutrientData:
       finalString = finalString + "\n\n## " + category + "\n\n"
-      print category
-      print nutrientData[category]
+      print(category)
+      print(nutrientData[category])
       for nutrient in sorted(nutrientData[category].items(), key=operator.itemgetter(1),reverse=True):
-        print nutrient
         if nutrient[1]>0:
           if 'Energy' in nutrient[0]:
             finalString = finalString + " - " + nutrient[0] + ": " + str(nutrient[1]) + " Calories\n"
@@ -623,4 +624,4 @@ select nutr_no,nutrdesc from nutr_def order by sr_order;
 FInd top 50 foods for a given nutrient:
 select long_desc,nutr_no,nutr_val from (select long_desc,nutr_no,nutr_val from food_des,nut_data where food_des.ndb_no == nut_data.ndb_no) where nutr_no like '328' order by nutr_val desc limit 50;
 '''
-a = Recipe(sys.argv[1])
+#a = Recipe(sys.argv[1])
