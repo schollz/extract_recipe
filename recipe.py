@@ -423,7 +423,8 @@ class Recipe:
       timesInData = [i for i, x in enumerate(dataWords) if x == key]
       totalTime = totalTime + len(timesInData)*cookingTimes[key]
       if len(timesInData)>0:
-        print("+"+ len(timesInData)*str(cookingTimes[key]) + " for " + key + "ing.\n")
+        pass
+        #print("+"+ len(timesInData)*str(cookingTimes[key]) + " for " + key + "ing.\n")
       
     if totalTime > 60*ureg.minute:
       return str(totalTime.to(ureg.hour))

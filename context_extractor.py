@@ -134,7 +134,7 @@ def findTitle(text):
   
 def get_snippets(contexts,source):
   if "http" in source:
-    print("Getting url " + source + "...")
+    #print("Getting url " + source + "...")
     text = get_url_markdown(source)
   elif ".md" in source:
     if "bz2" in source:
@@ -162,11 +162,11 @@ def get_snippets(contexts,source):
       if totalLines > 100 and numberLines > totalLines*float(contexts[context]['topProportion']):
         break
     contexts[context]["text"] = newText
-  print("Getting number occurrences in each line...")
+  #print("Getting number occurrences in each line...")
   o_array = get_occurrences(contexts,contexts[context]["text"])
-  print("Curve fitting on single Gaussian...")
+  #print("Curve fitting on single Gaussian...")
   o_fits = calculate_context_peaks(contexts,o_array)
-  print("Grabbing snippets...")
+  #print("Grabbing snippets...")
   o_snippet = {}
   o_snippet['title'] = findTitle(text)
   for context in o_fits:

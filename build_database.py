@@ -2,6 +2,7 @@ from dbcommands import *
 import logging
 import json
 from recipe import *
+import os.path
 
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s %(name)-12s %(levelname)-8s %(message)s',
@@ -99,47 +100,54 @@ else:
       'cost':cost,\
       'grams':grams\
 '''
-
+startNum = 8670
 with open('get_recipes/recipes/index0_10.txt','r') as f:
   for line in f:
     #try:
-    data = line.strip().split()
-    recipeNum = int(data[0])
-    url = data[1]
-    title = ' '.join(data[2:])
-    a = Recipe('get_recipes/recipes/' + str(recipeNum/500) + '/' + str(recipeNum) + '.md')
-    recipe = a.returnJson()
-    recipe['url'] = url
-    recipe['title'] = title
-
-
-    # Insert the new recipe
     try:
-      recipeID = DB.newRecipe(recipe['title'],recipe['url'],recipe['source'],recipe['directions'],recipe['time'],recipe['total_cost'],recipe['total_cost_per_serving'],recipe['serving_size'],recipe['total_grams'],len(recipe['ingredients']))
+      data = line.strip().split()
+      recipeNum = int(data[0])
+      url = data[1]
+      title = ' '.join(data[2:])
     except:
-      recipeID = DB.getRecipeIDfromURL(recipe['url'])
-      
-    # Update the nutrients
-    for nutritionClass in recipe['nutrition'].keys():
-      for nutrient in recipe['nutrition'][nutritionClass].keys(): 
-        DB.updateIngredient(nutrient,recipe['nutrition'][nutritionClass][nutrient],recipeID)
+      recipeNum = 0
     
-    # Insert the ingredients
-    for ingredient in recipe['ingredients']:
+    file = 'get_recipes/recipes/' + str(recipeNum/500) + '/' + str(recipeNum) + '.md'
+    if recipeNum>startNum and os.path.isfile(file):
+      print line
       try:
-        print(ingredient)
-        actual = ingredient['actual']
-        ingredient_uuid = recipe['url']+ingredient['ndb_no']
-        measurement = ingredient['measurement']
-        description = ingredient['description']
-        ndb_no = ingredient['ndb_no']
-        cost = ingredient['cost']
-        grams = ingredient['grams']
-        foo = DB.addIngredient(recipeID,ingredient_uuid,actual,measurement,description,ndb_no,cost,grams)
+        a = Recipe('get_recipes/recipes/' + str(recipeNum/500) + '/' + str(recipeNum) + '.md')
+        recipe = a.returnJson()
+        recipe['url'] = url
+        recipe['title'] = title
+        # Insert the new recipe
+        try:
+          recipeID = DB.newRecipe(recipe['title'],recipe['url'],recipe['source'],recipe['directions'],recipe['time'],recipe['total_cost'],recipe['total_cost_per_serving'],recipe['serving_size'],recipe['total_grams'],len(recipe['ingredients']))
+        except:
+          recipeID = DB.getRecipeIDfromURL(recipe['url'])
+          
+        # Update the nutrients
+        for nutritionClass in recipe['nutrition'].keys():
+          for nutrient in recipe['nutrition'][nutritionClass].keys(): 
+            DB.updateIngredient(nutrient,recipe['nutrition'][nutritionClass][nutrient],recipeID)
+        
+        # Insert the ingredients
+        for ingredient in recipe['ingredients']:
+          try:
+            actual = ingredient['actual']
+            ingredient_uuid = recipe['url']+ingredient['ndb_no']
+            measurement = ingredient['measurement']
+            description = ingredient['description']
+            ndb_no = ingredient['ndb_no']
+            cost = ingredient['cost']
+            grams = ingredient['grams']
+            foo = DB.addIngredient(recipeID,ingredient_uuid,actual,measurement,description,ndb_no,cost,grams)
+          except:
+            pass
+            #print "ingredient already exists"
       except:
-        print "ingredient already exists"
-    #except:
-    #  print "Unexpected error:", sys.exc_info()[0]
+        print "Unexpected error:", sys.exc_info()[0]
+        print "error... continuing..."
 '''  
 recipe = Recipe(sys.argv[1])
 recipe['url']='asdlfkj'
