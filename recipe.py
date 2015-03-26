@@ -3,6 +3,7 @@ import time
 import random
 import sys
 import json
+from fuzzywuzzy import fuzz
 
 import string
 keep = string.lowercase + string.digits + string.whitespace
@@ -54,6 +55,13 @@ def getMixedFraction(flt):
 
 class Recipe:
   def __init__(self,source,title='None'):
+    self.foodList = {}
+    with open('long_desc.csv','r') as f:
+      for line in f:
+        foo = line.strip().split('\t')
+        food=foo[0]
+        ndb_no=foo[1]
+        self.foodList[food]=str(ndb_no)
     contexts = json.load(open('context_settings.json','r'))
     (o_snippet,o_fits,o_array) = get_snippets(contexts,source)
     self.nutrients = {}
@@ -85,7 +93,7 @@ class Recipe:
     self.recipe['total_cost'] = round(self.recipe['total_cost'],2)
     self.recipe['total_cost_per_serving'] = round(self.recipe['total_cost']/self.recipe['serving_size'],2)
     self.recipe['url']=source
-    #print json.dumps(self.recipe['ingredients'],sort_keys=True,indent=2)
+    print json.dumps(self.recipe['ingredients'],sort_keys=True,indent=2)
     #print json.dumps(self.recipe['directions'],sort_keys=True,indent=2)
 #    print(json.dumps(self.recipe,sort_keys=True,indent=2))
 #    with open('collected_recipes.json','a') as f:
@@ -143,6 +151,9 @@ class Recipe:
     exclude = set(string.punctuation)
     sentence = ''.join(ch for ch in sentence if ch not in exclude)
     sentence = sentence.replace('slashslash','/')
+    
+
+    
     words = sentence.split()
     # Sanitize the words
     for i in range(len(words)):
@@ -173,7 +184,7 @@ class Recipe:
           quantityExpression = words[i-1] + " " + words[i]
           measurementWords[i] = True
           measurementWords[i-1] = True
-        if 'food' in synset.lexname or 'plant' in synset.lexname:
+        if 'food' in synset.lexname or 'plant' in synset.lexname or 'substance' in synset.lexname:
           if not measurementWords[i]:
             foodWords[i] = True
         if i>1 and 'quantity' in synset.lexname and hasNumbers(words[i-1]) and hasNumbers(words[i-2]):
@@ -182,6 +193,21 @@ class Recipe:
           measurementWords[i-1] = True
           measurementWords[i-2] = True
 
+    print(foodWords)
+    print(sentence)
+    foodString = ""
+    for i in range(len(words)):
+      if foodWords[i]:
+        if i>0:
+          foodString = foodString + words[i-1] + " "
+        foodString = foodString + words[i] + " "
+    print(foodString)
+    partialList = {}
+    for key in self.foodList.keys():
+      partialList[key] = fuzz.token_sort_ratio(key,foodString)
+    topResults = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:10]
+    print(topResults)
+    
     # Figure out the grams
     tryToFindAnotherMeasure = False
     try:
@@ -625,4 +651,4 @@ select nutr_no,nutrdesc from nutr_def order by sr_order;
 FInd top 50 foods for a given nutrient:
 select long_desc,nutr_no,nutr_val from (select long_desc,nutr_no,nutr_val from food_des,nut_data where food_des.ndb_no == nut_data.ndb_no) where nutr_no like '328' order by nutr_val desc limit 50;
 '''
-#a = Recipe(sys.argv[1])
+a = Recipe(sys.argv[1])
