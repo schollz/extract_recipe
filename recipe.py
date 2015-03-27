@@ -5,6 +5,7 @@ import sys
 import json
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
+import Levenshtein
 
 import string
 keep = string.lowercase + string.digits + string.whitespace
@@ -63,6 +64,20 @@ class Recipe:
         food=foo[0]
         ndb_no=foo[1]
         self.foodList[food]=str(ndb_no)
+    self.foodListCommon = {}
+    with open('com_desc.csv','r') as f:
+      for line in f:
+        foo = line.strip().split('\t')
+        food=foo[0]
+        ndb_no=foo[1]
+        self.foodListCommon[food]=str(ndb_no)
+    self.foodListShort = {}
+    with open('shrt_desc.csv','r') as f:
+      for line in f:
+        foo = line.strip().split('\t')
+        food=foo[0]
+        ndb_no=foo[1]
+        self.foodListShort[food]=str(ndb_no)
     contexts = json.load(open('context_settings.json','r'))
     (o_snippet,o_fits,o_array) = get_snippets(contexts,source)
     self.nutrients = {}
@@ -185,7 +200,7 @@ class Recipe:
           quantityExpression = words[i-1] + " " + words[i]
           measurementWords[i] = True
           measurementWords[i-1] = True
-        if 'food' in synset.lexname or 'plant' in synset.lexname or 'substance' in synset.lexname:
+        if 'food' in synset.lexname or 'plant' in synset.lexname:
           if not measurementWords[i]:
             foodWords[i] = True
         if i>1 and 'quantity' in synset.lexname and hasNumbers(words[i-1]) and hasNumbers(words[i-2]):
@@ -199,19 +214,41 @@ class Recipe:
     foodString = ""
     for i in range(len(words)):
       if foodWords[i]:
-        if i>0:
+        if i>0  and not measurementWords[i-1] and words[i-1] not in foodString:
           foodString = foodString + words[i-1] + " "
         foodString = foodString + words[i] + " "
+    if len(foodString)==0:
+      foodString = sentence
     print(foodString)
     partialList = {}
     for key in self.foodList.keys():
+      #partialList[key] = fuzz.token_set_ratio(key,foodString.replace(',',''))
+      partialList[key] = Levenshtein.ratio(foodString.replace(',','').lower(),key.lower())
+    topResults = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:10]   
+    #print(topResults)
+    partialList = {}
+    partialListL = {}
+    for key in self.foodListCommon.keys():
       partialList[key] = fuzz.token_set_ratio(key,foodString.replace(',',''))
-    topResults = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:10]
-   
-    
+      partialListL[key] = (Levenshtein.ratio(foodString.replace(',',' ').lower(),key.lower()))
+      #partialList[key] = Levenshtein.ratio(foodString.replace(',','').lower(),key.lower())
+    topResults = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:10]   
     print(topResults)
-    choices = self.foodList.keys()
-    print(process.extract(foodString,choices,limit=2))
+    for result in topResults:
+      print(partialListL[result[0]])
+    partialList = {}
+    partialListL = {}
+    for key in self.foodListShort.keys():
+      partialList[key] = (fuzz.token_set_ratio(key.replace(',',' ').lower(),foodString.replace(',',' ').lower()))
+      partialListL[key] = (Levenshtein.ratio(foodString.replace(',',' ').lower(),key.lower()))
+      #partialList[key] = Levenshtein.ratio(foodString.replace(',','').lower(),key.lower())
+    topResults = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:10]   
+    print(topResults)
+    for result in topResults:
+      print(partialListL[result[0]])
+    
+    #choices = self.foodList.keys()
+    #print(process.extract(foodString,choices,limit=2))
     # Figure out the grams
     tryToFindAnotherMeasure = False
     try:
