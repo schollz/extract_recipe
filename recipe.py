@@ -4,6 +4,7 @@ import random
 import sys
 import json
 from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 
 import string
 keep = string.lowercase + string.digits + string.whitespace
@@ -204,10 +205,13 @@ class Recipe:
     print(foodString)
     partialList = {}
     for key in self.foodList.keys():
-      partialList[key] = fuzz.token_sort_ratio(key,foodString)
+      partialList[key] = fuzz.token_set_ratio(key,foodString.replace(',',''))
     topResults = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:10]
-    print(topResults)
+   
     
+    print(topResults)
+    choices = self.foodList.keys()
+    print(process.extract(foodString,choices,limit=2))
     # Figure out the grams
     tryToFindAnotherMeasure = False
     try:
