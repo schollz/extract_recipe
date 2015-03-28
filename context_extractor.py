@@ -121,6 +121,7 @@ def calculate_context_peaks(contexts,o_array):
   if plottingEnabled:
     mpl.xlabel('Line number')
     fig.savefig('ingredients.png')
+    mpl.close()
   return o_fits
 
 def findTitle(text):

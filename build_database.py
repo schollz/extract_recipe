@@ -100,7 +100,8 @@ else:
       'cost':cost,\
       'grams':grams\
 '''
-startNum = 8670
+startNum = 4870
+logger = logging.getLogger('build_database.building')
 with open('get_recipes/recipes/index0_10.txt','r') as f:
   for line in f:
     #try:
@@ -114,7 +115,7 @@ with open('get_recipes/recipes/index0_10.txt','r') as f:
     
     file = 'get_recipes/recipes/' + str(recipeNum/500) + '/' + str(recipeNum) + '.md'
     if recipeNum>startNum and os.path.isfile(file):
-      print line
+      logger.info(line)
       try:
         a = Recipe('get_recipes/recipes/' + str(recipeNum/500) + '/' + str(recipeNum) + '.md')
         recipe = a.returnJson()
@@ -143,11 +144,10 @@ with open('get_recipes/recipes/index0_10.txt','r') as f:
             grams = ingredient['grams']
             foo = DB.addIngredient(recipeID,ingredient_uuid,actual,measurement,description,ndb_no,cost,grams)
           except:
-            pass
-            #print "ingredient already exists"
+            logger.warning("ingredient already exists")
       except:
-        print "Unexpected error:", sys.exc_info()[0]
-        print "error... continuing..."
+        logger.error("Unexpected error:", sys.exc_info()[0])
+        
 '''  
 recipe = Recipe(sys.argv[1])
 recipe['url']='asdlfkj'

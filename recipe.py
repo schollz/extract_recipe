@@ -3,9 +3,7 @@ import time
 import random
 import sys
 import json
-from fuzzywuzzy import fuzz
-from fuzzywuzzy import process
-import Levenshtein
+from food_string_matching import *
 
 import string
 keep = string.lowercase + string.digits + string.whitespace
@@ -57,27 +55,6 @@ def getMixedFraction(flt):
 
 class Recipe:
   def __init__(self,source,title='None'):
-    self.foodList = {}
-    with open('long_desc.csv','r') as f:
-      for line in f:
-        foo = line.strip().split('\t')
-        food=foo[0]
-        ndb_no=foo[1]
-        self.foodList[food]=str(ndb_no)
-    self.foodListCommon = {}
-    with open('com_desc.csv','r') as f:
-      for line in f:
-        foo = line.strip().split('\t')
-        food=foo[0]
-        ndb_no=foo[1]
-        self.foodListCommon[food]=str(ndb_no)
-    self.foodListShort = {}
-    with open('shrt_desc.csv','r') as f:
-      for line in f:
-        foo = line.strip().split('\t')
-        food=foo[0]
-        ndb_no=foo[1]
-        self.foodListShort[food]=str(ndb_no)
     contexts = json.load(open('context_settings.json','r'))
     (o_snippet,o_fits,o_array) = get_snippets(contexts,source)
     self.nutrients = {}
@@ -109,7 +86,7 @@ class Recipe:
     self.recipe['total_cost'] = round(self.recipe['total_cost'],2)
     self.recipe['total_cost_per_serving'] = round(self.recipe['total_cost']/self.recipe['serving_size'],2)
     self.recipe['url']=source
-    print json.dumps(self.recipe['ingredients'],sort_keys=True,indent=2)
+    #print json.dumps(self.recipe['ingredients'],sort_keys=True,indent=2)
     #print json.dumps(self.recipe['directions'],sort_keys=True,indent=2)
 #    print(json.dumps(self.recipe,sort_keys=True,indent=2))
 #    with open('collected_recipes.json','a') as f:
@@ -121,6 +98,7 @@ class Recipe:
 
     
   def parseIngredients(self,sentence):
+    print(sentence)
     # Baseline construct
     ingredient = {'actual':sentence.replace('*','').replace('-','').strip(),'measurement':'No measurement match','description':'No food match','grams':0,'cost':0,'ndb_no':'None'}
     # Remove things in parentheses
@@ -184,6 +162,7 @@ class Recipe:
     # Determine which words are ingredients and which are measurements (quantities)
     foodWords = [False]*len(words)
     measurementWords = [False]*len(words)
+    verbWords = [False]*len(words)
     quantityExpression = "none"
     for i in range(len(words)):
       synsets = wordnet.synsets(words[i])
@@ -193,59 +172,53 @@ class Recipe:
       except:
         pass
         
+      lexnames = ""
       for synset in synsets:
-        if "none" in quantityExpression and hasNumbers(words[i]):
-          quantityExpression = words[i] + ' dimensionless'
-        if i>0 and 'quantity' in synset.lexname and hasNumbers(words[i-1]):
-          quantityExpression = words[i-1] + " " + words[i]
-          measurementWords[i] = True
-          measurementWords[i-1] = True
-        if 'food' in synset.lexname or 'plant' in synset.lexname:
-          if not measurementWords[i]:
-            foodWords[i] = True
-        if i>1 and 'quantity' in synset.lexname and hasNumbers(words[i-1]) and hasNumbers(words[i-2]):
-          quantityExpression = str(float(words[i-2]) + float(words[i-1])) + " " + words[i]
-          measurementWords[i] = True
-          measurementWords[i-1] = True
-          measurementWords[i-2] = True
+        lexnames += synset.lexname
+      if "none" in quantityExpression and hasNumbers(words[i]):
+        quantityExpression = words[i] + ' dimensionless'
+      if i>0 and 'quantity' in lexnames and hasNumbers(words[i-1]):
+        quantityExpression = words[i-1] + " " + words[i]
+        measurementWords[i] = True
+        measurementWords[i-1] = True
+      if ('food' in lexnames or 'plant' in lexnames) and 'feeling' not in lexnames:
+        if not measurementWords[i]:
+          foodWords[i] = True
+      if 'verb' in lexnames:
+        verbWords[i] = True
+      if i>1 and 'quantity' in lexnames and hasNumbers(words[i-1]) and hasNumbers(words[i-2]):
+        quantityExpression = str(float(words[i-2]) + float(words[i-1])) + " " + words[i]
+        measurementWords[i] = True
+        measurementWords[i-1] = True
+        measurementWords[i-2] = True
 
-    print(foodWords)
-    print(sentence)
+
     foodString = ""
     for i in range(len(words)):
       if foodWords[i]:
-        if i>0  and not measurementWords[i-1] and words[i-1] not in foodString:
+        if i>0  and not measurementWords[i-1] and words[i-1] not in foodString and verbWords[i-1] and "kosher" not in words[i-1]:
           foodString = foodString + words[i-1] + " "
         foodString = foodString + words[i] + " "
     if len(foodString)==0:
       foodString = sentence
+    '''
+    print(sentence)
+    print(foodWords)
     print(foodString)
-    partialList = {}
-    for key in self.foodList.keys():
-      #partialList[key] = fuzz.token_set_ratio(key,foodString.replace(',',''))
-      partialList[key] = Levenshtein.ratio(foodString.replace(',','').lower(),key.lower())
-    topResults = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:10]   
-    #print(topResults)
-    partialList = {}
-    partialListL = {}
-    for key in self.foodListCommon.keys():
-      partialList[key] = fuzz.token_set_ratio(key,foodString.replace(',',''))
-      partialListL[key] = (Levenshtein.ratio(foodString.replace(',',' ').lower(),key.lower()))
-      #partialList[key] = Levenshtein.ratio(foodString.replace(',','').lower(),key.lower())
-    topResults = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:10]   
-    print(topResults)
-    for result in topResults:
-      print(partialListL[result[0]])
-    partialList = {}
-    partialListL = {}
-    for key in self.foodListShort.keys():
-      partialList[key] = (fuzz.token_set_ratio(key.replace(',',' ').lower(),foodString.replace(',',' ').lower()))
-      partialListL[key] = (Levenshtein.ratio(foodString.replace(',',' ').lower(),key.lower()))
-      #partialList[key] = Levenshtein.ratio(foodString.replace(',','').lower(),key.lower())
-    topResults = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:10]   
-    print(topResults)
-    for result in topResults:
-      print(partialListL[result[0]])
+    stringMatches = []
+    for nameType in self.foodList.keys():
+      partialList = {}
+      for key in self.foodList[nameType].keys():
+        partialList[key] = fuzz.token_set_ratio(key,foodString.replace(',',''))
+      foo = sorted(partialList.iteritems(), key=lambda (k, v): (-v, k))[:5]   
+      for result in foo:
+        leven=Levenshtein.ratio(foodString.replace(',',' ').lower(),result[0].lower())
+        if leven>0.5:
+          stringMatches.append((result[0],self.foodList[nameType][result[0]],result[1],leven))
+    matches = (sorted(stringMatches, key=operator.itemgetter(2, 3), reverse=True))
+    '''
+    matches = getStringMatches(foodString)
+
     
     #choices = self.foodList.keys()
     #print(process.extract(foodString,choices,limit=2))
@@ -264,7 +237,7 @@ class Recipe:
         except:
           foodGrams = 1*ureg.dimensionless
 
-    
+    '''
     # Generate some food search strings using the food words and the words around the food words
     possibleWords = []
     # Fixes
@@ -337,20 +310,31 @@ class Recipe:
             foundMatch = True
             break
 
-      if foundMatch:
-        cur.execute('select price from food_des where ndb_no like "'+ndb_no+'"')
-        row = cur.fetchone()
-        try:
-          price =  float(row[0])
-        except:
-          price = 0
-
+    '''
+    if len(matches)>0:
+      foundMatch = True
+      ndb_no = matches[0][1]
+      com_desc = matches[0][0]
+      shrt_desc = matches[0][0]
+      long_desc = matches[0][0]
+      print(com_desc)
+      cur = con.cursor()    
+      cur.execute('select price from food_des where ndb_no like "'+ndb_no+'"')
+      row = cur.fetchone()
+      try:
+        price =  float(row[0])
+      except:
+        price = 0
+    else:
+      foundMatch = False
+    
     if not foundMatch:
       return ingredient
     
     # Now that you have the food but not a good measurement (cups, etc.) try to match one in the table
     if tryToFindAnotherMeasure:
       with con:
+        cur = con.cursor()    
         cur.execute('select ndb_no,amount,msre_desc,gm_wgt from weight where ndb_no like "'+ndb_no+'"')
         rows = cur.fetchall()
         for row in rows:
@@ -652,7 +636,7 @@ class Recipe:
     lastCategory = "None"
     for i in sorted_nut:
       key = i[0]
-      category = nutrientCategory[key]
+      category = nutrientCategory[key] 
       if lastCategory is not category:
         finalString = finalString + "\n## "  + category + "\n"
         lastCategory = category
@@ -682,7 +666,7 @@ class Recipe:
 
 
 '''
-
+ 
 Useful SQLITE commands
 
 List nutrients
@@ -692,4 +676,4 @@ select nutr_no,nutrdesc from nutr_def order by sr_order;
 FInd top 50 foods for a given nutrient:
 select long_desc,nutr_no,nutr_val from (select long_desc,nutr_no,nutr_val from food_des,nut_data where food_des.ndb_no == nut_data.ndb_no) where nutr_no like '328' order by nutr_val desc limit 50;
 '''
-a = Recipe(sys.argv[1])
+#a = Recipe(sys.argv[1])
