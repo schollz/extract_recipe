@@ -100,7 +100,7 @@ else:
       'cost':cost,\
       'grams':grams\
 '''
-startNum = 4870
+startNum = 9620
 logger = logging.getLogger('build_database.building')
 with open('get_recipes/recipes/index0_10.txt','r') as f:
   for line in f:
