@@ -113,6 +113,7 @@ class Recipe:
     sentence = sentence.replace('kosher','')
     sentence = sentence.replace('free-range','')
     sentence = sentence.replace('and pepper','')
+    sentence = sentence.replace('corn','sweet corn')
     sentence = sentence.replace('-',' ')
     sentence = sentence.replace(' or ',' ')
     sentence = sentence.replace(' and ',' ')
