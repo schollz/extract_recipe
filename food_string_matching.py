@@ -101,9 +101,9 @@ def getStringMatches(foodString):
   matches = (sorted(stringMatches, key=operator.itemgetter(2, 3), reverse=True))
   return matches
   
-'''
+
 t = time.time() 
 print(getStringMatches('habanero or red pepper')[:30])
 print(time.time()-t)
-'''
+
 
