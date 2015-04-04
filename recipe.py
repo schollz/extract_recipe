@@ -110,6 +110,9 @@ class Recipe:
 
     sentence = sentence.lower()
     sentence = sentence.replace('about pound','1 pound')
+    sentence = sentence.replace('kosher','')
+    sentence = sentence.replace('free-range','')
+    sentence = sentence.replace('and pepper','')
     sentence = sentence.replace('-',' ')
     sentence = sentence.replace(' or ',' ')
     sentence = sentence.replace(' and ',' ')
@@ -676,4 +679,4 @@ select nutr_no,nutrdesc from nutr_def order by sr_order;
 FInd top 50 foods for a given nutrient:
 select long_desc,nutr_no,nutr_val from (select long_desc,nutr_no,nutr_val from food_des,nut_data where food_des.ndb_no == nut_data.ndb_no) where nutr_no like '328' order by nutr_val desc limit 50;
 '''
-#a = Recipe(sys.argv[1])
+a = Recipe(sys.argv[1])
