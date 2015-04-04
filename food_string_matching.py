@@ -8,6 +8,13 @@ from itertools import combinations
 from multiprocessing import Process
 import cPickle as pickle
 import os
+import subprocess
+
+
+foo = subprocess.Popen(['grep','-c','processor','/proc/cpuinfo'], stdout=subprocess.PIPE)
+out, err = foo.communicate()
+NUM_PROCESSORS = int(out.decode('utf-8').strip())
+print('Multiprocessing support with ' + str(NUM_PROCESSORS) + ' cores')
 
 foodList = {}
 with open('long_desc.csv','r') as f:
@@ -65,7 +72,7 @@ def getStringMatches(foodString):
   
  
   processes = []
-  totalProcesses = 2
+  totalProcesses = NUM_PROCESSORS
   for i in range(totalProcesses):
     t = Process(target=worker, args=(i,totalProcesses,foodStrings,))
     processes.append(t)
@@ -96,7 +103,7 @@ def getStringMatches(foodString):
   
 '''
 t = time.time() 
-print(getStringMatches('dried chiles')[:30])
+print(getStringMatches('habanero or red pepper')[:30])
 print(time.time()-t)
 '''
 
