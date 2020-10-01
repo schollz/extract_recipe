@@ -31,7 +31,7 @@ It does the same for extracting the ingredient list. Then it scans the direction
 
 ## Installation
 
-### Requirements
+### Requirements for this project
 
 ```
 sudo apt-get install python-nltk
